@@ -201,7 +201,7 @@ impl VaultDb {
                 id: row.get(0)?, album_id: row.get(1)?, media_type: row.get(2)?, file_name: row.get(3)?,
                 byte_size: row.get::<_, i64>(4)? as u64, sha256: row.get(5)?, width: row.get(6)?, height: row.get(7)?,
                 duration_ms: row.get::<_, Option<i64>>(8)?.map(|d| d as u64), imported_at: row.get(9)?, relative_path: row.get(10)?,
-            })?;
+            }))?;
         record.id = new_id.to_string();
         record.album_id = destination_album.to_string();
         record.imported_at = std::time::SystemTime::now().duration_since(std::time::UNIX_EPOCH).unwrap_or_default().as_secs() as i64;
