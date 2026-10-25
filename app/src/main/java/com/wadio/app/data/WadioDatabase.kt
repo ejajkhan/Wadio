@@ -22,10 +22,15 @@ class WadioDatabase private constructor(
     private val vaultRoot: File,
 ) : SQLiteOpenHelper(context, dbFile.absolutePath, null, 1) {
 
+    init {
+        // Let SQLiteOpenHelper enable WAL using Android's supported API.
+        // Executing PRAGMA journal_mode through execSQL can throw because it returns a row.
+        setWriteAheadLoggingEnabled(true)
+    }
+
     override fun onConfigure(db: SQLiteDatabase) {
-        db.execSQL("PRAGMA journal_mode = WAL")
         db.execSQL("PRAGMA synchronous = NORMAL")
-        db.execSQL("PRAGMA foreign_keys = ON")
+        db.setForeignKeyConstraintsEnabled(true)
         db.execSQL("PRAGMA temp_store = MEMORY")
     }
 
