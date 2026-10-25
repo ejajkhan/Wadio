@@ -116,7 +116,7 @@ impl VaultDb {
                 record.relative_path,
             ],
         )?;
-        tx.commit()
+        Ok(tx.commit()?)
     }
 
     pub fn is_record_committed(&self, record: &MediaRecord) -> Result<bool> {

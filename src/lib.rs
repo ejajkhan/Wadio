@@ -19,12 +19,14 @@ use jni::sys::{jboolean, jint, jlong};
 use jni::JNIEnv;
 use parking_lot::Mutex;
 use std::collections::HashMap;
+use std::sync::LazyLock;
 use std::path::PathBuf;
 use std::sync::{Arc, atomic::{AtomicBool, AtomicU64, Ordering}};
 
 static GLOBAL_IMPORTER: parking_lot::Mutex<Option<Arc<ImportCoordinator>>> = parking_lot::Mutex::new(None);
 static GLOBAL_DB: parking_lot::Mutex<Option<Arc<Mutex<VaultDb>>>> = parking_lot::Mutex::new(None);
-static IMPORT_HANDLES: parking_lot::Mutex<HashMap<u64, ImportSession>> = parking_lot::Mutex::new(HashMap::new());
+static IMPORT_HANDLES: LazyLock<parking_lot::Mutex<HashMap<u64, ImportSession>>> =
+    LazyLock::new(|| parking_lot::Mutex::new(HashMap::new()));
 static NEXT_IMPORT_HANDLE: AtomicU64 = AtomicU64::new(1);
 /// Set by Android lifecycle callbacks; consumed by the egui thread before rendering.
 pub static FORCE_LOCK_REQUESTED: AtomicBool = AtomicBool::new(false);

@@ -201,7 +201,7 @@ fn run_gif_animation(path: std::path::PathBuf, tx: Sender<ViewerLoadResult>, can
 
 impl ImageViewerState {
     /// Starts loading asynchronously. Decode errors and decoder panics are reported in the viewer.
-    pub fn load(ctx: &Context, id: String, path: &Path) -> Self {
+    pub fn load(ctx: &Context, record_id: String, path: &Path) -> Self {
         let (result_tx, result_rx) = bounded(1);
         let cancelled = Arc::new(AtomicBool::new(false));
         let worker_cancelled = cancelled.clone();
