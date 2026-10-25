@@ -6,6 +6,7 @@ use std::io::{BufReader, Write};
 use std::path::{Path, PathBuf};
 use std::panic::{catch_unwind, AssertUnwindSafe};
 use uuid::Uuid;
+use zeroize::Zeroize;
 
 pub struct ImportSession {
     pub id: String,
