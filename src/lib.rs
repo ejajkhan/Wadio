@@ -120,9 +120,10 @@ pub fn take_import_summary(last_seen_epoch: u64) -> Option<(u64, u64, u64, u64, 
 pub fn android_main(app: winit::platform::android::activity::AndroidApp) {
     let internal_data_path = app.internal_data_path()
         .unwrap_or_else(|| PathBuf::from("/data/data/com.wadio.app/files"));
-    // Android's app-private internal storage is writable before any storage
-    // permission is requested. MainActivity creates/clears this same file first.
-    let log_path = internal_data_path.join("wadio").join("logreport.txt");
+    let log_dir = app.external_data_path()
+        .unwrap_or_else(|| PathBuf::from("/sdcard/Android/data/com.wadio.app/files"));
+    let _ = std::fs::create_dir_all(&log_dir);
+    let log_path = log_dir.join("wadio-startup.log");
     install_startup_diagnostics(log_path.clone());
     startup_log(format!("log file: {}", log_path.display()));
     startup_log(format!("internal data path: {}", internal_data_path.display()));

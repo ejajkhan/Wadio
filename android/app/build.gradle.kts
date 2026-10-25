@@ -41,7 +41,7 @@ dependencies {
     implementation("androidx.core:core-ktx:1.13.1")
     implementation("androidx.biometric:biometric:1.1.0")
     implementation("androidx.lifecycle:lifecycle-process:2.8.7")
-    implementation("androidx.games:games-activity:3.0.4")
+    implementation("androidx.games:games-activity:3.0.2")
     implementation("androidx.media3:media3-exoplayer:1.4.1")
     implementation("androidx.media3:media3-ui:1.4.1")
 }
