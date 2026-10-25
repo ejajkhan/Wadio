@@ -242,7 +242,7 @@ class MainActivity : NativeActivity() {
 
         biometricPromptActive = true
         try {
-            builder.build().authenticate(null, CancellationSignal(), executor, callback)
+            builder.build().authenticate(CancellationSignal(), executor, callback)
         } catch (e: Exception) {
             biometricPromptActive = false
             Log.e("WadioAuth", "Could not start biometric prompt", e)
