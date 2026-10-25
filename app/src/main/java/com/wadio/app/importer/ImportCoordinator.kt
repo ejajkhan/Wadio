@@ -344,7 +344,10 @@ class ImportCoordinator(
 
     fun isSafeRelativeMediaPath(path: String): Boolean {
         val comps = path.split('/')
-        if (comps.size < 2 || comps[0] != "media") return false
-        return comps.all { it.isNotEmpty() && !it.contains('\u0000') }
+        if (comps.size < 3 || comps[0] != "media") return false
+        return comps.all {
+            it.isNotEmpty() && it != "." && it != ".." &&
+                !it.contains('\u0000') && !it.contains('\\')
+        }
     }
 }
