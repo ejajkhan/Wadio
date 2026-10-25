@@ -12,7 +12,9 @@ import android.provider.OpenableColumns
 import android.util.Log
 import android.view.WindowManager
 import androidx.biometric.BiometricManager
-import androidx.biometric.BiometricPrompt
+import android.hardware.biometrics.BiometricPrompt
+import android.content.DialogInterface
+import android.os.CancellationSignal
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.DefaultLifecycleObserver
 import androidx.lifecycle.LifecycleOwner
@@ -181,42 +183,66 @@ class MainActivity : NativeActivity() {
 
     private fun launchBiometricPromptOnUiThread() {
         if (biometricPromptActive) return
+        if (android.os.Build.VERSION.SDK_INT < android.os.Build.VERSION_CODES.P) {
+            Log.w("WadioAuth", "Platform biometric prompt requires Android 9 or newer")
+            return
+        }
+
         if (android.os.Build.VERSION.SDK_INT >= 30) {
             val manager = BiometricManager.from(this)
-            val authenticators = BiometricManager.Authenticators.BIOMETRIC_STRONG or BiometricManager.Authenticators.DEVICE_CREDENTIAL
+            val authenticators = BiometricManager.Authenticators.BIOMETRIC_STRONG or
+                BiometricManager.Authenticators.DEVICE_CREDENTIAL
             if (manager.canAuthenticate(authenticators) != BiometricManager.BIOMETRIC_SUCCESS) {
                 Log.w("WadioAuth", "No supported biometric or device credential is configured")
                 return
             }
         }
-        val prompt = BiometricPrompt(this, ContextCompat.getMainExecutor(this), object : BiometricPrompt.AuthenticationCallback() {
+
+        val executor = ContextCompat.getMainExecutor(this)
+        val callback = object : BiometricPrompt.AuthenticationCallback() {
             override fun onAuthenticationSucceeded(result: BiometricPrompt.AuthenticationResult) {
                 super.onAuthenticationSucceeded(result)
                 biometricPromptActive = false
                 nativeBiometricSuccess()
             }
+
             override fun onAuthenticationFailed() {
                 super.onAuthenticationFailed()
                 Log.w("WadioAuth", "Biometric authentication attempt failed")
             }
+
             override fun onAuthenticationError(errorCode: Int, errString: CharSequence) {
                 super.onAuthenticationError(errorCode, errString)
                 biometricPromptActive = false
                 Log.i("WadioAuth", "Biometric prompt closed: $errorCode")
             }
-        })
-        val builder = BiometricPrompt.PromptInfo.Builder()
+        }
+
+        val builder = BiometricPrompt.Builder(this)
             .setTitle("Unlock Wadio vault")
             .setSubtitle("Use your fingerprint or device screen lock")
-        if (android.os.Build.VERSION.SDK_INT >= 30) {
-            builder.setAllowedAuthenticators(BiometricManager.Authenticators.BIOMETRIC_STRONG or BiometricManager.Authenticators.DEVICE_CREDENTIAL)
-        } else {
-            @Suppress("DEPRECATION")
-            builder.setDeviceCredentialAllowed(true)
+
+        when {
+            android.os.Build.VERSION.SDK_INT >= 30 -> {
+                builder.setAllowedAuthenticators(
+                    BiometricManager.Authenticators.BIOMETRIC_STRONG or
+                        BiometricManager.Authenticators.DEVICE_CREDENTIAL
+                )
+            }
+            android.os.Build.VERSION.SDK_INT >= 29 -> {
+                @Suppress("DEPRECATION")
+                builder.setDeviceCredentialAllowed(true)
+            }
+            else -> {
+                builder.setNegativeButton("Cancel", executor, DialogInterface.OnClickListener { _, _ ->
+                    biometricPromptActive = false
+                })
+            }
         }
+
         biometricPromptActive = true
         try {
-            prompt.authenticate(builder.build())
+            builder.build().authenticate(null, CancellationSignal(), executor, callback)
         } catch (e: Exception) {
             biometricPromptActive = false
             Log.e("WadioAuth", "Could not start biometric prompt", e)
