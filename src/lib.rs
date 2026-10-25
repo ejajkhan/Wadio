@@ -21,7 +21,37 @@ use parking_lot::Mutex;
 use std::collections::HashMap;
 use std::sync::LazyLock;
 use std::path::PathBuf;
-use std::sync::{Arc, atomic::{AtomicBool, AtomicU64, Ordering}};
+use std::sync::{Arc, OnceLock, atomic::{AtomicBool, AtomicU64, Ordering}};
+
+// Startup diagnostics are stored in app-private internal storage. This works on
+// non-rooted Android devices and does not require Logcat/ADB permissions.
+#[cfg(target_os = "android")]
+static STARTUP_LOG_PATH: OnceLock<PathBuf> = OnceLock::new();
+
+#[cfg(target_os = "android")]
+fn startup_log(message: impl AsRef<str>) {
+    use std::io::Write;
+    use std::time::{SystemTime, UNIX_EPOCH};
+
+    let Some(path) = STARTUP_LOG_PATH.get() else { return; };
+    let timestamp = SystemTime::now().duration_since(UNIX_EPOCH)
+        .map(|d| d.as_secs()).unwrap_or(0);
+    if let Ok(mut file) = std::fs::OpenOptions::new().create(true).append(true).open(path) {
+        let _ = writeln!(file, "[{timestamp}] {}", message.as_ref());
+        let _ = file.flush();
+    }
+}
+
+#[cfg(target_os = "android")]
+fn install_startup_diagnostics(log_path: PathBuf) {
+    let _ = STARTUP_LOG_PATH.set(log_path);
+    startup_log("=== Wadio native startup ===");
+    let previous_hook = std::panic::take_hook();
+    std::panic::set_hook(Box::new(move |info| {
+        startup_log(format!("RUST PANIC: {info}\nBacktrace: {}", std::backtrace::Backtrace::force_capture()));
+        previous_hook(info);
+    }));
+}
 
 static GLOBAL_IMPORTER: parking_lot::Mutex<Option<Arc<ImportCoordinator>>> = parking_lot::Mutex::new(None);
 static GLOBAL_DB: parking_lot::Mutex<Option<Arc<Mutex<VaultDb>>>> = parking_lot::Mutex::new(None);
@@ -81,13 +111,39 @@ pub fn take_import_summary(last_seen_epoch: u64) -> Option<(u64, u64, u64, u64, 
 #[cfg(target_os = "android")]
 #[no_mangle]
 pub fn android_main(app: winit::platform::android::activity::AndroidApp) {
-    let internal_data_path = app.internal_data_path().unwrap_or_else(|| PathBuf::from("/data/data/com.wadio.app/files"));
+    let internal_data_path = app.internal_data_path()
+        .unwrap_or_else(|| PathBuf::from("/data/data/com.wadio.app/files"));
+    install_startup_diagnostics(internal_data_path.join("wadio-startup.log"));
+    startup_log(format!("internal data path: {}", internal_data_path.display()));
+
     let vault_root = internal_data_path.join("vault");
-    std::fs::create_dir_all(&vault_root).expect("Must have access to app internal storage");
+    if let Err(error) = std::fs::create_dir_all(&vault_root) {
+        startup_log(format!("FATAL: cannot create vault directory {}: {error}", vault_root.display()));
+        return;
+    }
+    startup_log("vault directory ready");
+
     let db_path = vault_root.join("wadio_vault.db");
-    let database = Arc::new(Mutex::new(VaultDb::init(db_path).expect("SQLite init must succeed")));
-    let coordinator = Arc::new(ImportCoordinator::new(vault_root));
-    let album_ids: std::collections::HashSet<String> = database.lock().get_albums().unwrap_or_default().into_iter().map(|album| album.id).collect();
+    let database = match VaultDb::init(&db_path) {
+        Ok(db) => Arc::new(Mutex::new(db)),
+        Err(error) => {
+            startup_log(format!("FATAL: SQLite initialization failed at {}: {error}", db_path.display()));
+            return;
+        }
+    };
+    startup_log("SQLite initialized");
+
+    let coordinator = match ImportCoordinator::try_new(vault_root) {
+        Ok(value) => Arc::new(value),
+        Err(error) => {
+            startup_log(format!("FATAL: import directory initialization failed: {error}"));
+            return;
+        }
+    };
+    startup_log("import coordinator initialized");
+
+    let album_ids: std::collections::HashSet<String> = database.lock()
+        .get_albums().unwrap_or_default().into_iter().map(|album| album.id).collect();
     coordinator.sync_album_folders(&album_ids);
     {
         let mut db_guard = database.lock();
@@ -97,21 +153,41 @@ pub fn android_main(app: winit::platform::android::activity::AndroidApp) {
     if let Ok(paths) = database.lock().get_all_relative_paths() {
         coordinator.recover_orphaned_media(&paths);
     }
+    startup_log("vault recovery completed");
+
     *GLOBAL_IMPORTER.lock() = Some(coordinator.clone());
     *GLOBAL_DB.lock() = Some(database.clone());
     let saved_pw = database.lock().get_meta("vault_pw").ok().flatten();
     let auth = AuthEngine::new(saved_pw);
     let audio = AndroidAudioController::new();
+    startup_log("audio controller initialized; creating eframe window");
+
     let options = eframe::NativeOptions {
-        // eframe 0.28 does not expose `NativeOptions::android_app`.
-        // Pass the Android activity through its event-loop builder hook instead.
+        // eframe 0.28 passes the Android activity through winit's event-loop hook.
         event_loop_builder: Some(Box::new(move |event_loop_builder| {
             use winit::platform::android::EventLoopBuilderExtAndroid;
             event_loop_builder.with_android_app(app);
         })),
         ..Default::default()
     };
-    let _ = eframe::run_native("Wadio", options, Box::new(|_cc| Ok(Box::new(WadioApp::new(audio, auth, database, coordinator)))));
+
+    let result = std::panic::catch_unwind(std::panic::AssertUnwindSafe(|| {
+        eframe::run_native(
+            "Wadio",
+            options,
+            Box::new(|_cc| Ok(Box::new(WadioApp::new(audio, auth, database, coordinator)))),
+        )
+    }));
+    match result {
+        Ok(Ok(())) => startup_log("eframe exited normally"),
+        Ok(Err(error)) => startup_log(format!("FATAL: eframe startup/runtime error: {error}")),
+        Err(payload) => {
+            let detail = payload.downcast_ref::<String>().map(String::as_str)
+                .or_else(|| payload.downcast_ref::<&str>().copied())
+                .unwrap_or("non-string panic payload");
+            startup_log(format!("FATAL: panic escaped eframe startup: {detail}"));
+        }
+    }
 }
 
 

@@ -27,13 +27,19 @@ pub struct ImportCoordinator {
 }
 
 impl ImportCoordinator {
-    pub fn new(vault_root: PathBuf) -> Self {
+    /// Fallible constructor used by Android startup so storage errors are reported
+    /// instead of panicking and terminating the process without a useful message.
+    pub fn try_new(vault_root: PathBuf) -> Result<Self, String> {
         let staging_dir = vault_root.join(".staging");
         let media_dir = vault_root.join("media");
         let pending_dir = vault_root.join(".pending");
-        fs::create_dir_all(&staging_dir).expect("create import staging directory");
-        fs::create_dir_all(&media_dir).expect("create media directory");
-        fs::create_dir_all(&pending_dir).expect("create pending import directory");
+
+        fs::create_dir_all(&staging_dir)
+            .map_err(|e| format!("create import staging directory {}: {e}", staging_dir.display()))?;
+        fs::create_dir_all(&media_dir)
+            .map_err(|e| format!("create media directory {}: {e}", media_dir.display()))?;
+        fs::create_dir_all(&pending_dir)
+            .map_err(|e| format!("create pending import directory {}: {e}", pending_dir.display()))?;
 
         let coordinator = Self {
             base_dir: vault_root,
@@ -42,7 +48,13 @@ impl ImportCoordinator {
             pending_dir,
         };
         coordinator.recover_interrupted_imports();
-        coordinator
+        Ok(coordinator)
+    }
+
+    /// Infallible convenience constructor retained for existing host tests/callers.
+    /// Android startup uses `try_new` and handles the error explicitly.
+    pub fn new(vault_root: PathBuf) -> Self {
+        Self::try_new(vault_root).expect("ImportCoordinator::new requires writable vault storage")
     }
 
     fn is_safe_record_id(id: &str) -> bool {
