@@ -7,6 +7,18 @@ import android.os.Bundle
 import android.view.WindowManager
 import androidx.fragment.app.FragmentActivity
 import androidx.activity.compose.setContent
+import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.padding
+import androidx.compose.material3.Button
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Surface
+import androidx.compose.material3.Text
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.unit.dp
 import androidx.activity.enableEdgeToEdge
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.biometric.BiometricManager
@@ -35,6 +47,16 @@ class MainActivity : FragmentActivity() {
         // Protect the Recent-tasks preview even when the vault is closed.
         window.addFlags(WindowManager.LayoutParams.FLAG_SECURE)
 
+        val app = application as WadioApplication
+        val startupFailure = app.startupFailure
+        if (startupFailure != null) {
+            val logText = runCatching {
+                java.io.File(filesDir, "wadio/logreport.txt").readText()
+            }.getOrDefault("Startup log is not available.")
+            setContent { StartupFailureScreen(startupFailure, logText) }
+            return
+        }
+
         setContent {
             WadioTheme {
                 WadioRoot(
@@ -52,6 +74,7 @@ class MainActivity : FragmentActivity() {
 
     override fun onResume() {
         super.onResume()
+        if ((application as WadioApplication).startupFailure != null) return
         controller.onActivityResumed()
         applyWindowSecurityForState()
     }
@@ -125,6 +148,35 @@ class MainActivity : FragmentActivity() {
                 putExtra(InternalVideoActivity.EXTRA_REL_PATH, relPath)
             }
             context.startActivity(intent)
+        }
+    }
+}
+
+
+@androidx.compose.runtime.Composable
+private fun StartupFailureScreen(error: Throwable, logText: String) {
+    val context = LocalContext.current
+    Surface(
+        modifier = Modifier.fillMaxSize(),
+        color = Color(0xFF0B0F14),
+        contentColor = Color.White
+    ) {
+        Column(
+            modifier = Modifier.fillMaxSize().padding(24.dp),
+            verticalArrangement = Arrangement.spacedBy(16.dp)
+        ) {
+            Text("Wadio could not finish starting", style = MaterialTheme.typography.headlineSmall)
+            Text("${error.javaClass.simpleName}: ${error.message ?: "No error message"}", color = Color(0xFFFFB4AB))
+            Text("The app saved startup details. Tap below to share them; no separate crash report is needed.")
+            Text(logText.takeLast(7000), style = MaterialTheme.typography.bodySmall)
+            Button(onClick = {
+                val send = Intent(Intent.ACTION_SEND).apply {
+                    type = "text/plain"
+                    putExtra(Intent.EXTRA_SUBJECT, "Wadio startup diagnostic")
+                    putExtra(Intent.EXTRA_TEXT, "Startup error: ${error.javaClass.name}: ${error.message}\n\n$logText")
+                }
+                context.startActivity(Intent.createChooser(send, "Share Wadio diagnostic"))
+            }) { Text("Share diagnostic details") }
         }
     }
 }

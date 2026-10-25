@@ -147,7 +147,14 @@ class WadioController(private val app: Application) {
     private fun installUncaughtHandler() {
         val default = Thread.getDefaultUncaughtExceptionHandler()
         Thread.setDefaultUncaughtExceptionHandler { t, e ->
-            startupLogger.log("PANIC: ${e.message}", e)
+            startupLogger.log("UNCAUGHT CRASH: ${e.message}", e)
+            // Persist a short marker so the next launch can show/share the log without ADB.
+            runCatching {
+                app.getSharedPreferences("wadio_startup", android.content.Context.MODE_PRIVATE)
+                    .edit()
+                    .putString("last_crash", "${e.javaClass.name}: ${e.message ?: "No message"}\n${Log.getStackTraceString(e)}")
+                    .commit()
+            }
             default?.uncaughtException(t, e)
         }
     }
