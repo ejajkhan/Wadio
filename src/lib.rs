@@ -44,6 +44,13 @@ fn startup_log(message: impl AsRef<str>) {
 
 #[cfg(target_os = "android")]
 fn install_startup_diagnostics(log_path: PathBuf) {
+    // Create the directory before setting up the logger. Otherwise every write
+    // silently fails when the log folder does not already exist.
+    if let Some(parent) = log_path.parent() {
+        if let Err(error) = std::fs::create_dir_all(parent) {
+            eprintln!("Wadio: cannot create startup log directory {}: {error}", parent.display());
+        }
+    }
     let _ = STARTUP_LOG_PATH.set(log_path);
     startup_log("=== Wadio native startup ===");
     let previous_hook = std::panic::take_hook();
@@ -113,15 +120,20 @@ pub fn take_import_summary(last_seen_epoch: u64) -> Option<(u64, u64, u64, u64, 
 pub fn android_main(app: winit::platform::android::activity::AndroidApp) {
     let internal_data_path = app.internal_data_path()
         .unwrap_or_else(|| PathBuf::from("/data/data/com.wadio.app/files"));
-    install_startup_diagnostics(internal_data_path.join("wadio-startup.log"));
+    // Android's app-private internal storage is writable before any storage
+    // permission is requested. MainActivity creates/clears this same file first.
+    let log_path = internal_data_path.join("wadio").join("logreport.txt");
+    install_startup_diagnostics(log_path.clone());
+    startup_log(format!("log file: {}", log_path.display()));
     startup_log(format!("internal data path: {}", internal_data_path.display()));
+    startup_log("stage: android_main entered");
 
     let vault_root = internal_data_path.join("vault");
     if let Err(error) = std::fs::create_dir_all(&vault_root) {
         startup_log(format!("FATAL: cannot create vault directory {}: {error}", vault_root.display()));
         return;
     }
-    startup_log("vault directory ready");
+    startup_log("stage: vault directory ready");
 
     let db_path = vault_root.join("wadio_vault.db");
     let database = match VaultDb::init(&db_path) {
@@ -131,7 +143,7 @@ pub fn android_main(app: winit::platform::android::activity::AndroidApp) {
             return;
         }
     };
-    startup_log("SQLite initialized");
+    startup_log("stage: SQLite initialized");
 
     let coordinator = match ImportCoordinator::try_new(vault_root) {
         Ok(value) => Arc::new(value),
@@ -140,7 +152,7 @@ pub fn android_main(app: winit::platform::android::activity::AndroidApp) {
             return;
         }
     };
-    startup_log("import coordinator initialized");
+    startup_log("stage: import coordinator initialized");
 
     let album_ids: std::collections::HashSet<String> = database.lock()
         .get_albums().unwrap_or_default().into_iter().map(|album| album.id).collect();
@@ -153,14 +165,15 @@ pub fn android_main(app: winit::platform::android::activity::AndroidApp) {
     if let Ok(paths) = database.lock().get_all_relative_paths() {
         coordinator.recover_orphaned_media(&paths);
     }
-    startup_log("vault recovery completed");
+    startup_log("stage: vault recovery completed");
 
     *GLOBAL_IMPORTER.lock() = Some(coordinator.clone());
     *GLOBAL_DB.lock() = Some(database.clone());
     let saved_pw = database.lock().get_meta("vault_pw").ok().flatten();
     let auth = AuthEngine::new(saved_pw);
     let audio = AndroidAudioController::new();
-    startup_log("audio controller initialized; creating eframe window");
+    startup_log("stage: audio controller initialized");
+    startup_log("stage: about to create eframe window");
 
     let options = eframe::NativeOptions {
         // eframe 0.28 passes the Android activity through winit's event-loop hook.
@@ -171,11 +184,17 @@ pub fn android_main(app: winit::platform::android::activity::AndroidApp) {
         ..Default::default()
     };
 
+    startup_log("stage: entering eframe::run_native");
     let result = std::panic::catch_unwind(std::panic::AssertUnwindSafe(|| {
         eframe::run_native(
             "Wadio",
             options,
-            Box::new(|_cc| Ok(Box::new(WadioApp::new(audio, auth, database, coordinator)))),
+            Box::new(|_cc| {
+                startup_log("stage: eframe app-creator callback entered");
+                let app = WadioApp::new(audio, auth, database, coordinator);
+                startup_log("stage: WadioApp::new completed");
+                Ok(Box::new(app))
+            }),
         )
     }));
     match result {
