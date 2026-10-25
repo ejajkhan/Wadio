@@ -23,6 +23,9 @@
             android:label="Wadio"
             android:configChanges="orientation|keyboardHidden|screenSize|screenLayout|smallestScreenSize|density"
             android:exported="true">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="wadio" />
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
