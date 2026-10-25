@@ -6,7 +6,6 @@ use std::io::{BufReader, Write};
 use std::path::{Path, PathBuf};
 use std::panic::{catch_unwind, AssertUnwindSafe};
 use uuid::Uuid;
-use zeroize::Zeroize;
 
 pub struct ImportSession {
     pub id: String,
@@ -490,7 +489,12 @@ impl ImportCoordinator {
         }
         let (media_type, width, height) = match ext.as_str() {
             "jpg" | "jpeg" | "jpe" | "jfif" | "png" | "webp" | "gif" | "bmp" | "dds" | "exr" | "ff" | "hdr" | "ico" | "pnm" | "pbm" | "pgm" | "ppm" | "pam" | "qoi" | "tga" | "tif" | "tiff" | "avif" => {
-                let (w, h) = image::image_dimensions(&session.staging_path)
+                // Staging files deliberately use a `.tmp` extension, so infer the
+                // image format from its contents rather than the staging filename.
+                let reader = image::ImageReader::open(&session.staging_path)
+                    .and_then(|reader| reader.with_guessed_format())
+                    .map_err(|_| "Image file is invalid or unsupported".to_string())?;
+                let (w, h) = reader.into_dimensions()
                     .map_err(|_| "Image file is invalid or unsupported".to_string())?;
                 if w == 0 || h == 0 || w > 30000 || h > 30000 || (w as u64).saturating_mul(h as u64) > 50_000_000 {
                     return Err("Image dimensions exceed Wadio's 50-megapixel import safety limit".into());
