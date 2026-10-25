@@ -180,7 +180,7 @@ class WadioController(private val app: Application) {
         val viewingPhoto = _state.value.tab == ActiveTab.Pictures && _state.value.viewerMediaId != null
         if (lastActivityNanos == 0L || viewingPhoto) lastActivityNanos = System.nanoTime()
         val idleSecs = (System.nanoTime() - lastActivityNanos) / 1_000_000_000.0
-        if (auth.isUnlocked && !viewingPhoto && idleSecs >= 60.0) lockVault()
+        if (auth.unlocked && !viewingPhoto && idleSecs >= 60.0) lockVault()
 
         if (_state.value.tab == ActiveTab.Audio) refreshAudio()
     }
@@ -301,7 +301,7 @@ class WadioController(private val app: Application) {
 
     // ─── navigation ───────────────────────────────────────────────────────
     fun setTab(tab: ActiveTab) {
-        if (tab != ActiveTab.Audio && !auth.isUnlocked) return
+        if (tab != ActiveTab.Audio && !auth.unlocked) return
         _state.update { it.copy(tab = tab) }
         scope.launch {
             if (tab != ActiveTab.Audio) refreshVault()
@@ -442,7 +442,11 @@ class WadioController(private val app: Application) {
         if (dest.isEmpty() || dest == s.selectedAlbum) return@launch
         var errors = 0
         for (id in s.selectedMediaIds) {
-            val triple = db.prepareMediaCopy(id, dest, java.util.UUID.randomUUID().toString()) ?: run { errors++; continue }
+            val triple = db.prepareMediaCopy(id, dest, java.util.UUID.randomUUID().toString())
+            if (triple == null) {
+                errors++
+                continue
+            }
             val (rec, old, new) = triple
             new.parentFile?.mkdirs()
             val ok = runCatching { old.copyTo(new, overwrite = false); true }.getOrDefault(false)
@@ -528,9 +532,18 @@ class WadioController(private val app: Application) {
         for (uri in uris) {
             val (name, size) = queryDisplayNameAndSize(uri) ?: (null to 0L)
             if (name == null) { failed++; continue }
-            val session = importer.startStream(size, name, albumId) ?: run { failed++; continue }
+            val session = importer.startStream(size, name, albumId)
+            if (session == null) {
+                failed++
+                continue
+            }
             try {
-                val stream = resolver.openInputStream(uri) ?: run { failed++; continue }
+                val stream = resolver.openInputStream(uri)
+                if (stream == null) {
+                    failed++
+                    importer.abortStream(session)
+                    continue
+                }
                 stream.use { input ->
                     val buf = ByteArray(64 * 1024)
                     while (true) {

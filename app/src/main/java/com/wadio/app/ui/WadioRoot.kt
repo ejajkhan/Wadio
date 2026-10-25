@@ -32,7 +32,7 @@ fun WadioRoot(
             controller.tick()
             // Keep FLAG_SECURE synced with state.
             val secure = state.showPinPrompt || state.unlocked || state.viewerMediaId != null
-            com.wadio.app.security.ScreenGuard.setSecure(activity, secure)
+            activity?.let { com.wadio.app.security.ScreenGuard.setSecure(it, secure) }
             delay(100)
         }
     }

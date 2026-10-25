@@ -29,11 +29,11 @@ class AuthEngine(private val db: WadioDatabase) {
     private var pressStartTime: Double? = null
 
     init {
-        failedAttempts = db.meta().get("pin_fail_count")?.toIntOrNull() ?: 0
-        lockUntilUnix = db.meta().get("pin_lock_until")?.toLongOrNull() ?: 0L
+        failedAttempts = db.getMeta("pin_fail_count")?.toIntOrNull() ?: 0
+        lockUntilUnix = db.getMeta("pin_lock_until")?.toLongOrNull() ?: 0L
     }
 
-    val hasPin: Boolean get() = db.meta().get("vault_pw") != null
+    val hasPin: Boolean get() = db.getMeta("vault_pw") != null
 
     fun isPressHolder(): Boolean = pressStartTime != null
 
@@ -62,7 +62,7 @@ class AuthEngine(private val db: WadioDatabase) {
     }
 
     fun markUnlockedByHash(hash: String) {
-        if (hash.isNotEmpty()) db.meta().set("vault_pw", hash)
+        if (hash.isNotEmpty()) db.setMeta("vault_pw", hash)
         unlocked = true
         showPasswordModal = false
         pressStartTime = null
@@ -80,7 +80,7 @@ class AuthEngine(private val db: WadioDatabase) {
 
     /** Argon2 verification. Runs on Dispatchers.Default (see controller). */
     fun verify(password: ByteArray): Boolean {
-        val savedHash = db.meta().get("vault_pw") ?: return false
+        val savedHash = db.getMeta("vault_pw") ?: return false
         val ok = verifyArgon2(password, savedHash)
         if (ok) {
             unlocked = true
@@ -96,15 +96,15 @@ class AuthEngine(private val db: WadioDatabase) {
         val delay = (2.0.pow(min(failedAttempts, 6)).toLong()).coerceAtMost(60L)
         val nowUnix = System.currentTimeMillis() / 1000L
         lockUntilUnix = nowUnix + delay
-        db.meta().set("pin_fail_count", failedAttempts.toString())
-        db.meta().set("pin_lock_until", lockUntilUnix.toString())
+        db.setMeta("pin_fail_count", failedAttempts.toString())
+        db.setMeta("pin_lock_until", lockUntilUnix.toString())
     }
 
     fun resetAttempts() {
         failedAttempts = 0
         lockUntilUnix = 0L
-        db.meta().set("pin_fail_count", "0")
-        db.meta().set("pin_lock_until", "0")
+        db.setMeta("pin_fail_count", "0")
+        db.setMeta("pin_lock_until", "0")
     }
 
     companion object {

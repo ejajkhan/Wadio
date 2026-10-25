@@ -99,34 +99,22 @@ class MainActivity : ComponentActivity() {
             }
         }
 
-        val builder = BiometricPrompt.Builder(this)
+        val promptBuilder = BiometricPrompt.PromptInfo.Builder()
             .setTitle("Unlock Wadio vault")
             .setSubtitle("Use your fingerprint or device screen lock")
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.R) {
-            builder.setAllowedAuthenticators(allowed)
+            promptBuilder.setAllowedAuthenticators(allowed)
         } else {
             @Suppress("DEPRECATION")
-            builder.setDeviceCredentialAllowed(true)
+            promptBuilder.setDeviceCredentialAllowed(true)
         }
 
         controller.biometricPromptActive = true
         try {
-            builder.build().authenticate(
-                BiometricPrompt.CryptoObject(android.security.identity.IdentityCredential::class.java
-                    .let { null } ?: throw IllegalStateException()),
-                // We intentionally pass an empty CryptoObject by using the
-                // simpler overload for compatibility.
-                java.util.concurrent.Executor { r -> executor.execute(r) },
-                callback,
-            )
+            val prompt = BiometricPrompt(this, executor, callback)
+            prompt.authenticate(promptBuilder.build())
         } catch (t: Throwable) {
-            // Fallback to the no-crypto path.
-            try {
-                @Suppress("DEPRECATION")
-                builder.build().authenticate(callback)
-            } catch (e: Throwable) {
-                controller.biometricPromptActive = false
-            }
+            controller.biometricPromptActive = false
         }
     }
 
