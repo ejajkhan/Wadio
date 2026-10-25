@@ -36,7 +36,8 @@ class WadioApplication : Application() {
 
         ProcessLifecycleOwner.get().lifecycle.addObserver(
             LifecycleEventObserver { _, event ->
-                if (event == Lifecycle.Event.ON_STOP && !controller.biometricPromptActive) {
+                if (event == Lifecycle.Event.ON_STOP && !controller.biometricPromptActive &&
+                    !controller.externalPickerActive && !controller.importInProgress) {
                     controller.requestLock()
                 }
             }

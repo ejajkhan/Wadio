@@ -42,7 +42,7 @@ class AuthEngine(private val db: WadioDatabase) {
         val start = pressStartTime
         if (isPressed && start == null) {
             pressStartTime = now
-        } else if (isPressed && start != null && now - start >= 3.0) {
+        } else if (isPressed && start != null && now - start >= 1.0) {
             showPasswordModal = true
             pressStartTime = null
         } else if (!isPressed) {

@@ -25,6 +25,7 @@ import androidx.biometric.BiometricManager
 import androidx.biometric.BiometricPrompt
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.lifecycleScope
+import com.wadio.app.ActiveTab
 import com.wadio.app.security.ScreenGuard
 import com.wadio.app.ui.WadioRoot
 import com.wadio.app.ui.theme.WadioTheme
@@ -38,6 +39,8 @@ class MainActivity : FragmentActivity() {
     private var pickerLauncher = registerForActivityResult(
         ActivityResultContracts.OpenMultipleDocuments()
     ) { uris ->
+        controller.externalPickerActive = false
+        controller.noteUserActivity()
         if (uris.isNotEmpty()) controller.startImportFromUris(uris)
     }
 
@@ -61,7 +64,7 @@ class MainActivity : FragmentActivity() {
             WadioTheme {
                 WadioRoot(
                     controller = controller,
-                    onPickFiles = { pickerLauncher.launch(arrayOf("image/*", "video/*")) },
+                    onPickFiles = { launchPicker() },
                     onBiometricRequest = { launchBiometricPrompt() },
                 )
             }
@@ -69,6 +72,22 @@ class MainActivity : FragmentActivity() {
 
         lifecycleScope.launch {
             controller.biometricRequest.collect { launchBiometricPrompt() }
+        }
+    }
+
+
+    private fun launchPicker() {
+        controller.externalPickerActive = true
+        try {
+            val mimeTypes = when (controller.state.value.tab) {
+                ActiveTab.Pictures -> arrayOf("image/*")
+                ActiveTab.Videos -> arrayOf("video/*")
+                ActiveTab.Audio -> arrayOf("image/*", "video/*")
+            }
+            pickerLauncher.launch(mimeTypes)
+        } catch (t: Throwable) {
+            controller.externalPickerActive = false
+            throw t
         }
     }
 

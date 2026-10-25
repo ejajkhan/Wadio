@@ -43,10 +43,10 @@ fun HomeScreen(controller: WadioController, onPickFiles: () -> Unit) {
             modifier = Modifier.pointerInput(Unit) {
                 detectTapGestures(
                     onPress = {
-                        val released = withTimeoutOrNull(3000L) { tryAwaitRelease() }
+                        val released = withTimeoutOrNull(1000L) { tryAwaitRelease() }
                         if (released == null) {
                             haptics.performHapticFeedback(HapticFeedbackType.LongPress)
-                            controller.updateStealthTouch(true, System.nanoTime() / 1e9)
+                            controller.openAuthPrompt()
                         }
                     }
                 )
@@ -76,7 +76,7 @@ fun HomeScreen(controller: WadioController, onPickFiles: () -> Unit) {
 
         Spacer(Modifier.height(24.dp))
         Text(
-            "Press and hold the title for 3 seconds to open the vault.",
+            "Press and hold the title for 1 second to open the vault.",
             style = MaterialTheme.typography.bodySmall,
             color = MaterialTheme.colorScheme.onSurfaceVariant,
         )

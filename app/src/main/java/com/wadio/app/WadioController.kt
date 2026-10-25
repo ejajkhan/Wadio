@@ -40,6 +40,8 @@ data class WadioUiState(
     val unlocked: Boolean = false,
     val hasPin: Boolean = false,
     val showPinPrompt: Boolean = false,
+    val showMediaChooser: Boolean = false,
+    val showAlbumList: Boolean = true,
     val pinError: String? = null,
     val authPending: Boolean = false,
     val pinLockedUntilUnix: Long = 0L,
@@ -89,6 +91,8 @@ class WadioController(private val app: Application) {
     lateinit var audio: AudioVolumeController; private set
 
     @Volatile var biometricPromptActive: Boolean = false
+    @Volatile var externalPickerActive: Boolean = false
+    @Volatile var importInProgress: Boolean = false
 
     private val _state = MutableStateFlow(WadioUiState())
     val state: StateFlow<WadioUiState> = _state.asStateFlow()
@@ -177,7 +181,7 @@ class WadioController(private val app: Application) {
         if (_biometricUnlockRequest.compareAndSet(true, false)) {
             if (auth.unlockWithBiometric()) {
                 lastActivityNanos = System.nanoTime()
-                _state.update { it.copy(unlocked = true, showPinPrompt = false, pinError = null) }
+                _state.update { it.copy(unlocked = true, showPinPrompt = false, showMediaChooser = true, showAlbumList = true, pinError = null) }
                 refreshVault()
             } else {
                 _state.update { it.copy(pinError = "Set up a PIN before using biometric unlock") }
@@ -187,7 +191,7 @@ class WadioController(private val app: Application) {
         val viewingPhoto = _state.value.tab == ActiveTab.Pictures && _state.value.viewerMediaId != null
         if (lastActivityNanos == 0L || viewingPhoto) lastActivityNanos = System.nanoTime()
         val idleSecs = (System.nanoTime() - lastActivityNanos) / 1_000_000_000.0
-        if (auth.unlocked && !viewingPhoto && idleSecs >= 60.0) lockVault()
+        if (auth.unlocked && !viewingPhoto && !externalPickerActive && !importInProgress && idleSecs >= 60.0) lockVault()
 
         if (_state.value.tab == ActiveTab.Audio) refreshAudio()
     }
@@ -199,7 +203,8 @@ class WadioController(private val app: Application) {
             _state.update {
                 it.copy(
                     tab = ActiveTab.Audio, unlocked = false,
-                    showPinPrompt = false, pinError = null, passInput = "", confirmPassInput = "",
+                    showPinPrompt = false, showMediaChooser = false, showAlbumList = true,
+                    pinError = null, passInput = "", confirmPassInput = "",
                     viewerMediaId = null, selectionMode = false, selectedMediaIds = emptySet(),
                     confirmDeleteSelected = false, selectionDestination = "",
                     cachedMedia = emptyList(), albumCovers = emptyMap(),
@@ -213,6 +218,24 @@ class WadioController(private val app: Application) {
 
     fun onAuthPromptVisible(visible: Boolean) {
         _state.update { it.copy(showPinPrompt = visible) }
+    }
+
+    fun openAuthPrompt() {
+        if (!auth.unlocked) _state.update {
+            it.copy(showPinPrompt = true, pinError = null, passInput = "", confirmPassInput = "")
+        }
+    }
+
+    fun showMediaChooser() {
+        if (!auth.unlocked) return
+        _state.update { it.copy(showMediaChooser = true, showAlbumList = true, tab = ActiveTab.Audio) }
+        noteUserActivity()
+    }
+
+    fun showAlbumList() {
+        _state.update { it.copy(showMediaChooser = false, showAlbumList = true, selectionMode = false, selectedMediaIds = emptySet()) }
+        noteUserActivity()
+        refreshVault()
     }
 
     fun updateStealthTouch(isPressed: Boolean, now: Double) {
@@ -267,6 +290,7 @@ class WadioController(private val app: Application) {
                     _state.update {
                         it.copy(
                             unlocked = true, hasPin = true, showPinPrompt = false,
+                            showMediaChooser = true, showAlbumList = true,
                             authPending = false, pinError = null, passInput = "", confirmPassInput = "",
                         )
                     }
@@ -287,7 +311,7 @@ class WadioController(private val app: Application) {
             withContext(Dispatchers.Main) {
                 if (ok) {
                     _state.update {
-                        it.copy(unlocked = true, showPinPrompt = false, authPending = false,
+                        it.copy(unlocked = true, showPinPrompt = false, showMediaChooser = true, showAlbumList = true, authPending = false,
                             pinError = null, passInput = "", pinLockedUntilUnix = 0L)
                     }
                     refreshVault()
@@ -309,7 +333,11 @@ class WadioController(private val app: Application) {
     // ─── navigation ───────────────────────────────────────────────────────
     fun setTab(tab: ActiveTab) {
         if (tab != ActiveTab.Audio && !auth.unlocked) return
-        _state.update { it.copy(tab = tab) }
+        _state.update { it.copy(
+            tab = tab,
+            showMediaChooser = false,
+            showAlbumList = tab != ActiveTab.Audio,
+        ) }
         scope.launch {
             if (tab != ActiveTab.Audio) refreshVault()
         }
@@ -318,7 +346,8 @@ class WadioController(private val app: Application) {
 
     fun selectAlbum(id: String) {
         _state.update {
-            it.copy(selectedAlbum = id, selectionMode = false, selectedMediaIds = emptySet())
+            it.copy(selectedAlbum = id, showMediaChooser = false, showAlbumList = false,
+                selectionMode = false, selectedMediaIds = emptySet())
         }
         refreshVault()
         noteUserActivity()
@@ -334,8 +363,8 @@ class WadioController(private val app: Application) {
         val id = java.util.UUID.randomUUID().toString()
         if (db.createAlbum(id, name)) {
             _state.update {
-                it.copy(selectedAlbum = id, showNewAlbumModal = false,
-                    newAlbumInput = "", albumError = null, cachedAlbums = db.getAlbums())
+                it.copy(selectedAlbum = id, showAlbumList = true, showMediaChooser = false,
+                    showNewAlbumModal = false, newAlbumInput = "", albumError = null, cachedAlbums = db.getAlbums())
             }
             refreshVault()
         } else {
@@ -533,6 +562,9 @@ class WadioController(private val app: Application) {
 
     // ─── import ───────────────────────────────────────────────────────────
     fun startImportFromUris(uris: List<android.net.Uri>) = scope.launch(Dispatchers.IO) {
+        importInProgress = true
+        noteUserActivity()
+        try {
         val albumId = _state.value.selectedAlbum
         val resolver = app.contentResolver
         var added = 0; var dup = 0; var failed = 0; var pending = 0
@@ -594,6 +626,10 @@ class WadioController(private val app: Application) {
         // Auto-clear after 4 seconds, matching src/app.rs.
         kotlinx.coroutines.delay(4_000)
         withContext(Dispatchers.Main) { _state.update { it.copy(importNotice = null) } }
+        } finally {
+            importInProgress = false
+            noteUserActivity()
+        }
     }
 
     private fun queryDisplayNameAndSize(uri: android.net.Uri): Pair<String?, Long>? {
