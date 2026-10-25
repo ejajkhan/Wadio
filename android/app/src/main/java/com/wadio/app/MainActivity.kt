@@ -1,5 +1,6 @@
 package com.wadio.app
 
+import android.app.NativeActivity
 import android.content.Context
 import android.graphics.Bitmap
 import android.graphics.ImageDecoder
@@ -16,7 +17,6 @@ import androidx.core.content.ContextCompat
 import androidx.lifecycle.DefaultLifecycleObserver
 import androidx.lifecycle.LifecycleOwner
 import androidx.lifecycle.ProcessLifecycleOwner
-import com.google.androidgamesdk.GameActivity
 import java.io.File
 import java.io.FileInputStream
 import java.io.FileOutputStream
@@ -28,10 +28,10 @@ import java.util.Locale
 import java.util.UUID
 import kotlin.math.sqrt
 
-class MainActivity : GameActivity() {
+class MainActivity : NativeActivity() {
 
-    // Written before super.onCreate(), because GameActivity may enter native code
-    // from super.onCreate(). This is app-private storage and needs no permission.
+    // Written before super.onCreate(), because NativeActivity loads the native
+    // library and enters android_main during activity initialization.
     private val startupLogFile: File by lazy { File(File(filesDir, "wadio"), "logreport.txt") }
 
     @Synchronized
@@ -67,8 +67,8 @@ class MainActivity : GameActivity() {
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
-        // Start a fresh report before calling GameActivity: super.onCreate() may
-        // load the native library and begin the Rust startup sequence.
+        // Start a fresh report before calling NativeActivity: super.onCreate()
+        // may load the native library and begin the Rust startup sequence.
         try {
             startupLogFile.parentFile?.mkdirs()
             startupLogFile.writeText("")
@@ -77,7 +77,7 @@ class MainActivity : GameActivity() {
         }
         startupLog("MainActivity.onCreate entered")
         try {
-            // Native GameActivity can start the Rust render loop inside super.onCreate().
+            // NativeActivity can start the Rust render loop inside super.onCreate().
             // Initialize this before entering native code so its first JNI volume poll is safe.
             audioManager = getSystemService(Context.AUDIO_SERVICE) as AudioManager
             startupLog("AudioManager initialized")
@@ -88,9 +88,9 @@ class MainActivity : GameActivity() {
                     if (!file.delete()) Log.w("WadioImport", "Could not remove stale HEIF cache file")
                 }
             }
-            startupLog("Pre-native setup complete; calling GameActivity.super.onCreate")
+            startupLog("Pre-native setup complete; calling NativeActivity.super.onCreate")
             super.onCreate(savedInstanceState)
-            startupLog("GameActivity.super.onCreate returned")
+            startupLog("NativeActivity.super.onCreate returned")
             // Process lifecycle only reports backgrounding when all Wadio activities are stopped;
             // opening the in-app video activity therefore does not prematurely lock the vault.
             ProcessLifecycleOwner.get().lifecycle.addObserver(processObserver)

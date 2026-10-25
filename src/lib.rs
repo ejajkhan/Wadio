@@ -118,6 +118,13 @@ pub fn take_import_summary(last_seen_epoch: u64) -> Option<(u64, u64, u64, u64, 
 #[cfg(target_os = "android")]
 #[no_mangle]
 pub fn android_main(app: winit::platform::android::activity::AndroidApp) {
+    // Initialize Logcat logging before touching paths, SQLite, or eframe. This
+    // provides diagnostics even if app-private startup-log creation fails.
+    android_logger::init_once(
+        android_logger::Config::default().with_max_level(log::LevelFilter::Info),
+    );
+    log::info!("Wadio android_main entered");
+
     let internal_data_path = app.internal_data_path()
         .unwrap_or_else(|| PathBuf::from("/data/data/com.wadio.app/files"));
     let log_dir = app.external_data_path()
@@ -128,6 +135,7 @@ pub fn android_main(app: winit::platform::android::activity::AndroidApp) {
     startup_log(format!("log file: {}", log_path.display()));
     startup_log(format!("internal data path: {}", internal_data_path.display()));
     startup_log("stage: android_main entered");
+    log::info!("Wadio startup log path: {}", log_path.display());
 
     let vault_root = internal_data_path.join("vault");
     if let Err(error) = std::fs::create_dir_all(&vault_root) {
