@@ -80,7 +80,7 @@ pub fn take_import_summary(last_seen_epoch: u64) -> Option<(u64, u64, u64, u64, 
 
 #[cfg(target_os = "android")]
 #[no_mangle]
-pub fn android_main(app: eframe::android_activity::AndroidApp) {
+pub fn android_main(app: winit::platform::android::activity::AndroidApp) {
     let internal_data_path = app.internal_data_path().unwrap_or_else(|| PathBuf::from("/data/data/com.wadio.app/files"));
     let vault_root = internal_data_path.join("vault");
     std::fs::create_dir_all(&vault_root).expect("Must have access to app internal storage");
@@ -103,7 +103,7 @@ pub fn android_main(app: eframe::android_activity::AndroidApp) {
     let auth = AuthEngine::new(saved_pw);
     let audio = AndroidAudioController::new();
     let options = eframe::NativeOptions { android_app: Some(app), ..Default::default() };
-    let _ = eframe::run_native("Wadio", options, Box::new(|_cc| Box::new(WadioApp::new(audio, auth, database, coordinator))));
+    let _ = eframe::run_native("Wadio", options, Box::new(|_cc| Ok(Box::new(WadioApp::new(audio, auth, database, coordinator)))));
 }
 
 
