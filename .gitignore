@@ -1,5 +1,11 @@
-/target/
-/android/app/src/main/jniLibs/
-/android/.gradle/
-/android/app/build/
-**/*.keystore
+.gradle/
+/local.properties
+/.idea/
+*.iml
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+app/build/
+*.keystore

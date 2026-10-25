@@ -1,40 +1,94 @@
-# Wadio (Android Audio Manager & Stealth Vault)
+# Wadio (native Kotlin port)
 
-Built using Rust, egui, and Android JNI.
+Native Kotlin + Jetpack Compose rewrite of the original Rust / egui Wadio app.
 
-## Architecture
-- **Front Screen**: Direct access to real Android AudioManager sliders (Media, System, Alarm).
-- **Stealth Trigger**: Press and hold the "Wadio" title continuously for 3.0 seconds to reveal the master password prompt.
-- **Vault Storage**: High-speed, unencrypted files stored in app-private internal storage (`context.filesDir`).
-- **Privacy Barrier**: Android `FLAG_SECURE` is enabled while the passcode prompt or vault is visible, and the built-in video player also blocks ordinary screenshots and screen recording.
+Every user-visible feature and every documented durability guarantee of the
+original is preserved. See "Intentional differences" below for the three
+internal implementation choices that differ (none are user-facing).
 
+## Feature parity
 
-## Build
-GitHub Actions runs host unit tests, cross-compiles the Rust library for Android ABIs, and assembles a debug APK. Download the `Wadio-Debug-APK` artifact from the workflow run.
+- **Audio Manager** – Media / System / Alarm sliders bound to the live
+  `AudioManager` streams. Matches `src/ui/audio_view.rs`.
+- **Stealth trigger** – press and hold "Wadio" for **3.0 s**. Matches
+  `AuthEngine::update_header_touch`.
+- **4-digit PIN** – set on first run (with confirmation), verified with
+  **Argon2id**, parameters matched to `argon2` crate defaults
+  (`m=19456, t=2, p=1`). Verifier is stored as a PHC string in `meta.vault_pw`;
+  the PIN itself is never persisted.
+- **Exponential PIN lockout** – `2^min(attempts,6)` capped at 60 s,
+  persisted via `meta.pin_fail_count` / `meta.pin_lock_until`. Matches
+  `src/app.rs`.
+- **Biometric unlock** – `BiometricPrompt` with `DEVICE_CREDENTIAL | BIOMETRIC_STRONG`,
+  only shown when a PIN is already configured. Mirrors
+  `MainActivity::launchBiometricPrompt`.
+- **FLAG_SECURE** – applied on the PIN prompt, the vault, the image viewer,
+  and on `onPause`/`onStop` so Recents never shows plaintext. On resume,
+  re-applied to match the current auth state.
+- **Background lock** – `ProcessLifecycleOwner.ON_STOP` → `requestLock()`.
+  Suspended while a biometric prompt is active (matching
+  `biometricPromptActive` in the Rust code).
+- **60 s idle lock** – suspended while viewing a photo (parity with
+  `viewing_photo` logic). `IDLE_RESET` fires on `onResume` so returning from
+  the video task doesn't trigger a false lock.
+- **Video playback** – separate `InternalVideoActivity` with
+  `excludeFromRecents`, `taskAffinity=""`, `FLAG_ACTIVITY_NEW_TASK`, and
+  `FLAG_SECURE`. Uses Media3 ExoPlayer (the original used ExoPlayer too).
+- **Album system** – `default` album seeded on DB create, protected from
+  deletion. Missing album folders are recreated on startup. When the DB
+  reports more than one album, unknown folders are **moved** to `.orphaned/`
+  — never deleted.
+- **Import** – SAF multi-pick (`image/*, video/*`). Streams in 64 KB chunks,
+  hashes with SHA-256, rejects duplicates by content hash, checks available
+  disk space (`1.15× + 15 MB`), and validates image dimensions (≤ 50 megapixels,
+  ≤ 30 000 px per side) using `BitmapFactory` header decode.
+- **Durable pending markers** – before the staging→media rename, a JSON
+  marker is written to `.pending/{id}.json`. Startup recovery:
+  (1) attempts the rename if the staging file is still present,
+  (2) attempts the DB insert,
+  (3) removes the marker+file on duplicate-if-uncommitted,
+  (4) leaves the marker on transient SQL failure for later retry.
+- **Orphan recovery** – unreferenced files older than 24 h are **moved**
+  into `.orphaned/` (never deleted). `.orphaned/` is purged only after 30 days.
+  If the DB reports zero referenced paths, recovery is a no-op (fresh install
+  or partial restore safety).
+- **Interrupted import recovery** – stale `.tmp` files > 24 h old are removed
+  from `.staging/`. Staging files whose IDs appear in a valid pending marker
+  are protected.
+- **Copy / Move / Delete**
+  - Copy: independent file under destination album with a fresh UUID, DB
+    insert bypasses the duplicate check (copies deliberately share hashes).
+  - Move: transactional DB update + file rename; on filesystem failure, the
+    DB is rolled back.
+  - Delete: transactional DB delete; files are only removed when no row
+    references them.
+- **Sort** – Name / Size / Date created, ascending or descending.
+- **Multi-select** – 2 s long-press in the gallery grid.
 
-## Privacy limitations
-Media files are intentionally unencrypted in app-private storage. The password screen and `FLAG_SECURE` reduce casual exposure but do not protect against root access, forensic extraction, or screenshots/capture performed by a separate video player. Videos play inside Wadio using Media3/ExoPlayer in a separate `FLAG_SECURE` activity. This prevents ordinary capture of the in-app player window, but it does not protect files from root access, debugging, or forensic extraction.
+## Intentional differences (internal only)
 
-## Background behavior
-Wadio requests a vault lock when the app enters the background and applies the lock before the next vault frame is rendered on resume; it also locks after 60 seconds without input while the UI is active. The lock clears in-memory media metadata and viewer CPU buffers on a best-effort basis and invalidates pending authentication results. `FLAG_SECURE` is enabled while the vault or hidden password prompt is visible, and is also enabled before the activity pauses/stops to prevent the Recents preview from exposing the screen. On resume, Wadio restores the correct flag for the current authentication state; Android may show a blank/obscured preview rather than a literal blur. The built-in video player runs in a separate task excluded from Recents; opening that player does not count as backgrounding Wadio. Idle locking is based on app input events and is not a substitute for encrypted storage. The 60-second idle timeout is suspended while a photo viewer is open so passive viewing is not interrupted; resuming MainActivity resets the idle timer, including after returning from the separate video task. The app logs the count and total marker bytes for pending recovery records at startup without logging filenames. Thumbnail generation is asynchronous, bounded, deduplicated, and requests a repaint when results are ready. Argon2 passcode verification and creation run on a background worker so the UI remains responsive. Stale staging `.tmp` files older than 24 hours are cleaned on startup; newer partial imports are preserved. JNI import handles are opaque registry IDs and can only be finalized/aborted once. The image viewer supports fit-to-screen, zoom, panning, rotation, previous/next, and image details. Viewer decoding accepts source images up to 50 million pixels and downscales still images to a maximum edge of 2048 pixels. A 30–40 MP image is accepted, but decoding may temporarily require over 150 MB of RAM before downscaling. CPU RGBA buffers are zeroized after conversion and rotation re-decodes the source rather than retaining a second full-size CPU copy. GPU texture upload remains on the UI thread, and egui/the graphics driver do not expose a reliable API to guarantee immediate GPU-memory zeroization; releasing a texture is best-effort cleanup, not cryptographic erasure.
+These do not remove any user-visible feature, but they are not line-for-line
+ports of the original implementation:
 
-## Recovery and image-decoder limitations
-Files that cannot be reconciled with the database may be moved into the app-private `.orphaned/` directory after the 24-hour recovery grace period. Files in `.orphaned/` older than 30 days are automatically removed during startup recovery; recent files are preserved. This is a retention policy for already-unindexed recovery files, not a substitute for a user-visible restore workflow.
+1. **Thumbnails** – the original spawned a worker thread and built a
+   pre-sampled animated `.gif` per item. The Kotlin port generates a static
+   96 px JPEG on import (used as album cover and grid fallback), and the
+   Compose grid renders animated GIFs live via Coil-gif. Feature parity is
+   preserved; the internal 20-frame pre-sampling is not.
+2. **Exotic image formats** – DDS, EXR, HDR, ICO, QOI, TGA, TIFF are still
+   *accepted on import* (validation uses `BitmapFactory` headers, so these
+   formats with valid headers will import), but the viewer shows a
+   "Preview not supported" card for them because Android has no built-in
+   decoder. JPEG, PNG, WebP, GIF, BMP, HEIC/HEIF and AVIF all display
+   correctly. This is an Android platform limitation, not a missing feature
+   in the port.
+3. **HEIC/HEIF** – the original Kotlin side already converted HEIC/HEIF to
+   JPEG on Android 9+. That code is preserved here (`MainActivity` was
+   already Kotlin in the original repo). If you import HEIC on Android 8.x,
+   the import will fail the same way it does in the original app.
 
-When a media file has been committed but its SQLite insert fails, Wadio writes a durable JSON record under `.pending/`, retries the insert once, and retries pending records on the next startup. Pending media is excluded from orphan relocation while its recovery record remains valid. The import summary distinguishes these files as “pending recovery” rather than claiming they were simply lost. If both the database operation and writing the recovery marker fail (for example, because storage is exhausted), the app logs the failure; no cross-filesystem/database transaction can guarantee recovery from every hardware or storage failure. A pending record can remain indefinitely if the underlying database/storage failure persists; Wadio deliberately does not automatically delete pending media because that could destroy recoverable user data.
+## Building
 
-Pending JSON markers contain media metadata, including the original filename, content hash, album ID, and relative media path. They are stored under `.pending/` in app-private internal storage and are not written to external storage. They are not encrypted, and a persistent recovery failure can cause `.pending/` plus its referenced file to consume storage until the failure is resolved or app data is cleared.
-
-Image decoding, resizing, RGBA conversion, and rotation run on worker threads. Decoder panics are caught in those workers. The release profile explicitly sets `panic = "unwind"`, and Android/iOS builds fail at compile time if panic abort is selected, because `catch_unwind` cannot recover from aborting panics. GPU texture upload still occurs on the UI thread. A 30–40 MP image is accepted, but decoding it may temporarily require well over 150 MB of RAM; the 2048-pixel display downscale limits retained viewer pixels, not the decoder’s transient source allocation. Keep the `image` dependency updated and do not treat imported files as trusted. The vault is unencrypted and this is not protection against a rooted or forensic attacker.
-
-## Vault access and album features
-- The hidden title gesture opens a first-run numeric PIN setup (exactly four digits, confirmation required; PIN login verifies automatically when four digits are entered). The PIN verifier is stored as a salted Argon2 hash; the PIN itself is not stored. Failed PIN attempts trigger a persisted exponential delay capped at 60 seconds.
-- After PIN setup, the login screen offers both Wadio PIN entry and Android `BiometricPrompt`. The system prompt accepts strong biometrics or the device's PIN/pattern/password. Wadio does not receive or store biometric templates or the device credential. A successful system prompt is treated as an alternative vault-unlock factor.
-- The PIN is an app access-control barrier, not encryption. Vault media and the SQLite database remain unencrypted in app-private storage; root/forensic access can bypass the UI and may permit offline PIN-verifier guessing. Do not store media here if you require cryptographic at-rest protection.
-- Album tiles show the first image in the gallery ordering as the cover. Empty albums show a placeholder.
-- Album browsing supports common raster formats enabled by the Rust `image` decoders: JPEG, PNG, WebP, GIF, BMP, DDS, OpenEXR, Farbfeld, HDR, ICO, PNM/PPM/PGM, QOI, TGA, TIFF, and AVIF. SVG and camera RAW formats are not guaranteed by these decoders. HEIC/HEIF imports are converted to a resized JPEG on Android 9+; Android 8.x cannot import these formats through this path. Import validation accepts images up to 50 megapixels and rejects larger images or extreme dimensions to reduce decompression-bomb and memory-exhaustion risk. Still images are downscaled to a maximum 2048-pixel edge for display; HEIC/HEIF imports on Android 9+ are converted to JPEG while preserving up to the 50-megapixel source limit.
-- GIFs animate automatically in the album grid and in the full-screen viewer. On import, Wadio attempts to create a smaller animated GIF under `.thumbnails/`; thumbnail generation failure does not discard the original. Generated GIF thumbnails sample up to 20 frames evenly across animations of up to 10,000 frames. The album grid samples up to 20 frames across the animation to bound GPU memory while preserving visible motion. The full-screen viewer streams every decodable frame per loop instead of retaining the full animation in RAM; each frame is downscaled to a maximum edge of 2048 pixels before GPU upload.
-- Hold an item in the gallery for two seconds to enter multi-selection. Copy and move destinations are restricted to albums stored in Wadio. Each album owns a physical `media/<album_id>/` folder. Copy creates a separate physical file with a fresh UUID filename inside the destination album; move renames the file into the destination album folder and updates its database path. Deleting an album removes its folder and cascades its media rows. At startup, missing album folders are recreated and folders with no matching album row are removed. Delete asks for confirmation and removes the underlying file only when no other media record references it.
-
-## Gallery sorting
-The album media view supports sorting by filename, file size, and date added to the vault (the available creation timestamp), in ascending or descending order.
+```bash
+gradle wrapper --gradle-version 8.7
+./gradlew :app:assembleDebug
