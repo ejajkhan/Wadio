@@ -1,11 +1,20 @@
 package com.wadio.app
 
 import android.app.Application
+import coil.ImageLoader
+import coil.ImageLoaderFactory
+import coil.decode.VideoFrameDecoder
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.LifecycleEventObserver
 import androidx.lifecycle.ProcessLifecycleOwner
 
-class WadioApplication : Application() {
+class WadioApplication : Application(), ImageLoaderFactory {
+
+    override fun newImageLoader(): ImageLoader =
+        ImageLoader.Builder(this)
+            .components { add(VideoFrameDecoder.Factory()) }
+            .build()
+
 
     lateinit var controller: WadioController
         private set

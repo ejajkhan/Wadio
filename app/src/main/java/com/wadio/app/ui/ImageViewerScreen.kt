@@ -1,8 +1,6 @@
 package com.wadio.app.ui
 
 import androidx.compose.foundation.background
-import androidx.compose.foundation.gestures.detectHorizontalDragGestures
-import androidx.compose.foundation.gestures.detectTransformGestures
 import androidx.compose.foundation.layout.*
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.rounded.ArrowBack
@@ -14,6 +12,12 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.graphicsLayer
 import androidx.compose.ui.input.pointer.pointerInput
+import androidx.compose.foundation.gestures.awaitEachGesture
+import androidx.compose.ui.input.pointer.awaitPointerEvent
+import androidx.compose.ui.input.pointer.positionChange
+import androidx.compose.ui.input.pointer.positionChanged
+import androidx.compose.ui.geometry.Offset
+import androidx.compose.ui.geometry.getDistance
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
@@ -36,21 +40,9 @@ fun ImageViewerScreen(controller: WadioController) {
     var panX by remember(record.id) { mutableStateOf(0f) }
     var panY by remember(record.id) { mutableStateOf(0f) }
     var menuExpanded by remember(record.id) { mutableStateOf(false) }
-    var swipeDistance by remember(record.id) { mutableFloatStateOf(0f) }
     val isGif = record.relativePath.lowercase().endsWith(".gif")
 
-    Box(
-        Modifier.fillMaxSize().background(Color.Black).pointerInput(record.id) {
-            detectHorizontalDragGestures(
-                onHorizontalDrag = { _, amount -> swipeDistance += amount },
-                onDragEnd = {
-                    if (abs(swipeDistance) > 80f) controller.viewerPrevNext(if (swipeDistance < 0) 1 else -1)
-                    swipeDistance = 0f
-                },
-                onDragCancel = { swipeDistance = 0f },
-            )
-        }
-    ) {
+    Box(Modifier.fillMaxSize().background(Color.Black)) {
         AsyncImage(
             model = ImageRequest.Builder(context).data(File(baseDir, record.relativePath))
                 .memoryCacheKey(record.sha256).diskCacheKey(record.sha256).size(4096, 4096).build(),
@@ -59,10 +51,49 @@ fun ImageViewerScreen(controller: WadioController) {
             modifier = Modifier.fillMaxSize().graphicsLayer(
                 scaleX = zoom, scaleY = zoom, translationX = panX, translationY = panY,
             ).pointerInput(record.id) {
-                detectTransformGestures { _, pan, gestureZoom, _ ->
-                    zoom = (zoom * gestureZoom).coerceIn(1f, 5f)
-                    panX = if (zoom > 1f) panX + pan.x else 0f
-                    panY = if (zoom > 1f) panY + pan.y else 0f
+                awaitEachGesture {
+                    var swipeX = 0f
+                    var swipeY = 0f
+                    var hadMultiTouch = false
+                    var keepGoing = true
+                    while (keepGoing) {
+                        val event = awaitPointerEvent()
+                        val pressed = event.changes.filter { it.pressed }
+                        if (pressed.size >= 2) {
+                            hadMultiTouch = true
+                            val first = pressed[0].position
+                            val second = pressed[1].position
+                            val prevFirst = first - pressed[0].positionChange()
+                            val prevSecond = second - pressed[1].positionChange()
+                            val oldDistance = (prevFirst - prevSecond).getDistance().coerceAtLeast(1f)
+                            val newDistance = (first - second).getDistance().coerceAtLeast(1f)
+                            zoom = (zoom * (newDistance / oldDistance)).coerceIn(1f, 5f)
+                            if (zoom > 1f) {
+                                val pan = (pressed[0].positionChange() + pressed[1].positionChange()) / 2f
+                                panX += pan.x
+                                panY += pan.y
+                            } else {
+                                panX = 0f
+                                panY = 0f
+                            }
+                            event.changes.forEach { if (it.positionChanged()) it.consume() }
+                        } else if (pressed.size == 1) {
+                            val change = pressed.first()
+                            val delta = change.positionChange()
+                            if (zoom > 1.05f) {
+                                panX += delta.x
+                                panY += delta.y
+                            } else if (!hadMultiTouch) {
+                                swipeX += delta.x
+                                swipeY += delta.y
+                            }
+                            if (delta != Offset.Zero) change.consume()
+                        }
+                        keepGoing = event.changes.any { it.pressed }
+                    }
+                    if (!hadMultiTouch && zoom <= 1.05f && abs(swipeX) > 70f && abs(swipeX) > abs(swipeY) * 1.2f) {
+                        controller.viewerPrevNext(if (swipeX < 0f) -1 else 1)
+                    }
                 }
             },
         )
@@ -93,11 +124,5 @@ fun ImageViewerScreen(controller: WadioController) {
             }
         }
 
-        Column(Modifier.align(Alignment.BottomStart).fillMaxWidth().background(Color.Black.copy(alpha = 0.35f)).padding(horizontal = 12.dp, vertical = 8.dp)) {
-            Text(record.fileName, color = Color.White, style = MaterialTheme.typography.bodySmall, maxLines = 1)
-            val dims = if (record.width != null && record.height != null) "${record.width} × ${record.height}" else ""
-            val mb = record.byteSize.toDouble() / 1_048_576.0
-            Text("$dims • ${"%.2f".format(mb)} MB", color = Color.White, style = MaterialTheme.typography.bodySmall)
-        }
     }
 }
