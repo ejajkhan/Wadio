@@ -284,6 +284,18 @@ fun VaultScreen(controller: WadioController, onPickFiles: () -> Unit) {
         )
     }
 
+    if (showDeviceMediaPicker) {
+        DeviceMediaPicker(
+            tab = state.tab,
+            onDismiss = {
+                showDeviceMediaPicker = false
+                controller.externalPickerActive = false
+                controller.noteUserActivity()
+            },
+            onImport = { uris -> controller.startImportFromUris(uris) },
+        )
+    }
+
 }
 
 @Composable
@@ -406,17 +418,6 @@ private fun MediaTile(controller: WadioController, record: MediaRecord, baseDir:
             )
         }
 
-    }
-    if (showDeviceMediaPicker) {
-        DeviceMediaPicker(
-            tab = state.tab,
-            onDismiss = {
-                showDeviceMediaPicker = false
-                controller.externalPickerActive = false
-                controller.noteUserActivity()
-            },
-            onImport = { uris -> controller.startImportFromUris(uris) },
-        )
     }
 
 }
