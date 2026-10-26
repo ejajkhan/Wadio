@@ -72,6 +72,9 @@ data class WadioUiState(
     val importNoticeEpoch: Long = 0,
 
     val viewerMediaId: String? = null,
+    val showSettings: Boolean = false,
+    val autoLockSeconds: Int = 60,
+    val confirmDeletes: Boolean = true,
 )
 
 class WadioController(private val app: Application) {
@@ -124,7 +127,7 @@ class WadioController(private val app: Application) {
             importer.recoverInterruptedImports()
             startupLogger.log("Import coordinator recovered")
 
-            val albumIds = db.getAlbums().map { it.id }.toHashSet()
+            val albumIds = (db.getAlbums("Image") + db.getAlbums("Video")).map { it.id }.toHashSet()
             importer.syncAlbumFolders(albumIds)
             importer.recoverPendingMedia(db)
             importer.logPendingSummary()
@@ -140,6 +143,8 @@ class WadioController(private val app: Application) {
                     hasPin = auth.hasPin,
                     audioStates = audio.getStates(),
                     pinLockedUntilUnix = auth.lockUntilUnix,
+                    autoLockSeconds = app.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE).getInt("auto_lock_seconds", 60),
+                    confirmDeletes = app.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE).getBoolean("confirm_deletes", true),
                 )
             }
         } catch (t: Throwable) {
@@ -191,7 +196,7 @@ class WadioController(private val app: Application) {
         val viewingPhoto = _state.value.tab == ActiveTab.Pictures && _state.value.viewerMediaId != null
         if (lastActivityNanos == 0L || viewingPhoto) lastActivityNanos = System.nanoTime()
         val idleSecs = (System.nanoTime() - lastActivityNanos) / 1_000_000_000.0
-        if (auth.unlocked && !viewingPhoto && !externalPickerActive && !importInProgress && idleSecs >= 60.0) lockVault()
+        if (auth.unlocked && !viewingPhoto && !externalPickerActive && !importInProgress && idleSecs >= _state.value.autoLockSeconds.toDouble()) lockVault()
 
         if (_state.value.tab == ActiveTab.Audio) refreshAudio()
     }
@@ -203,7 +208,7 @@ class WadioController(private val app: Application) {
             _state.update {
                 it.copy(
                     tab = ActiveTab.Audio, unlocked = false,
-                    showPinPrompt = false, showMediaChooser = false, showAlbumList = true,
+                    showPinPrompt = false, showMediaChooser = false, showAlbumList = true, showSettings = false,
                     pinError = null, passInput = "", confirmPassInput = "",
                     viewerMediaId = null, selectionMode = false, selectedMediaIds = emptySet(),
                     confirmDeleteSelected = false, selectionDestination = "",
@@ -228,8 +233,33 @@ class WadioController(private val app: Application) {
 
     fun showMediaChooser() {
         if (!auth.unlocked) return
-        _state.update { it.copy(showMediaChooser = true, showAlbumList = true, tab = ActiveTab.Audio) }
+        _state.update { it.copy(showMediaChooser = true, showAlbumList = true, tab = ActiveTab.Audio, showSettings = false) }
         noteUserActivity()
+    }
+
+    fun goBack() {
+        val s = _state.value
+        when {
+            s.showSettings -> _state.update { it.copy(showSettings = false) }
+            s.viewerMediaId != null -> closeViewer()
+            s.selectionMode -> _state.update { it.copy(selectionMode = false, selectedMediaIds = emptySet(), selectionDestination = "") }
+            s.unlocked && s.showMediaChooser -> _state.update { it.copy(showMediaChooser = false, tab = ActiveTab.Audio, showAlbumList = true) }
+            s.unlocked && !s.showAlbumList -> showAlbumList()
+            s.unlocked && s.tab != ActiveTab.Audio && s.showAlbumList -> showMediaChooser()
+            s.showPinPrompt -> dismissAuthPrompt()
+        }
+        noteUserActivity()
+    }
+
+    fun openSettings() { _state.update { it.copy(showSettings = true) } }
+    fun setAutoLockSeconds(seconds: Int) {
+        val safe = seconds.coerceIn(15, 300)
+        app.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE).edit().putInt("auto_lock_seconds", safe).apply()
+        _state.update { it.copy(autoLockSeconds = safe) }
+    }
+    fun setConfirmDeletes(enabled: Boolean) {
+        app.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE).edit().putBoolean("confirm_deletes", enabled).apply()
+        _state.update { it.copy(confirmDeletes = enabled) }
     }
 
     fun showAlbumList() {
@@ -337,6 +367,9 @@ class WadioController(private val app: Application) {
             tab = tab,
             showMediaChooser = false,
             showAlbumList = tab != ActiveTab.Audio,
+            showSettings = false,
+            selectedAlbum = if (tab == ActiveTab.Videos) "default-videos" else "default",
+            selectionMode = false, selectedMediaIds = emptySet(),
         ) }
         scope.launch {
             if (tab != ActiveTab.Audio) refreshVault()
@@ -361,10 +394,11 @@ class WadioController(private val app: Application) {
         val name = _state.value.newAlbumInput.trim()
         if (name.isEmpty()) { _state.update { it.copy(albumError = "Enter an album name") }; return }
         val id = java.util.UUID.randomUUID().toString()
-        if (db.createAlbum(id, name)) {
+        val mediaType = if (_state.value.tab == ActiveTab.Videos) "Video" else "Image"
+        if (db.createAlbum(id, name, mediaType)) {
             _state.update {
                 it.copy(selectedAlbum = id, showAlbumList = true, showMediaChooser = false,
-                    showNewAlbumModal = false, newAlbumInput = "", albumError = null, cachedAlbums = db.getAlbums())
+                    showNewAlbumModal = false, newAlbumInput = "", albumError = null, cachedAlbums = db.getAlbums(mediaType))
             }
             refreshVault()
         } else {
@@ -379,7 +413,7 @@ class WadioController(private val app: Application) {
                 _state.update {
                     it.copy(
                         selectedAlbum = if (it.selectedAlbum == id) "default" else it.selectedAlbum,
-                        cachedAlbums = db.getAlbums(),
+                        cachedAlbums = db.getAlbums(if (it.tab == ActiveTab.Videos) "Video" else "Image"),
                     )
                 }
                 refreshVault()
@@ -389,10 +423,11 @@ class WadioController(private val app: Application) {
 
     // ─── gallery ──────────────────────────────────────────────────────────
     fun refreshVault() = scope.launch(Dispatchers.IO) {
-        val albums = db.getAlbums()
-        val selected = _state.value.selectedAlbum.ifEmpty { "default" }
+        val mediaType = if (_state.value.tab == ActiveTab.Videos) "Video" else "Image"
+        val albums = db.getAlbums(mediaType)
+        val selected = _state.value.selectedAlbum.ifEmpty { if (mediaType == "Video") "default-videos" else "default" }
         val effectiveAlbum = if (albums.any { it.id == selected }) selected
-            else albums.firstOrNull()?.id ?: "default"
+            else albums.firstOrNull()?.id ?: if (mediaType == "Video") "default-videos" else "default"
         val records = db.getMediaByAlbum(effectiveAlbum)
         val covers = albums.associate { it.id to db.getAlbumCover(it.id) }
             .filterValues { it != null }.mapValues { it.value!! }
@@ -465,7 +500,11 @@ class WadioController(private val app: Application) {
         noteUserActivity()
     }
 
-    fun requestDeleteSelected() = _state.update { it.copy(confirmDeleteSelected = true) }
+    fun cancelSelection() = _state.update { it.copy(selectionMode = false, selectedMediaIds = emptySet(), selectionDestination = "") }
+    fun requestDeleteSelected() {
+        if (_state.value.confirmDeletes) _state.update { it.copy(confirmDeleteSelected = true) }
+        else performDeleteSelected()
+    }
     fun cancelDeleteSelected() = _state.update { it.copy(confirmDeleteSelected = false) }
 
     fun updateSelectionDestination(id: String) {
@@ -594,6 +633,13 @@ class WadioController(private val app: Application) {
                 }
                 val rec = importer.finishStream(session, albumId)
                 if (rec == null) { failed++; importer.abortStream(session); continue }
+                val expectedType = if (_state.value.tab == ActiveTab.Videos) "Video" else "Image"
+                if (rec.mediaType != expectedType) {
+                    File(baseDir, rec.relativePath).delete()
+                    importer.removePendingRecord(rec.id)
+                    failed++
+                    continue
+                }
                 when (db.insertMedia(rec)) {
                     WadioDatabase.InsertResult.Ok -> { added++; importer.removePendingRecord(rec.id) }
                     WadioDatabase.InsertResult.Duplicate -> {

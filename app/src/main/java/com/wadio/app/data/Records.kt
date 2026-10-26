@@ -18,4 +18,5 @@ data class AlbumRecord(
     val id: String,
     val name: String,
     val createdAt: Long,
+    val mediaType: String = "Image",
 )

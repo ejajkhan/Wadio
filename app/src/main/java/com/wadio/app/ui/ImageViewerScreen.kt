@@ -49,7 +49,9 @@ fun ImageViewerScreen(controller: WadioController) {
             Modifier.fillMaxWidth().padding(8.dp),
             verticalAlignment = Alignment.CenterVertically,
         ) {
-            TextButton(onClick = { controller.closeViewer() }) { Text("← Back", color = Color.White) }
+            IconButton(onClick = { controller.closeViewer() }) {
+                Icon(Icons.Rounded.ArrowBack, contentDescription = "Back", tint = Color.White)
+            }
             TextButton(onClick = { controller.viewerPrevNext(-1) }, enabled = canPrev) { Text("‹ Prev", color = Color.White) }
             TextButton(onClick = { controller.viewerPrevNext(1) }, enabled = canNext) { Text("Next ›", color = Color.White) }
             Spacer(Modifier.weight(1f))

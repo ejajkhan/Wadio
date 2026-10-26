@@ -20,7 +20,7 @@ class WadioDatabase private constructor(
     context: Context,
     private val dbFile: File,
     private val vaultRoot: File,
-) : SQLiteOpenHelper(context, dbFile.absolutePath, null, 1) {
+) : SQLiteOpenHelper(context, dbFile.absolutePath, null, 2) {
 
     init {
         // Let SQLiteOpenHelper enable WAL using Android's supported API.
@@ -44,8 +44,10 @@ class WadioDatabase private constructor(
         db.execSQL("""
             CREATE TABLE IF NOT EXISTS albums (
                 id TEXT PRIMARY KEY,
-                name TEXT NOT NULL UNIQUE,
-                created_at INTEGER NOT NULL
+                name TEXT NOT NULL,
+                created_at INTEGER NOT NULL,
+                media_type TEXT NOT NULL CHECK(media_type IN ('Image','Video')),
+                UNIQUE(name, media_type)
             );
         """.trimIndent())
         db.execSQL("""
@@ -66,10 +68,61 @@ class WadioDatabase private constructor(
         """.trimIndent())
         db.execSQL("CREATE INDEX IF NOT EXISTS idx_media_album_time ON media_items (album_id, imported_at DESC);")
         db.execSQL("CREATE INDEX IF NOT EXISTS idx_media_sha ON media_items (sha256);")
-        db.execSQL("INSERT OR IGNORE INTO albums (id, name, created_at) VALUES ('default', 'Default', 0);")
+        db.execSQL("INSERT OR IGNORE INTO albums (id, name, created_at, media_type) VALUES ('default', 'Default', 0, 'Image');")
+        db.execSQL("INSERT OR IGNORE INTO albums (id, name, created_at, media_type) VALUES ('default-videos', 'Default', 0, 'Video');")
     }
 
-    override fun onUpgrade(db: SQLiteDatabase, oldVersion: Int, newVersion: Int) { /* v1 */ }
+    override fun onUpgrade(db: SQLiteDatabase, oldVersion: Int, newVersion: Int) {
+        if (oldVersion < 2) migrateAlbumsToIndependentCollections(db)
+    }
+
+    private fun migrateAlbumsToIndependentCollections(db: SQLiteDatabase) {
+        // Rebuild both related tables together so the foreign key remains valid.
+        val oldAlbums = mutableListOf<Triple<String, String, Long>>()
+        db.rawQuery("SELECT id, name, created_at FROM albums", null).use { c ->
+            while (c.moveToNext()) oldAlbums += Triple(c.getString(0), c.getString(1), c.getLong(2))
+        }
+        data class OldMedia(val id:String,val album:String,val type:String,val name:String,val size:Long,val hash:String,val w:Int?,val h:Int?,val duration:Long?,val at:Long,val path:String)
+        val oldMedia = mutableListOf<OldMedia>()
+        db.rawQuery("SELECT id,album_id,media_type,file_name,byte_size,sha256,width,height,duration_ms,imported_at,relative_path FROM media_items", null).use { c ->
+            while (c.moveToNext()) oldMedia += OldMedia(c.getString(0),c.getString(1),c.getString(2),c.getString(3),c.getLong(4),c.getString(5),c.getInt(6).takeIf{!c.isNull(6)},c.getInt(7).takeIf{!c.isNull(7)},c.getLong(8).takeIf{!c.isNull(8)},c.getLong(9),c.getString(10))
+        }
+        db.execSQL("CREATE TABLE albums_v2 (id TEXT PRIMARY KEY, name TEXT NOT NULL, created_at INTEGER NOT NULL, media_type TEXT NOT NULL CHECK(media_type IN ('Image','Video')), UNIQUE(name,media_type))")
+        db.execSQL("CREATE TABLE media_items_v2 (id TEXT PRIMARY KEY, album_id TEXT NOT NULL, media_type TEXT CHECK(media_type IN ('Image','Video')) NOT NULL, file_name TEXT NOT NULL, byte_size INTEGER NOT NULL, sha256 TEXT NOT NULL, width INTEGER, height INTEGER, duration_ms INTEGER, imported_at INTEGER NOT NULL, relative_path TEXT NOT NULL, FOREIGN KEY(album_id) REFERENCES albums_v2(id) ON DELETE CASCADE)")
+        val videoIds = mutableMapOf<String,String>()
+        oldAlbums.forEach { (id,name,created) ->
+            db.execSQL("INSERT INTO albums_v2 VALUES(?,?,?,'Image')", arrayOf(id,name,created))
+            val vid = if (id == "default") "default-videos" else "${id}-videos"
+            videoIds[id] = vid
+            db.execSQL("INSERT INTO albums_v2 VALUES(?,?,?,'Video')", arrayOf(vid,name,created))
+        }
+        if (oldAlbums.none { it.first == "default" }) db.execSQL("INSERT INTO albums_v2 VALUES('default','Default',0,'Image')")
+        if (oldAlbums.none { it.first == "default" }) db.execSQL("INSERT INTO albums_v2 VALUES('default-videos','Default',0,'Video')")
+        for (m in oldMedia) {
+            val album = if (m.type == "Video") videoIds[m.album] ?: "default-videos" else m.album
+            val category = if (m.type == "Video") "videos" else "photos"
+            val filename = m.path.substringAfterLast('/')
+            val newPath = "media/$category/$album/$filename"
+            val oldFile = File(vaultRoot,m.path); val newFile = File(vaultRoot,newPath)
+            if (oldFile.isFile && (!newFile.isFile || newFile.length() != oldFile.length())) {
+                newFile.parentFile?.mkdirs()
+                val temp = File(newFile.parentFile, newFile.name + ".migrate-tmp")
+                oldFile.copyTo(temp, overwrite = true)
+                if (temp.length() != oldFile.length()) throw java.io.IOException("Media migration verification failed for ${m.id}")
+                if (newFile.exists()) newFile.delete()
+                if (!temp.renameTo(newFile)) throw java.io.IOException("Could not finalize media migration for ${m.id}")
+            }
+            db.execSQL("INSERT INTO media_items_v2 VALUES(?,?,?,?,?,?,?,?,?,?,?)", arrayOf(m.id,album,m.type,m.name,m.size,m.hash,m.w,m.h,m.duration,m.at,newPath))
+        }
+        db.execSQL("DROP TABLE media_items")
+        db.execSQL("DROP TABLE albums")
+        db.execSQL("ALTER TABLE albums_v2 RENAME TO albums")
+        db.execSQL("ALTER TABLE media_items_v2 RENAME TO media_items")
+        db.execSQL("CREATE INDEX IF NOT EXISTS idx_media_album_time ON media_items (album_id, imported_at DESC)")
+        db.execSQL("CREATE INDEX IF NOT EXISTS idx_media_sha ON media_items (sha256)")
+        // Keep the old folders as a recovery copy; they are cleaned only after
+        // the migrated records and new files have been verified on a later run.
+    }
 
     // ─── meta ─────────────────────────────────────────────────────────────
     fun getMeta(key: String): String? = readableDatabase.rawQuery(
@@ -84,24 +137,24 @@ class WadioDatabase private constructor(
     }
 
     // ─── albums ───────────────────────────────────────────────────────────
-    fun getAlbums(): List<AlbumRecord> = readableDatabase.rawQuery(
-        "SELECT id, name, created_at FROM albums ORDER BY created_at ASC", null
-    ).use { c -> buildList { while (c.moveToNext()) add(AlbumRecord(c.getString(0), c.getString(1), c.getLong(2))) } }
+    fun getAlbums(mediaType: String = "Image"): List<AlbumRecord> = readableDatabase.rawQuery(
+        "SELECT id, name, created_at, media_type FROM albums WHERE media_type = ? ORDER BY created_at ASC", arrayOf(mediaType)
+    ).use { c -> buildList { while (c.moveToNext()) add(AlbumRecord(c.getString(0), c.getString(1), c.getLong(2), c.getString(3))) } }
 
     /**
      * Create album folder first, then DB row. On DB failure, remove the
      * folder — matching VaultDB::create_album in the Rust source.
      */
     @Synchronized
-    fun createAlbum(id: String, name: String): Boolean {
+    fun createAlbum(id: String, name: String, mediaType: String): Boolean {
         if (!isSafeId(id)) return false
-        val albumDir = File(File(vaultRoot, "media"), id)
+        val albumDir = File(File(File(vaultRoot, "media"), if (mediaType == "Video") "videos" else "photos"), id)
         if (!albumDir.exists() && !albumDir.mkdirs()) return false
         val now = System.currentTimeMillis() / 1000L
         return try {
             writableDatabase.execSQL(
-                "INSERT INTO albums (id, name, created_at) VALUES (?, ?, ?)",
-                arrayOf(id, name, now)
+                "INSERT INTO albums (id, name, created_at, media_type) VALUES (?, ?, ?, ?)",
+                arrayOf(id, name, now, mediaType)
             )
             true
         } catch (t: Throwable) {
@@ -116,12 +169,13 @@ class WadioDatabase private constructor(
      */
     @Synchronized
     fun deleteAlbum(id: String): Boolean {
-        if (id == "default" || !isSafeId(id)) return false
+        if (id == "default" || id == "default-videos" || !isSafeId(id)) return false
         val exists = readableDatabase.rawQuery(
             "SELECT EXISTS(SELECT 1 FROM albums WHERE id = ?)", arrayOf(id)
         ).use { it.moveToFirst() && it.getInt(0) == 1 }
         if (!exists) return false
-        val albumDir = File(File(vaultRoot, "media"), id)
+        val mediaType = readableDatabase.rawQuery("SELECT media_type FROM albums WHERE id = ?", arrayOf(id)).use { c -> if (c.moveToFirst()) c.getString(0) else "Image" }
+        val albumDir = File(File(File(vaultRoot, "media"), if (mediaType == "Video") "videos" else "photos"), id)
         if (albumDir.exists()) {
             albumDir.deleteRecursively() // deletes contents too; matches remove_dir_all
         }
@@ -184,7 +238,7 @@ class WadioDatabase private constructor(
         readableDatabase.rawQuery(
             """SELECT id, album_id, media_type, file_name, byte_size, sha256,
                       width, height, duration_ms, imported_at, relative_path
-               FROM media_items WHERE album_id = ? AND media_type = 'Image'
+               FROM media_items WHERE album_id = ?
                ORDER BY imported_at DESC, id ASC LIMIT 1""",
             arrayOf(albumId)
         ).use { c -> if (c.moveToFirst()) read(c) else null }
@@ -208,7 +262,8 @@ class WadioDatabase private constructor(
             arrayOf(sourceId)
         ).use { c -> if (c.moveToFirst()) read(c) else return null }
         val ext = src.relativePath.substringAfterLast('.', "bin")
-        val newRel = "media/$destinationAlbum/$newId.$ext"
+        val folder = if (src.mediaType == "Video") "videos" else "photos"
+        val newRel = "media/$folder/$destinationAlbum/$newId.$ext"
         val old = File(vaultRoot, src.relativePath)
         val new = File(vaultRoot, newRel)
         val now = System.currentTimeMillis() / 1000L
@@ -250,7 +305,9 @@ class WadioDatabase private constructor(
                 val (oldAlbum, oldRel) = current
                 if (oldAlbum == destinationAlbum) continue
                 val filename = oldRel.substringAfterLast('/')
-                val newRel = "media/$destinationAlbum/$filename"
+                val type = readableDatabase.rawQuery("SELECT media_type FROM media_items WHERE id = ?", arrayOf(id)).use { c -> if (c.moveToFirst()) c.getString(0) else "Image" }
+                val folder = if (type == "Video") "videos" else "photos"
+                val newRel = "media/$folder/$destinationAlbum/$filename"
                 val oldPath = File(vaultRoot, oldRel)
                 val newPath = File(vaultRoot, newRel)
                 if (newPath.exists()) {
@@ -279,7 +336,7 @@ class WadioDatabase private constructor(
             for ((oldPath, newPath) in moves) {
                 val oldRel = oldPath.relativeTo(vaultRoot).path.replace('\\', '/')
                 val newRel = newPath.relativeTo(vaultRoot).path.replace('\\', '/')
-                val oldAlbum = oldRel.split('/').getOrNull(1) ?: "default"
+                val oldAlbum = oldRel.split('/').getOrNull(2) ?: "default"
                 writableDatabase.execSQL(
                     "UPDATE media_items SET album_id = ?, relative_path = ? WHERE relative_path = ?",
                     arrayOf(oldAlbum, oldRel, newRel)

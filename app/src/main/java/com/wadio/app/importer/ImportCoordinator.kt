@@ -24,7 +24,8 @@ class ImportSession(
  *
  * Disk layout (private internal storage):
  *   vault/
- *     media/<album_id>/<uuid>.<ext>     committed media
+ *     media/photos/<album_id>/<uuid>.<ext>   committed photos
+ *     media/videos/<album_id>/<uuid>.<ext>   committed videos
  *     .staging/<uuid>.tmp               in-flight imports
  *     .pending/<uuid>.json              durable pre-commit markers
  *     .orphaned/…                       recovery bucket (never deleted)
@@ -124,7 +125,25 @@ class ImportCoordinator(
     }
 
     fun recoverPendingMedia(db: WadioDatabase) {
-        for ((marker, rec) in readPendingRecords()) {
+        for ((marker, originalRecord) in readPendingRecords()) {
+            var rec = originalRecord
+            // Recover pending imports written by v1 before the album split migration.
+            val parts = rec.relativePath.split('/')
+            if (parts.size == 3 && parts[0] == "media") {
+                val category = if (rec.mediaType == "Video") "videos" else "photos"
+                val album = if (rec.mediaType == "Video") {
+                    if (rec.albumId == "default") "default-videos" else "${rec.albumId}-videos"
+                } else rec.albumId
+                val migratedRel = "media/$category/$album/${parts[2]}"
+                val oldFile = File(baseDir, rec.relativePath)
+                val newFile = File(baseDir, migratedRel)
+                if (oldFile.isFile && !newFile.exists()) {
+                    newFile.parentFile?.mkdirs()
+                    oldFile.copyTo(newFile, overwrite = false)
+                }
+                rec = rec.copy(albumId = album, relativePath = migratedRel)
+                writePendingRecord(rec)
+            }
             val mediaPath = File(baseDir, rec.relativePath)
             if (!mediaPath.isFile) {
                 val stagingPath = File(stagingDir, "${rec.id}.tmp")
@@ -150,10 +169,9 @@ class ImportCoordinator(
         if (referencedPaths.isEmpty()) return  // fresh install or partial restore
         val pendingPaths = readPendingRecords().map { it.second.relativePath }.toSet()
         val now = System.currentTimeMillis()
-        mediaDir.listFiles()?.forEach { albumDir ->
-            if (!albumDir.isDirectory) return@forEach
-            albumDir.listFiles()?.forEach { file ->
-                if (!file.isFile) return@forEach
+        fun scan(dir: File) {
+            dir.listFiles()?.forEach { file ->
+                if (file.isDirectory) { scan(file); return@forEach }
                 val rel = file.relativeTo(baseDir).path.replace('\\', '/')
                 if (rel in referencedPaths || rel in pendingPaths) return@forEach
                 if ((now - file.lastModified()) < ORPHAN_TTL_MS) return@forEach
@@ -162,6 +180,7 @@ class ImportCoordinator(
                 file.renameTo(dest)
             }
         }
+        scan(mediaDir)
     }
 
     private fun cleanupExpiredOrphans(maxAgeMs: Long) {
@@ -182,14 +201,13 @@ class ImportCoordinator(
      */
     fun syncAlbumFolders(albumIds: Set<String>) {
         mediaDir.mkdirs()
-        albumIds.forEach { if (isSafeRecordId(it)) File(mediaDir, it).mkdirs() }
-        if (albumIds.size <= 1) return
-        mediaDir.listFiles()?.forEach { f ->
-            if (!f.isDirectory) return@forEach
-            if (f.name in albumIds) return@forEach
-            val dest = File(orphanDir, "media/${f.name}").uniqueChild()
-            dest.parentFile?.mkdirs()
-            f.renameTo(dest)
+        File(mediaDir, "photos").mkdirs()
+        File(mediaDir, "videos").mkdirs()
+        albumIds.forEach { id ->
+            if (isSafeRecordId(id)) {
+                File(File(mediaDir, "photos"), id).mkdirs()
+                File(File(mediaDir, "videos"), id).mkdirs()
+            }
         }
     }
 
@@ -257,7 +275,8 @@ class ImportCoordinator(
             width = w; height = h
         }
 
-        val albumDir = File(mediaDir, albumId).apply { mkdirs() }
+        val category = if (mediaType == "Video") "videos" else "photos"
+        val albumDir = File(File(mediaDir, category), albumId).apply { mkdirs() }
         val finalName = "${session.id}.$ext"
         val finalFile = File(albumDir, finalName)
         if (finalFile.exists()) return null
@@ -272,7 +291,7 @@ class ImportCoordinator(
             sha256 = hash,
             width = width, height = height, durationMs = null,
             importedAt = nowUnix,
-            relativePath = "media/$albumId/$finalName",
+            relativePath = "media/$category/$albumId/$finalName",
         )
 
         // Durable pre-commit marker before the rename — recovery relies on this.

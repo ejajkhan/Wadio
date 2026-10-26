@@ -71,15 +71,9 @@ fun HomeScreen(controller: WadioController, onPickFiles: () -> Unit) {
                 Button(onClick = { controller.setTab(ActiveTab.Videos) }) { Text("Videos") }
             }
             Spacer(Modifier.height(12.dp))
-            OutlinedButton(onClick = { controller.lockVault() }) { Text("Lock") }
         }
 
         Spacer(Modifier.height(24.dp))
-        Text(
-            "Press and hold the title for 1 second to open the vault.",
-            style = MaterialTheme.typography.bodySmall,
-            color = MaterialTheme.colorScheme.onSurfaceVariant,
-        )
     }
 }
 

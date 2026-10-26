@@ -47,9 +47,11 @@ fun VaultScreen(controller: WadioController, onPickFiles: () -> Unit) {
                 TopAppBar(
                     title = { Text(if (state.showAlbumList) "Albums" else if (state.tab == ActiveTab.Pictures) "Photos" else "Videos") },
                     navigationIcon = {
-                        TextButton(onClick = {
+                        IconButton(onClick = {
                             if (state.showAlbumList) controller.showMediaChooser() else controller.showAlbumList()
-                        }) { Text(if (state.showAlbumList) "Back" else "Albums") }
+                        }) {
+                            Icon(Icons.Rounded.ArrowBack, contentDescription = if (state.showAlbumList) "Back to chooser" else "Back to albums")
+                        }
                     },
                     actions = {
                         if (state.showAlbumList) {
@@ -59,7 +61,6 @@ fun VaultScreen(controller: WadioController, onPickFiles: () -> Unit) {
                         } else {
                             IconButton(onClick = onPickFiles) { Icon(Icons.Rounded.Add, "Add photos or videos") }
                         }
-                        TextButton(onClick = { controller.lockVault() }) { Text("Lock") }
                     },
                 )
             }
@@ -96,7 +97,7 @@ fun VaultScreen(controller: WadioController, onPickFiles: () -> Unit) {
                                     Text(album.name, modifier = Modifier.weight(1f).clickable { controller.selectAlbum(album.id) },
                                         maxLines = 1, overflow = TextOverflow.Ellipsis,
                                         style = MaterialTheme.typography.titleSmall)
-                                    if (album.id != "default") {
+                                    if (album.id != "default" && album.id != "default-videos") {
                                         IconButton(onClick = { albumToDelete = album }) {
                                             Icon(Icons.Rounded.Delete, contentDescription = "Delete ${album.name}")
                                         }
@@ -111,20 +112,14 @@ fun VaultScreen(controller: WadioController, onPickFiles: () -> Unit) {
                     Modifier.fillMaxWidth().padding(horizontal = 12.dp, vertical = 6.dp),
                     verticalAlignment = Alignment.CenterVertically,
                 ) {
-                    Text("Sort by:", style = MaterialTheme.typography.labelMedium)
-                    Spacer(Modifier.width(6.dp))
-                    DropdownMenuWrapper(
-                        label = sortLabel(state.sortMode),
-                        options = listOf(
-                            MediaSortMode.Name to "Name",
-                            MediaSortMode.Size to "Size",
-                            MediaSortMode.DateCreated to "Date created",
-                        ),
-                    ) { controller.setSortMode(it) }
+                    Text("${state.cachedMedia.size} items", style = MaterialTheme.typography.labelMedium)
                     Spacer(Modifier.weight(1f))
-                    OutlinedButton(onClick = { controller.toggleSortDirection() }) {
-                        Text(if (state.sortAscending) "Ascending ↑" else "Descending ↓")
-                    }
+                    SortPopup(
+                        mode = state.sortMode,
+                        ascending = state.sortAscending,
+                        onMode = controller::setSortMode,
+                        onDirection = controller::toggleSortDirection,
+                    )
                 }
 
                 if (state.importNotice != null) {
@@ -134,11 +129,6 @@ fun VaultScreen(controller: WadioController, onPickFiles: () -> Unit) {
 
                 if (state.selectionMode) {
                     SelectionBar(controller, state.cachedAlbums.map { it.id to it.name })
-                } else {
-                    Text("Tip: hold a photo for 2 seconds to select multiple items.",
-                        Modifier.padding(horizontal = 12.dp, vertical = 4.dp),
-                        style = MaterialTheme.typography.bodySmall,
-                        color = MaterialTheme.colorScheme.onSurfaceVariant)
                 }
 
                 if (state.cachedMedia.isEmpty()) {
@@ -217,6 +207,44 @@ fun VaultScreen(controller: WadioController, onPickFiles: () -> Unit) {
 }
 
 @Composable
+private fun SortPopup(
+    mode: MediaSortMode,
+    ascending: Boolean,
+    onMode: (MediaSortMode) -> Unit,
+    onDirection: () -> Unit,
+) {
+    var expanded by remember { mutableStateOf(false) }
+    Box {
+        IconButton(onClick = { expanded = true }) {
+            Icon(Icons.Rounded.Sort, contentDescription = "Sort media")
+        }
+        DropdownMenu(expanded = expanded, onDismissRequest = { expanded = false }) {
+            DropdownMenuItem(
+                text = { Text("Name${if (mode == MediaSortMode.Name) " ✓" else ""}") },
+                onClick = { onMode(MediaSortMode.Name); expanded = false },
+                leadingIcon = { Icon(Icons.Rounded.SortByAlpha, contentDescription = null) },
+            )
+            DropdownMenuItem(
+                text = { Text("Size${if (mode == MediaSortMode.Size) " ✓" else ""}") },
+                onClick = { onMode(MediaSortMode.Size); expanded = false },
+                leadingIcon = { Icon(Icons.Rounded.DataUsage, contentDescription = null) },
+            )
+            DropdownMenuItem(
+                text = { Text("Date created${if (mode == MediaSortMode.DateCreated) " ✓" else ""}") },
+                onClick = { onMode(MediaSortMode.DateCreated); expanded = false },
+                leadingIcon = { Icon(Icons.Rounded.CalendarMonth, contentDescription = null) },
+            )
+            HorizontalDivider()
+            DropdownMenuItem(
+                text = { Text(if (ascending) "Ascending" else "Descending") },
+                onClick = { onDirection(); expanded = false },
+                leadingIcon = { Icon(if (ascending) Icons.Rounded.ArrowUpward else Icons.Rounded.ArrowDownward, contentDescription = null) },
+            )
+        }
+    }
+}
+
+@Composable
 private fun SelectionBar(controller: WadioController, albums: List<Pair<String, String>>) {
     val state by controller.state.collectAsStateWithLifecycle()
     Row(
@@ -237,7 +265,7 @@ private fun SelectionBar(controller: WadioController, albums: List<Pair<String, 
         TextButton(onClick = { controller.performMoveTo() }, enabled = can) { Text("Move to") }
         TextButton(onClick = { controller.requestDeleteSelected() },
             enabled = state.selectedMediaIds.isNotEmpty()) { Text("Delete") }
-        TextButton(onClick = { controller.lockVault() }) { Text("Cancel") }
+        TextButton(onClick = { controller.cancelSelection() }) { Text("Cancel") }
     }
 }
 
