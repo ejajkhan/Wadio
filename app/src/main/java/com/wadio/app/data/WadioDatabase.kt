@@ -163,6 +163,43 @@ class WadioDatabase private constructor(
         }
     }
 
+    @Synchronized
+    fun renameAlbum(id: String, name: String): Boolean {
+        val safeName = name.trim()
+        if (safeName.isEmpty() || id == "default" || id == "default-videos" || !isSafeId(id)) return false
+        return try {
+            val values = ContentValues().apply { put("name", safeName) }
+            writableDatabase.update("albums", values, "id = ?", arrayOf(id)) > 0
+        } catch (_: Throwable) { false }
+    }
+
+    /** Remove an album row after its media has been safely exported elsewhere.
+     * Deliberately leaves physical cleanup to the caller so a DB failure cannot
+     * delete the only remaining copy of the media. */
+    @Synchronized
+    fun deleteAlbumAfterRelease(id: String): Boolean {
+        if (id == "default" || id == "default-videos" || !isSafeId(id)) return false
+        return try {
+            writableDatabase.beginTransaction()
+            val deleted = writableDatabase.delete("albums", "id = ?", arrayOf(id))
+            if (deleted > 0) writableDatabase.setTransactionSuccessful()
+            writableDatabase.endTransaction()
+            deleted > 0
+        } catch (_: Throwable) {
+            runCatching { writableDatabase.endTransaction() }
+            false
+        }
+    }
+
+    @Synchronized
+    fun updateRotatedMedia(id: String, byteSize: Long, sha256: String, width: Int?, height: Int?): Boolean = try {
+        writableDatabase.execSQL(
+            "UPDATE media_items SET byte_size = ?, sha256 = ?, width = ?, height = ? WHERE id = ?",
+            arrayOf(byteSize, sha256, width, height, id)
+        )
+        writableDatabase.rawQuery("SELECT changes()", null).use { it.moveToFirst() && it.getInt(0) == 1 }
+    } catch (_: Throwable) { false }
+
     /**
      * Protect "default". Delete physical folder first, then cascade DB rows.
      * Matches VaultDB::delete_album.

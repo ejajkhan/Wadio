@@ -22,6 +22,8 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.input.pointer.pointerInput
+import androidx.activity.compose.rememberLauncherForActivityResult
+import androidx.activity.result.contract.ActivityResultContracts
 import androidx.compose.foundation.gestures.detectTapGestures
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import coil.compose.AsyncImage
@@ -40,35 +42,41 @@ fun VaultScreen(controller: WadioController, onPickFiles: () -> Unit) {
     val context = LocalContext.current
     val baseDir = File(context.filesDir, "vault")
     var albumToDelete by remember { mutableStateOf<AlbumRecord?>(null) }
+    var albumToRename by remember { mutableStateOf<AlbumRecord?>(null) }
+    var renameInput by remember { mutableStateOf("") }
+    var albumToRelease by remember { mutableStateOf<String?>(null) }
+    val folderPicker = rememberLauncherForActivityResult(ActivityResultContracts.OpenDocumentTree()) { uri ->
+        val id = albumToRelease
+        albumToRelease = null
+        if (uri != null && id != null) controller.releaseAlbumToFolder(id, uri)
+    }
 
     Scaffold(
         topBar = {
-            Column {
-                TopAppBar(
-                    title = { Text(if (state.showAlbumList) "Albums" else if (state.tab == ActiveTab.Pictures) "Photos" else "Videos") },
-                    navigationIcon = {
-                        IconButton(onClick = {
-                            if (state.showAlbumList) controller.showMediaChooser() else controller.showAlbumList()
-                        }) {
-                            Icon(Icons.Rounded.ArrowBack, contentDescription = if (state.showAlbumList) "Back to chooser" else "Back to albums")
+            TopAppBar(
+                title = { Text(if (state.showAlbumList) "Albums" else if (state.tab == ActiveTab.Pictures) "Photos" else "Videos") },
+                navigationIcon = {
+                    IconButton(onClick = {
+                        if (state.showAlbumList) controller.showMediaChooser() else controller.showAlbumList()
+                    }) {
+                        Icon(Icons.Rounded.ArrowBack, contentDescription = if (state.showAlbumList) "Back to chooser" else "Back to albums")
+                    }
+                },
+                actions = {
+                    if (state.showAlbumList) {
+                        IconButton(onClick = { controller.openNewAlbumModal() }) {
+                            Icon(Icons.Rounded.CreateNewFolder, "New album")
                         }
-                    },
-                    actions = {
-                        if (state.showAlbumList) {
-                            IconButton(onClick = { controller.openNewAlbumModal() }) {
-                                Icon(Icons.Rounded.CreateNewFolder, "New album")
-                            }
-                        } else {
-                            IconButton(onClick = onPickFiles) { Icon(Icons.Rounded.Add, "Add photos or videos") }
-                        }
-                    },
-                )
-            }
+                    } else {
+                        IconButton(onClick = onPickFiles) { Icon(Icons.Rounded.Add, "Add photos or videos") }
+                    }
+                },
+            )
         },
     ) { padding ->
         Column(Modifier.fillMaxSize().padding(padding)) {
             if (state.showAlbumList) {
-                Text("Open an album, create a new one, or delete an album.",
+                Text("Open an album, or long-press it for more options.",
                     Modifier.padding(horizontal = 16.dp, vertical = 10.dp),
                     style = MaterialTheme.typography.bodySmall,
                     color = MaterialTheme.colorScheme.onSurfaceVariant)
@@ -82,27 +90,40 @@ fun VaultScreen(controller: WadioController, onPickFiles: () -> Unit) {
                     items(state.cachedAlbums, key = { it.id }) { album ->
                         val cover = state.albumCovers[album.id]
                         val model = cover?.let { File(baseDir, it.relativePath) } ?: Color.Gray
-                        ElevatedCard(Modifier.fillMaxWidth()) {
-                            Column(Modifier.fillMaxWidth().padding(10.dp), horizontalAlignment = Alignment.CenterHorizontally) {
-                                AsyncImage(
-                                    model = model,
-                                    contentDescription = album.name,
-                                    contentScale = ContentScale.Crop,
-                                    modifier = Modifier.fillMaxWidth().height(112.dp)
-                                        .clip(MaterialTheme.shapes.medium)
-                                        .clickable { controller.selectAlbum(album.id) },
+                        var menuExpanded by remember(album.id) { mutableStateOf(false) }
+                        Box(Modifier.fillMaxWidth().height(164.dp).clip(MaterialTheme.shapes.medium)) {
+                            AsyncImage(
+                                model = model,
+                                contentDescription = album.name,
+                                contentScale = ContentScale.Crop,
+                                modifier = Modifier.fillMaxSize().pointerInput(album.id) {
+                                    detectTapGestures(
+                                        onTap = { controller.selectAlbum(album.id) },
+                                        onLongPress = { menuExpanded = true },
+                                    )
+                                },
+                            )
+                            Box(
+                                Modifier.align(Alignment.BottomCenter).fillMaxWidth()
+                                    .background(Color.Black.copy(alpha = 0.60f))
+                                    .padding(horizontal = 10.dp, vertical = 9.dp)
+                            ) {
+                                Text(album.name, color = Color.White, maxLines = 1,
+                                    overflow = TextOverflow.Ellipsis, style = MaterialTheme.typography.titleSmall)
+                            }
+                            DropdownMenu(expanded = menuExpanded, onDismissRequest = { menuExpanded = false }) {
+                                val isDefaultAlbum = album.id == "default" || album.id == "default-videos"
+                                DropdownMenuItem(text = { Text("Rename") }, leadingIcon = { Icon(Icons.Rounded.Edit, null) }, enabled = !isDefaultAlbum, onClick = {
+                                    menuExpanded = false; renameInput = album.name; albumToRename = album
+                                })
+                                DropdownMenuItem(text = { Text("Release to folder") }, leadingIcon = { Icon(Icons.Rounded.FolderOpen, null) }, enabled = !isDefaultAlbum, onClick = {
+                                    menuExpanded = false; albumToRelease = album.id; folderPicker.launch(null)
+                                })
+                                DropdownMenuItem(
+                                    text = { Text("Delete album") }, leadingIcon = { Icon(Icons.Rounded.Delete, null) },
+                                    enabled = album.id != "default" && album.id != "default-videos",
+                                    onClick = { menuExpanded = false; albumToDelete = album },
                                 )
-                                Spacer(Modifier.height(8.dp))
-                                Row(verticalAlignment = Alignment.CenterVertically, modifier = Modifier.fillMaxWidth()) {
-                                    Text(album.name, modifier = Modifier.weight(1f).clickable { controller.selectAlbum(album.id) },
-                                        maxLines = 1, overflow = TextOverflow.Ellipsis,
-                                        style = MaterialTheme.typography.titleSmall)
-                                    if (album.id != "default" && album.id != "default-videos") {
-                                        IconButton(onClick = { albumToDelete = album }) {
-                                            Icon(Icons.Rounded.Delete, contentDescription = "Delete ${album.name}")
-                                        }
-                                    }
-                                }
                             }
                         }
                     }
@@ -114,94 +135,63 @@ fun VaultScreen(controller: WadioController, onPickFiles: () -> Unit) {
                 ) {
                     Text("${state.cachedMedia.size} items", style = MaterialTheme.typography.labelMedium)
                     Spacer(Modifier.weight(1f))
-                    SortPopup(
-                        mode = state.sortMode,
-                        ascending = state.sortAscending,
-                        onMode = controller::setSortMode,
-                        onDirection = controller::toggleSortDirection,
-                    )
+                    SortPopup(mode = state.sortMode, ascending = state.sortAscending,
+                        onMode = controller::setSortMode, onDirection = controller::toggleSortDirection)
                 }
-
                 if (state.importNotice != null) {
-                    Text(state.importNotice!!, Modifier.padding(horizontal = 12.dp, vertical = 4.dp),
-                        style = MaterialTheme.typography.bodySmall)
+                    Text(state.importNotice!!, Modifier.padding(horizontal = 12.dp, vertical = 4.dp), style = MaterialTheme.typography.bodySmall)
                 }
-
-                if (state.selectionMode) {
-                    SelectionBar(controller, state.cachedAlbums.map { it.id to it.name })
-                }
-
+                if (state.selectionMode) SelectionBar(controller, state.cachedAlbums.map { it.id to it.name })
                 if (state.cachedMedia.isEmpty()) {
                     Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
                         Text(if (state.tab == ActiveTab.Pictures) "No photos in this album yet. Tap + to add." else "No videos in this album yet. Tap + to add.")
                     }
                 } else {
                     LazyVerticalGrid(
-                        columns = GridCells.Fixed(3),
-                        contentPadding = PaddingValues(4.dp),
-                        horizontalArrangement = Arrangement.spacedBy(4.dp),
-                        verticalArrangement = Arrangement.spacedBy(4.dp),
+                        columns = GridCells.Fixed(3), contentPadding = PaddingValues(4.dp),
+                        horizontalArrangement = Arrangement.spacedBy(4.dp), verticalArrangement = Arrangement.spacedBy(4.dp),
                         modifier = Modifier.fillMaxSize(),
-                    ) {
-                        items(state.cachedMedia, key = { it.id }) { record ->
-                            MediaTile(controller, record, baseDir)
-                        }
-                    }
+                    ) { items(state.cachedMedia, key = { it.id }) { record -> MediaTile(controller, record, baseDir) } }
                 }
             }
         }
     }
 
-    // Dialogs
     if (albumToDelete != null) {
         val album = albumToDelete!!
         AlertDialog(
-            onDismissRequest = { albumToDelete = null },
-            title = { Text("Delete album?") },
-            text = { Text("Delete \"${album.name}\" and all media inside it? This cannot be undone.") },
-            confirmButton = {
-                TextButton(onClick = { controller.deleteAlbum(album.id); albumToDelete = null }) { Text("Delete permanently") }
-            },
+            onDismissRequest = { albumToDelete = null }, title = { Text("Delete album?") },
+            text = { Text("Permanently delete \"${album.name}\" and all media inside it? This cannot be undone.") },
+            confirmButton = { TextButton(onClick = { controller.deleteAlbum(album.id); albumToDelete = null }) { Text("Delete permanently") } },
             dismissButton = { TextButton(onClick = { albumToDelete = null }) { Text("Cancel") } },
+        )
+    }
+    if (albumToRename != null) {
+        val album = albumToRename!!
+        AlertDialog(
+            onDismissRequest = { albumToRename = null }, title = { Text("Rename album") },
+            text = { OutlinedTextField(value = renameInput, onValueChange = { renameInput = it }, singleLine = true, label = { Text("Album name") }) },
+            confirmButton = { TextButton(onClick = { controller.renameAlbum(album.id, renameInput); albumToRename = null }) { Text("Save") } },
+            dismissButton = { TextButton(onClick = { albumToRename = null }) { Text("Cancel") } },
         )
     }
     if (state.showNewAlbumModal) {
         AlertDialog(
-            onDismissRequest = { controller.dismissNewAlbumModal() },
-            title = { Text("New Album") },
-            text = {
-                Column {
-                    OutlinedTextField(
-                        value = state.newAlbumInput,
-                        onValueChange = { controller.updateNewAlbumInput(it) },
-                        singleLine = true,
-                        label = { Text("Name") },
-                    )
-                    if (state.albumError != null) Text(state.albumError!!,
-                        color = MaterialTheme.colorScheme.error,
-                        style = MaterialTheme.typography.bodySmall)
-                }
-            },
-            confirmButton = {
-                TextButton(onClick = { controller.createNewAlbum() }) { Text("Create") }
-            },
-            dismissButton = {
-                TextButton(onClick = { controller.dismissNewAlbumModal() }) { Text("Cancel") }
-            }
+            onDismissRequest = { controller.dismissNewAlbumModal() }, title = { Text("New Album") },
+            text = { Column {
+                OutlinedTextField(value = state.newAlbumInput, onValueChange = { controller.updateNewAlbumInput(it) }, singleLine = true, label = { Text("Name") })
+                if (state.albumError != null) Text(state.albumError!!, color = MaterialTheme.colorScheme.error, style = MaterialTheme.typography.bodySmall)
+            } },
+            confirmButton = { TextButton(onClick = { controller.createNewAlbum() }) { Text("Create") } },
+            dismissButton = { TextButton(onClick = { controller.dismissNewAlbumModal() }) { Text("Cancel") } },
         )
     }
-
     if (state.confirmDeleteSelected) {
         AlertDialog(
-            onDismissRequest = { controller.cancelDeleteSelected() },
-            title = { Text("Delete ${state.selectedMediaIds.size} selected item(s)?") },
+            onDismissRequest = { controller.cancelDeleteSelected() }, title = { Text("Delete ${state.selectedMediaIds.size} selected item(s)?") },
             text = { Text("This cannot be undone.") },
-            confirmButton = {
-                TextButton(onClick = { controller.performDeleteSelected() }) { Text("Delete permanently") }
-            },
-            dismissButton = {
-                TextButton(onClick = { controller.cancelDeleteSelected() }) { Text("Cancel") }
-            }
+            confirmButton = { TextButton(onClick = { controller.performDeleteSelected() }) { Text("Delete permanently") } },
+            dismissButton = { TextButton(onClick = { controller.cancelDeleteSelected() }) { Text("Cancel") } },
         )
     }
 }
@@ -331,14 +321,5 @@ private fun MediaTile(controller: WadioController, record: MediaRecord, baseDir:
             )
         }
 
-        Box(
-            Modifier.fillMaxWidth().align(Alignment.BottomCenter)
-                .background(Brush.verticalGradient(listOf(Color.Transparent, Color(0xCC000000))))
-                .padding(4.dp)
-        ) {
-            Text(record.fileName, color = Color.White,
-                maxLines = 1, overflow = TextOverflow.Ellipsis,
-                style = MaterialTheme.typography.labelSmall)
-        }
     }
 }

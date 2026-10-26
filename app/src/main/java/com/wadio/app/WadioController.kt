@@ -1,6 +1,12 @@
 package com.wadio.app
 
 import android.app.Application
+import android.net.Uri
+import android.provider.DocumentsContract
+import android.webkit.MimeTypeMap
+import android.media.ExifInterface
+import java.security.MessageDigest
+import java.io.FileInputStream
 import android.util.Log
 import com.wadio.app.audio.AudioVolumeController
 import com.wadio.app.audio.StreamState
@@ -421,6 +427,114 @@ class WadioController(private val app: Application) {
         }
     }
 
+    fun renameAlbum(id: String, name: String) {
+        scope.launch(Dispatchers.IO) {
+            val ok = db.renameAlbum(id, name)
+            withContext(Dispatchers.Main) {
+                _state.update { it.copy(importNotice = if (ok) "Album renamed" else "Could not rename album (name may already exist)", importNoticeEpoch = System.currentTimeMillis()) }
+                refreshVault()
+            }
+        }
+    }
+
+    /** Export all album files to a folder chosen by the user. Originals are retained
+     * until every exported file has been copied and verified, then the vault album is deleted. */
+    fun releaseAlbumToFolder(albumId: String, treeUri: Uri) = scope.launch(Dispatchers.IO) {
+        val mediaType = if (_state.value.tab == ActiveTab.Videos) "Video" else "Image"
+        val album = db.getAlbums(mediaType).firstOrNull { it.id == albumId }
+        if (album == null || albumId == "default" || albumId == "default-videos") {
+            withContext(Dispatchers.Main) { _state.update { it.copy(importNotice = "The default album cannot be released", importNoticeEpoch = System.currentTimeMillis()) } }
+            return@launch
+        }
+        val records = db.getMediaByAlbum(albumId)
+        val resolver = app.contentResolver
+        val treeDoc = runCatching {
+            DocumentsContract.buildDocumentUriUsingTree(treeUri, DocumentsContract.getTreeDocumentId(treeUri))
+        }.getOrNull()
+        if (treeDoc == null) {
+            withContext(Dispatchers.Main) { _state.update { it.copy(importNotice = "Could not access selected folder", importNoticeEpoch = System.currentTimeMillis()) } }
+            return@launch
+        }
+        val createdUris = mutableListOf<Uri>()
+        var failure: String? = null
+        try {
+            val targetDir = DocumentsContract.createDocument(resolver, treeDoc, DocumentsContract.Document.MIME_TYPE_DIR, album.name)
+                ?: throw java.io.IOException("Could not create album folder in selected destination")
+            createdUris += targetDir
+            val usedNames = mutableSetOf<String>()
+            for (record in records) {
+                val src = File(baseDir, record.relativePath)
+                if (!src.isFile) throw java.io.IOException("Missing vault file: ${record.fileName}")
+                var outName = record.fileName.ifBlank { src.name }
+                if (!usedNames.add(outName.lowercase())) {
+                    val stem = outName.substringBeforeLast('.', outName)
+                    val ext = outName.substringAfterLast('.', "").takeIf { it != outName }.orEmpty()
+                    var n = 2
+                    do { outName = if (ext.isEmpty()) "$stem ($n)" else "$stem ($n).$ext"; n++ }
+                    while (!usedNames.add(outName.lowercase()))
+                }
+                val mime = MimeTypeMap.getSingleton().getMimeTypeFromExtension(src.extension.lowercase())
+                    ?: "application/octet-stream"
+                val outUri = DocumentsContract.createDocument(resolver, targetDir, mime, outName)
+                    ?: throw java.io.IOException("Could not create ${record.fileName}")
+                createdUris += outUri
+                val copied = resolver.openOutputStream(outUri, "w")?.use { output ->
+                    src.inputStream().use { input -> input.copyTo(output) }
+                } ?: throw java.io.IOException("Could not write ${record.fileName}")
+                if (copied != src.length()) throw java.io.IOException("Verification failed for ${record.fileName}")
+            }
+            if (!db.deleteAlbumAfterRelease(albumId)) throw java.io.IOException("Files were exported, but Wadio could not remove the album")
+            val physicalFolder = File(File(File(baseDir, "media"), if (album.mediaType == "Video") "videos" else "photos"), albumId)
+            // At this point the exported copies are verified and the database row is gone.
+            runCatching { physicalFolder.deleteRecursively() }
+        } catch (t: Throwable) {
+            failure = t.message ?: "Release failed"
+            // Keep the exported copy if the DB row was already removed. Only roll back partial exports while originals remain in the vault.
+            val albumStillExists = db.getAlbums(mediaType).any { it.id == albumId }
+            if (albumStillExists) createdUris.asReversed().forEach { runCatching { DocumentsContract.deleteDocument(resolver, it) } }
+        }
+        withContext(Dispatchers.Main) {
+            _state.update { it.copy(importNotice = failure?.let { "Release failed: $it" } ?: "Album released successfully", importNoticeEpoch = System.currentTimeMillis(), selectedAlbum = if (it.selectedAlbum == albumId) if (mediaType == "Video") "default-videos" else "default" else it.selectedAlbum) }
+            refreshVault()
+        }
+    }
+
+    fun rotateImagePermanently(record: MediaRecord, degrees: Int) = scope.launch(Dispatchers.IO) {
+        val file = File(baseDir, record.relativePath)
+        var ok = false
+        var message = "Could not rotate this image format"
+        try {
+            if (!file.isFile || file.extension.equals("gif", true)) throw java.io.IOException("This image format cannot be rotated in place")
+            val exif = ExifInterface(file.absolutePath)
+            val current = when (exif.getAttributeInt(ExifInterface.TAG_ORIENTATION, ExifInterface.ORIENTATION_NORMAL)) {
+                ExifInterface.ORIENTATION_ROTATE_90 -> 90
+                ExifInterface.ORIENTATION_ROTATE_180 -> 180
+                ExifInterface.ORIENTATION_ROTATE_270 -> 270
+                else -> 0
+            }
+            val desired = ((current + degrees) % 360 + 360) % 360
+            val orientation = when (desired) {
+                90 -> ExifInterface.ORIENTATION_ROTATE_90
+                180 -> ExifInterface.ORIENTATION_ROTATE_180
+                270 -> ExifInterface.ORIENTATION_ROTATE_270
+                else -> ExifInterface.ORIENTATION_NORMAL
+            }
+            exif.setAttribute(ExifInterface.TAG_ORIENTATION, orientation.toString())
+            exif.saveAttributes()
+            val digest = MessageDigest.getInstance("SHA-256")
+            FileInputStream(file).use { input -> val buf = ByteArray(64 * 1024); while (true) { val n = input.read(buf); if (n < 0) break; digest.update(buf, 0, n) } }
+            val hash = digest.digest().joinToString("") { (it.toInt() and 0xff).toString(16).padStart(2, '0') }
+            val dbOk = db.updateRotatedMedia(record.id, file.length(), hash, record.width, record.height)
+            if (!dbOk) throw java.io.IOException("Could not update media metadata")
+            ok = true
+            message = "Image rotation saved"
+        } catch (t: Throwable) { message = t.message ?: message }
+        withContext(Dispatchers.Main) {
+            _state.update { it.copy(importNotice = message, importNoticeEpoch = System.currentTimeMillis()) }
+            refreshVault()
+        }
+    }
+
     // ─── gallery ──────────────────────────────────────────────────────────
     fun refreshVault() = scope.launch(Dispatchers.IO) {
         val mediaType = if (_state.value.tab == ActiveTab.Videos) "Video" else "Image"
@@ -483,7 +597,7 @@ class WadioController(private val app: Application) {
                 it.copy(selectedMediaIds = ids, selectionMode = ids.isNotEmpty())
             }
         } else if (record.mediaType == "Video") {
-            com.wadio.app.MainActivity.launchVideo(app, record.relativePath)
+            com.wadio.app.MainActivity.launchVideo(app, s.cachedMedia.filter { it.mediaType == "Video" }.map { it.relativePath }, s.cachedMedia.filter { it.mediaType == "Video" }.indexOfFirst { it.id == record.id })
         } else {
             _state.update { it.copy(viewerMediaId = record.id) }
             noteUserActivity()

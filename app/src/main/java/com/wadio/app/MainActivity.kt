@@ -161,10 +161,11 @@ class MainActivity : FragmentActivity() {
     }
 
     companion object {
-        fun launchVideo(context: Context, relPath: String) {
+        fun launchVideo(context: Context, paths: List<String>, initialIndex: Int) {
             val intent = Intent(context, InternalVideoActivity::class.java).apply {
                 flags = Intent.FLAG_ACTIVITY_NEW_TASK
-                putExtra(InternalVideoActivity.EXTRA_REL_PATH, relPath)
+                putStringArrayListExtra(InternalVideoActivity.EXTRA_PATHS, ArrayList(paths))
+                putExtra(InternalVideoActivity.EXTRA_INITIAL_INDEX, initialIndex.coerceAtLeast(0))
             }
             context.startActivity(intent)
         }

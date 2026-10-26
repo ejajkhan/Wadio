@@ -9,6 +9,7 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.statusBarsPadding
 import androidx.compose.material3.Button
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.Scaffold
@@ -79,7 +80,7 @@ private fun MediaChooserScreen(controller: WadioController) {
         Box(Modifier.fillMaxSize()) {
             IconButton(
                 onClick = { controller.openSettings() },
-                modifier = Modifier.align(Alignment.TopEnd).padding(12.dp),
+                modifier = Modifier.align(Alignment.TopEnd).statusBarsPadding().padding(12.dp),
             ) {
                 Text("⚙", style = MaterialTheme.typography.titleLarge)
             }
