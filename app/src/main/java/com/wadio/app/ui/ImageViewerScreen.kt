@@ -43,7 +43,8 @@ fun ImageViewerScreen(controller: WadioController) {
     Box(Modifier.fillMaxSize().background(Color.Black)) {
         AsyncImage(
             model = ImageRequest.Builder(context).data(File(baseDir, record.relativePath))
-                .memoryCacheKey(record.sha256).diskCacheKey(record.sha256).size(4096, 4096).build(),
+                .memoryCacheKey(record.sha256).diskCacheKey(record.sha256).size(4096, 4096)
+                .crossfade(240).build(),
             contentDescription = record.fileName,
             contentScale = ContentScale.Fit,
             modifier = Modifier.fillMaxSize().graphicsLayer(

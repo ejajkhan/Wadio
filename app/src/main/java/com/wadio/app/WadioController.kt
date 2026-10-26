@@ -543,8 +543,15 @@ class WadioController(private val app: Application) {
         val effectiveAlbum = if (albums.any { it.id == selected }) selected
             else albums.firstOrNull()?.id ?: if (mediaType == "Video") "default-videos" else "default"
         val records = db.getMediaByAlbum(effectiveAlbum)
-        val covers = albums.associate { it.id to db.getAlbumCover(it.id) }
-            .filterValues { it != null }.mapValues { it.value!! }
+        val sortMode = _state.value.sortMode
+        val sortAscending = _state.value.sortAscending
+        // Recompute every cover from the first item in the active sort order.
+        // This also refreshes covers after a move or deletion.
+        val covers = albums.mapNotNull { album ->
+            val albumItems = db.getMediaByAlbum(album.id)
+            val cover = sortMedia(albumItems, sortMode, sortAscending).firstOrNull()
+            if (cover != null) album.id to cover else null
+        }.toMap()
 
         withContext(Dispatchers.Main) {
             val tab = _state.value.tab
@@ -565,11 +572,13 @@ class WadioController(private val app: Application) {
     fun setSortMode(mode: MediaSortMode) {
         _state.update { it.copy(sortMode = mode, cachedMedia = sortMedia(it.cachedMedia, mode, it.sortAscending)) }
         noteUserActivity()
+        refreshVault()
     }
     fun toggleSortDirection() {
         _state.update { it.copy(sortAscending = !it.sortAscending,
             cachedMedia = sortMedia(it.cachedMedia, it.sortMode, !it.sortAscending)) }
         noteUserActivity()
+        refreshVault()
     }
 
     private fun sortMedia(items: List<MediaRecord>, mode: MediaSortMode, asc: Boolean): List<MediaRecord> {

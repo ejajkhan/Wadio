@@ -49,6 +49,7 @@ fun VaultScreen(controller: WadioController, onPickFiles: () -> Unit) {
     var selectionTargetAlbum by remember { mutableStateOf("") }
     var albumSortExpanded by remember { mutableStateOf(false) }
     var albumSortAscending by remember { mutableStateOf(true) }
+    var showDeviceMediaPicker by remember { mutableStateOf(false) }
     val folderPicker = rememberLauncherForActivityResult(ActivityResultContracts.OpenDocumentTree()) { uri ->
         val id = albumToRelease
         albumToRelease = null
@@ -123,7 +124,11 @@ fun VaultScreen(controller: WadioController, onPickFiles: () -> Unit) {
                     } else {
                         SortPopup(mode = state.sortMode, ascending = state.sortAscending,
                             onMode = controller::setSortMode, onDirection = controller::toggleSortDirection)
-                        IconButton(onClick = onPickFiles) { Icon(Icons.Rounded.Add, "Add photos or videos") }
+                        IconButton(onClick = {
+                            controller.externalPickerActive = true
+                            controller.noteUserActivity()
+                            showDeviceMediaPicker = true
+                        }) { Icon(Icons.Rounded.Add, "Add photos or videos") }
                     }
                 },
             )
@@ -402,4 +407,16 @@ private fun MediaTile(controller: WadioController, record: MediaRecord, baseDir:
         }
 
     }
+    if (showDeviceMediaPicker) {
+        DeviceMediaPicker(
+            tab = state.tab,
+            onDismiss = {
+                showDeviceMediaPicker = false
+                controller.externalPickerActive = false
+                controller.noteUserActivity()
+            },
+            onImport = { uris -> controller.startImportFromUris(uris) },
+        )
+    }
+
 }
