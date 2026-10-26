@@ -4,8 +4,8 @@ import androidx.compose.foundation.background
 import androidx.compose.foundation.gestures.awaitEachGesture
 import androidx.compose.foundation.gestures.awaitFirstDown
 import androidx.compose.ui.input.pointer.PointerEvent
-import androidx.compose.ui.input.pointer.calculatePan
-import androidx.compose.ui.input.pointer.calculateZoom
+import androidx.compose.ui.input.pointer.util.calculatePan
+import androidx.compose.ui.input.pointer.util.calculateZoom
 import androidx.compose.foundation.layout.*
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.rounded.ArrowBack
@@ -51,7 +51,6 @@ fun ImageViewerScreen(controller: WadioController) {
                 scaleX = zoom, scaleY = zoom, translationX = panX, translationY = panY,
             ).pointerInput(record.id) {
                 awaitEachGesture {
-                    awaitPointerEventScope {
                         awaitFirstDown(requireUnconsumed = false)
                         var totalX = 0f
                         var totalY = 0f
@@ -86,7 +85,6 @@ fun ImageViewerScreen(controller: WadioController) {
                         if (!hadMultiTouch && zoom <= 1.01f && abs(totalX) > 80.dp.toPx() && abs(totalX) > abs(totalY) * 1.25f) {
                             controller.viewerPrevNext(if (totalX < 0f) 1 else -1)
                         }
-                    }
                 }
             },
         )
