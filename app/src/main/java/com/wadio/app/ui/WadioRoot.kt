@@ -53,8 +53,9 @@ fun WadioRoot(
     LaunchedEffect(controller) {
         while (true) {
             controller.tick()
-            val secure = controller.state.value.showPinPrompt || controller.state.value.unlocked ||
-                controller.state.value.viewerMediaId != null
+            val current = controller.state.value
+            val secure = !current.allowScreenshots || current.showPinPrompt ||
+                current.viewerMediaId != null
             activity?.let { com.wadio.app.security.ScreenGuard.setSecure(it, secure) }
             delay(100)
         }
@@ -123,6 +124,25 @@ private fun SettingsScreen(controller: WadioController) {
         }
     ) { padding ->
         Column(Modifier.fillMaxSize().padding(padding).padding(20.dp), verticalArrangement = Arrangement.spacedBy(20.dp)) {
+            Text("Security", style = MaterialTheme.typography.titleMedium)
+            Text("Unlock method", style = MaterialTheme.typography.titleSmall)
+            listOf("both" to "PIN + fingerprint (recommended)", "pin" to "PIN only", "biometric" to "Fingerprint only (PIN fallback after 3 failures)").forEach { (mode, label) ->
+                Row(Modifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
+                    Text(label, modifier = Modifier.weight(1f), style = MaterialTheme.typography.bodyMedium)
+                    RadioButton(selected = state.authMode == mode, onClick = { controller.setAuthMode(mode) })
+                }
+            }
+            Row(Modifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
+                Column(Modifier.weight(1f)) {
+                    Text("Allow screenshots", style = MaterialTheme.typography.titleSmall)
+                    Text("Off by default. Enabling this permits screenshots when the vault is open.", style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+                }
+                Switch(checked = state.allowScreenshots, onCheckedChange = controller::setAllowScreenshots)
+            }
+            Text("Vault folder structure", style = MaterialTheme.typography.titleSmall)
+            Text("Internal app storage / files / vault / media / photos / [album ID]", style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+            Text("Internal app storage / files / vault / media / videos / [album ID]", style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+            HorizontalDivider()
             Text("Privacy and behavior", style = MaterialTheme.typography.titleMedium)
             Text("Automatic vault lock", style = MaterialTheme.typography.titleSmall)
             Text("Lock the vault after inactivity.", style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)

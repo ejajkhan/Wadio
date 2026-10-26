@@ -175,8 +175,13 @@ fun VaultScreen(controller: WadioController, onPickFiles: () -> Unit) {
                                     .background(Color.Black.copy(alpha = 0.60f))
                                     .padding(horizontal = 10.dp, vertical = 9.dp)
                             ) {
-                                Text(album.name, color = Color.White, maxLines = 1,
-                                    overflow = TextOverflow.Ellipsis, style = MaterialTheme.typography.titleSmall)
+                                Row(verticalAlignment = Alignment.CenterVertically) {
+                                    Text(album.name, color = Color.White, maxLines = 1,
+                                        overflow = TextOverflow.Ellipsis, style = MaterialTheme.typography.titleSmall,
+                                        modifier = Modifier.weight(1f))
+                                    Text("${state.albumCounts[album.id] ?: 0}", color = Color.White,
+                                        style = MaterialTheme.typography.labelMedium)
+                                }
                             }
                             DropdownMenu(expanded = menuExpanded, onDismissRequest = { menuExpanded = false }) {
                                 val isDefaultAlbum = album.id == "default" || album.id == "default-videos"

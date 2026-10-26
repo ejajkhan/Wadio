@@ -26,6 +26,8 @@ import androidx.compose.material.icons.rounded.Close
 import androidx.compose.material.icons.rounded.Folder
 import androidx.compose.material.icons.rounded.PlayArrow
 import androidx.compose.material3.*
+import androidx.compose.ui.text.input.KeyboardType
+import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -64,6 +66,8 @@ fun DeviceMediaPicker(
     var loading by remember { mutableStateOf(false) }
     var selectedFolder by remember { mutableStateOf<String?>(null) }
     var selectedUris by remember { mutableStateOf<Set<Uri>>(emptySet()) }
+    var showCustomSelect by remember { mutableStateOf(false) }
+    var customCount by remember { mutableStateOf("10") }
 
     val permissionsLauncher = rememberLauncherForActivityResult(
         ActivityResultContracts.RequestMultiplePermissions()
@@ -96,7 +100,11 @@ fun DeviceMediaPicker(
         items.groupBy { it.folderPath }.toSortedMap(String.CASE_INSENSITIVE_ORDER)
     }
     val visibleItems = remember(items, selectedFolder) {
-        if (selectedFolder == null) emptyList() else items.filter { it.folderPath == selectedFolder }
+        when (selectedFolder) {
+            null -> emptyList()
+            "__ALL_PHOTOS__" -> items
+            else -> items.filter { it.folderPath == selectedFolder }
+        }
     }
     val allVisibleSelected = visibleItems.isNotEmpty() && visibleItems.all { it.uri in selectedUris }
     val mediaNoun = if (tab == ActiveTab.Videos) "videos" else "photos"
@@ -106,8 +114,8 @@ fun DeviceMediaPicker(
         properties = DialogProperties(usePlatformDefaultWidth = false, decorFitsSystemWindows = false),
     ) {
         Surface(
-            modifier = Modifier.fillMaxWidth(0.94f).fillMaxHeight(0.82f),
-            shape = RoundedCornerShape(20.dp),
+            modifier = Modifier.fillMaxSize(),
+            shape = RoundedCornerShape(0.dp),
             color = MaterialTheme.colorScheme.surface,
             tonalElevation = 8.dp,
         ) {
@@ -174,6 +182,18 @@ fun DeviceMediaPicker(
                             contentPadding = PaddingValues(8.dp),
                             verticalArrangement = Arrangement.spacedBy(4.dp),
                         ) {
+                            item(key = "__all_photos__") {
+                                Row(
+                                    Modifier.fillMaxWidth().clip(RoundedCornerShape(12.dp))
+                                        .clickable { selectedFolder = "__ALL_PHOTOS__"; selectedUris = emptySet() }
+                                        .padding(horizontal = 12.dp, vertical = 16.dp),
+                                    verticalAlignment = Alignment.CenterVertically,
+                                ) {
+                                    Icon(Icons.Rounded.Folder, contentDescription = null, tint = MaterialTheme.colorScheme.primary)
+                                    Text("All $mediaNoun", modifier = Modifier.weight(1f).padding(start = 12.dp), style = MaterialTheme.typography.bodyLarge)
+                                    Text("${items.size}", style = MaterialTheme.typography.labelMedium)
+                                }
+                            }
                             folders.forEach { (path, folderItems) ->
                                 item(key = path) {
                                     Row(
@@ -264,6 +284,32 @@ fun DeviceMediaPicker(
                 }
             }
         }
+    }
+    if (showCustomSelect) {
+        AlertDialog(
+            onDismissRequest = { showCustomSelect = false },
+            title = { Text("Select recent items") },
+            text = {
+                Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+                    Text("Select the first X recently added $mediaNoun.")
+                    OutlinedTextField(
+                        value = customCount,
+                        onValueChange = { customCount = it.filter(Char::isDigit).take(6) },
+                        label = { Text("Number of items (X)") },
+                        keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Number),
+                        singleLine = true,
+                    )
+                }
+            },
+            confirmButton = {
+                TextButton(onClick = {
+                    val count = customCount.toIntOrNull()?.coerceIn(1, visibleItems.size.coerceAtLeast(1)) ?: 1
+                    selectedUris = selectedUris + visibleItems.take(count).map { it.uri }
+                    showCustomSelect = false
+                }, enabled = customCount.toIntOrNull() != null && visibleItems.isNotEmpty()) { Text("Select") }
+            },
+            dismissButton = { TextButton(onClick = { showCustomSelect = false }) { Text("Cancel") } },
+        )
     }
 }
 

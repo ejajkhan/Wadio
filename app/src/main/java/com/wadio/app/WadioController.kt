@@ -60,6 +60,7 @@ data class WadioUiState(
     val cachedMedia: List<MediaRecord> = emptyList(),
     val cachedAlbums: List<AlbumRecord> = emptyList(),
     val albumCovers: Map<String, MediaRecord> = emptyMap(),
+    val albumCounts: Map<String, Int> = emptyMap(),
     val selectedAlbum: String = "default",
 
     val selectionMode: Boolean = false,
@@ -81,6 +82,8 @@ data class WadioUiState(
     val showSettings: Boolean = false,
     val autoLockSeconds: Int = 60,
     val confirmDeletes: Boolean = true,
+    val allowScreenshots: Boolean = false,
+    val authMode: String = "both",
 )
 
 class WadioController(private val app: Application) {
@@ -151,6 +154,8 @@ class WadioController(private val app: Application) {
                     pinLockedUntilUnix = auth.lockUntilUnix,
                     autoLockSeconds = app.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE).getInt("auto_lock_seconds", 60),
                     confirmDeletes = app.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE).getBoolean("confirm_deletes", true),
+                    allowScreenshots = app.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE).getBoolean("allow_screenshots", false),
+                    authMode = app.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE).getString("auth_mode", "both") ?: "both",
                 )
             }
         } catch (t: Throwable) {
@@ -249,7 +254,7 @@ class WadioController(private val app: Application) {
             s.showSettings -> _state.update { it.copy(showSettings = false) }
             s.viewerMediaId != null -> closeViewer()
             s.selectionMode -> _state.update { it.copy(selectionMode = false, selectedMediaIds = emptySet(), selectionDestination = "") }
-            s.unlocked && s.showMediaChooser -> _state.update { it.copy(showMediaChooser = false, tab = ActiveTab.Audio, showAlbumList = true) }
+            s.unlocked && s.showMediaChooser -> lockVault()
             s.unlocked && !s.showAlbumList -> showAlbumList()
             s.unlocked && s.tab != ActiveTab.Audio && s.showAlbumList -> showMediaChooser()
             s.showPinPrompt -> dismissAuthPrompt()
@@ -267,6 +272,16 @@ class WadioController(private val app: Application) {
         app.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE).edit().putBoolean("confirm_deletes", enabled).apply()
         _state.update { it.copy(confirmDeletes = enabled) }
     }
+    fun setAllowScreenshots(enabled: Boolean) {
+        app.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE).edit().putBoolean("allow_screenshots", enabled).apply()
+        _state.update { it.copy(allowScreenshots = enabled) }
+    }
+    fun setAuthMode(mode: String) {
+        val safe = mode.takeIf { it in setOf("pin", "biometric", "both") } ?: "both"
+        app.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE).edit().putString("auth_mode", safe).apply()
+        _state.update { it.copy(authMode = safe) }
+    }
+
 
     fun showAlbumList() {
         _state.update { it.copy(showMediaChooser = false, showAlbumList = true, selectionMode = false, selectedMediaIds = emptySet()) }
@@ -547,11 +562,12 @@ class WadioController(private val app: Application) {
         val sortAscending = _state.value.sortAscending
         // Recompute every cover from the first item in the active sort order.
         // This also refreshes covers after a move or deletion.
-        val covers = albums.mapNotNull { album ->
-            val albumItems = db.getMediaByAlbum(album.id)
+        val albumItemsById = albums.associate { album -> album.id to db.getMediaByAlbum(album.id) }
+        val covers = albumItemsById.mapNotNull { (id, albumItems) ->
             val cover = sortMedia(albumItems, sortMode, sortAscending).firstOrNull()
-            if (cover != null) album.id to cover else null
+            if (cover != null) id to cover else null
         }.toMap()
+        val counts = albumItemsById.mapValues { it.value.size }
 
         withContext(Dispatchers.Main) {
             val tab = _state.value.tab
@@ -562,7 +578,7 @@ class WadioController(private val app: Application) {
             else records
             _state.update {
                 it.copy(
-                    cachedAlbums = albums, albumCovers = covers,
+                    cachedAlbums = albums, albumCovers = covers, albumCounts = counts,
                     selectedAlbum = effectiveAlbum, cachedMedia = sortMedia(filtered, it.sortMode, it.sortAscending),
                 )
             }
