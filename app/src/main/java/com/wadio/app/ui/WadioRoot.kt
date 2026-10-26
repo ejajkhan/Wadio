@@ -81,10 +81,7 @@ private fun MediaChooserScreen(controller: WadioController) {
                 onClick = { controller.openSettings() },
                 modifier = Modifier.align(Alignment.TopEnd).padding(12.dp),
             ) {
-                androidx.compose.material3.Icon(
-                    androidx.compose.material.icons.Icons.Rounded.Settings,
-                    contentDescription = "Settings",
-                )
+                Text("⚙", style = MaterialTheme.typography.titleLarge)
             }
             Column(
                 modifier = Modifier.fillMaxSize().padding(horizontal = 28.dp, vertical = 56.dp),
@@ -118,7 +115,7 @@ private fun SettingsScreen(controller: WadioController) {
                 title = { Text("Settings") },
                 navigationIcon = {
                     IconButton(onClick = { controller.goBack() }) {
-                        androidx.compose.material3.Icon(androidx.compose.material.icons.Icons.Rounded.ArrowBack, contentDescription = "Back")
+                        Text("←", style = MaterialTheme.typography.headlineSmall)
                     }
                 }
             )
