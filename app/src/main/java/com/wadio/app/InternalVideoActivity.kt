@@ -1,13 +1,21 @@
 package com.wadio.app
 
 import android.os.Bundle
+import android.os.Handler
+import android.os.Looper
 import android.view.WindowManager
+import android.view.SurfaceView
+import android.graphics.Bitmap
+import android.os.Build
+import android.view.PixelCopy
+import android.widget.Toast
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.rounded.Pause
+import androidx.compose.material.icons.rounded.PhotoCamera
 import androidx.compose.material.icons.rounded.PlayArrow
 import androidx.compose.material.icons.rounded.SkipNext
 import androidx.compose.material.icons.rounded.SkipPrevious
@@ -29,6 +37,11 @@ import androidx.media3.exoplayer.ExoPlayer
 import androidx.media3.ui.AspectRatioFrameLayout
 import androidx.media3.ui.PlayerView
 import kotlinx.coroutines.delay
+import com.wadio.app.data.MediaRecord
+import com.wadio.app.data.WadioDatabase
+import java.security.MessageDigest
+import java.io.FileOutputStream
+import java.util.UUID
 import java.io.File
 import java.util.Locale
 
@@ -120,6 +133,9 @@ class InternalVideoActivity : ComponentActivity() {
                             Icon(Icons.Rounded.SkipNext, "Next video", tint = if (index < paths.lastIndex) Color.White else Color.Gray)
                         }
                         Spacer(Modifier.width(18.dp))
+                        IconButton(onClick = { captureCurrentFrame() }) {
+                            Icon(Icons.Rounded.PhotoCamera, "Capture frame to Photos", tint = Color.White)
+                        }
                         IconButton(onClick = { muted = !muted; exo.volume = if (muted) 0f else 1f }) {
                             Icon(if (muted) Icons.Rounded.VolumeOff else Icons.Rounded.VolumeUp,
                                 if (muted) "Sound off" else "Sound on", tint = Color.White)
@@ -128,6 +144,58 @@ class InternalVideoActivity : ComponentActivity() {
                 }
             }
         }
+    }
+
+    private fun captureCurrentFrame() {
+        if (Build.VERSION.SDK_INT < Build.VERSION_CODES.N) {
+            Toast.makeText(this, "Frame capture requires Android 7 or later", Toast.LENGTH_SHORT).show()
+            return
+        }
+        val surface = playerView?.videoSurfaceView as? SurfaceView
+        if (surface == null || surface.width <= 0 || surface.height <= 0) {
+            Toast.makeText(this, "Video frame is not ready yet", Toast.LENGTH_SHORT).show()
+            return
+        }
+        val bitmap = Bitmap.createBitmap(surface.width, surface.height, Bitmap.Config.ARGB_8888)
+        PixelCopy.request(surface, bitmap, { result ->
+            if (result != PixelCopy.SUCCESS) {
+                bitmap.recycle()
+                Toast.makeText(this, "Could not capture this video frame", Toast.LENGTH_SHORT).show()
+                return@request
+            }
+            Thread {
+                var saved: File? = null
+                try {
+                    val root = File(filesDir, "vault")
+                    val albumDir = File(root, "media/photos/default")
+                    if (!albumDir.exists() && !albumDir.mkdirs()) throw java.io.IOException("Could not open Default album")
+                    val name = "video_frame_${System.currentTimeMillis()}.jpg"
+                    val outputFile = File(albumDir, name)
+                    saved = outputFile
+                    FileOutputStream(outputFile).use { out ->
+                        if (!bitmap.compress(Bitmap.CompressFormat.JPEG, 95, out)) throw java.io.IOException("JPEG encoding failed")
+                        out.fd.sync()
+                    }
+                    bitmap.recycle()
+                    val digest = MessageDigest.getInstance("SHA-256").digest(outputFile.readBytes()).joinToString("") { "%02x".format(it) }
+                    val db = WadioDatabase.open(this, File(root, "wadio_vault.db"), root)
+                    val rec = MediaRecord(
+                        id = UUID.randomUUID().toString(), albumId = "default", mediaType = "Image",
+                        fileName = name, byteSize = outputFile.length(), sha256 = digest,
+                        width = surface.width, height = surface.height, durationMs = null,
+                        importedAt = System.currentTimeMillis() / 1000L,
+                        relativePath = "media/photos/default/$name",
+                    )
+                    val inserted = db.insertMedia(rec) == WadioDatabase.InsertResult.Ok
+                    if (!inserted) throw java.io.IOException("Could not register the captured image")
+                    runOnUiThread { Toast.makeText(this, "Frame saved to Photos / Default", Toast.LENGTH_SHORT).show() }
+                } catch (t: Throwable) {
+                    saved?.delete()
+                    bitmap.recycle()
+                    runOnUiThread { Toast.makeText(this, "Capture failed: ${t.message ?: "unknown error"}", Toast.LENGTH_LONG).show() }
+                }
+            }.start()
+        }, Handler(Looper.getMainLooper()))
     }
 
     private fun formatTime(ms: Long): String {

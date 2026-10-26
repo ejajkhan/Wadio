@@ -609,7 +609,8 @@ class WadioController(private val app: Application) {
         val s = _state.value
         val index = s.cachedMedia.indexOfFirst { it.id == s.viewerMediaId }
         if (index < 0) return
-        val next = (index + direction).coerceIn(0, s.cachedMedia.size - 1)
+        if (s.cachedMedia.isEmpty()) return
+        val next = (index + direction + s.cachedMedia.size) % s.cachedMedia.size
         _state.update { it.copy(viewerMediaId = s.cachedMedia[next].id) }
         noteUserActivity()
     }
