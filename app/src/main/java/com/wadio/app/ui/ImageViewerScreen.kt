@@ -4,8 +4,6 @@ import androidx.compose.foundation.background
 import androidx.compose.foundation.gestures.awaitEachGesture
 import androidx.compose.foundation.gestures.awaitFirstDown
 import androidx.compose.ui.input.pointer.PointerEvent
-import androidx.compose.ui.input.pointer.util.calculatePan
-import androidx.compose.ui.input.pointer.util.calculateZoom
 import androidx.compose.foundation.layout.*
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.rounded.ArrowBack
@@ -26,6 +24,7 @@ import coil.request.ImageRequest
 import com.wadio.app.WadioController
 import java.io.File
 import kotlin.math.abs
+import kotlin.math.sqrt
 
 @Composable
 fun ImageViewerScreen(controller: WadioController) {
@@ -61,14 +60,33 @@ fun ImageViewerScreen(controller: WadioController) {
                             val pressed = event.changes.count { it.pressed }
                             if (pressed >= 2) {
                                 hadMultiTouch = true
-                                val pan = event.calculatePan()
-                                val gestureZoom = event.calculateZoom()
-                                zoom = (zoom * gestureZoom).coerceIn(1f, 5f)
-                                if (zoom > 1f) {
-                                    panX += pan.x
-                                    panY += pan.y
-                                } else {
-                                    panX = 0f; panY = 0f
+                                val active = event.changes.filter { it.pressed }
+                                if (active.size >= 2) {
+                                    val previousCenterX = active.map { it.previousPosition.x }.average().toFloat()
+                                    val previousCenterY = active.map { it.previousPosition.y }.average().toFloat()
+                                    val currentCenterX = active.map { it.position.x }.average().toFloat()
+                                    val currentCenterY = active.map { it.position.y }.average().toFloat()
+                                    val panXDelta = currentCenterX - previousCenterX
+                                    val panYDelta = currentCenterY - previousCenterY
+
+                                    var previousDistance = 0f
+                                    var currentDistance = 0f
+                                    active.forEach { change ->
+                                        val previousDx = change.previousPosition.x - previousCenterX
+                                        val previousDy = change.previousPosition.y - previousCenterY
+                                        val currentDx = change.position.x - currentCenterX
+                                        val currentDy = change.position.y - currentCenterY
+                                        previousDistance += sqrt(previousDx * previousDx + previousDy * previousDy)
+                                        currentDistance += sqrt(currentDx * currentDx + currentDy * currentDy)
+                                    }
+                                    val gestureZoom = if (previousDistance > 0.001f) currentDistance / previousDistance else 1f
+                                    zoom = (zoom * gestureZoom).coerceIn(1f, 5f)
+                                    if (zoom > 1f) {
+                                        panX += panXDelta
+                                        panY += panYDelta
+                                    } else {
+                                        panX = 0f; panY = 0f
+                                    }
                                 }
                                 event.changes.forEach { if (it.pressed) it.consume() }
                             } else if (pressed == 1) {
