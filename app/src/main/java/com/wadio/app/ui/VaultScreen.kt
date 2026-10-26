@@ -47,6 +47,8 @@ fun VaultScreen(controller: WadioController, onPickFiles: () -> Unit) {
     var selectionMenuExpanded by remember { mutableStateOf(false) }
     var selectionAction by remember { mutableStateOf("") }
     var selectionTargetAlbum by remember { mutableStateOf("") }
+    var albumSortExpanded by remember { mutableStateOf(false) }
+    var albumSortAscending by remember { mutableStateOf(true) }
     val folderPicker = rememberLauncherForActivityResult(ActivityResultContracts.OpenDocumentTree()) { uri ->
         val id = albumToRelease
         albumToRelease = null
@@ -56,7 +58,20 @@ fun VaultScreen(controller: WadioController, onPickFiles: () -> Unit) {
     Scaffold(
         topBar = {
             TopAppBar(
-                title = { Text(if (state.showAlbumList) "Albums" else if (state.tab == ActiveTab.Pictures) "Photos" else "Videos") },
+                title = {
+                    if (state.showAlbumList) {
+                        Text("Albums")
+                    } else {
+                        val currentAlbumName = state.cachedAlbums.firstOrNull { it.id == state.selectedAlbum }?.name
+                            ?: if (state.tab == ActiveTab.Pictures) "Photos" else "Videos"
+                        Row(verticalAlignment = Alignment.CenterVertically, modifier = Modifier.fillMaxWidth()) {
+                            Text(currentAlbumName, maxLines = 1, overflow = TextOverflow.Ellipsis,
+                                modifier = Modifier.weight(1f))
+                            Text("${state.cachedMedia.size}", style = MaterialTheme.typography.labelMedium,
+                                modifier = Modifier.padding(start = 8.dp, end = 4.dp))
+                        }
+                    }
+                },
                 navigationIcon = {
                     IconButton(onClick = {
                         if (state.showAlbumList) controller.showMediaChooser() else controller.showAlbumList()
@@ -66,10 +81,29 @@ fun VaultScreen(controller: WadioController, onPickFiles: () -> Unit) {
                 },
                 actions = {
                     if (state.showAlbumList) {
+                        Box {
+                            IconButton(onClick = { albumSortExpanded = true }) {
+                                Icon(Icons.Rounded.Sort, contentDescription = "Sort albums")
+                            }
+                            DropdownMenu(expanded = albumSortExpanded, onDismissRequest = { albumSortExpanded = false }) {
+                                DropdownMenuItem(
+                                    text = { Text("Name ✓") },
+                                    leadingIcon = { Icon(Icons.Rounded.SortByAlpha, null) },
+                                    onClick = { albumSortExpanded = false },
+                                )
+                                HorizontalDivider()
+                                DropdownMenuItem(
+                                    text = { Text(if (albumSortAscending) "Ascending" else "Descending") },
+                                    leadingIcon = { Icon(if (albumSortAscending) Icons.Rounded.ArrowUpward else Icons.Rounded.ArrowDownward, null) },
+                                    onClick = { albumSortAscending = !albumSortAscending; albumSortExpanded = false },
+                                )
+                            }
+                        }
                         IconButton(onClick = { controller.openNewAlbumModal() }) {
                             Icon(Icons.Rounded.CreateNewFolder, "New album")
                         }
                     } else if (state.selectionMode) {
+                        TextButton(onClick = { controller.selectAllMedia() }) { Text("Select all") }
                         Box {
                             IconButton(onClick = { selectionMenuExpanded = true }) {
                                 Icon(Icons.Rounded.MoreVert, contentDescription = "Selected item actions")
@@ -87,6 +121,8 @@ fun VaultScreen(controller: WadioController, onPickFiles: () -> Unit) {
                             }
                         }
                     } else {
+                        SortPopup(mode = state.sortMode, ascending = state.sortAscending,
+                            onMode = controller::setSortMode, onDirection = controller::toggleSortDirection)
                         IconButton(onClick = onPickFiles) { Icon(Icons.Rounded.Add, "Add photos or videos") }
                     }
                 },
@@ -95,10 +131,10 @@ fun VaultScreen(controller: WadioController, onPickFiles: () -> Unit) {
     ) { padding ->
         Column(Modifier.fillMaxSize().padding(padding)) {
             if (state.showAlbumList) {
-                Text("Open an album, or long-press it for more options.",
-                    Modifier.padding(horizontal = 16.dp, vertical = 10.dp),
-                    style = MaterialTheme.typography.bodySmall,
-                    color = MaterialTheme.colorScheme.onSurfaceVariant)
+                val displayedAlbums = remember(state.cachedAlbums, albumSortAscending) {
+                    val sorted = state.cachedAlbums.sortedBy { it.name.lowercase() }
+                    if (albumSortAscending) sorted else sorted.reversed()
+                }
                 LazyVerticalGrid(
                     columns = GridCells.Fixed(2),
                     contentPadding = PaddingValues(10.dp),
@@ -106,22 +142,29 @@ fun VaultScreen(controller: WadioController, onPickFiles: () -> Unit) {
                     verticalArrangement = Arrangement.spacedBy(10.dp),
                     modifier = Modifier.fillMaxSize(),
                 ) {
-                    items(state.cachedAlbums, key = { it.id }) { album ->
+                    items(displayedAlbums, key = { it.id }) { album ->
                         val cover = state.albumCovers[album.id]
-                        val model = cover?.let { File(baseDir, it.relativePath) } ?: Color.Gray
                         var menuExpanded by remember(album.id) { mutableStateOf(false) }
                         Box(Modifier.fillMaxWidth().height(164.dp).clip(MaterialTheme.shapes.medium)) {
-                            AsyncImage(
-                                model = model,
-                                contentDescription = album.name,
-                                contentScale = ContentScale.Crop,
-                                modifier = Modifier.fillMaxSize().pointerInput(album.id) {
-                                    detectTapGestures(
-                                        onTap = { controller.selectAlbum(album.id) },
-                                        onLongPress = { menuExpanded = true },
+                            Box(
+                                Modifier.fillMaxSize()
+                                    .background(if (cover == null) Color(0xFF777777) else Color.Transparent)
+                                    .pointerInput(album.id) {
+                                        detectTapGestures(
+                                            onTap = { controller.selectAlbum(album.id) },
+                                            onLongPress = { menuExpanded = true },
+                                        )
+                                    }
+                            ) {
+                                if (cover != null) {
+                                    AsyncImage(
+                                        model = File(baseDir, cover.relativePath),
+                                        contentDescription = album.name,
+                                        contentScale = ContentScale.Crop,
+                                        modifier = Modifier.fillMaxSize(),
                                     )
-                                },
-                            )
+                                }
+                            }
                             Box(
                                 Modifier.align(Alignment.BottomCenter).fillMaxWidth()
                                     .background(Color.Black.copy(alpha = 0.60f))
@@ -148,15 +191,6 @@ fun VaultScreen(controller: WadioController, onPickFiles: () -> Unit) {
                     }
                 }
             } else {
-                Row(
-                    Modifier.fillMaxWidth().padding(horizontal = 12.dp, vertical = 6.dp),
-                    verticalAlignment = Alignment.CenterVertically,
-                ) {
-                    Text("${state.cachedMedia.size} items", style = MaterialTheme.typography.labelMedium)
-                    Spacer(Modifier.weight(1f))
-                    SortPopup(mode = state.sortMode, ascending = state.sortAscending,
-                        onMode = controller::setSortMode, onDirection = controller::toggleSortDirection)
-                }
                 if (state.importNotice != null) {
                     Text(state.importNotice!!, Modifier.padding(horizontal = 12.dp, vertical = 4.dp), style = MaterialTheme.typography.bodySmall)
                 }

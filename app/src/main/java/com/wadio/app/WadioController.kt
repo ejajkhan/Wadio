@@ -588,6 +588,14 @@ class WadioController(private val app: Application) {
         noteUserActivity()
     }
 
+    fun selectAllMedia() {
+        val ids = _state.value.cachedMedia.map { it.id }.toSet()
+        _state.update {
+            it.copy(selectionMode = ids.isNotEmpty(), selectedMediaIds = ids)
+        }
+        noteUserActivity()
+    }
+
     fun onMediaTap(record: MediaRecord) {
         val s = _state.value
         if (s.selectionMode) {
@@ -678,8 +686,10 @@ class WadioController(private val app: Application) {
         withContext(Dispatchers.Main) {
             if (!failed) {
                 _state.update { it.copy(
-                    selectedAlbum = dest, selectionMode = false,
+                    selectionMode = false,
                     selectedMediaIds = emptySet(), selectionDestination = "",
+                    importNotice = "Selected items moved to album",
+                    importNoticeEpoch = System.currentTimeMillis(),
                 ) }
             } else {
                 _state.update { it.copy(albumError = "Some items could not be moved; database rolled back") }
