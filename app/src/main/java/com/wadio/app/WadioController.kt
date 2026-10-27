@@ -7,6 +7,10 @@ import android.webkit.MimeTypeMap
 import android.media.ExifInterface
 import java.security.MessageDigest
 import java.io.FileInputStream
+import java.io.FileOutputStream
+import java.nio.file.Files
+import java.nio.file.StandardCopyOption
+import java.nio.file.AtomicMoveNotSupportedException
 import android.util.Log
 import com.wadio.app.audio.AudioVolumeController
 import com.wadio.app.audio.StreamState
@@ -16,6 +20,7 @@ import com.wadio.app.data.MediaRecord
 import com.wadio.app.data.WadioDatabase
 import com.wadio.app.importer.ImportCoordinator
 import com.wadio.app.importer.ImportSession
+import com.wadio.app.util.ImageEnhancer
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.SupervisorJob
@@ -79,6 +84,8 @@ data class WadioUiState(
     val importNoticeEpoch: Long = 0,
 
     val viewerMediaId: String? = null,
+    val enhancementInProgress: Boolean = false,
+    val enhancementMessage: String? = null,
     val showSettings: Boolean = false,
     val autoLockSeconds: Int = 60,
     val confirmDeletes: Boolean = true,
@@ -575,6 +582,110 @@ class WadioController(private val app: Application) {
             _state.update { it.copy(importNotice = message, importNoticeEpoch = System.currentTimeMillis()) }
             refreshVault()
         }
+    }
+
+    /**
+     * Enhance the selected vault photo only after the viewer has explicitly confirmed.
+     * Processing is performed off the main thread. The original is backed up before the
+     * same-directory replacement; the backup is restored if metadata commit fails.
+     */
+    fun enhanceImagePermanently(record: MediaRecord) {
+        if (_state.value.enhancementInProgress) return
+        if (record.mediaType != "Image") {
+            _state.update { it.copy(enhancementMessage = "Only photos can be enhanced") }
+            return
+        }
+        _state.update { it.copy(enhancementInProgress = true, enhancementMessage = null) }
+        scope.launch(Dispatchers.IO) {
+            val target = File(baseDir, record.relativePath)
+            var temp: File? = null
+            var backup: File? = null
+            var backupCreated = false
+            var replaced = false
+            var committed = false
+            var message: String
+            try {
+                val vaultRoot = baseDir.canonicalFile
+                val canonicalTarget = target.canonicalFile
+                if (!canonicalTarget.path.startsWith(vaultRoot.path + File.separator)) {
+                    throw java.io.IOException("Invalid vault photo path")
+                }
+                if (!canonicalTarget.isFile) throw java.io.IOException("The original photo is missing")
+                if (!ImageEnhancer.isSupported(canonicalTarget)) {
+                    throw java.io.IOException("This image format is not supported for enhancement")
+                }
+
+                val ext = canonicalTarget.extension.lowercase()
+                temp = File(canonicalTarget.parentFile, ".${canonicalTarget.nameWithoutExtension}.wadio-enhanced.$ext")
+                backup = File(canonicalTarget.parentFile, "${canonicalTarget.name}.wadio-original-backup")
+                if (backup.exists()) throw java.io.IOException("A previous backup exists; the original was preserved. Please resolve the backup before retrying.")
+                if (temp.exists() && !temp.delete()) throw java.io.IOException("Could not clear an old temporary enhancement file")
+
+                val result = ImageEnhancer.enhance(canonicalTarget, temp)
+                FileOutputStream(temp, true).use { it.fd.sync() }
+                val digest = MessageDigest.getInstance("SHA-256")
+                FileInputStream(temp).use { input ->
+                    val buffer = ByteArray(64 * 1024)
+                    while (true) {
+                        val count = input.read(buffer)
+                        if (count < 0) break
+                        digest.update(buffer, 0, count)
+                    }
+                }
+                val hash = digest.digest().joinToString("") {
+                    (it.toInt() and 0xff).toString(16).padStart(2, '0')
+                }
+
+                Files.copy(canonicalTarget.toPath(), backup.toPath(), StandardCopyOption.REPLACE_EXISTING)
+                backupCreated = true
+                FileOutputStream(backup, true).use { it.fd.sync() }
+                // From this point onward, any failure must attempt restoration from the backup.
+                replaced = true
+                try {
+                    Files.move(temp.toPath(), canonicalTarget.toPath(),
+                        StandardCopyOption.REPLACE_EXISTING, StandardCopyOption.ATOMIC_MOVE)
+                } catch (_: AtomicMoveNotSupportedException) {
+                    Files.move(temp.toPath(), canonicalTarget.toPath(), StandardCopyOption.REPLACE_EXISTING)
+                }
+
+                if (!db.updateRotatedMedia(record.id, canonicalTarget.length(), hash, result.width, result.height)) {
+                    throw java.io.IOException("Could not update the photo database; restoring the original")
+                }
+                committed = true
+                backup.delete()
+                message = "Photo enhanced and original replaced successfully"
+            } catch (t: Throwable) {
+                message = t.message ?: "Photo enhancement failed"
+                val backupFile = backup
+                if (replaced && !committed && backupFile?.isFile == true) {
+                    try {
+                        Files.copy(backupFile.toPath(), target.toPath(), StandardCopyOption.REPLACE_EXISTING)
+                        backupFile.delete()
+                    } catch (_: Throwable) {
+                        message = "Enhancement failed and automatic restore was unsuccessful. Your original backup is at: ${backupFile.absolutePath}"
+                    }
+                } else if (backupCreated && !replaced) {
+                    // The original has not been touched, so an incomplete backup can be removed safely.
+                    backupFile?.delete()
+                }
+            } finally {
+                temp?.let { if (it.exists()) it.delete() }
+            }
+            withContext(Dispatchers.Main) {
+                val stillViewingPhoto = _state.value.viewerMediaId == record.id
+                _state.update {
+                    it.copy(
+                        enhancementInProgress = false,
+                        enhancementMessage = if (stillViewingPhoto) message else null,
+                    )
+                }
+                refreshVault()
+            }
+        }
+    }
+
+    fun dismissEnhancementMessage() {
+        _state.update { it.copy(enhancementMessage = null) }
     }
 
     // ─── gallery ──────────────────────────────────────────────────────────

@@ -27,6 +27,7 @@ import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import coil.compose.AsyncImage
 import coil.request.ImageRequest
 import com.wadio.app.WadioController
+import com.wadio.app.util.ImageEnhancer
 import java.io.File
 import kotlin.math.abs
 import kotlin.math.sqrt
@@ -43,6 +44,7 @@ fun ImageViewerScreen(controller: WadioController) {
     var panX by remember(record.id) { mutableStateOf(0f) }
     var panY by remember(record.id) { mutableStateOf(0f) }
     var menuExpanded by remember(record.id) { mutableStateOf(false) }
+    var showEnhanceConfirmation by remember(record.id) { mutableStateOf(false) }
     val slideOffset = remember { Animatable(0f) }
     var pendingSlideDirection by remember { mutableIntStateOf(0) }
     val density = LocalDensity.current
@@ -54,6 +56,8 @@ fun ImageViewerScreen(controller: WadioController) {
         }
     }
     val isGif = record.relativePath.lowercase().endsWith(".gif")
+    val canEnhance = record.mediaType == "Image" &&
+        ImageEnhancer.isSupported(File(baseDir, record.relativePath)) && !isGif
 
     Box(Modifier.fillMaxSize().background(Color.Black)) {
         AsyncImage(
@@ -139,6 +143,11 @@ fun ImageViewerScreen(controller: WadioController) {
                     Icon(Icons.Rounded.MoreVert, contentDescription = "Image options", tint = Color.White)
                 }
                 DropdownMenu(expanded = menuExpanded, onDismissRequest = { menuExpanded = false }) {
+                    DropdownMenuItem(
+                        text = { Text("Enhance photo…") },
+                        enabled = canEnhance && !state.enhancementInProgress,
+                        onClick = { menuExpanded = false; showEnhanceConfirmation = true },
+                    )
                     DropdownMenuItem(text = { Text("Rotate left 90°") }, enabled = !isGif, onClick = {
                         menuExpanded = false; controller.rotateImagePermanently(record, -90)
                     })
@@ -152,5 +161,47 @@ fun ImageViewerScreen(controller: WadioController) {
             }
         }
 
+        if (state.enhancementInProgress) {
+            Box(
+                Modifier.fillMaxSize().background(Color.Black.copy(alpha = 0.72f)),
+                contentAlignment = Alignment.Center,
+            ) {
+                Column(horizontalAlignment = Alignment.CenterHorizontally, verticalArrangement = Arrangement.spacedBy(14.dp)) {
+                    CircularProgressIndicator(color = Color.White)
+                    Text("Enhancing photo…", color = Color.White)
+                    Text("Light noise reduction and sharpening", color = Color.White.copy(alpha = 0.8f), style = MaterialTheme.typography.bodySmall)
+                }
+            }
+        }
+    }
+
+    if (showEnhanceConfirmation) {
+        AlertDialog(
+            onDismissRequest = { showEnhanceConfirmation = false },
+            title = { Text("Enhance this photo?") },
+            text = {
+                Text("Wadio will apply light noise reduction and sharpening on this device. This replaces the original photo in your vault after you confirm. The original is backed up temporarily while saving.")
+            },
+            confirmButton = {
+                TextButton(onClick = {
+                    showEnhanceConfirmation = false
+                    controller.enhanceImagePermanently(record)
+                }) { Text("Replace original") }
+            },
+            dismissButton = {
+                TextButton(onClick = { showEnhanceConfirmation = false }) { Text("Cancel") }
+            },
+        )
+    }
+
+    state.enhancementMessage?.let { message ->
+        AlertDialog(
+            onDismissRequest = { controller.dismissEnhancementMessage() },
+            title = { Text(if (message.startsWith("Photo enhanced")) "Enhancement complete" else "Enhancement not completed") },
+            text = { Text(message) },
+            confirmButton = {
+                TextButton(onClick = { controller.dismissEnhancementMessage() }) { Text("OK") }
+            },
+        )
     }
 }

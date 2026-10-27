@@ -59,6 +59,9 @@ dependencies {
     implementation("io.coil-kt:coil-gif:2.7.0")
     implementation("io.coil-kt:coil-video:2.7.0")
 
+    // Official OpenCV Android AAR from Maven Central; loaded only when enhancement is requested.
+    implementation("org.opencv:opencv:4.10.0")
+
     implementation("org.bouncycastle:bcprov-jdk18on:1.78.1")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.1")
 
