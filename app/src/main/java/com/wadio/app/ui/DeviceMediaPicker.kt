@@ -72,7 +72,7 @@ fun DeviceMediaPicker(
     val permissionsLauncher = rememberLauncherForActivityResult(
         ActivityResultContracts.RequestMultiplePermissions()
     ) { result ->
-        permissionReady = result.values.any { it } || hasMediaPermission(context, tab)
+        permissionReady = hasMediaPermission(context, tab)
         permissionDenied = !permissionReady
         permissionAttempted = true
     }
@@ -144,6 +144,10 @@ fun DeviceMediaPicker(
                         overflow = TextOverflow.Ellipsis,
                     )
                     if (selectedFolder != null) {
+                        TextButton(
+                            onClick = { showCustomSelect = true },
+                            enabled = visibleItems.isNotEmpty(),
+                        ) { Text("Custom select") }
                         TextButton(onClick = {
                             selectedUris = if (allVisibleSelected) selectedUris - visibleItems.map { it.uri }.toSet()
                                 else selectedUris + visibleItems.map { it.uri }
@@ -291,7 +295,7 @@ fun DeviceMediaPicker(
             title = { Text("Select recent items") },
             text = {
                 Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
-                    Text("Select the first X recently added $mediaNoun.")
+                    Text("Select the most recently added items from this folder. Newest items are listed first.")
                     OutlinedTextField(
                         value = customCount,
                         onValueChange = { customCount = it.filter(Char::isDigit).take(6) },
@@ -303,7 +307,7 @@ fun DeviceMediaPicker(
             },
             confirmButton = {
                 TextButton(onClick = {
-                    val count = customCount.toIntOrNull()?.coerceIn(1, visibleItems.size.coerceAtLeast(1)) ?: 1
+                    val count = customCount.toIntOrNull()?.coerceIn(1, visibleItems.size) ?: return@TextButton
                     selectedUris = selectedUris + visibleItems.take(count).map { it.uri }
                     showCustomSelect = false
                 }, enabled = customCount.toIntOrNull() != null && visibleItems.isNotEmpty()) { Text("Select") }

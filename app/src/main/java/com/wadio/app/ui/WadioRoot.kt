@@ -1,8 +1,11 @@
 package com.wadio.app.ui
 
 import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.clickable
+import androidx.compose.ui.draw.clip
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.ColumnScope
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxSize
@@ -10,6 +13,14 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.statusBarsPadding
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.verticalScroll
+import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.animation.AnimatedContent
+import androidx.compose.animation.fadeIn
+import androidx.compose.animation.fadeOut
+import androidx.compose.animation.togetherWith
+import androidx.compose.animation.core.tween
 import androidx.compose.material3.Button
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.Scaffold
@@ -62,13 +73,24 @@ fun WadioRoot(
     }
 
     Surface(Modifier.fillMaxSize(), color = MaterialTheme.colorScheme.background) {
-        Box(Modifier.fillMaxSize()) {
+        AnimatedContent(
+            targetState = when {
+                state.showPinPrompt -> "auth"
+                state.unlocked && state.viewerMediaId != null -> "viewer"
+                state.unlocked && state.showSettings -> "settings"
+                state.unlocked && state.showMediaChooser -> "chooser"
+                state.unlocked && state.tab != ActiveTab.Audio -> "vault-${state.tab}-${state.showAlbumList}"
+                else -> "home"
+            },
+            transitionSpec = { fadeIn(tween(150)) togetherWith fadeOut(tween(120)) },
+            label = "wadio-screen-transition",
+        ) { screen ->
             when {
-                state.showPinPrompt -> AuthSheet(controller = controller, onBiometric = onBiometricRequest)
-                state.unlocked && state.viewerMediaId != null -> ImageViewerScreen(controller)
-                state.unlocked && state.showSettings -> SettingsScreen(controller)
-                state.unlocked && state.showMediaChooser -> MediaChooserScreen(controller)
-                state.unlocked && state.tab != ActiveTab.Audio -> VaultScreen(controller = controller, onPickFiles = onPickFiles)
+                screen == "auth" -> AuthSheet(controller = controller, onBiometric = onBiometricRequest)
+                screen == "viewer" -> ImageViewerScreen(controller)
+                screen == "settings" -> SettingsScreen(controller)
+                screen == "chooser" -> MediaChooserScreen(controller)
+                screen.startsWith("vault-") -> VaultScreen(controller = controller, onPickFiles = onPickFiles)
                 else -> HomeScreen(controller = controller, onPickFiles = onPickFiles)
             }
         }
@@ -123,43 +145,94 @@ private fun SettingsScreen(controller: WadioController) {
             )
         }
     ) { padding ->
-        Column(Modifier.fillMaxSize().padding(padding).padding(20.dp), verticalArrangement = Arrangement.spacedBy(20.dp)) {
-            Text("Security", style = MaterialTheme.typography.titleMedium)
-            Text("Unlock method", style = MaterialTheme.typography.titleSmall)
-            listOf("both" to "PIN + fingerprint (recommended)", "pin" to "PIN only", "biometric" to "Fingerprint only (PIN fallback after 3 failures)").forEach { (mode, label) ->
+        Column(
+            Modifier.fillMaxSize().padding(padding).verticalScroll(rememberScrollState())
+                .padding(horizontal = 16.dp, vertical = 12.dp),
+            verticalArrangement = Arrangement.spacedBy(14.dp),
+        ) {
+            SettingsSection(title = "Security", subtitle = "Choose how the vault unlocks") {
+                listOf(
+                    "both" to ("PIN + fingerprint" to "Recommended: use either available method."),
+                    "pin" to ("PIN only" to "Require your PIN to unlock the vault."),
+                    "biometric" to ("Fingerprint only" to "Use biometrics first; PIN fallback after three failures."),
+                ).forEach { (mode, details) ->
+                    Row(
+                        Modifier.fillMaxWidth().clip(RoundedCornerShape(12.dp))
+                            .clickable { controller.setAuthMode(mode) }.padding(vertical = 8.dp),
+                        verticalAlignment = Alignment.CenterVertically,
+                    ) {
+                        Column(Modifier.weight(1f).padding(end = 8.dp)) {
+                            Text(details.first, style = MaterialTheme.typography.bodyLarge)
+                            Text(details.second, style = MaterialTheme.typography.bodySmall,
+                                color = MaterialTheme.colorScheme.onSurfaceVariant)
+                        }
+                        RadioButton(selected = state.authMode == mode, onClick = { controller.setAuthMode(mode) })
+                    }
+                }
+                HorizontalDivider()
+                Row(Modifier.fillMaxWidth().padding(top = 8.dp), verticalAlignment = Alignment.CenterVertically) {
+                    Column(Modifier.weight(1f).padding(end = 12.dp)) {
+                        Text("Allow screenshots", style = MaterialTheme.typography.bodyLarge)
+                        Text("Allows screenshots while the vault is open.", style = MaterialTheme.typography.bodySmall,
+                            color = MaterialTheme.colorScheme.onSurfaceVariant)
+                    }
+                    Switch(checked = state.allowScreenshots, onCheckedChange = controller::setAllowScreenshots)
+                }
+            }
+
+            SettingsSection(title = "Automatic lock", subtitle = "Lock the vault after inactivity") {
+                listOf(15 to "15 seconds", 30 to "30 seconds", 60 to "1 minute", 120 to "2 minutes", 300 to "5 minutes").forEach { (seconds, label) ->
+                    Row(
+                        Modifier.fillMaxWidth().clip(RoundedCornerShape(10.dp))
+                            .clickable { controller.setAutoLockSeconds(seconds) }.padding(vertical = 5.dp),
+                        verticalAlignment = Alignment.CenterVertically,
+                    ) {
+                        Text(label, modifier = Modifier.weight(1f), style = MaterialTheme.typography.bodyLarge)
+                        RadioButton(selected = state.autoLockSeconds == seconds, onClick = { controller.setAutoLockSeconds(seconds) })
+                    }
+                }
+            }
+
+            SettingsSection(title = "Deletion", subtitle = "Protect against accidental removal") {
                 Row(Modifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
-                    Text(label, modifier = Modifier.weight(1f), style = MaterialTheme.typography.bodyMedium)
-                    RadioButton(selected = state.authMode == mode, onClick = { controller.setAuthMode(mode) })
+                    Column(Modifier.weight(1f).padding(end = 12.dp)) {
+                        Text("Confirm permanent deletion", style = MaterialTheme.typography.bodyLarge)
+                        Text("Ask before permanently deleting selected media.", style = MaterialTheme.typography.bodySmall,
+                            color = MaterialTheme.colorScheme.onSurfaceVariant)
+                    }
+                    Switch(checked = state.confirmDeletes, onCheckedChange = controller::setConfirmDeletes)
                 }
             }
-            Row(Modifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
-                Column(Modifier.weight(1f)) {
-                    Text("Allow screenshots", style = MaterialTheme.typography.titleSmall)
-                    Text("Off by default. Enabling this permits screenshots when the vault is open.", style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
-                }
-                Switch(checked = state.allowScreenshots, onCheckedChange = controller::setAllowScreenshots)
+
+            SettingsSection(title = "Storage", subtitle = "Vault media is kept in app-private internal storage") {
+                Text("Photos: files/vault/media/photos/[album ID]", style = MaterialTheme.typography.bodySmall,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant)
+                Spacer(Modifier.height(4.dp))
+                Text("Videos: files/vault/media/videos/[album ID]", style = MaterialTheme.typography.bodySmall,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant)
             }
-            Text("Vault folder structure", style = MaterialTheme.typography.titleSmall)
-            Text("Internal app storage / files / vault / media / photos / [album ID]", style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
-            Text("Internal app storage / files / vault / media / videos / [album ID]", style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+            Spacer(Modifier.height(8.dp))
+        }
+    }
+}
+
+@Composable
+private fun SettingsSection(
+    title: String,
+    subtitle: String,
+    content: @Composable ColumnScope.() -> Unit,
+) {
+    Surface(
+        modifier = Modifier.fillMaxWidth(),
+        shape = RoundedCornerShape(18.dp),
+        color = MaterialTheme.colorScheme.surface,
+        tonalElevation = 1.dp,
+    ) {
+        Column(Modifier.padding(16.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
+            Text(title, style = MaterialTheme.typography.titleMedium)
+            Text(subtitle, style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
             HorizontalDivider()
-            Text("Privacy and behavior", style = MaterialTheme.typography.titleMedium)
-            Text("Automatic vault lock", style = MaterialTheme.typography.titleSmall)
-            Text("Lock the vault after inactivity.", style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)
-            listOf(15 to "15 seconds", 30 to "30 seconds", 60 to "1 minute", 120 to "2 minutes", 300 to "5 minutes").forEach { (seconds, label) ->
-                Row(Modifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
-                    Text(label, modifier = Modifier.weight(1f))
-                    RadioButton(selected = state.autoLockSeconds == seconds, onClick = { controller.setAutoLockSeconds(seconds) })
-                }
-            }
-            HorizontalDivider()
-            Row(Modifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
-                Column(Modifier.weight(1f)) {
-                    Text("Confirm permanent deletion", style = MaterialTheme.typography.titleSmall)
-                    Text("Ask before deleting selected media.", style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
-                }
-                Switch(checked = state.confirmDeletes, onCheckedChange = controller::setConfirmDeletes)
-            }
+            content()
         }
     }
 }

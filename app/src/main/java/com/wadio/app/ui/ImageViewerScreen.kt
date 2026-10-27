@@ -5,6 +5,7 @@ import androidx.compose.foundation.gestures.awaitEachGesture
 import androidx.compose.foundation.gestures.awaitFirstDown
 import androidx.compose.ui.input.pointer.PointerEvent
 import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.layout.statusBarsPadding
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.rounded.ArrowBack
 import androidx.compose.material.icons.rounded.MoreVert
@@ -14,6 +15,10 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.graphicsLayer
+import androidx.compose.animation.core.Animatable
+import androidx.compose.animation.core.tween
+import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.platform.LocalContext
@@ -38,6 +43,16 @@ fun ImageViewerScreen(controller: WadioController) {
     var panX by remember(record.id) { mutableStateOf(0f) }
     var panY by remember(record.id) { mutableStateOf(0f) }
     var menuExpanded by remember(record.id) { mutableStateOf(false) }
+    val slideOffset = remember { Animatable(0f) }
+    var pendingSlideDirection by remember { mutableIntStateOf(0) }
+    val density = LocalDensity.current
+    LaunchedEffect(record.id) {
+        if (pendingSlideDirection != 0) {
+            slideOffset.snapTo(with(density) { (pendingSlideDirection * 48).dp.toPx() })
+            slideOffset.animateTo(0f, animationSpec = tween(190))
+            pendingSlideDirection = 0
+        }
+    }
     val isGif = record.relativePath.lowercase().endsWith(".gif")
 
     Box(Modifier.fillMaxSize().background(Color.Black)) {
@@ -48,7 +63,7 @@ fun ImageViewerScreen(controller: WadioController) {
             contentDescription = record.fileName,
             contentScale = ContentScale.Fit,
             modifier = Modifier.fillMaxSize().graphicsLayer(
-                scaleX = zoom, scaleY = zoom, translationX = panX, translationY = panY,
+                scaleX = zoom, scaleY = zoom, translationX = panX + slideOffset.value, translationY = panY,
             ).pointerInput(record.id) {
                 awaitEachGesture {
                         awaitFirstDown(requireUnconsumed = false)
@@ -102,14 +117,17 @@ fun ImageViewerScreen(controller: WadioController) {
                             }
                         } while (event.changes.any { it.pressed })
                         if (!hadMultiTouch && zoom <= 1.01f && abs(totalX) > 80.dp.toPx() && abs(totalX) > abs(totalY) * 1.25f) {
-                            controller.viewerPrevNext(if (totalX < 0f) 1 else -1)
+                            val direction = if (totalX < 0f) 1 else -1
+                            pendingSlideDirection = direction
+                            controller.viewerPrevNext(direction)
                         }
                 }
             },
         )
 
         Row(
-            Modifier.align(Alignment.TopStart).fillMaxWidth().background(Color.Black.copy(alpha = 0.35f)).padding(horizontal = 4.dp, vertical = 4.dp),
+            Modifier.align(Alignment.TopStart).fillMaxWidth().background(Color.Black.copy(alpha = 0.35f))
+                .statusBarsPadding().padding(horizontal = 4.dp, vertical = 4.dp),
             verticalAlignment = Alignment.CenterVertically,
         ) {
             IconButton(onClick = { controller.closeViewer() }) {
