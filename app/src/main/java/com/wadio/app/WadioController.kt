@@ -84,6 +84,8 @@ data class WadioUiState(
     val confirmDeletes: Boolean = true,
     val allowScreenshots: Boolean = false,
     val authMode: String = "both",
+    val biometricFailedAttempts: Int = 0,
+    val pinFallbackAvailable: Boolean = false,
 )
 
 class WadioController(private val app: Application) {
@@ -237,8 +239,14 @@ class WadioController(private val app: Application) {
     }
 
     fun openAuthPrompt() {
-        if (!auth.unlocked) _state.update {
-            it.copy(showPinPrompt = true, pinError = null, passInput = "", confirmPassInput = "")
+        if (!auth.unlocked) {
+            _state.update {
+                it.copy(
+                    showPinPrompt = true, pinError = null, passInput = "", confirmPassInput = "",
+                    biometricFailedAttempts = 0,
+                    pinFallbackAvailable = it.authMode != "biometric" || !it.hasPin,
+                )
+            }
         }
     }
 
@@ -279,7 +287,7 @@ class WadioController(private val app: Application) {
     fun setAuthMode(mode: String) {
         val safe = mode.takeIf { it in setOf("pin", "biometric", "both") } ?: "both"
         app.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE).edit().putString("auth_mode", safe).apply()
-        _state.update { it.copy(authMode = safe) }
+        _state.update { it.copy(authMode = safe, biometricFailedAttempts = 0, pinFallbackAvailable = safe != "biometric" || !it.hasPin) }
     }
 
 
@@ -324,6 +332,7 @@ class WadioController(private val app: Application) {
     fun submitPin() {
         val s = _state.value
         if (s.authPending) return
+        if (s.hasPin && s.authMode == "biometric" && !s.pinFallbackAvailable) return
         val nowUnix = System.currentTimeMillis() / 1000L
         if (!auth.hasPin) {
             // Setup path.
@@ -378,7 +387,25 @@ class WadioController(private val app: Application) {
     }
 
     fun requestBiometric() {
+        val s = _state.value
+        if (s.authMode == "pin" || auth.unlocked || !s.showPinPrompt || !auth.hasPin) return
         scope.launch { _biometricRequest.emit(Unit) }
+    }
+
+    fun noteBiometricFailure() {
+        _state.update { current ->
+            val attempts = (current.biometricFailedAttempts + 1).coerceAtMost(3)
+            current.copy(
+                biometricFailedAttempts = attempts,
+                pinFallbackAvailable = current.authMode != "biometric" || attempts >= 3,
+            )
+        }
+    }
+
+    fun enablePinFallback(message: String? = null) {
+        _state.update {
+            it.copy(pinFallbackAvailable = true, pinError = message ?: it.pinError)
+        }
     }
 
     // ─── navigation ───────────────────────────────────────────────────────

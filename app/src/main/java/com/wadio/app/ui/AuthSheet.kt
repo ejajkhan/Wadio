@@ -27,6 +27,13 @@ fun AuthSheet(controller: WadioController, onBiometric: () -> Unit) {
     var firstPin by remember(isSetup) { mutableStateOf("") }
     var setupEntry by remember(isSetup) { mutableStateOf("") }
     val currentEntry = if (isSetup) setupEntry else state.passInput
+    val showPinEntry = isSetup || state.authMode != "biometric" || state.pinFallbackAvailable
+
+    LaunchedEffect(state.showPinPrompt, state.authMode, state.hasPin, state.pinFallbackAvailable) {
+        if (state.showPinPrompt && state.hasPin && state.authMode == "biometric" && !state.pinFallbackAvailable) {
+            onBiometric()
+        }
+    }
 
     fun addDigit(digit: String) {
         if (state.authPending || currentEntry.length >= 4) return
@@ -78,7 +85,7 @@ fun AuthSheet(controller: WadioController, onBiometric: () -> Unit) {
                 when {
                     isSetup && !setupConfirm -> "Create a 4-digit PIN"
                     isSetup -> "Confirm your PIN"
-                    else -> "Unlock Wadio"
+                    else -> if (showPinEntry) "Unlock Wadio" else "Unlock with fingerprint"
                 },
                 style = MaterialTheme.typography.headlineSmall,
                 fontWeight = FontWeight.SemiBold,
@@ -89,12 +96,18 @@ fun AuthSheet(controller: WadioController, onBiometric: () -> Unit) {
                 when {
                     isSetup && !setupConfirm -> "Choose a PIN to protect your private media"
                     isSetup -> "Enter the same four digits again"
-                    else -> "Enter your PIN or use fingerprint / device lock"
+                    else -> when {
+                        state.authMode == "biometric" && !state.pinFallbackAvailable -> "Use fingerprint or your device screen lock"
+                        state.authMode == "biometric" -> "Biometric failed three times. Enter your PIN to continue."
+                        state.authMode == "pin" -> "Enter your 4-digit PIN"
+                        else -> "Enter your PIN or use fingerprint / device lock"
+                    }
                 },
                 style = MaterialTheme.typography.bodyMedium,
                 color = Color(0xFFB9C2D0), textAlign = TextAlign.Center,
             )
             Spacer(Modifier.height(24.dp))
+            if (showPinEntry) {
             Row(horizontalArrangement = Arrangement.spacedBy(18.dp), verticalAlignment = Alignment.CenterVertically) {
                 repeat(4) { index ->
                     Box(
@@ -142,7 +155,8 @@ fun AuthSheet(controller: WadioController, onBiometric: () -> Unit) {
                     Text(if (state.authPending) "…" else "OK", fontSize = 18.sp)
                 }
             }
-            if (!isSetup) {
+            }
+            if (!isSetup && state.authMode != "pin") {
                 Spacer(Modifier.height(16.dp))
                 OutlinedButton(onClick = onBiometric, enabled = !state.authPending) {
                     Icon(Icons.Rounded.Fingerprint, contentDescription = null)

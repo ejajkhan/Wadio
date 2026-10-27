@@ -33,6 +33,8 @@ import kotlinx.coroutines.launch
 
 class MainActivity : FragmentActivity() {
 
+    private var activeBiometricPrompt: BiometricPrompt? = null
+
     private val controller: WadioController
         get() = (application as WadioApplication).controller
 
@@ -117,27 +119,41 @@ class MainActivity : FragmentActivity() {
 
     private fun launchBiometricPrompt() {
         if (controller.biometricPromptActive) return
-        if (Build.VERSION.SDK_INT < Build.VERSION_CODES.P) return
+        val state = controller.state.value
+        if (state.authMode == "pin" || !state.showPinPrompt || state.unlocked) return
+        if (Build.VERSION.SDK_INT < Build.VERSION_CODES.P) {
+            controller.enablePinFallback("Biometric authentication is not supported on this Android version")
+            return
+        }
         if (!controller.auth.hasPin) return
 
         val manager = BiometricManager.from(this)
         val allowed = BiometricManager.Authenticators.BIOMETRIC_STRONG or
             BiometricManager.Authenticators.DEVICE_CREDENTIAL
-        if (manager.canAuthenticate(allowed) != BiometricManager.BIOMETRIC_SUCCESS) return
+        if (manager.canAuthenticate(allowed) != BiometricManager.BIOMETRIC_SUCCESS) {
+            controller.enablePinFallback("Biometric authentication is unavailable. Use your PIN.")
+            return
+        }
 
         val executor = ContextCompat.getMainExecutor(this)
         val callback = object : BiometricPrompt.AuthenticationCallback() {
             override fun onAuthenticationSucceeded(result: BiometricPrompt.AuthenticationResult) {
                 super.onAuthenticationSucceeded(result)
                 controller.biometricPromptActive = false
+                activeBiometricPrompt = null
                 controller.notifyBiometricSuccess()
             }
             override fun onAuthenticationError(errorCode: Int, errString: CharSequence) {
                 super.onAuthenticationError(errorCode, errString)
                 controller.biometricPromptActive = false
+                activeBiometricPrompt = null
             }
             override fun onAuthenticationFailed() {
                 super.onAuthenticationFailed()
+                controller.noteBiometricFailure()
+                if (controller.state.value.pinFallbackAvailable) {
+                    activeBiometricPrompt?.cancelAuthentication()
+                }
             }
         }
 
@@ -154,9 +170,12 @@ class MainActivity : FragmentActivity() {
         controller.biometricPromptActive = true
         try {
             val prompt = BiometricPrompt(this, executor, callback)
+            activeBiometricPrompt = prompt
             prompt.authenticate(promptBuilder.build())
         } catch (t: Throwable) {
             controller.biometricPromptActive = false
+            activeBiometricPrompt = null
+            controller.enablePinFallback("Could not start biometric authentication. Use your PIN.")
         }
     }
 
