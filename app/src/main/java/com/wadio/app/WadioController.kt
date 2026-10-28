@@ -21,6 +21,7 @@ import com.wadio.app.data.WadioDatabase
 import com.wadio.app.importer.ImportCoordinator
 import com.wadio.app.importer.ImportSession
 import com.wadio.app.util.ImageEnhancer
+import com.wadio.app.util.ThumbnailStore
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.SupervisorJob
