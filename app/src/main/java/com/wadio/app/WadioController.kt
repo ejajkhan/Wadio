@@ -124,6 +124,13 @@ class WadioController(private val app: Application) {
     @Volatile var externalPickerActive: Boolean = false
     @Volatile var importInProgress: Boolean = false
 
+    // Retain gallery position while AnimatedContent replaces the gallery with the viewer.
+    private val galleryScrollPositions = ConcurrentHashMap<String, Pair<Int, Int>>()
+    fun galleryScrollPosition(key: String): Pair<Int, Int> = galleryScrollPositions[key] ?: (0 to 0)
+    fun saveGalleryScrollPosition(key: String, index: Int, offset: Int) {
+        galleryScrollPositions[key] = index.coerceAtLeast(0) to offset.coerceAtLeast(0)
+    }
+
     private val _state = MutableStateFlow(WadioUiState())
     val state: StateFlow<WadioUiState> = _state.asStateFlow()
 
@@ -512,6 +519,57 @@ class WadioController(private val app: Application) {
         }
     }
 
+    /** Move every item from one album to another, then remove the emptied source album. */
+    fun mergeAlbums(sourceId: String, destinationId: String) = scope.launch(Dispatchers.IO) {
+        if (sourceId == destinationId || sourceId == "default" || sourceId == "default-videos") {
+            withContext(Dispatchers.Main) {
+                _state.update { it.copy(importNotice = "Choose a different, non-default source album", importNoticeEpoch = System.currentTimeMillis()) }
+            }
+            return@launch
+        }
+        val mediaType = if (_state.value.tab == ActiveTab.Videos) "Video" else "Image"
+        val albums = db.getAlbums(mediaType)
+        if (albums.none { it.id == sourceId } || albums.none { it.id == destinationId }) {
+            withContext(Dispatchers.Main) {
+                _state.update { it.copy(importNotice = "The selected album is no longer available", importNoticeEpoch = System.currentTimeMillis()) }
+            }
+            return@launch
+        }
+        val ids = db.getMediaByAlbum(sourceId).map { it.id }
+        val moves = db.moveMediaToAlbum(ids, destinationId)
+        if (moves == null) {
+            withContext(Dispatchers.Main) {
+                _state.update { it.copy(importNotice = "Could not merge albums; destination may contain a conflicting filename", importNoticeEpoch = System.currentTimeMillis()) }
+            }
+            return@launch
+        }
+        val completed = mutableListOf<Pair<File, File>>()
+        var failed = false
+        for ((old, new) in moves) {
+            new.parentFile?.mkdirs()
+            if (!old.renameTo(new)) { failed = true; break }
+            completed += old to new
+        }
+        if (failed) {
+            completed.asReversed().forEach { (old, new) -> runCatching { old.parentFile?.mkdirs(); new.renameTo(old) } }
+            db.rollbackMediaMoves(moves)
+            withContext(Dispatchers.Main) {
+                _state.update { it.copy(importNotice = "Album merge failed; the database was rolled back", importNoticeEpoch = System.currentTimeMillis()) }
+                refreshVault()
+            }
+            return@launch
+        }
+        val deleted = db.deleteAlbum(sourceId)
+        withContext(Dispatchers.Main) {
+            _state.update { it.copy(
+                selectedAlbum = if (it.selectedAlbum == sourceId) destinationId else it.selectedAlbum,
+                importNotice = if (deleted) "Albums merged successfully" else "Media moved, but the empty source album could not be deleted",
+                importNoticeEpoch = System.currentTimeMillis(),
+            ) }
+            refreshVault()
+        }
+    }
+
     fun deleteAlbum(id: String) {
         if (id == "default") return
         scope.launch(Dispatchers.IO) {
@@ -627,6 +685,7 @@ class WadioController(private val app: Application) {
             val dbOk = db.updateRotatedMedia(record.id, file.length(), hash, record.width, record.height)
             if (!dbOk) throw java.io.IOException("Could not update media metadata")
             ok = true
+            ThumbnailStore.invalidate(baseDir, record.id)
             message = "Image rotation saved"
         } catch (t: Throwable) { message = t.message ?: message }
         withContext(Dispatchers.Main) {
@@ -762,6 +821,7 @@ class WadioController(private val app: Application) {
                     throw java.io.IOException("Could not update photo metadata; restoring the original")
                 }
                 committed = true
+                ThumbnailStore.invalidate(baseDir, record.id)
                 backup!!.delete()
                 preview.delete()
                 message = "Enhancement saved; original photo replaced successfully"

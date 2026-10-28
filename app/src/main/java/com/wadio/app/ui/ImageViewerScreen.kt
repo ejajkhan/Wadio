@@ -26,6 +26,7 @@ import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.window.Dialog
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import coil.compose.AsyncImage
 import coil.imageLoader
@@ -48,6 +49,8 @@ fun ImageViewerScreen(controller: WadioController) {
     var panX by remember(record.id) { mutableStateOf(0f) }
     var panY by remember(record.id) { mutableStateOf(0f) }
     var menuExpanded by remember(record.id) { mutableStateOf(false) }
+    var showSideBySide by remember(record.id) { mutableStateOf(false) }
+    var compareSplit by remember(record.id) { mutableFloatStateOf(0.5f) }
     val slideOffset = remember { Animatable(0f) }
     val imageAlpha = remember { Animatable(1f) }
     val imageScale = remember { Animatable(1f) }
@@ -128,7 +131,7 @@ fun ImageViewerScreen(controller: WadioController) {
             model = ImageRequest.Builder(context).data(displayedImage)
                 .memoryCacheKey(if (hasEnhancementPreview) "${record.sha256}-preview-${displayedImage.absolutePath}-${displayedImage.lastModified()}" else record.sha256)
                 .diskCacheKey(if (hasEnhancementPreview) "${record.sha256}-preview-${displayedImage.absolutePath}-${displayedImage.lastModified()}" else record.sha256)
-                .size(2048, 2048).crossfade(240).build(),
+                .size(2048, 2048).crossfade(500).build(),
             contentDescription = record.fileName,
             contentScale = ContentScale.Fit,
             modifier = Modifier.fillMaxSize().graphicsLayer(
@@ -226,6 +229,10 @@ fun ImageViewerScreen(controller: WadioController) {
                 DropdownMenu(expanded = menuExpanded, onDismissRequest = { menuExpanded = false }) {
                     if (hasEnhancementPreview) {
                         DropdownMenuItem(
+                            text = { Text("See side by side") },
+                            onClick = { menuExpanded = false; showSideBySide = true },
+                        )
+                        DropdownMenuItem(
                             text = { Text("Save the enhancement") },
                             enabled = !state.enhancementInProgress,
                             onClick = { menuExpanded = false; controller.saveEnhancementPreview(record) },
@@ -251,6 +258,60 @@ fun ImageViewerScreen(controller: WadioController) {
                     DropdownMenuItem(text = { Text("Reset zoom") }, onClick = {
                         zoom = 1f; panX = 0f; panY = 0f; menuExpanded = false
                     })
+                }
+            }
+        }
+
+        if (showSideBySide && hasEnhancementPreview) {
+            Dialog(onDismissRequest = { showSideBySide = false }) {
+                Surface(
+                    shape = MaterialTheme.shapes.large,
+                    color = Color(0xFF171717),
+                    modifier = Modifier.fillMaxWidth(),
+                ) {
+                    Column(
+                        Modifier.fillMaxWidth().padding(12.dp),
+                        verticalArrangement = Arrangement.spacedBy(10.dp),
+                    ) {
+                        Row(verticalAlignment = Alignment.CenterVertically) {
+                            Text("Original vs enhanced", color = Color.White, style = MaterialTheme.typography.titleMedium,
+                                modifier = Modifier.weight(1f))
+                            IconButton(onClick = { showSideBySide = false }) {
+                                Icon(Icons.Rounded.ArrowBack, contentDescription = "Close comparison", tint = Color.White)
+                            }
+                        }
+                        Row(
+                            Modifier.fillMaxWidth().height(320.dp),
+                            horizontalArrangement = Arrangement.spacedBy(4.dp),
+                        ) {
+                            Column(Modifier.weight(compareSplit.coerceIn(0.25f, 0.75f))) {
+                                Text("Original", color = Color.White, style = MaterialTheme.typography.labelMedium)
+                                AsyncImage(
+                                    model = ImageRequest.Builder(context).data(File(baseDir, record.relativePath))
+                                        .memoryCacheKey("compare-original-${record.sha256}")
+                                        .size(1024, 1024).crossfade(false).build(),
+                                    contentDescription = "Original photo",
+                                    contentScale = ContentScale.Fit,
+                                    modifier = Modifier.fillMaxWidth().weight(1f),
+                                )
+                            }
+                            Column(Modifier.weight((1f - compareSplit).coerceIn(0.25f, 0.75f))) {
+                                Text("Enhanced", color = Color.White, style = MaterialTheme.typography.labelMedium)
+                                AsyncImage(
+                                    model = ImageRequest.Builder(context).data(File(state.enhancementPreviewPath!!))
+                                        .memoryCacheKey("compare-enhanced-${File(state.enhancementPreviewPath!!).lastModified()}")
+                                        .size(1024, 1024).crossfade(false).build(),
+                                    contentDescription = "Enhanced photo",
+                                    contentScale = ContentScale.Fit,
+                                    modifier = Modifier.fillMaxWidth().weight(1f),
+                                )
+                            }
+                        }
+                        Text("Slide to adjust the space given to each image", color = Color.White.copy(alpha = 0.8f),
+                            style = MaterialTheme.typography.bodySmall)
+                        Slider(value = compareSplit, onValueChange = { compareSplit = it }, valueRange = 0.25f..0.75f)
+                        TextButton(onClick = { showSideBySide = false }, modifier = Modifier.align(Alignment.End)) { Text("Done") }
+                    }
                 }
             }
         }

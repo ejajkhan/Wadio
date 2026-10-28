@@ -360,7 +360,10 @@ private fun hasMediaPermission(context: Context, tab: ActiveTab): Boolean {
         if (tab == ActiveTab.Videos) Manifest.permission.READ_MEDIA_VIDEO else Manifest.permission.READ_MEDIA_IMAGES
     } else Manifest.permission.READ_EXTERNAL_STORAGE
     if (ContextCompat.checkSelfPermission(context, permission) == PackageManager.PERMISSION_GRANTED) return true
-    return Build.VERSION.SDK_INT >= 34 &&
+    // Android 14's selected-photos permission grants access to selected images only.
+    // It must never satisfy the video picker permission check, or the video folder
+    // query is skipped and the picker appears to contain no folders.
+    return tab == ActiveTab.Pictures && Build.VERSION.SDK_INT >= 34 &&
         ContextCompat.checkSelfPermission(context, Manifest.permission.READ_MEDIA_VISUAL_USER_SELECTED) == PackageManager.PERMISSION_GRANTED
 }
 

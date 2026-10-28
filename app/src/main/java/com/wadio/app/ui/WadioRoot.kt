@@ -83,7 +83,7 @@ fun WadioRoot(
                 state.unlocked && state.tab != ActiveTab.Audio -> "vault-${state.tab}-${state.showAlbumList}"
                 else -> "home"
             },
-            transitionSpec = { fadeIn(tween(150)) togetherWith fadeOut(tween(120)) },
+            transitionSpec = { fadeIn(tween(90)) togetherWith fadeOut(tween(70)) },
             label = "wadio-screen-transition",
         ) { screen ->
             when {

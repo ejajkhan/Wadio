@@ -13,6 +13,11 @@ object ThumbnailStore {
 
     fun fileFor(baseDir: File, id: String): File = File(File(baseDir, ".thumbnails"), "$id.jpg")
 
+    /** Remove a cached thumbnail after the underlying photo has been modified. */
+    fun invalidate(baseDir: File, id: String) {
+        runCatching { fileFor(baseDir, id).delete() }
+    }
+
     /** Returns an existing thumbnail or creates one off the main thread. Returns null on unsupported/corrupt media. */
     fun getOrCreate(baseDir: File, source: File, id: String, mediaType: String): File? {
         if (!source.isFile || id.isBlank() || id.contains('/') || id.contains('\\')) return null

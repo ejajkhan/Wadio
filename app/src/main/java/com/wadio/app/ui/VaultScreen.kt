@@ -5,6 +5,7 @@ import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.grid.GridCells
 import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
+import androidx.compose.foundation.lazy.grid.rememberLazyGridState
 import androidx.compose.foundation.lazy.grid.items
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.material.icons.Icons
@@ -24,6 +25,10 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.platform.LocalContext
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
+import kotlinx.coroutines.flow.collect
+import kotlinx.coroutines.flow.collectLatest
+import kotlinx.coroutines.flow.distinctUntilChanged
+import androidx.compose.runtime.snapshotFlow
 import coil.request.ImageRequest
 import com.wadio.app.util.ThumbnailStore
 import androidx.compose.ui.input.pointer.pointerInput
@@ -55,6 +60,47 @@ fun VaultScreen(controller: WadioController, onPickFiles: () -> Unit) {
     var albumSortExpanded by remember { mutableStateOf(false) }
     var albumSortAscending by remember { mutableStateOf(true) }
     var showDeviceMediaPicker by remember { mutableStateOf(false) }
+    var albumToMerge by remember { mutableStateOf<AlbumRecord?>(null) }
+    var mergeTargetId by remember { mutableStateOf("") }
+    val pinnedPreferenceKey = if (state.tab == ActiveTab.Videos) "pinned_albums_video" else "pinned_albums_image"
+    var pinnedAlbumIds by remember(state.tab) {
+        mutableStateOf(context.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE)
+            .getStringSet(pinnedPreferenceKey, emptySet()).orEmpty().toSet())
+    }
+    val galleryPositionKey = "${state.tab}:${state.selectedAlbum}"
+    val initialGalleryPosition = controller.galleryScrollPosition(galleryPositionKey)
+    val gridState = rememberLazyGridState(
+        initialFirstVisibleItemIndex = initialGalleryPosition.first,
+        initialFirstVisibleItemScrollOffset = initialGalleryPosition.second,
+    )
+    LaunchedEffect(state.tab, state.selectedAlbum, state.cachedMedia.size, gridState) {
+        val position = controller.galleryScrollPosition(galleryPositionKey)
+        if (state.cachedMedia.isNotEmpty()) {
+            gridState.scrollToItem(position.first.coerceAtMost(state.cachedMedia.lastIndex), position.second)
+        }
+    }
+    LaunchedEffect(gridState, galleryPositionKey) {
+        snapshotFlow { gridState.firstVisibleItemIndex to gridState.firstVisibleItemScrollOffset }
+            .distinctUntilChanged()
+            .collect { (index, offset) -> controller.saveGalleryScrollPosition(galleryPositionKey, index, offset) }
+    }
+    LaunchedEffect(state.cachedMedia, gridState, baseDir) {
+        // Warm a 50-item window on either side of the visible region. ThumbnailStore
+        // keeps this work off the main thread and reuses its on-disk thumbnail cache.
+        snapshotFlow { gridState.firstVisibleItemIndex / 12 to gridState.firstVisibleItemIndex }
+            .distinctUntilChanged { previous, next -> previous.first == next.first }
+            .collectLatest { (_, visibleIndex) ->
+                val center = visibleIndex.coerceAtMost((state.cachedMedia.size - 1).coerceAtLeast(0))
+                val from = (center - 50).coerceAtLeast(0)
+                val to = (center + 50).coerceAtMost(state.cachedMedia.lastIndex)
+                if (state.cachedMedia.isNotEmpty()) withContext(Dispatchers.IO) {
+                    for (index in from..to) {
+                        val record = state.cachedMedia.getOrNull(index) ?: continue
+                        ThumbnailStore.getOrCreate(baseDir, File(baseDir, record.relativePath), record.id, record.mediaType)
+                    }
+                }
+            }
+    }
     val folderPicker = rememberLauncherForActivityResult(ActivityResultContracts.OpenDocumentTree()) { uri ->
         val id = albumToRelease
         albumToRelease = null
@@ -141,9 +187,12 @@ fun VaultScreen(controller: WadioController, onPickFiles: () -> Unit) {
     ) { padding ->
         Column(Modifier.fillMaxSize().padding(padding)) {
             if (state.showAlbumList) {
-                val displayedAlbums = remember(state.cachedAlbums, albumSortAscending) {
-                    val sorted = state.cachedAlbums.sortedBy { it.name.lowercase() }
-                    if (albumSortAscending) sorted else sorted.reversed()
+                val displayedAlbums = remember(state.cachedAlbums, albumSortAscending, pinnedAlbumIds) {
+                    val pinned = state.cachedAlbums.filter { it.id in pinnedAlbumIds }
+                        .sortedBy { pinnedAlbumIds.indexOf(it.id) }
+                    val unpinned = state.cachedAlbums.filterNot { it.id in pinnedAlbumIds }
+                        .sortedBy { it.name.lowercase() }
+                    pinned + (if (albumSortAscending) unpinned else unpinned.reversed())
                 }
                 LazyVerticalGrid(
                     columns = GridCells.Fixed(2),
@@ -197,6 +246,24 @@ fun VaultScreen(controller: WadioController, onPickFiles: () -> Unit) {
                                     menuExpanded = false; albumToRelease = album.id; folderPicker.launch(null)
                                 })
                                 DropdownMenuItem(
+                                    text = { Text(if (album.id in pinnedAlbumIds) "Unpin album" else "Pin album") },
+                                    leadingIcon = { Icon(Icons.Rounded.PushPin, null) },
+                                    enabled = album.id in pinnedAlbumIds || pinnedAlbumIds.size < 3,
+                                    onClick = {
+                                        menuExpanded = false
+                                        val updated = if (album.id in pinnedAlbumIds) pinnedAlbumIds - album.id else pinnedAlbumIds + album.id
+                                        pinnedAlbumIds = updated
+                                        context.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE)
+                                            .edit().putStringSet(pinnedPreferenceKey, updated).apply()
+                                    },
+                                )
+                                DropdownMenuItem(
+                                    text = { Text("Merge into album…") },
+                                    leadingIcon = { Icon(Icons.Rounded.MergeType, null) },
+                                    enabled = album.id != "default" && album.id != "default-videos",
+                                    onClick = { menuExpanded = false; albumToMerge = album; mergeTargetId = "" },
+                                )
+                                DropdownMenuItem(
                                     text = { Text("Delete album") }, leadingIcon = { Icon(Icons.Rounded.Delete, null) },
                                     enabled = album.id != "default" && album.id != "default-videos",
                                     onClick = { menuExpanded = false; albumToDelete = album },
@@ -224,6 +291,7 @@ fun VaultScreen(controller: WadioController, onPickFiles: () -> Unit) {
                     LazyVerticalGrid(
                         columns = GridCells.Fixed(3), contentPadding = PaddingValues(4.dp),
                         horizontalArrangement = Arrangement.spacedBy(4.dp), verticalArrangement = Arrangement.spacedBy(4.dp),
+                        state = gridState,
                         modifier = Modifier.fillMaxSize(),
                     ) { items(state.cachedMedia, key = { it.id }) { record -> MediaTile(controller, record, baseDir) } }
                 }
@@ -238,6 +306,38 @@ fun VaultScreen(controller: WadioController, onPickFiles: () -> Unit) {
             text = { Text("Permanently delete \"${album.name}\" and all media inside it? This cannot be undone.") },
             confirmButton = { TextButton(onClick = { controller.deleteAlbum(album.id); albumToDelete = null }) { Text("Delete permanently") } },
             dismissButton = { TextButton(onClick = { albumToDelete = null }) { Text("Cancel") } },
+        )
+    }
+    if (albumToMerge != null) {
+        val source = albumToMerge!!
+        val destinations = state.cachedAlbums.filter { it.id != source.id }
+        AlertDialog(
+            onDismissRequest = { albumToMerge = null; mergeTargetId = "" },
+            title = { Text("Merge album") },
+            text = {
+                if (destinations.isEmpty()) Text("Create another album first.")
+                else Column {
+                    Text("All media in “${source.name}” will be moved to the selected album, then “${source.name}” will be deleted.")
+                    Spacer(Modifier.height(8.dp))
+                    destinations.forEach { album ->
+                        Row(
+                            Modifier.fillMaxWidth().clickable { mergeTargetId = album.id }.padding(vertical = 5.dp),
+                            verticalAlignment = Alignment.CenterVertically,
+                        ) {
+                            RadioButton(selected = mergeTargetId == album.id, onClick = { mergeTargetId = album.id })
+                            Text(album.name, modifier = Modifier.padding(start = 8.dp))
+                        }
+                    }
+                }
+            },
+            confirmButton = {
+                TextButton(enabled = mergeTargetId.isNotEmpty(), onClick = {
+                    controller.mergeAlbums(source.id, mergeTargetId)
+                    albumToMerge = null
+                    mergeTargetId = ""
+                }) { Text("Merge") }
+            },
+            dismissButton = { TextButton(onClick = { albumToMerge = null; mergeTargetId = "" }) { Text("Cancel") } },
         )
     }
     if (albumToRename != null) {
@@ -295,15 +395,17 @@ fun VaultScreen(controller: WadioController, onPickFiles: () -> Unit) {
     }
 
     if (showDeviceMediaPicker) {
-        DeviceMediaPicker(
-            tab = state.tab,
-            onDismiss = {
-                showDeviceMediaPicker = false
-                controller.externalPickerActive = false
-                controller.noteUserActivity()
-            },
-            onImport = { uris -> controller.startImportFromUris(uris) },
-        )
+        key(state.tab) {
+            DeviceMediaPicker(
+                tab = state.tab,
+                onDismiss = {
+                    showDeviceMediaPicker = false
+                    controller.externalPickerActive = false
+                    controller.noteUserActivity()
+                },
+                onImport = { uris -> controller.startImportFromUris(uris) },
+            )
+        }
     }
 
 }

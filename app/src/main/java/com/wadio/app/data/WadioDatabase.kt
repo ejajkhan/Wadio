@@ -193,11 +193,16 @@ class WadioDatabase private constructor(
 
     @Synchronized
     fun updateRotatedMedia(id: String, byteSize: Long, sha256: String, width: Int?, height: Int?): Boolean = try {
-        writableDatabase.execSQL(
-            "UPDATE media_items SET byte_size = ?, sha256 = ?, width = ?, height = ? WHERE id = ?",
-            arrayOf(byteSize, sha256, width, height, id)
-        )
-        writableDatabase.rawQuery("SELECT changes()", null).use { it.moveToFirst() && it.getInt(0) == 1 }
+        // SQLiteDatabase.update reports the affected-row count directly. This avoids
+        // relying on a separate SELECT changes() query after execSQL, which can
+        // incorrectly report failure on some SQLite/provider configurations.
+        val values = ContentValues().apply {
+            put("byte_size", byteSize)
+            put("sha256", sha256)
+            if (width == null) putNull("width") else put("width", width)
+            if (height == null) putNull("height") else put("height", height)
+        }
+        writableDatabase.update("media_items", values, "id = ?", arrayOf(id)) == 1
     } catch (_: Throwable) { false }
 
     /**
