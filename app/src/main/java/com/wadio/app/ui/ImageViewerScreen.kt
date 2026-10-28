@@ -52,6 +52,8 @@ fun ImageViewerScreen(controller: WadioController) {
     val imageAlpha = remember { Animatable(1f) }
     val imageScale = remember { Animatable(1f) }
     val gestureOffsetX = remember { Animatable(0f) }
+    var gestureDragX by remember(record.id) { mutableFloatStateOf(0f) }
+    val pointerScope = rememberCoroutineScope()
     var swipeWidthPx by remember { mutableFloatStateOf(0f) }
     var pendingSlideDirection by remember { mutableIntStateOf(0) }
     val density = LocalDensity.current
@@ -86,6 +88,7 @@ fun ImageViewerScreen(controller: WadioController) {
     }
 
     LaunchedEffect(record.id, state.viewerAnimation) {
+        gestureDragX = 0f
         when (state.viewerAnimation) {
             "horizontal_slide" -> {
                 if (pendingSlideDirection != 0) {
@@ -131,7 +134,7 @@ fun ImageViewerScreen(controller: WadioController) {
             modifier = Modifier.fillMaxSize().graphicsLayer(
                 scaleX = zoom * imageScale.value, scaleY = zoom * imageScale.value,
                 alpha = imageAlpha.value,
-                translationX = panX + slideOffset.value + if (state.viewerAnimation == "gesture_following") gestureOffsetX.value else 0f,
+                translationX = panX + slideOffset.value + if (state.viewerAnimation == "gesture_following") gestureDragX + gestureOffsetX.value else 0f,
                 translationY = panY,
             ).pointerInput(record.id) {
                 awaitEachGesture {
@@ -184,7 +187,7 @@ fun ImageViewerScreen(controller: WadioController) {
                                     panX += dx; panY += dy
                                     change.consume()
                                 } else if (state.viewerAnimation == "gesture_following" && abs(totalY) < 40.dp.toPx()) {
-                                    gestureOffsetX.snapTo((gestureOffsetX.value + dx).coerceIn(-size.width.toFloat(), size.width.toFloat()))
+                                    gestureDragX = (gestureDragX + dx).coerceIn(-size.width.toFloat(), size.width.toFloat())
                                     change.consume()
                                 }
                             }
@@ -192,9 +195,16 @@ fun ImageViewerScreen(controller: WadioController) {
                         if (!hadMultiTouch && zoom <= 1.01f && abs(totalX) > 80.dp.toPx() && abs(totalX) > abs(totalY) * 1.25f) {
                             val direction = if (totalX < 0f) 1 else -1
                             pendingSlideDirection = direction
+                            gestureDragX = 0f
                             controller.viewerPrevNext(direction)
-                        } else if (state.viewerAnimation == "gesture_following") {
-                            gestureOffsetX.animateTo(0f, animationSpec = tween(150))
+                        } else if (state.viewerAnimation == "gesture_following" && gestureDragX != 0f) {
+                            // Animatable's suspend APIs must run in a regular coroutine,
+                            // not inside awaitEachGesture's restricted pointer scope.
+                            pointerScope.launch {
+                                gestureOffsetX.snapTo(gestureDragX)
+                                gestureDragX = 0f
+                                gestureOffsetX.animateTo(0f, animationSpec = tween(150))
+                            }
                         }
                 }
             },
