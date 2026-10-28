@@ -1,0 +1,1733 @@
+[
+  {
+    "word": "Veracity",
+    "pronunciation_bn": "ভ্যার‍্যাসিটি",
+    "pronunciation": "/vəˈræs.ə.ti/",
+    "no": 826,
+    "group": 34,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the quality of being true or accurate",
+    "meaning_bn": [
+      "সত্যতা",
+      "যথার্থতা",
+      "সত্যনিষ্ঠা"
+    ],
+    "synonyms": [
+      {
+        "en": "truthfulness",
+        "bn": "সত্যনিষ্ঠা"
+      },
+      {
+        "en": "accuracy",
+        "bn": "যথার্থতা"
+      },
+      {
+        "en": "honesty",
+        "bn": "সততা"
+      },
+      {
+        "en": "Candor",
+        "bn": "আন্তরিক সততা"
+      },
+      {
+        "en": "verity",
+        "bn": "সত্যতা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "falsehood",
+        "bn": "মিথ্যা"
+      },
+      {
+        "en": "inaccuracy",
+        "bn": "অযথার্থতা"
+      },
+      {
+        "en": "Artifice",
+        "bn": "কূটকৌশল"
+      },
+      {
+        "en": "Chicanery",
+        "bn": "কূটচাল"
+      },
+      {
+        "en": "Collusion",
+        "bn": "গোপন আঁতাত"
+      },
+      {
+        "en": "Duplicity",
+        "bn": "দ্বিমুখীতা"
+      },
+      {
+        "en": "Fabrication",
+        "bn": "মনগড়া মিথ্যা কাহিনি"
+      }
+    ],
+    "example": "The journalist questioned the veracity of the report.",
+    "example_bn": "সাংবাদিকটি প্রতিবেদনটির সত্যতা নিয়ে প্রশ্ন তুলেছিলেন।",
+    "examples": [
+      "The journalist questioned the veracity of the report. — সাংবাদিকটি প্রতিবেদনটির সত্যতা নিয়ে প্রশ্ন তুলেছিলেন।",
+      "At dinner, she explained that 'Veracity' means 'the quality of being true or accurate', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Veracity’ শব্দটির অর্থ—সত্যতা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Veracity' as 'the quality of being true or accurate' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Veracity’ শব্দটি সত্যতা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Verbose",
+    "pronunciation_bn": "ভারবোস",
+    "pronunciation": "/vɜːˈbəʊs/",
+    "no": 827,
+    "group": 34,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "using more words than are needed",
+    "meaning_bn": [
+      "শব্দবহুল",
+      "অতিরিক্ত কথাময়",
+      "বাগাড়ম্বরপূর্ণ"
+    ],
+    "synonyms": [
+      {
+        "en": "wordy",
+        "bn": "শব্দবহুল"
+      },
+      {
+        "en": "long-winded",
+        "bn": "অতিরিক্ত কথাময়"
+      },
+      {
+        "en": "prolix",
+        "bn": "অতিরিক্ত দীর্ঘ ও শব্দবহুল"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "concise",
+        "bn": "সংক্ষিপ্ত ও স্পষ্ট"
+      },
+      {
+        "en": "succinct",
+        "bn": "সংক্ষিপ্ত ও সারগর্ভ"
+      },
+      {
+        "en": "Terse",
+        "bn": "সংক্ষিপ্ত"
+      },
+      {
+        "en": "Laconic",
+        "bn": "অল্পভাষী"
+      }
+    ],
+    "example": "His verbose essay obscured his main argument.",
+    "example_bn": "তার অতিরিক্ত শব্দবহুল প্রবন্ধে মূল যুক্তিটি অস্পষ্ট হয়ে পড়েছিল।",
+    "examples": [
+      "His verbose essay obscured his main argument. — তার অতিরিক্ত শব্দবহুল প্রবন্ধে মূল যুক্তিটি অস্পষ্ট হয়ে পড়েছিল।",
+      "At dinner, she explained that 'Verbose' means 'using more words than are needed', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Verbose’ শব্দটির অর্থ—শব্দবহুল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Verbose' as 'using more words than are needed' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Verbose’ শব্দটি শব্দবহুল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Verisimilitude",
+    "pronunciation_bn": "ভেরিসিমিলিটিউড",
+    "pronunciation": "/ˌver.ɪ.sɪˈmɪl.ɪ.tʃuːd/",
+    "no": 828,
+    "group": 34,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the quality of seeming true or real",
+    "meaning_bn": [
+      "সত্য বলে মনে হওয়ার গুণ",
+      "বাস্তবসম্মততা",
+      "বিশ্বাসযোগ্য বাস্তবতা"
+    ],
+    "synonyms": [
+      {
+        "en": "realism",
+        "bn": "বাস্তবধর্মিতা"
+      },
+      {
+        "en": "authenticity",
+        "bn": "প্রামাণিকতা"
+      },
+      {
+        "en": "plausibility",
+        "bn": "বিশ্বাসযোগ্যতা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "unreality",
+        "bn": "অবাস্তবতা"
+      },
+      {
+        "en": "implausibility",
+        "bn": "অবিশ্বাস্যতা"
+      },
+      {
+        "en": "Fabrication",
+        "bn": "মনগড়া মিথ্যা কাহিনি"
+      }
+    ],
+    "example": "The detailed setting gave the novel a strong sense of verisimilitude.",
+    "example_bn": "বিস্তারিত পরিবেশচিত্র উপন্যাসটিকে বাস্তবসম্মত করে তুলেছিল।",
+    "examples": [
+      "The detailed setting gave the novel a strong sense of verisimilitude. — বিস্তারিত পরিবেশচিত্র উপন্যাসটিকে বাস্তবসম্মত করে তুলেছিল।",
+      "At dinner, she explained that 'Verisimilitude' means 'the quality of seeming true or real', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Verisimilitude’ শব্দটির অর্থ—সত্য বলে মনে হওয়ার গুণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Verisimilitude' as 'the quality of seeming true or real' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Verisimilitude’ শব্দটি সত্য বলে মনে হওয়ার গুণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Vernacular",
+    "pronunciation_bn": "ভারন্যাকিউলার",
+    "pronunciation": "/vəˈnæk.jə.lər/",
+    "no": 829,
+    "group": 34,
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "meaning_en": "the language or dialect spoken by ordinary people in a particular place; expressed in that language",
+    "meaning_bn": [
+      "স্থানীয় কথ্যভাষা",
+      "আঞ্চলিক ভাষা",
+      "জনসাধারণের ব্যবহৃত ভাষা"
+    ],
+    "synonyms": [
+      {
+        "en": "native language",
+        "bn": "মাতৃভাষা"
+      },
+      {
+        "en": "colloquial language",
+        "bn": "কথ্যভাষা"
+      },
+      {
+        "en": "dialect",
+        "bn": "উপভাষা"
+      },
+      {
+        "en": "Colloquial",
+        "bn": "কথ্যভাষার"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "official language",
+        "bn": "সরকারি ভাষা"
+      },
+      {
+        "en": "formal language",
+        "bn": "আনুষ্ঠানিক ভাষা"
+      },
+      {
+        "en": "Dogmatic",
+        "bn": "মতান্ধ"
+      },
+      {
+        "en": "Pedantic",
+        "bn": "খুঁটিনাটি নিয়ে অতিরিক্ত ব্যস্ত"
+      }
+    ],
+    "example": "The writer used the local vernacular to make the story accessible.",
+    "example_bn": "গল্পটি সবার কাছে সহজবোধ্য করতে লেখক স্থানীয় কথ্যভাষা ব্যবহার করেছিলেন।",
+    "examples": [
+      "The writer used the local vernacular to make the story accessible. — গল্পটি সবার কাছে সহজবোধ্য করতে লেখক স্থানীয় কথ্যভাষা ব্যবহার করেছিলেন।",
+      "At dinner, she explained that 'Vernacular' means 'the language or dialect spoken by ordinary people', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Vernacular’ শব্দটির অর্থ—স্থানীয় কথ্যভাষা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Vernacular' as 'the language or dialect spoken by ordinary people' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Vernacular’ শব্দটি স্থানীয় কথ্যভাষা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Vestige",
+    "pronunciation_bn": "ভেস্টিজ",
+    "pronunciation": "/ˈves.tɪdʒ/",
+    "no": 830,
+    "group": 34,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a small remaining part or trace of something that once existed",
+    "meaning_bn": [
+      "অবশিষ্টাংশ",
+      "শেষ চিহ্ন",
+      "লেশমাত্র"
+    ],
+    "synonyms": [
+      {
+        "en": "trace",
+        "bn": "চিহ্ন"
+      },
+      {
+        "en": "remnant",
+        "bn": "অবশিষ্টাংশ"
+      },
+      {
+        "en": "relic",
+        "bn": "স্মৃতিচিহ্ন/অবশেষ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "entirety",
+        "bn": "সম্পূর্ণতা"
+      },
+      {
+        "en": "whole",
+        "bn": "সমগ্র"
+      }
+    ],
+    "example": "There was no vestige of the old building left.",
+    "example_bn": "পুরোনো ভবনটির আর কোনো চিহ্ন অবশিষ্ট ছিল না।",
+    "examples": [
+      "There was no vestige of the old building left. — পুরোনো ভবনটির আর কোনো চিহ্ন অবশিষ্ট ছিল না।",
+      "At dinner, she explained that 'Vestige' means 'a small remaining part or trace of something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Vestige’ শব্দটির অর্থ—অবশিষ্টাংশ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Vestige' as 'a small remaining part or trace of something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Vestige’ শব্দটি অবশিষ্টাংশ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Vex",
+    "pronunciation_bn": "ভেক্স",
+    "pronunciation": "/veks/",
+    "no": 831,
+    "group": 34,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to annoy, worry, or frustrate someone",
+    "meaning_bn": [
+      "বিরক্ত করা",
+      "উত্যক্ত করা",
+      "উদ্বিগ্ন করা"
+    ],
+    "synonyms": [
+      {
+        "en": "annoy",
+        "bn": "বিরক্ত করা"
+      },
+      {
+        "en": "irritate",
+        "bn": "জ্বালাতন করা"
+      },
+      {
+        "en": "aggravate",
+        "bn": "আরও বিরক্ত করা"
+      },
+      {
+        "en": "Exasperate",
+        "bn": "ভীষণ বিরক্ত করা"
+      },
+      {
+        "en": "Exacerbate",
+        "bn": "আরও খারাপ করে তোলা"
+      },
+      {
+        "en": "disgruntle",
+        "bn": "অসন্তুষ্ট করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "please",
+        "bn": "সন্তুষ্ট করা"
+      },
+      {
+        "en": "soothe",
+        "bn": "শান্ত করা"
+      },
+      {
+        "en": "comfort",
+        "bn": "সান্ত্বনা দেওয়া"
+      },
+      {
+        "en": "Assuage",
+        "bn": "প্রশমিত করা"
+      },
+      {
+        "en": "Ameliorate",
+        "bn": "উন্নত করা"
+      },
+      {
+        "en": "Alleviate",
+        "bn": "উপশম করা"
+      },
+      {
+        "en": "Atone",
+        "bn": "প্রায়শ্চিত্ত করা"
+      },
+      {
+        "en": "expiate",
+        "bn": "প্রায়শ্চিত্ত করা"
+      }
+    ],
+    "example": "His constant interruptions vexed the speaker.",
+    "example_bn": "তার বারবার বাধা দেওয়ায় বক্তা বিরক্ত হয়েছিলেন।",
+    "examples": [
+      "His constant interruptions vexed the speaker. — তার বারবার বাধা দেওয়ায় বক্তা বিরক্ত হয়েছিলেন।",
+      "At dinner, she explained that 'Vex' means 'to annoy, worry, or frustrate someone', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Vex’ শব্দটির অর্থ—বিরক্ত করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Vex' as 'to annoy, worry, or frustrate someone' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Vex’ শব্দটি বিরক্ত করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Viable",
+    "pronunciation_bn": "ভায়েবল",
+    "pronunciation": "/ˈvaɪ.ə.bəl/",
+    "no": 832,
+    "group": 34,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "able to work successfully or capable of surviving",
+    "meaning_bn": [
+      "কার্যকর",
+      "বাস্তবায়নযোগ্য",
+      "টিকে থাকার উপযোগী"
+    ],
+    "synonyms": [
+      {
+        "en": "feasible",
+        "bn": "সম্ভবপর"
+      },
+      {
+        "en": "workable",
+        "bn": "কার্যকর করা যায় এমন"
+      },
+      {
+        "en": "practicable",
+        "bn": "বাস্তবে করা সম্ভব এমন"
+      },
+      {
+        "en": "Malleable",
+        "bn": "নমনীয়"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "unworkable",
+        "bn": "কার্যকর করা অসম্ভব"
+      },
+      {
+        "en": "impracticable",
+        "bn": "বাস্তবায়ন-অযোগ্য"
+      }
+    ],
+    "example": "The committee approved a viable plan for reducing costs.",
+    "example_bn": "কমিটি খরচ কমানোর একটি বাস্তবায়নযোগ্য পরিকল্পনা অনুমোদন করেছিল।",
+    "examples": [
+      "The committee approved a viable plan for reducing costs. — কমিটি খরচ কমানোর একটি বাস্তবায়নযোগ্য পরিকল্পনা অনুমোদন করেছিল।",
+      "At dinner, she explained that 'Viable' means 'able to work successfully or capable of surviving', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Viable’ শব্দটির অর্থ—কার্যকর—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Viable' as 'able to work successfully or capable of surviving' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Viable’ শব্দটি কার্যকর অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Vicarious",
+    "pronunciation_bn": "ভাইকেরিয়াস",
+    "pronunciation": "/vɪˈkeə.ri.əs/",
+    "no": 833,
+    "group": 34,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "experienced through another person's actions or feelings rather than directly",
+    "meaning_bn": [
+      "পরোক্ষভাবে অনুভূত",
+      "অন্যের অভিজ্ঞতার মাধ্যমে অনুভূত"
+    ],
+    "synonyms": [
+      {
+        "en": "indirect",
+        "bn": "পরোক্ষ"
+      },
+      {
+        "en": "second-hand",
+        "bn": "অন্যের অভিজ্ঞতা থেকে পাওয়া"
+      },
+      {
+        "en": "empathetic",
+        "bn": "সহানুভূতিশীল"
+      },
+      {
+        "en": "Circuitous",
+        "bn": "ঘুরপ্যাঁচযুক্ত"
+      },
+      {
+        "en": "Oblique",
+        "bn": "পরোক্ষ"
+      },
+      {
+        "en": "Tangential",
+        "bn": "মূল বিষয়ের সঙ্গে সরাসরি সম্পর্কহীন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "direct",
+        "bn": "প্রত্যক্ষ"
+      },
+      {
+        "en": "first-hand",
+        "bn": "নিজের প্রত্যক্ষ অভিজ্ঞতালব্ধ"
+      }
+    ],
+    "example": "She experienced vicarious excitement while watching her brother compete.",
+    "example_bn": "ভাইকে প্রতিযোগিতায় অংশ নিতে দেখে সে পরোক্ষভাবে রোমাঞ্চ অনুভব করেছিল।",
+    "examples": [
+      "She experienced vicarious excitement while watching her brother compete. — ভাইকে প্রতিযোগিতায় অংশ নিতে দেখে সে পরোক্ষভাবে রোমাঞ্চ অনুভব করেছিল।",
+      "At dinner, she explained that 'Vicarious' means 'experienced through another person's actions or feelings rather', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Vicarious’ শব্দটির অর্থ—পরোক্ষভাবে অনুভূত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Vicarious' as 'experienced through another person's actions or feelings rather' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Vicarious’ শব্দটি পরোক্ষভাবে অনুভূত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Vicissitude",
+    "pronunciation_bn": "ভিসিসিটিউড",
+    "pronunciation": "/vɪˈsɪs.ɪ.tjuːd/",
+    "no": 834,
+    "group": 34,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a change in circumstances or fortune, especially an unpleasant one",
+    "meaning_bn": [
+      "পরিস্থিতির পরিবর্তন",
+      "ভাগ্যের উত্থান-পতন",
+      "জীবনের ঘাত-প্রতিঘাত"
+    ],
+    "synonyms": [
+      {
+        "en": "change",
+        "bn": "পরিবর্তন"
+      },
+      {
+        "en": "fluctuation",
+        "bn": "ওঠানামা"
+      },
+      {
+        "en": "ups and downs",
+        "bn": "উত্থান-পতন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "stability",
+        "bn": "স্থিতিশীলতা"
+      },
+      {
+        "en": "constancy",
+        "bn": "অপরিবর্তনশীলতা"
+      }
+    ],
+    "example": "She faced the vicissitudes of life with remarkable courage.",
+    "example_bn": "তিনি অসাধারণ সাহসের সঙ্গে জীবনের উত্থান-পতন মোকাবিলা করেছিলেন।",
+    "examples": [
+      "She faced the vicissitudes of life with remarkable courage. — তিনি অসাধারণ সাহসের সঙ্গে জীবনের উত্থান-পতন মোকাবিলা করেছিলেন।",
+      "At dinner, she explained that 'Vicissitude' means 'a change in circumstances or fortune, especially', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Vicissitude’ শব্দটির অর্থ—পরিস্থিতির পরিবর্তন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Vicissitude' as 'a change in circumstances or fortune, especially' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Vicissitude’ শব্দটি পরিস্থিতির পরিবর্তন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Vilify",
+    "pronunciation_bn": "ভিলিফাই",
+    "pronunciation": "/ˈvɪl.ɪ.faɪ/",
+    "no": 835,
+    "group": 34,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to say or write unpleasant things about someone in order to damage their reputation",
+    "meaning_bn": [
+      "নিন্দা করা",
+      "কুৎসা রটানো",
+      "বদনাম করা"
+    ],
+    "synonyms": [
+      {
+        "en": "defame",
+        "bn": "মানহানি করা"
+      },
+      {
+        "en": "malign",
+        "bn": "অপবাদ দেওয়া"
+      },
+      {
+        "en": "denigrate",
+        "bn": "হেয় করা"
+      },
+      {
+        "en": "Slander",
+        "bn": "মিথ্যা মৌখিক অপবাদ দেওয়া"
+      },
+      {
+        "en": "revile",
+        "bn": "গালাগাল করা"
+      },
+      {
+        "en": "Libel",
+        "bn": "লিখিত বা প্রকাশিত মানহানিকর মিথ্যা বক্তব্য"
+      },
+      {
+        "en": "Disparage",
+        "bn": "তুচ্ছতাচ্ছিল্য করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "praise",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "commend",
+        "bn": "সুনাম করা"
+      },
+      {
+        "en": "laud",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "Exonerate",
+        "bn": "দোষমুক্ত করা"
+      },
+      {
+        "en": "Acclaim",
+        "bn": "প্রকাশ্যে প্রশংসা করা"
+      },
+      {
+        "en": "Acquit",
+        "bn": "অপরাধের অভিযোগ থেকে খালাস দেওয়া"
+      },
+      {
+        "en": "Exalt",
+        "bn": "উচ্চ প্রশংসা করা"
+      },
+      {
+        "en": "Extol",
+        "bn": "ভূয়সী প্রশংসা করা"
+      }
+    ],
+    "example": "The columnist was criticized for trying to vilify his opponent.",
+    "example_bn": "প্রতিপক্ষকে বদনাম করার চেষ্টা করায় কলাম লেখক সমালোচিত হয়েছিলেন।",
+    "examples": [
+      "The columnist was criticized for trying to vilify his opponent. — প্রতিপক্ষকে বদনাম করার চেষ্টা করায় কলাম লেখক সমালোচিত হয়েছিলেন।",
+      "At dinner, she explained that 'Vilify' means 'to say or write unpleasant things about someone', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Vilify’ শব্দটির অর্থ—নিন্দা করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Vilify' as 'to say or write unpleasant things about someone' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Vilify’ শব্দটি নিন্দা করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Vindicate",
+    "pronunciation_bn": "ভিন্ডিকেট",
+    "pronunciation": "/ˈvɪn.dɪ.keɪt/",
+    "no": 836,
+    "group": 34,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to prove that someone is not guilty or that a belief or decision is justified",
+    "meaning_bn": [
+      "নির্দোষ প্রমাণ করা",
+      "ন্যায্যতা প্রতিষ্ঠা করা",
+      "সঠিকতা প্রমাণ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "exonerate",
+        "bn": "দোষমুক্ত করা"
+      },
+      {
+        "en": "justify",
+        "bn": "ন্যায্যতা প্রমাণ করা"
+      },
+      {
+        "en": "clear",
+        "bn": "দোষমুক্ত করা"
+      },
+      {
+        "en": "Acquit",
+        "bn": "খালাস দেওয়া"
+      },
+      {
+        "en": "Absolve",
+        "bn": "দায়মুক্ত করা"
+      },
+      {
+        "en": "warrant",
+        "bn": "যৌক্তিকতা প্রদান করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "incriminate",
+        "bn": "অপরাধে জড়িত প্রমাণ করা"
+      },
+      {
+        "en": "condemn",
+        "bn": "দোষী সাব্যস্ত করা"
+      },
+      {
+        "en": "Stigmatize",
+        "bn": "কলঙ্কিত করা"
+      },
+      {
+        "en": "Impeach",
+        "bn": "অভিশংসন করা"
+      },
+      {
+        "en": "Impugn",
+        "bn": "সততা নিয়ে প্রশ্ন তোলা"
+      },
+      {
+        "en": "Defame",
+        "bn": "মানহানি করা"
+      },
+      {
+        "en": "Slander",
+        "bn": "মিথ্যা মৌখিক অপবাদ দেওয়া"
+      },
+      {
+        "en": "Vilify",
+        "bn": "নিন্দা করা"
+      },
+      {
+        "en": "Arraign",
+        "bn": "অভিযোগের জবাব দিতে আদালতে হাজির করা"
+      },
+      {
+        "en": "Indict",
+        "bn": "অপরাধের আনুষ্ঠানিক অভিযোগ আনা"
+      },
+      {
+        "en": "Libel",
+        "bn": "লিখিত বা প্রকাশিত মানহানিকর মিথ্যা বক্তব্য"
+      }
+    ],
+    "example": "New evidence vindicated the accused man.",
+    "example_bn": "নতুন প্রমাণ অভিযুক্ত ব্যক্তিকে নির্দোষ প্রমাণ করেছিল।",
+    "examples": [
+      "New evidence vindicated the accused man. — নতুন প্রমাণ অভিযুক্ত ব্যক্তিকে নির্দোষ প্রমাণ করেছিল।",
+      "At dinner, she explained that 'Vindicate' means 'to prove that someone is not guilty', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Vindicate’ শব্দটির অর্থ—নির্দোষ প্রমাণ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Vindicate' as 'to prove that someone is not guilty' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Vindicate’ শব্দটি নির্দোষ প্রমাণ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Vindictive",
+    "pronunciation_bn": "ভিন্ডিক্টিভ",
+    "pronunciation": "/vɪnˈdɪk.tɪv/",
+    "no": 837,
+    "group": 34,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "having or showing a strong desire for revenge",
+    "meaning_bn": [
+      "প্রতিশোধপরায়ণ",
+      "প্রতিহিংসাপরায়ণ"
+    ],
+    "synonyms": [
+      {
+        "en": "vengeful",
+        "bn": "প্রতিশোধপরায়ণ"
+      },
+      {
+        "en": "spiteful",
+        "bn": "বিদ্বেষপরায়ণ"
+      },
+      {
+        "en": "revengeful",
+        "bn": "প্রতিহিংসাপরায়ণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "forgiving",
+        "bn": "ক্ষমাশীল"
+      },
+      {
+        "en": "benevolent",
+        "bn": "পরহিতৈষী"
+      },
+      {
+        "en": "merciful",
+        "bn": "দয়ালু"
+      },
+      {
+        "en": "Magnanimous",
+        "bn": "মহানুভব"
+      },
+      {
+        "en": "Munificent",
+        "bn": "বিশেষত অর্থ বা উপহার দেওয়ার ক্ষেত্রে অত্যন্ত উদার"
+      },
+      {
+        "en": "Sublime",
+        "bn": "মহিমান্বিত"
+      },
+      {
+        "en": "Avuncular",
+        "bn": "মামা বা চাচার মতো স্নেহশীল"
+      },
+      {
+        "en": "Opulent",
+        "bn": "বিলাসবহুল"
+      }
+    ],
+    "example": "He made a vindictive remark after losing the election.",
+    "example_bn": "নির্বাচনে হেরে যাওয়ার পর সে প্রতিহিংসাপরায়ণ মন্তব্য করেছিল।",
+    "examples": [
+      "He made a vindictive remark after losing the election. — নির্বাচনে হেরে যাওয়ার পর সে প্রতিহিংসাপরায়ণ মন্তব্য করেছিল।",
+      "At dinner, she explained that 'Vindictive' means 'having or showing a strong desire for revenge', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Vindictive’ শব্দটির অর্থ—প্রতিশোধপরায়ণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Vindictive' as 'having or showing a strong desire for revenge' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Vindictive’ শব্দটি প্রতিশোধপরায়ণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Virtuoso",
+    "pronunciation_bn": "ভার্চুয়োসো",
+    "pronunciation": "/ˌvɜː.tʃuˈəʊ.səʊ/",
+    "no": 838,
+    "group": 34,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a person who is extremely skilled at something, especially playing music",
+    "meaning_bn": [
+      "অসাধারণ দক্ষ ব্যক্তি",
+      "দক্ষ সংগীতশিল্পী",
+      "গুণী শিল্পী"
+    ],
+    "synonyms": [
+      {
+        "en": "expert",
+        "bn": "বিশেষজ্ঞ"
+      },
+      {
+        "en": "master",
+        "bn": "ওস্তাদ"
+      },
+      {
+        "en": "maestro",
+        "bn": "সংগীতগুরু"
+      },
+      {
+        "en": "Connoisseur",
+        "bn": "রসজ্ঞ"
+      },
+      {
+        "en": "pundit",
+        "bn": "বিশেষজ্ঞ"
+      },
+      {
+        "en": "savant",
+        "bn": "অত্যন্ত জ্ঞানী ব্যক্তি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "amateur",
+        "bn": "অপেশাদার"
+      },
+      {
+        "en": "novice",
+        "bn": "নবীন"
+      },
+      {
+        "en": "beginner",
+        "bn": "শিক্ষানবিশ"
+      },
+      {
+        "en": "Dilettante",
+        "bn": "শখের শিল্পরসিক"
+      },
+      {
+        "en": "Charlatan",
+        "bn": "ভণ্ড"
+      },
+      {
+        "en": "fledgling",
+        "bn": "সদ্য উড়তে শেখা পাখি"
+      },
+      {
+        "en": "neophyte",
+        "bn": "নবাগত"
+      },
+      {
+        "en": "Layman",
+        "bn": "অবিশেষজ্ঞ ব্যক্তি"
+      }
+    ],
+    "example": "At seventeen, she was already a virtuoso pianist.",
+    "example_bn": "সতেরো বছর বয়সেই সে একজন অসাধারণ দক্ষ পিয়ানোবাদক হয়ে উঠেছিল।",
+    "examples": [
+      "At seventeen, she was already a virtuoso pianist. — সতেরো বছর বয়সেই সে একজন অসাধারণ দক্ষ পিয়ানোবাদক হয়ে উঠেছিল।",
+      "At dinner, she explained that 'Virtuoso' means 'a person who is extremely skilled at something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Virtuoso’ শব্দটির অর্থ—অসাধারণ দক্ষ ব্যক্তি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Virtuoso' as 'a person who is extremely skilled at something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Virtuoso’ শব্দটি অসাধারণ দক্ষ ব্যক্তি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Virulent",
+    "pronunciation_bn": "ভিরুলেন্ট",
+    "pronunciation": "/ˈvɪr.jə.lənt/",
+    "no": 839,
+    "group": 34,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "extremely harmful or poisonous; full of hatred or hostility",
+    "meaning_bn": [
+      "অত্যন্ত বিষাক্ত",
+      "তীব্র বিদ্বেষপূর্ণ",
+      "মারাত্মক"
+    ],
+    "synonyms": [
+      {
+        "en": "poisonous",
+        "bn": "বিষাক্ত"
+      },
+      {
+        "en": "venomous",
+        "bn": "বিষধর/বিষাক্ত"
+      },
+      {
+        "en": "malignant",
+        "bn": "ক্ষতিকর"
+      },
+      {
+        "en": "toxic",
+        "bn": "বিষাক্ত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "harmless",
+        "bn": "ক্ষতিহীন"
+      },
+      {
+        "en": "benign",
+        "bn": "অক্ষতিকর"
+      },
+      {
+        "en": "mild",
+        "bn": "মৃদু"
+      },
+      {
+        "en": "Innocuous",
+        "bn": "ক্ষতিহীন"
+      },
+      {
+        "en": "Temperate",
+        "bn": "সংযমী"
+      },
+      {
+        "en": "bland",
+        "bn": "মৃদু"
+      },
+      {
+        "en": "Insipid",
+        "bn": "বিস্বাদ"
+      }
+    ],
+    "example": "The article contained a virulent attack on the minister.",
+    "example_bn": "প্রবন্ধটিতে মন্ত্রীর বিরুদ্ধে তীব্র বিদ্বেষপূর্ণ আক্রমণ ছিল।",
+    "examples": [
+      "The article contained a virulent attack on the minister. — প্রবন্ধটিতে মন্ত্রীর বিরুদ্ধে তীব্র বিদ্বেষপূর্ণ আক্রমণ ছিল।",
+      "At dinner, she explained that 'Virulent' means 'extremely harmful or poisonous', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Virulent’ শব্দটির অর্থ—অত্যন্ত বিষাক্ত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Virulent' as 'extremely harmful or poisonous' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Virulent’ শব্দটি অত্যন্ত বিষাক্ত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Visionary",
+    "pronunciation_bn": "ভিশনারি",
+    "pronunciation": "/ˈvɪʒ.ən.ər.i/",
+    "no": 840,
+    "group": 34,
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "meaning_en": "a person who has clear, imaginative ideas about what could happen or be achieved in the future; having such ideas",
+    "meaning_bn": [
+      "দূরদর্শী ব্যক্তি",
+      "স্বপ্নদ্রষ্টা",
+      "ভবিষ্যৎদ্রষ্টা"
+    ],
+    "synonyms": [
+      {
+        "en": "idealist",
+        "bn": "আদর্শবাদী"
+      },
+      {
+        "en": "innovator",
+        "bn": "উদ্ভাবক"
+      },
+      {
+        "en": "futurist",
+        "bn": "ভবিষ্যৎ-চিন্তক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "pragmatist",
+        "bn": "বাস্তববাদী"
+      },
+      {
+        "en": "realist",
+        "bn": "বাস্তববাদী"
+      },
+      {
+        "en": "short-sighted person",
+        "bn": "অদূরদর্শী ব্যক্তি"
+      },
+      {
+        "en": "Cynic",
+        "bn": "নৈরাশ্যবাদী"
+      }
+    ],
+    "example": "The visionary leader proposed a bold plan for the future.",
+    "example_bn": "দূরদর্শী নেতাটি ভবিষ্যতের জন্য একটি সাহসী পরিকল্পনা প্রস্তাব করেছিলেন।",
+    "examples": [
+      "The visionary leader proposed a bold plan for the future. — দূরদর্শী নেতাটি ভবিষ্যতের জন্য একটি সাহসী পরিকল্পনা প্রস্তাব করেছিলেন।",
+      "At dinner, she explained that 'Visionary' means 'a person who has clear, imaginative ideas about', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Visionary’ শব্দটির অর্থ—দূরদর্শী ব্যক্তি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Visionary' as 'a person who has clear, imaginative ideas about' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Visionary’ শব্দটি দূরদর্শী ব্যক্তি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Vitiate",
+    "pronunciation_bn": "ভিশিয়েট",
+    "pronunciation": "/ˈvɪʃ.i.eɪt/",
+    "no": 841,
+    "group": 34,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to damage or weaken the quality or effectiveness of something",
+    "meaning_bn": [
+      "দূষিত করা",
+      "ক্ষুণ্ণ করা",
+      "কার্যকারিতা নষ্ট করা"
+    ],
+    "synonyms": [
+      {
+        "en": "impair",
+        "bn": "ক্ষতিগ্রস্ত করা"
+      },
+      {
+        "en": "undermine",
+        "bn": "দুর্বল করা"
+      },
+      {
+        "en": "corrupt",
+        "bn": "বিকৃত করা"
+      },
+      {
+        "en": "Debilitate",
+        "bn": "দুর্বল করে দেওয়া"
+      },
+      {
+        "en": "debase",
+        "bn": "মান বা মূল্য কমিয়ে দেওয়া"
+      },
+      {
+        "en": "Enervate",
+        "bn": "দুর্বল করে দেওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "improve",
+        "bn": "উন্নত করা"
+      },
+      {
+        "en": "enhance",
+        "bn": "বাড়িয়ে তোলা"
+      },
+      {
+        "en": "strengthen",
+        "bn": "শক্তিশালী করা"
+      },
+      {
+        "en": "Ameliorate",
+        "bn": "উন্নত করা"
+      },
+      {
+        "en": "Complement",
+        "bn": "পরিপূরক হওয়া বা করা"
+      },
+      {
+        "en": "Edify",
+        "bn": "নৈতিক শিক্ষা দেওয়া"
+      },
+      {
+        "en": "champion",
+        "bn": "সমর্থন করা"
+      },
+      {
+        "en": "consolidate",
+        "bn": "একত্রিত করা"
+      }
+    ],
+    "example": "A single error could vitiate the results of the experiment.",
+    "example_bn": "একটি ভুলই পরীক্ষার ফলাফলের নির্ভরযোগ্যতা নষ্ট করতে পারত।",
+    "examples": [
+      "A single error could vitiate the results of the experiment. — একটি ভুলই পরীক্ষার ফলাফলের নির্ভরযোগ্যতা নষ্ট করতে পারত।",
+      "At dinner, she explained that 'Vitiate' means 'to damage or weaken the quality or effectiveness', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Vitiate’ শব্দটির অর্থ—দূষিত করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Vitiate' as 'to damage or weaken the quality or effectiveness' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Vitiate’ শব্দটি দূষিত করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Vitriolic",
+    "pronunciation_bn": "ভিট্রিয়লিক",
+    "pronunciation": "/ˌvɪt.riˈɒl.ɪk/",
+    "no": 842,
+    "group": 34,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "filled with bitter criticism or malice",
+    "meaning_bn": [
+      "তীব্র কটূক্তিপূর্ণ",
+      "তিক্ত বিদ্বেষপূর্ণ",
+      "কটু আক্রমণাত্মক"
+    ],
+    "synonyms": [
+      {
+        "en": "scathing",
+        "bn": "তীব্র সমালোচনামূলক"
+      },
+      {
+        "en": "bitter",
+        "bn": "তিক্ত"
+      },
+      {
+        "en": "caustic",
+        "bn": "কটূক্তিপূর্ণ"
+      },
+      {
+        "en": "Acrimonious",
+        "bn": "তিক্ততাপূর্ণ"
+      },
+      {
+        "en": "Acerbic",
+        "bn": "কটু"
+      },
+      {
+        "en": "Astringent",
+        "bn": "কঠোর"
+      },
+      {
+        "en": "corrosive",
+        "bn": "ক্ষয়কারী"
+      },
+      {
+        "en": "Incongruous",
+        "bn": "বেমানান"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "kind",
+        "bn": "সদয়"
+      },
+      {
+        "en": "gentle",
+        "bn": "কোমল"
+      },
+      {
+        "en": "complimentary",
+        "bn": "প্রশংসাসূচক"
+      },
+      {
+        "en": "Benevolent",
+        "bn": "দয়ালু"
+      },
+      {
+        "en": "Benign",
+        "bn": "ক্ষতিকর নয় এমন"
+      },
+      {
+        "en": "Decadent",
+        "bn": "নৈতিকভাবে অধঃপতিত"
+      },
+      {
+        "en": "Gratis",
+        "bn": "বিনামূল্যে"
+      },
+      {
+        "en": "Opulent",
+        "bn": "বিলাসবহুল"
+      }
+    ],
+    "example": "The critic wrote a vitriolic review of the performance.",
+    "example_bn": "সমালোচক পরিবেশনাটি নিয়ে তীব্র কটূক্তিপূর্ণ পর্যালোচনা লিখেছিলেন।",
+    "examples": [
+      "The critic wrote a vitriolic review of the performance. — সমালোচক পরিবেশনাটি নিয়ে তীব্র কটূক্তিপূর্ণ পর্যালোচনা লিখেছিলেন।",
+      "At dinner, she explained that 'Vitriolic' means 'filled with bitter criticism or malice', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Vitriolic’ শব্দটির অর্থ—তীব্র কটূক্তিপূর্ণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Vitriolic' as 'filled with bitter criticism or malice' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Vitriolic’ শব্দটি তীব্র কটূক্তিপূর্ণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Vocation",
+    "pronunciation_bn": "ভোকেশন",
+    "pronunciation": "/vəʊˈkeɪ.ʃən/",
+    "no": 843,
+    "group": 34,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a type of work that a person feels especially suited to or strongly interested in",
+    "meaning_bn": [
+      "পেশা",
+      "জীবিকা",
+      "জীবনের ব্রত বলে মনে হওয়া কাজ"
+    ],
+    "synonyms": [
+      {
+        "en": "calling",
+        "bn": "জীবনের ব্রত"
+      },
+      {
+        "en": "profession",
+        "bn": "পেশা"
+      },
+      {
+        "en": "occupation",
+        "bn": "কর্মজীবিকা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "hobby",
+        "bn": "শখ"
+      },
+      {
+        "en": "pastime",
+        "bn": "অবসরবিনোদন"
+      }
+    ],
+    "example": "For her, teaching is a vocation rather than merely a job.",
+    "example_bn": "তার কাছে শিক্ষকতা শুধু চাকরি নয়, বরং জীবনের ব্রত।",
+    "examples": [
+      "For her, teaching is a vocation rather than merely a job. — তার কাছে শিক্ষকতা শুধু চাকরি নয়, বরং জীবনের ব্রত।",
+      "At dinner, she explained that 'Vocation' means 'a type of work that a person feels', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Vocation’ শব্দটির অর্থ—পেশা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Vocation' as 'a type of work that a person feels' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Vocation’ শব্দটি পেশা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Vociferous",
+    "pronunciation_bn": "ভোসিফেরাস",
+    "pronunciation": "/vəˈsɪf.ər.əs/",
+    "no": 844,
+    "group": 34,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "expressing opinions or complaints loudly and forcefully",
+    "meaning_bn": [
+      "উচ্চকণ্ঠ",
+      "জোরালোভাবে মত প্রকাশকারী",
+      "সোচ্চার"
+    ],
+    "synonyms": [
+      {
+        "en": "clamorous",
+        "bn": "কলরবপূর্ণ"
+      },
+      {
+        "en": "outspoken",
+        "bn": "স্পষ্টভাষী"
+      },
+      {
+        "en": "strident",
+        "bn": "কর্কশ ও জোরালো"
+      },
+      {
+        "en": "forthright",
+        "bn": "স্পষ্টবাদী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "quiet",
+        "bn": "নীরব"
+      },
+      {
+        "en": "subdued",
+        "bn": "মৃদু"
+      },
+      {
+        "en": "restrained",
+        "bn": "সংযত"
+      },
+      {
+        "en": "Reticent",
+        "bn": "স্বল্পভাষী"
+      },
+      {
+        "en": "Taciturn",
+        "bn": "স্বল্পভাষী"
+      },
+      {
+        "en": "Abstinent",
+        "bn": "বিরত থাকা"
+      },
+      {
+        "en": "demure",
+        "bn": "লাজুক ও সংযত"
+      },
+      {
+        "en": "Temperate",
+        "bn": "সংযমী"
+      }
+    ],
+    "example": "Parents were vociferous in their demands for safer roads.",
+    "example_bn": "নিরাপদ সড়কের দাবিতে অভিভাবকেরা জোরালোভাবে সোচ্চার হয়েছিলেন।",
+    "examples": [
+      "Parents were vociferous in their demands for safer roads. — নিরাপদ সড়কের দাবিতে অভিভাবকেরা জোরালোভাবে সোচ্চার হয়েছিলেন।",
+      "At dinner, she explained that 'Vociferous' means 'expressing opinions or complaints loudly and forcefully', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Vociferous’ শব্দটির অর্থ—উচ্চকণ্ঠ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Vociferous' as 'expressing opinions or complaints loudly and forcefully' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Vociferous’ শব্দটি উচ্চকণ্ঠ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Volatile",
+    "pronunciation_bn": "ভলাটাইল",
+    "pronunciation": "/ˈvɒl.ə.taɪl/",
+    "no": 845,
+    "group": 34,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "likely to change suddenly and unpredictably; easily becoming dangerous or explosive",
+    "meaning_bn": [
+      "অস্থিতিশীল",
+      "দ্রুত পরিবর্তনশীল",
+      "সহজে উত্তেজিত বা বিস্ফোরক হয়ে ওঠে এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "unstable",
+        "bn": "অস্থিতিশীল"
+      },
+      {
+        "en": "unpredictable",
+        "bn": "অনুমান করা কঠিন"
+      },
+      {
+        "en": "changeable",
+        "bn": "পরিবর্তনশীল"
+      },
+      {
+        "en": "Mercurial",
+        "bn": "হঠাৎ ও অনিশ্চিতভাবে মেজাজ বা আচরণ বদলায় এমন"
+      },
+      {
+        "en": "Capricious",
+        "bn": "খামখেয়ালি"
+      },
+      {
+        "en": "fickle",
+        "bn": "খামখেয়ালি"
+      },
+      {
+        "en": "precarious",
+        "bn": "অনিশ্চিত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "stable",
+        "bn": "স্থিতিশীল"
+      },
+      {
+        "en": "steady",
+        "bn": "অবিচল"
+      },
+      {
+        "en": "constant",
+        "bn": "অপরিবর্তিত"
+      },
+      {
+        "en": "Immutable",
+        "bn": "অপরিবর্তনীয়"
+      },
+      {
+        "en": "Unremitting",
+        "bn": "অবিরাম"
+      },
+      {
+        "en": "Incessant",
+        "bn": "অবিরাম"
+      },
+      {
+        "en": "Irrevocable",
+        "bn": "অপরিবর্তনযোগ্য"
+      },
+      {
+        "en": "Coherent",
+        "bn": "সুসংগত"
+      }
+    ],
+    "example": "Investors were cautious because the market remained volatile.",
+    "example_bn": "বাজার অস্থিতিশীল থাকায় বিনিয়োগকারীরা সতর্ক ছিলেন।",
+    "examples": [
+      "Investors were cautious because the market remained volatile. — বাজার অস্থিতিশীল থাকায় বিনিয়োগকারীরা সতর্ক ছিলেন।",
+      "At dinner, she explained that 'Volatile' means 'likely to change suddenly and unpredictably', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Volatile’ শব্দটির অর্থ—অস্থিতিশীল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Volatile' as 'likely to change suddenly and unpredictably' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Volatile’ শব্দটি অস্থিতিশীল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Volition",
+    "pronunciation_bn": "ভোলিশন",
+    "pronunciation": "/vəˈlɪʃ.ən/",
+    "no": 846,
+    "group": 34,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the act of making a choice or decision by one's own will",
+    "meaning_bn": [
+      "স্বেচ্ছাসিদ্ধ সিদ্ধান্ত",
+      "নিজের ইচ্ছা",
+      "ইচ্ছাশক্তি"
+    ],
+    "synonyms": [
+      {
+        "en": "will",
+        "bn": "ইচ্ছাশক্তি"
+      },
+      {
+        "en": "choice",
+        "bn": "পছন্দ/নির্বাচন"
+      },
+      {
+        "en": "free will",
+        "bn": "স্বাধীন ইচ্ছা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "coercion",
+        "bn": "জবরদস্তি"
+      },
+      {
+        "en": "compulsion",
+        "bn": "বাধ্যবাধকতা"
+      },
+      {
+        "en": "duress",
+        "bn": "জবরদস্তি"
+      }
+    ],
+    "example": "She left the organization of her own volition.",
+    "example_bn": "তিনি নিজের ইচ্ছাতেই সংস্থাটি ছেড়ে চলে গিয়েছিলেন।",
+    "examples": [
+      "She left the organization of her own volition. — তিনি নিজের ইচ্ছাতেই সংস্থাটি ছেড়ে চলে গিয়েছিলেন।",
+      "At dinner, she explained that 'Volition' means 'the act of making a choice or decision', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Volition’ শব্দটির অর্থ—স্বেচ্ছাসিদ্ধ সিদ্ধান্ত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Volition' as 'the act of making a choice or decision' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Volition’ শব্দটি স্বেচ্ছাসিদ্ধ সিদ্ধান্ত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Wanton",
+    "pronunciation_bn": "ওয়ান্টন",
+    "pronunciation": "/ˈwɒn.tən/",
+    "no": 847,
+    "group": 34,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "deliberate and unjustified, often causing damage or harm; careless of consequences",
+    "meaning_bn": [
+      "বেপরোয়া",
+      "ইচ্ছাকৃত ও অকারণ ক্ষতিকর",
+      "নির্বিচার"
+    ],
+    "synonyms": [
+      {
+        "en": "reckless",
+        "bn": "বেপরোয়া"
+      },
+      {
+        "en": "malicious",
+        "bn": "বিদ্বেষপূর্ণ"
+      },
+      {
+        "en": "wanton",
+        "bn": "নির্বিচার/অকারণ ক্ষতিকর"
+      },
+      {
+        "en": "Impetuous",
+        "bn": "হঠকারী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "careful",
+        "bn": "সতর্ক"
+      },
+      {
+        "en": "restrained",
+        "bn": "সংযত"
+      },
+      {
+        "en": "considerate",
+        "bn": "বিবেচক"
+      },
+      {
+        "en": "Abstinent",
+        "bn": "বিরত থাকা"
+      },
+      {
+        "en": "Circumspect",
+        "bn": "সতর্ক"
+      },
+      {
+        "en": "Meticulous",
+        "bn": "খুঁটিনাটিতে অত্যন্ত যত্নশীল"
+      },
+      {
+        "en": "Painstaking",
+        "bn": "অত্যন্ত যত্নসহকারে করা"
+      },
+      {
+        "en": "Provident",
+        "bn": "ভবিষ্যতের জন্য সতর্ক পরিকল্পনাকারী"
+      }
+    ],
+    "example": "The wanton destruction of public property angered residents.",
+    "example_bn": "সরকারি সম্পদের বেপরোয়া ধ্বংসযজ্ঞ বাসিন্দাদের ক্ষুব্ধ করেছিল।",
+    "examples": [
+      "The wanton destruction of public property angered residents. — সরকারি সম্পদের বেপরোয়া ধ্বংসযজ্ঞ বাসিন্দাদের ক্ষুব্ধ করেছিল।",
+      "At dinner, she explained that 'Wanton' means 'deliberate and unjustified, often causing damage or harm', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Wanton’ শব্দটির অর্থ—বেপরোয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Wanton' as 'deliberate and unjustified, often causing damage or harm' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Wanton’ শব্দটি বেপরোয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Willful",
+    "pronunciation_bn": "উইলফুল",
+    "pronunciation": "/ˈwɪl.fəl/",
+    "no": 848,
+    "group": 34,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "intentional; determined to do what one wants, even when it is wrong",
+    "meaning_bn": [
+      "ইচ্ছাকৃত",
+      "একগুঁয়ে",
+      "জেনেশুনে করা"
+    ],
+    "synonyms": [
+      {
+        "en": "deliberate",
+        "bn": "ইচ্ছাকৃত"
+      },
+      {
+        "en": "intentional",
+        "bn": "উদ্দেশ্যপ্রণোদিত"
+      },
+      {
+        "en": "stubborn",
+        "bn": "একগুঁয়ে"
+      },
+      {
+        "en": "Recalcitrant",
+        "bn": "অবাধ্য"
+      },
+      {
+        "en": "Obdurate",
+        "bn": "একগুঁয়ে"
+      },
+      {
+        "en": "premeditated",
+        "bn": "পূর্বপরিকল্পিত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "accidental",
+        "bn": "অনিচ্ছাকৃত"
+      },
+      {
+        "en": "unintentional",
+        "bn": "অনিচ্ছাকৃত"
+      },
+      {
+        "en": "compliant",
+        "bn": "সহযোগিতাপ্রবণ"
+      },
+      {
+        "en": "Adventitious",
+        "bn": "আকস্মিক"
+      },
+      {
+        "en": "Fortuitous",
+        "bn": "আকস্মিক"
+      },
+      {
+        "en": "Unwitting",
+        "bn": "অজান্তে ঘটে এমন"
+      },
+      {
+        "en": "Precipitous",
+        "bn": "খাড়া"
+      },
+      {
+        "en": "Inadvertent",
+        "bn": "অনিচ্ছাকৃত"
+      }
+    ],
+    "example": "His willful disregard for the rules caused serious problems.",
+    "example_bn": "নিয়মের প্রতি তার ইচ্ছাকৃত অবজ্ঞা গুরুতর সমস্যা সৃষ্টি করেছিল।",
+    "examples": [
+      "His willful disregard for the rules caused serious problems. — নিয়মের প্রতি তার ইচ্ছাকৃত অবজ্ঞা গুরুতর সমস্যা সৃষ্টি করেছিল।",
+      "At dinner, she explained that 'Willful' means 'intentional', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Willful’ শব্দটির অর্থ—ইচ্ছাকৃত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Willful' as 'intentional' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Willful’ শব্দটি ইচ্ছাকৃত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Wistful",
+    "pronunciation_bn": "উইস্টফুল",
+    "pronunciation": "/ˈwɪst.fəl/",
+    "no": 849,
+    "group": 34,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "showing a feeling of vague or regretful longing",
+    "meaning_bn": [
+      "বিষণ্ণ আকুলতাপূর্ণ",
+      "স্মৃতিকাতর",
+      "আকাঙ্ক্ষাভরা"
+    ],
+    "synonyms": [
+      {
+        "en": "longing",
+        "bn": "আকুল"
+      },
+      {
+        "en": "yearning",
+        "bn": "তীব্র আকাঙ্ক্ষাপূর্ণ"
+      },
+      {
+        "en": "nostalgic",
+        "bn": "স্মৃতিকাতর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "contented",
+        "bn": "সন্তুষ্ট"
+      },
+      {
+        "en": "cheerful",
+        "bn": "প্রফুল্ল"
+      },
+      {
+        "en": "carefree",
+        "bn": "দুশ্চিন্তামুক্ত"
+      },
+      {
+        "en": "Blithe",
+        "bn": "প্রফুল্ল ও নিশ্চিন্ত"
+      },
+      {
+        "en": "Insouciant",
+        "bn": "নিরুদ্বিগ্ন"
+      }
+    ],
+    "example": "She gave a wistful smile as she remembered her childhood.",
+    "example_bn": "শৈশবের কথা মনে পড়তেই তার মুখে স্মৃতিকাতর হাসি ফুটল।",
+    "examples": [
+      "She gave a wistful smile as she remembered her childhood. — শৈশবের কথা মনে পড়তেই তার মুখে স্মৃতিকাতর হাসি ফুটল।",
+      "At dinner, she explained that 'Wistful' means 'showing a feeling of vague or regretful longing', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Wistful’ শব্দটির অর্থ—বিষণ্ণ আকুলতাপূর্ণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Wistful' as 'showing a feeling of vague or regretful longing' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Wistful’ শব্দটি বিষণ্ণ আকুলতাপূর্ণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Zealous",
+    "pronunciation_bn": "জেলাস",
+    "pronunciation": "/ˈzel.əs/",
+    "no": 850,
+    "group": 34,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "showing great energy and enthusiasm for a cause or objective",
+    "meaning_bn": [
+      "অত্যন্ত উৎসাহী",
+      "একনিষ্ঠ",
+      "উদ্দীপ্ত"
+    ],
+    "synonyms": [
+      {
+        "en": "enthusiastic",
+        "bn": "উৎসাহী"
+      },
+      {
+        "en": "ardent",
+        "bn": "প্রগাঢ় অনুরাগী"
+      },
+      {
+        "en": "devoted",
+        "bn": "নিবেদিতপ্রাণ"
+      },
+      {
+        "en": "Ebullient",
+        "bn": "উচ্ছ্বসিত"
+      },
+      {
+        "en": "Staunch",
+        "bn": "একনিষ্ঠ"
+      },
+      {
+        "en": "Amorous",
+        "bn": "প্রেমাসক্ত"
+      },
+      {
+        "en": "avid",
+        "bn": "অত্যন্ত আগ্রহী"
+      },
+      {
+        "en": "exuberant",
+        "bn": "উচ্ছ্বসিত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "apathetic",
+        "bn": "উদাসীন"
+      },
+      {
+        "en": "indifferent",
+        "bn": "নির্লিপ্ত"
+      },
+      {
+        "en": "unenthusiastic",
+        "bn": "অনুৎসাহী"
+      },
+      {
+        "en": "Disinterested",
+        "bn": "নিরপেক্ষ"
+      },
+      {
+        "en": "Impartial",
+        "bn": "নিরপেক্ষ"
+      },
+      {
+        "en": "Listless",
+        "bn": "নিরুৎসাহ"
+      },
+      {
+        "en": "tepid",
+        "bn": "কুসুম গরম"
+      },
+      {
+        "en": "nonchalant",
+        "bn": "নির্বিকার"
+      }
+    ],
+    "example": "She is a zealous advocate for equal access to education.",
+    "example_bn": "তিনি শিক্ষায় সমান সুযোগের একজন একনিষ্ঠ সমর্থক।",
+    "examples": [
+      "She is a zealous advocate for equal access to education. — তিনি শিক্ষায় সমান সুযোগের একজন একনিষ্ঠ সমর্থক।",
+      "At dinner, she explained that 'Zealous' means 'showing great energy and enthusiasm for a cause', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Zealous’ শব্দটির অর্থ—অত্যন্ত উৎসাহী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Zealous' as 'showing great energy and enthusiasm for a cause' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Zealous’ শব্দটি অত্যন্ত উৎসাহী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

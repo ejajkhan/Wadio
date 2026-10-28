@@ -1,0 +1,1589 @@
+[
+  {
+    "word": "prelude",
+    "pronunciation_bn": "প্রেলিউড",
+    "pronunciation": "/ˈprel.juːd/",
+    "no": 626,
+    "group": 26,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "something that comes before and introduces or prepares for a more important event; an introductory piece of music",
+    "meaning_bn": [
+      "ভূমিকা",
+      "পূর্বসূচনা",
+      "প্রারম্ভিক সংগীত"
+    ],
+    "synonyms": [
+      {
+        "en": "introduction",
+        "bn": "ভূমিকা"
+      },
+      {
+        "en": "precursor",
+        "bn": "পূর্বলক্ষণ/পূর্বসূরি"
+      },
+      {
+        "en": "preliminary",
+        "bn": "প্রাথমিক বিষয়"
+      },
+      {
+        "en": "Antecedent",
+        "bn": "পূর্বসূরি"
+      },
+      {
+        "en": "Harbinger",
+        "bn": "অগ্রদূত"
+      },
+      {
+        "en": "predecessor",
+        "bn": "পূর্বসূরি"
+      },
+      {
+        "en": "Herald",
+        "bn": "ঘোষক"
+      },
+      {
+        "en": "Portent",
+        "bn": "পূর্বলক্ষণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "aftermath",
+        "bn": "পরবর্তী পরিণতি"
+      },
+      {
+        "en": "sequel",
+        "bn": "পরবর্তী অংশ"
+      },
+      {
+        "en": "Ramification",
+        "bn": "পরিণতি"
+      },
+      {
+        "en": "Repercussion",
+        "bn": "পরোক্ষ প্রভাব"
+      },
+      {
+        "en": "corollary",
+        "bn": "স্বাভাবিক পরিণতি"
+      },
+      {
+        "en": "Implication",
+        "bn": "সম্ভাব্য পরিণতি"
+      }
+    ],
+    "example": "The talks were a prelude to a formal peace agreement.",
+    "example_bn": "আলোচনাগুলো একটি আনুষ্ঠানিক শান্তিচুক্তির পূর্বসূচনা ছিল।",
+    "examples": [
+      "The talks were a prelude to a formal peace agreement. — আলোচনাগুলো একটি আনুষ্ঠানিক শান্তিচুক্তির পূর্বসূচনা ছিল।",
+      "At dinner, she explained that 'prelude' means 'something that comes before and introduces or prepares', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘prelude’ শব্দটির অর্থ—ভূমিকা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'prelude' as 'something that comes before and introduces or prepares' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘prelude’ শব্দটি ভূমিকা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "premeditated",
+    "pronunciation_bn": "প্রিমেডিটেইটিড",
+    "pronunciation": "/ˌpriːˈmed.ɪ.teɪ.tɪd/",
+    "no": 627,
+    "group": 26,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "planned or considered before being carried out, especially deliberately",
+    "meaning_bn": [
+      "পূর্বপরিকল্পিত",
+      "আগে থেকেই ভেবে-চিন্তে করা"
+    ],
+    "synonyms": [
+      {
+        "en": "planned",
+        "bn": "পরিকল্পিত"
+      },
+      {
+        "en": "preplanned",
+        "bn": "আগে থেকে পরিকল্পিত"
+      },
+      {
+        "en": "deliberate",
+        "bn": "ইচ্ছাকৃত"
+      },
+      {
+        "en": "Willful",
+        "bn": "ইচ্ছাকৃত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "spontaneous",
+        "bn": "স্বতঃস্ফূর্ত"
+      },
+      {
+        "en": "unplanned",
+        "bn": "অপরিকল্পিত"
+      },
+      {
+        "en": "Impromptu",
+        "bn": "পূর্বপ্রস্তুতি ছাড়া করা"
+      },
+      {
+        "en": "Fortuitous",
+        "bn": "আকস্মিক"
+      },
+      {
+        "en": "Adventitious",
+        "bn": "আকস্মিক"
+      },
+      {
+        "en": "Inadvertent",
+        "bn": "অনিচ্ছাকৃত"
+      },
+      {
+        "en": "Precipitous",
+        "bn": "খাড়া"
+      }
+    ],
+    "example": "The evidence showed that the attack was premeditated.",
+    "example_bn": "প্রমাণে দেখা গেল, আক্রমণটি পূর্বপরিকল্পিত ছিল।",
+    "examples": [
+      "The evidence showed that the attack was premeditated. — প্রমাণে দেখা গেল, আক্রমণটি পূর্বপরিকল্পিত ছিল।",
+      "At dinner, she explained that 'premeditated' means 'planned or considered before being carried out, especially', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘premeditated’ শব্দটির অর্থ—পূর্বপরিকল্পিত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'premeditated' as 'planned or considered before being carried out, especially' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘premeditated’ শব্দটি পূর্বপরিকল্পিত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "preponderance",
+    "pronunciation_bn": "প্রিপন্ডারেন্স",
+    "pronunciation": "/prɪˈpɒn.dər.əns/",
+    "no": 628,
+    "group": 26,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a greater amount, number, weight, or importance; superiority in quantity or influence",
+    "meaning_bn": [
+      "সংখ্যা বা পরিমাণে আধিক্য",
+      "প্রাধান্য",
+      "অধিকাংশ"
+    ],
+    "synonyms": [
+      {
+        "en": "majority",
+        "bn": "সংখ্যাগরিষ্ঠ অংশ"
+      },
+      {
+        "en": "predominance",
+        "bn": "প্রাধান্য"
+      },
+      {
+        "en": "superiority",
+        "bn": "শ্রেষ্ঠত্ব"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "minority",
+        "bn": "সংখ্যালঘু অংশ"
+      },
+      {
+        "en": "inferiority",
+        "bn": "নিকৃষ্টতা"
+      }
+    ],
+    "example": "A preponderance of the evidence supported her account.",
+    "example_bn": "অধিকাংশ প্রমাণই তার বক্তব্যকে সমর্থন করেছিল।",
+    "examples": [
+      "A preponderance of the evidence supported her account. — অধিকাংশ প্রমাণই তার বক্তব্যকে সমর্থন করেছিল।",
+      "At dinner, she explained that 'preponderance' means 'a greater amount, number, weight, or importance', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘preponderance’ শব্দটির অর্থ—সংখ্যা বা পরিমাণে আধিক্য—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'preponderance' as 'a greater amount, number, weight, or importance' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘preponderance’ শব্দটি সংখ্যা বা পরিমাণে আধিক্য অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "presage",
+    "pronunciation_bn": "প্রেসিজ",
+    "pronunciation": "/ˈpres.ɪdʒ/",
+    "no": 629,
+    "group": 26,
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "meaning_en": "to indicate or warn that something, often something unpleasant, is likely to happen; a sign of what is to come",
+    "meaning_bn": [
+      "পূর্বাভাস দেওয়া",
+      "আগাম লক্ষণ",
+      "পূর্বলক্ষণ"
+    ],
+    "synonyms": [
+      {
+        "en": "foreshadow",
+        "bn": "আগাম ইঙ্গিত দেওয়া"
+      },
+      {
+        "en": "portend",
+        "bn": "পূর্বলক্ষণ হওয়া"
+      },
+      {
+        "en": "foretell",
+        "bn": "পূর্বাভাস দেওয়া"
+      },
+      {
+        "en": "forebode",
+        "bn": "অশুভ ঘটনার পূর্বাভাস দেওয়া"
+      },
+      {
+        "en": "Augur",
+        "bn": "ভবিষ্যতের লক্ষণ হওয়া"
+      },
+      {
+        "en": "Herald",
+        "bn": "ঘোষক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "follow",
+        "bn": "পরবর্তী ঘটনা হওয়া"
+      },
+      {
+        "en": "succeed",
+        "bn": "পরে আসা"
+      },
+      {
+        "en": "ensue",
+        "bn": "পরবর্তী সময়ে ঘটা"
+      },
+      {
+        "en": "Prevail",
+        "bn": "জয়ী হওয়া"
+      }
+    ],
+    "example": "The sudden drop in temperature presaged a severe storm.",
+    "example_bn": "তাপমাত্রার আকস্মিক পতন তীব্র ঝড়ের পূর্বাভাস দিল।",
+    "examples": [
+      "The sudden drop in temperature presaged a severe storm. — তাপমাত্রার আকস্মিক পতন তীব্র ঝড়ের পূর্বাভাস দিল।",
+      "At dinner, she explained that 'presage' means 'to indicate or warn that something, often something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘presage’ শব্দটির অর্থ—পূর্বাভাস দেওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'presage' as 'to indicate or warn that something, often something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘presage’ শব্দটি পূর্বাভাস দেওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "presentiment",
+    "pronunciation_bn": "প্রিজেনটিমেন্ট",
+    "pronunciation": "/prɪˈzen.tɪ.mənt/",
+    "no": 630,
+    "group": 26,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a feeling that something, especially something unpleasant, is going to happen",
+    "meaning_bn": [
+      "আগাম অনুভূতি",
+      "অশুভ আশঙ্কা",
+      "কিছু ঘটতে যাচ্ছে—এমন পূর্বানুভূতি"
+    ],
+    "synonyms": [
+      {
+        "en": "foreboding",
+        "bn": "অশুভ পূর্বানুভূতি"
+      },
+      {
+        "en": "premonition",
+        "bn": "আগাম অনুভব"
+      },
+      {
+        "en": "intuition",
+        "bn": "অন্তর্দৃষ্টি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "certainty",
+        "bn": "নিশ্চয়তা"
+      },
+      {
+        "en": "assurance",
+        "bn": "আশ্বাস"
+      },
+      {
+        "en": "conviction",
+        "bn": "দৃঢ় বিশ্বাস"
+      }
+    ],
+    "example": "She had a presentiment that something was wrong.",
+    "example_bn": "তার মনে আগেই আশঙ্কা হয়েছিল যে কিছু একটা ঠিক নেই।",
+    "examples": [
+      "She had a presentiment that something was wrong. — তার মনে আগেই আশঙ্কা হয়েছিল যে কিছু একটা ঠিক নেই।",
+      "At dinner, she explained that 'presentiment' means 'a feeling that something, especially something unpleasant, is', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘presentiment’ শব্দটির অর্থ—আগাম অনুভূতি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'presentiment' as 'a feeling that something, especially something unpleasant, is' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘presentiment’ শব্দটি আগাম অনুভূতি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "presumably",
+    "pronunciation_bn": "প্রিজিউমাবলি",
+    "pronunciation": "/prɪˈzjuː.mə.bli/",
+    "no": 631,
+    "group": 26,
+    "pos": [
+      "adverb"
+    ],
+    "meaning_en": "used to say that something is believed to be true based on what is known, although it is not certain",
+    "meaning_bn": [
+      "সম্ভবত",
+      "যা জানা আছে তার ভিত্তিতে অনুমান করা যায়"
+    ],
+    "synonyms": [
+      {
+        "en": "probably",
+        "bn": "সম্ভবত"
+      },
+      {
+        "en": "apparently",
+        "bn": "মনে হয়"
+      },
+      {
+        "en": "likely",
+        "bn": "সম্ভবত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "certainly",
+        "bn": "নিশ্চিতভাবে"
+      },
+      {
+        "en": "undoubtedly",
+        "bn": "নিঃসন্দেহে"
+      }
+    ],
+    "example": "He was presumably unaware of the risks involved.",
+    "example_bn": "সম্ভবত সে সংশ্লিষ্ট ঝুঁকিগুলো সম্পর্কে অবগত ছিল না।",
+    "examples": [
+      "He was presumably unaware of the risks involved. — সম্ভবত সে সংশ্লিষ্ট ঝুঁকিগুলো সম্পর্কে অবগত ছিল না।",
+      "At dinner, she explained that 'presumably' means 'used to say that something is believed', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘presumably’ শব্দটির অর্থ—সম্ভবত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'presumably' as 'used to say that something is believed' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘presumably’ শব্দটি সম্ভবত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "presuppose",
+    "pronunciation_bn": "প্রিসাপোজ",
+    "pronunciation": "/ˌpriː.səˈpəʊz/",
+    "no": 632,
+    "group": 26,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to accept something as true before it has been proved, or as a necessary basis for something",
+    "meaning_bn": [
+      "আগে থেকেই ধরে নেওয়া",
+      "পূর্বধারণা করা",
+      "পূর্বশর্ত হিসেবে থাকা"
+    ],
+    "synonyms": [
+      {
+        "en": "assume",
+        "bn": "ধরে নেওয়া"
+      },
+      {
+        "en": "take for granted",
+        "bn": "প্রমাণ ছাড়াই সত্য ধরে নেওয়া"
+      },
+      {
+        "en": "imply",
+        "bn": "পরোক্ষভাবে ধরে নেওয়া/বোঝানো"
+      },
+      {
+        "en": "Postulate",
+        "bn": "যুক্তি বা তত্ত্বের ভিত্তি হিসেবে কোনো কিছুকে সত্য ধরে নেওয়া"
+      },
+      {
+        "en": "Insinuate",
+        "bn": "পরোক্ষভাবে ইঙ্গিত করা"
+      },
+      {
+        "en": "Intimate",
+        "bn": "ঘনিষ্ঠ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "question",
+        "bn": "প্রশ্ন তোলা"
+      },
+      {
+        "en": "doubt",
+        "bn": "সন্দেহ করা"
+      },
+      {
+        "en": "Refute",
+        "bn": "খণ্ডন করা"
+      },
+      {
+        "en": "debunk",
+        "bn": "ভুল বা মিথ্যা প্রমাণ করা"
+      },
+      {
+        "en": "evince",
+        "bn": "স্পষ্টভাবে প্রকাশ করা"
+      },
+      {
+        "en": "Exemplify",
+        "bn": "দৃষ্টান্ত হিসেবে তুলে ধরা"
+      },
+      {
+        "en": "query",
+        "bn": "প্রশ্ন"
+      }
+    ],
+    "example": "The argument presupposes that all the figures are accurate.",
+    "example_bn": "যুক্তিটি ধরে নেয় যে সব পরিসংখ্যান নির্ভুল।",
+    "examples": [
+      "The argument presupposes that all the figures are accurate. — যুক্তিটি ধরে নেয় যে সব পরিসংখ্যান নির্ভুল।",
+      "At dinner, she explained that 'presuppose' means 'to accept something as true before it has', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘presuppose’ শব্দটির অর্থ—আগে থেকেই ধরে নেওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'presuppose' as 'to accept something as true before it has' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘presuppose’ শব্দটি আগে থেকেই ধরে নেওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "primal",
+    "pronunciation_bn": "প্রাইমাল",
+    "pronunciation": "/ˈpraɪ.məl/",
+    "no": 633,
+    "group": 26,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "relating to the earliest stage of development or to basic, powerful instincts",
+    "meaning_bn": [
+      "আদি",
+      "মৌলিক",
+      "প্রাথমিক ও সহজাত"
+    ],
+    "synonyms": [
+      {
+        "en": "basic",
+        "bn": "মৌলিক"
+      },
+      {
+        "en": "primitive",
+        "bn": "আদিম"
+      },
+      {
+        "en": "fundamental",
+        "bn": "ভিত্তিগত"
+      },
+      {
+        "en": "cardinal",
+        "bn": "সবচেয়ে গুরুত্বপূর্ণ"
+      },
+      {
+        "en": "Integral",
+        "bn": "অবিচ্ছেদ্য অংশ"
+      },
+      {
+        "en": "Rudimentary",
+        "bn": "প্রাথমিক"
+      },
+      {
+        "en": "underlying",
+        "bn": "অন্তর্নিহিত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "advanced",
+        "bn": "উন্নত"
+      },
+      {
+        "en": "derived",
+        "bn": "উদ্ভূত"
+      },
+      {
+        "en": "precocious",
+        "bn": "অকালপক্ব"
+      }
+    ],
+    "example": "The fear of danger is a primal human instinct.",
+    "example_bn": "বিপদের ভয় মানুষের একটি আদিম সহজাত প্রবৃত্তি।",
+    "examples": [
+      "The fear of danger is a primal human instinct. — বিপদের ভয় মানুষের একটি আদিম সহজাত প্রবৃত্তি।",
+      "At dinner, she explained that 'primal' means 'relating to the earliest stage of development', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘primal’ শব্দটির অর্থ—আদি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'primal' as 'relating to the earliest stage of development' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘primal’ শব্দটি আদি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "pristine",
+    "pronunciation_bn": "প্রিস্টিন",
+    "pronunciation": "/ˈprɪs.tiːn/",
+    "no": 634,
+    "group": 26,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "in its original condition; clean, fresh, and unspoiled",
+    "meaning_bn": [
+      "আদি অবস্থায় অক্ষত",
+      "নির্মল",
+      "দূষণ বা ক্ষতিহীন"
+    ],
+    "synonyms": [
+      {
+        "en": "unspoiled",
+        "bn": "অক্ষত/অবিকৃত"
+      },
+      {
+        "en": "untouched",
+        "bn": "অস্পর্শিত"
+      },
+      {
+        "en": "immaculate",
+        "bn": "নিখুঁতভাবে পরিষ্কার"
+      },
+      {
+        "en": "Impeccable",
+        "bn": "নিখুঁত"
+      },
+      {
+        "en": "Inviolate",
+        "bn": "অক্ষত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "polluted",
+        "bn": "দূষিত"
+      },
+      {
+        "en": "damaged",
+        "bn": "ক্ষতিগ্রস্ত"
+      },
+      {
+        "en": "spoiled",
+        "bn": "নষ্ট"
+      }
+    ],
+    "example": "The lake remained pristine despite the growth of nearby towns.",
+    "example_bn": "আশপাশের শহরগুলোর বিস্তার সত্ত্বেও হ্রদটি নির্মল ও অক্ষত ছিল।",
+    "examples": [
+      "The lake remained pristine despite the growth of nearby towns. — আশপাশের শহরগুলোর বিস্তার সত্ত্বেও হ্রদটি নির্মল ও অক্ষত ছিল।",
+      "At dinner, she explained that 'pristine' means 'in its original condition', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘pristine’ শব্দটির অর্থ—আদি অবস্থায় অক্ষত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'pristine' as 'in its original condition' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘pristine’ শব্দটি আদি অবস্থায় অক্ষত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "privation",
+    "pronunciation_bn": "প্রাইভেইশন",
+    "pronunciation": "/praɪˈveɪ.ʃən/",
+    "no": 635,
+    "group": 26,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a lack of basic necessities or comforts; a state of hardship",
+    "meaning_bn": [
+      "অভাব-অনটন",
+      "প্রয়োজনীয় জিনিসের ঘাটতি",
+      "কষ্টকর বঞ্চনা"
+    ],
+    "synonyms": [
+      {
+        "en": "deprivation",
+        "bn": "বঞ্চনা"
+      },
+      {
+        "en": "hardship",
+        "bn": "দুর্দশা"
+      },
+      {
+        "en": "want",
+        "bn": "অভাব"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "abundance",
+        "bn": "প্রাচুর্য"
+      },
+      {
+        "en": "comfort",
+        "bn": "স্বাচ্ছন্দ্য"
+      },
+      {
+        "en": "Amenity",
+        "bn": "সুযোগ-সুবিধা"
+      },
+      {
+        "en": "Plethora",
+        "bn": "প্রাচুর্য"
+      },
+      {
+        "en": "Respite",
+        "bn": "বিরতি"
+      },
+      {
+        "en": "solace",
+        "bn": "সান্ত্বনা"
+      }
+    ],
+    "example": "The families endured severe privation during the famine.",
+    "example_bn": "দুর্ভিক্ষের সময় পরিবারগুলো চরম অভাব-অনটন সহ্য করেছিল।",
+    "examples": [
+      "The families endured severe privation during the famine. — দুর্ভিক্ষের সময় পরিবারগুলো চরম অভাব-অনটন সহ্য করেছিল।",
+      "At dinner, she explained that 'privation' means 'a lack of basic necessities or comforts', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘privation’ শব্দটির অর্থ—অভাব-অনটন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'privation' as 'a lack of basic necessities or comforts' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘privation’ শব্দটি অভাব-অনটন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "proclaim",
+    "pronunciation_bn": "প্রোক্লেইম",
+    "pronunciation": "/prəˈkleɪm/",
+    "no": 636,
+    "group": 26,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to announce something publicly or officially; to declare",
+    "meaning_bn": [
+      "ঘোষণা করা",
+      "প্রকাশ্যে জানানো",
+      "আনুষ্ঠানিকভাবে ঘোষণা করা"
+    ],
+    "synonyms": [
+      {
+        "en": "announce",
+        "bn": "ঘোষণা করা"
+      },
+      {
+        "en": "declare",
+        "bn": "ঘোষণা করা"
+      },
+      {
+        "en": "broadcast",
+        "bn": "প্রচার করা"
+      },
+      {
+        "en": "Promulgate",
+        "bn": "আইন বা সরকারি সিদ্ধান্ত আনুষ্ঠানিকভাবে ঘোষণা করা"
+      },
+      {
+        "en": "Herald",
+        "bn": "ঘোষক"
+      },
+      {
+        "en": "Assert",
+        "bn": "দৃঢ়ভাবে দাবি করা"
+      },
+      {
+        "en": "Avow",
+        "bn": "প্রকাশ্যে ঘোষণা করা"
+      },
+      {
+        "en": "Profess",
+        "bn": "দাবি করা"
+      },
+      {
+        "en": "Augur",
+        "bn": "ভবিষ্যতের লক্ষণ হওয়া"
+      },
+      {
+        "en": "forebode",
+        "bn": "অশুভ ঘটনার পূর্বাভাস দেওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "conceal",
+        "bn": "গোপন করা"
+      },
+      {
+        "en": "suppress",
+        "bn": "চেপে রাখা"
+      },
+      {
+        "en": "Insinuate",
+        "bn": "পরোক্ষভাবে ইঙ্গিত করা"
+      },
+      {
+        "en": "quell",
+        "bn": "দমন করা"
+      },
+      {
+        "en": "repress",
+        "bn": "দমন করা"
+      }
+    ],
+    "example": "The government proclaimed a national holiday.",
+    "example_bn": "সরকার একটি জাতীয় ছুটি ঘোষণা করল।",
+    "examples": [
+      "The government proclaimed a national holiday. — সরকার একটি জাতীয় ছুটি ঘোষণা করল।",
+      "At dinner, she explained that 'proclaim' means 'to announce something publicly or officially', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘proclaim’ শব্দটির অর্থ—ঘোষণা করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'proclaim' as 'to announce something publicly or officially' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘proclaim’ শব্দটি ঘোষণা করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "procure",
+    "pronunciation_bn": "প্রোকিউর",
+    "pronunciation": "/prəˈkjʊər/",
+    "no": 637,
+    "group": 26,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to obtain or get something, especially with effort",
+    "meaning_bn": [
+      "সংগ্রহ করা",
+      "অর্জন করা",
+      "চেষ্টা করে জোগাড় করা"
+    ],
+    "synonyms": [
+      {
+        "en": "obtain",
+        "bn": "পাওয়া/অর্জন করা"
+      },
+      {
+        "en": "acquire",
+        "bn": "অর্জন করা"
+      },
+      {
+        "en": "secure",
+        "bn": "সংগ্রহ বা নিশ্চিত করা"
+      },
+      {
+        "en": "Garner",
+        "bn": "সংগ্রহ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "lose",
+        "bn": "হারানো"
+      },
+      {
+        "en": "forfeit",
+        "bn": "খোয়ানো"
+      }
+    ],
+    "example": "She managed to procure tickets for the sold-out concert.",
+    "example_bn": "সব টিকিট বিক্রি হয়ে যাওয়া কনসার্টের টিকিট সে কষ্ট করে জোগাড় করতে পেরেছিল।",
+    "examples": [
+      "She managed to procure tickets for the sold-out concert. — সব টিকিট বিক্রি হয়ে যাওয়া কনসার্টের টিকিট সে কষ্ট করে জোগাড় করতে পেরেছিল।",
+      "At dinner, she explained that 'procure' means 'to obtain or get something, especially with effort', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘procure’ শব্দটির অর্থ—সংগ্রহ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'procure' as 'to obtain or get something, especially with effort' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘procure’ শব্দটি সংগ্রহ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "progeny",
+    "pronunciation_bn": "প্রজেনি",
+    "pronunciation": "/ˈprɒdʒ.ən.i/",
+    "no": 638,
+    "group": 26,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a person's or animal's offspring; descendants",
+    "meaning_bn": [
+      "সন্তান-সন্ততি",
+      "বংশধর"
+    ],
+    "synonyms": [
+      {
+        "en": "offspring",
+        "bn": "সন্তান-সন্ততি"
+      },
+      {
+        "en": "descendants",
+        "bn": "বংশধর"
+      },
+      {
+        "en": "issue",
+        "bn": "সন্তান-সন্ততি"
+      },
+      {
+        "en": "posterity",
+        "bn": "ভবিষ্যৎ প্রজন্ম"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "ancestor",
+        "bn": "পূর্বপুরুষ"
+      },
+      {
+        "en": "forebear",
+        "bn": "পূর্বপুরুষ"
+      }
+    ],
+    "example": "The scientist studied the progeny of the original plants.",
+    "example_bn": "বিজ্ঞানী মূল গাছগুলোর বংশধর উদ্ভিদগুলো নিয়ে গবেষণা করেছিলেন।",
+    "examples": [
+      "The scientist studied the progeny of the original plants. — বিজ্ঞানী মূল গাছগুলোর বংশধর উদ্ভিদগুলো নিয়ে গবেষণা করেছিলেন।",
+      "At dinner, she explained that 'progeny' means 'a person's or animal's offspring', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘progeny’ শব্দটির অর্থ—সন্তান-সন্ততি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'progeny' as 'a person's or animal's offspring' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘progeny’ শব্দটি সন্তান-সন্ততি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "propagate",
+    "pronunciation_bn": "প্রপাগেইট",
+    "pronunciation": "/ˈprɒp.ə.ɡeɪt/",
+    "no": 639,
+    "group": 26,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to reproduce or cause to reproduce; to spread an idea, information, or belief",
+    "meaning_bn": [
+      "বংশবিস্তার করা",
+      "ছড়িয়ে দেওয়া",
+      "প্রচার করা"
+    ],
+    "synonyms": [
+      {
+        "en": "spread",
+        "bn": "ছড়ানো"
+      },
+      {
+        "en": "disseminate",
+        "bn": "বিস্তৃতভাবে ছড়িয়ে দেওয়া"
+      },
+      {
+        "en": "reproduce",
+        "bn": "বংশবিস্তার করা"
+      },
+      {
+        "en": "diffuse",
+        "bn": "ছড়িয়ে পড়া"
+      },
+      {
+        "en": "disperse",
+        "bn": "ছড়িয়ে পড়া"
+      },
+      {
+        "en": "Allocate",
+        "bn": "বরাদ্দ করা"
+      },
+      {
+        "en": "Allot",
+        "bn": "বরাদ্দ করা"
+      },
+      {
+        "en": "Apportion",
+        "bn": "অনুপাতে বণ্টন করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "contain",
+        "bn": "নিয়ন্ত্রণে রাখা"
+      },
+      {
+        "en": "suppress",
+        "bn": "দমন করা"
+      },
+      {
+        "en": "Comprise",
+        "bn": "গঠিত হওয়া"
+      },
+      {
+        "en": "Amass",
+        "bn": "জমা করা"
+      },
+      {
+        "en": "compile",
+        "bn": "সংকলন করা"
+      },
+      {
+        "en": "convene",
+        "bn": "সভা আহ্বান করা"
+      },
+      {
+        "en": "deploy",
+        "bn": "কৌশলগতভাবে সেনা বা সরঞ্জাম মোতায়েন করা"
+      }
+    ],
+    "example": "False claims can propagate quickly through social media.",
+    "example_bn": "সামাজিক যোগাযোগমাধ্যমে মিথ্যা দাবি দ্রুত ছড়িয়ে পড়তে পারে।",
+    "examples": [
+      "False claims can propagate quickly through social media. — সামাজিক যোগাযোগমাধ্যমে মিথ্যা দাবি দ্রুত ছড়িয়ে পড়তে পারে।",
+      "At dinner, she explained that 'propagate' means 'to reproduce or cause to reproduce', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘propagate’ শব্দটির অর্থ—বংশবিস্তার করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'propagate' as 'to reproduce or cause to reproduce' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘propagate’ শব্দটি বংশবিস্তার করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "propound",
+    "pronunciation_bn": "প্রপাউন্ড",
+    "pronunciation": "/prəˈpaʊnd/",
+    "no": 640,
+    "group": 26,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to put forward an idea, theory, or proposal for consideration",
+    "meaning_bn": [
+      "প্রস্তাব করা",
+      "বিবেচনার জন্য উপস্থাপন করা",
+      "তত্ত্ব পেশ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "propose",
+        "bn": "প্রস্তাব করা"
+      },
+      {
+        "en": "put forward",
+        "bn": "উত্থাপন করা"
+      },
+      {
+        "en": "advance",
+        "bn": "মত/তত্ত্ব পেশ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "withdraw",
+        "bn": "প্রত্যাহার করা"
+      },
+      {
+        "en": "retract",
+        "bn": "প্রত্যাহার করা"
+      },
+      {
+        "en": "Stymie",
+        "bn": "বাধাগ্রস্ত করা"
+      },
+      {
+        "en": "Recant",
+        "bn": "আগের বক্তব্য প্রত্যাহার করা"
+      },
+      {
+        "en": "secede",
+        "bn": "জোট বা সংগঠন থেকে আনুষ্ঠানিকভাবে বিচ্ছিন্ন হওয়া"
+      }
+    ],
+    "example": "The researcher propounded a new theory of language learning.",
+    "example_bn": "গবেষক ভাষা শেখার একটি নতুন তত্ত্ব উপস্থাপন করলেন।",
+    "examples": [
+      "The researcher propounded a new theory of language learning. — গবেষক ভাষা শেখার একটি নতুন তত্ত্ব উপস্থাপন করলেন।",
+      "At dinner, she explained that 'propound' means 'to put forward an idea, theory, or proposal', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘propound’ শব্দটির অর্থ—প্রস্তাব করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'propound' as 'to put forward an idea, theory, or proposal' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘propound’ শব্দটি প্রস্তাব করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "protocol",
+    "pronunciation_bn": "প্রোটোকল",
+    "pronunciation": "/ˈprəʊ.tə.kɒl/",
+    "no": 641,
+    "group": 26,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a system of rules for official behaviour or procedures; a formal agreement",
+    "meaning_bn": [
+      "আনুষ্ঠানিক শিষ্টাচার ও নিয়ম",
+      "প্রক্রিয়াগত বিধি",
+      "আনুষ্ঠানিক চুক্তি"
+    ],
+    "synonyms": [
+      {
+        "en": "procedure",
+        "bn": "পদ্ধতি"
+      },
+      {
+        "en": "convention",
+        "bn": "প্রথা/রীতি"
+      },
+      {
+        "en": "etiquette",
+        "bn": "শিষ্টাচার"
+      },
+      {
+        "en": "Propriety",
+        "bn": "শিষ্টাচার"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "impropriety",
+        "bn": "অনুচিত আচরণ"
+      },
+      {
+        "en": "disorder",
+        "bn": "বিশৃঙ্খলা"
+      },
+      {
+        "en": "Anarchy",
+        "bn": "অরাজকতা"
+      },
+      {
+        "en": "disarray",
+        "bn": "বিশৃঙ্খলা"
+      },
+      {
+        "en": "turmoil",
+        "bn": "তীব্র অস্থিরতা"
+      }
+    ],
+    "example": "The ambassador followed diplomatic protocol during the ceremony.",
+    "example_bn": "অনুষ্ঠানে রাষ্ট্রদূত কূটনৈতিক রীতিনীতি মেনে চললেন।",
+    "examples": [
+      "The ambassador followed diplomatic protocol during the ceremony. — অনুষ্ঠানে রাষ্ট্রদূত কূটনৈতিক রীতিনীতি মেনে চললেন।",
+      "At dinner, she explained that 'protocol' means 'a system of rules for official behaviour', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘protocol’ শব্দটির অর্থ—আনুষ্ঠানিক শিষ্টাচার ও নিয়ম—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'protocol' as 'a system of rules for official behaviour' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘protocol’ শব্দটি আনুষ্ঠানিক শিষ্টাচার ও নিয়ম অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "provocation",
+    "pronunciation_bn": "প্রভোকেইশন",
+    "pronunciation": "/ˌprɒv.əˈkeɪ.ʃən/",
+    "no": 642,
+    "group": 26,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "an action or statement intended to make someone angry or cause a reaction",
+    "meaning_bn": [
+      "উসকানি",
+      "প্ররোচনা",
+      "প্রতিক্রিয়া সৃষ্টির চেষ্টা"
+    ],
+    "synonyms": [
+      {
+        "en": "incitement",
+        "bn": "উসকানি"
+      },
+      {
+        "en": "instigation",
+        "bn": "প্ররোচনা"
+      },
+      {
+        "en": "irritation",
+        "bn": "বিরক্তি সৃষ্টি"
+      },
+      {
+        "en": "Sedition",
+        "bn": "রাষ্ট্রদ্রোহমূলক উসকানি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "appeasement",
+        "bn": "শান্ত করা"
+      },
+      {
+        "en": "conciliation",
+        "bn": "মীমাংসা/সম্প্রীতি স্থাপন"
+      }
+    ],
+    "example": "He refused to respond to the insult, which he saw as a provocation.",
+    "example_bn": "সে অপমানটির জবাব দিতে অস্বীকার করল, কারণ সেটিকে সে উসকানি বলে মনে করেছিল।",
+    "examples": [
+      "He refused to respond to the insult, which he saw as a provocation. — সে অপমানটির জবাব দিতে অস্বীকার করল, কারণ সেটিকে সে উসকানি বলে মনে করেছিল।",
+      "At dinner, she explained that 'provocation' means 'an action or statement intended to make someone', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘provocation’ শব্দটির অর্থ—উসকানি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'provocation' as 'an action or statement intended to make someone' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘provocation’ শব্দটি উসকানি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "prowess",
+    "pronunciation_bn": "প্রাউয়েস",
+    "pronunciation": "/ˈpraʊ.es/",
+    "no": 643,
+    "group": 26,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "great skill or ability, especially in a particular activity; sometimes bravery",
+    "meaning_bn": [
+      "অসাধারণ দক্ষতা",
+      "পারদর্শিতা",
+      "বীরত্ব"
+    ],
+    "synonyms": [
+      {
+        "en": "skill",
+        "bn": "দক্ষতা"
+      },
+      {
+        "en": "expertise",
+        "bn": "বিশেষজ্ঞসুলভ দক্ষতা"
+      },
+      {
+        "en": "aptitude",
+        "bn": "স্বাভাবিক যোগ্যতা"
+      },
+      {
+        "en": "Finesse",
+        "bn": "নৈপুণ্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "inability",
+        "bn": "অক্ষমতা"
+      },
+      {
+        "en": "ineptitude",
+        "bn": "অদক্ষতা"
+      }
+    ],
+    "example": "Her athletic prowess earned her a place on the national team.",
+    "example_bn": "তার অসাধারণ ক্রীড়াদক্ষতা তাকে জাতীয় দলে স্থান এনে দিয়েছিল।",
+    "examples": [
+      "Her athletic prowess earned her a place on the national team. — তার অসাধারণ ক্রীড়াদক্ষতা তাকে জাতীয় দলে স্থান এনে দিয়েছিল।",
+      "At dinner, she explained that 'prowess' means 'great skill or ability, especially in a particular', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘prowess’ শব্দটির অর্থ—অসাধারণ দক্ষতা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'prowess' as 'great skill or ability, especially in a particular' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘prowess’ শব্দটি অসাধারণ দক্ষতা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "prurient",
+    "pronunciation_bn": "প্রুরিয়েন্ট",
+    "pronunciation": "/ˈprʊə.ri.ənt/",
+    "no": 644,
+    "group": 26,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "having or showing an excessive or inappropriate interest in sexual matters",
+    "meaning_bn": [
+      "কামুক কৌতূহলপূর্ণ",
+      "অশালীন যৌন আগ্রহসম্পন্ন",
+      "কামোদ্দীপক"
+    ],
+    "synonyms": [
+      {
+        "en": "lustful",
+        "bn": "কামুক"
+      },
+      {
+        "en": "lewd",
+        "bn": "অশ্লীল"
+      },
+      {
+        "en": "salacious",
+        "bn": "যৌন উত্তেজক/অশালীন"
+      },
+      {
+        "en": "Lascivious",
+        "bn": "কামুক"
+      },
+      {
+        "en": "Licentious",
+        "bn": "নীতিবিবর্জিত"
+      },
+      {
+        "en": "ribald",
+        "bn": "অশ্লীল অথচ রসিকতাপূর্ণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "modest",
+        "bn": "শালীন"
+      },
+      {
+        "en": "decent",
+        "bn": "ভদ্র/শালীন"
+      },
+      {
+        "en": "demure",
+        "bn": "লাজুক ও সংযত"
+      }
+    ],
+    "example": "The reviewer criticized the film for its prurient scenes.",
+    "example_bn": "সমালোচক চলচ্চিত্রটির অশালীন যৌন আগ্রহ উদ্দীপক দৃশ্যগুলোর সমালোচনা করেছিলেন।",
+    "examples": [
+      "The reviewer criticized the film for its prurient scenes. — সমালোচক চলচ্চিত্রটির অশালীন যৌন আগ্রহ উদ্দীপক দৃশ্যগুলোর সমালোচনা করেছিলেন।",
+      "At dinner, she explained that 'prurient' means 'having or showing an excessive or inappropriate interest', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘prurient’ শব্দটির অর্থ—কামুক কৌতূহলপূর্ণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'prurient' as 'having or showing an excessive or inappropriate interest' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘prurient’ শব্দটি কামুক কৌতূহলপূর্ণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "pseudonym",
+    "pronunciation_bn": "সুডোনিম",
+    "pronunciation": "/ˈsuː.də.nɪm/",
+    "no": 645,
+    "group": 26,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a fictitious name used by someone, especially an author, instead of their real name",
+    "meaning_bn": [
+      "ছদ্মনাম",
+      "আসল নামের বদলে ব্যবহৃত নাম"
+    ],
+    "synonyms": [
+      {
+        "en": "pen name",
+        "bn": "লেখক-ছদ্মনাম"
+      },
+      {
+        "en": "alias",
+        "bn": "বিকল্প নাম"
+      },
+      {
+        "en": "nom de plume",
+        "bn": "ছদ্মনাম"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "real name",
+        "bn": "আসল নাম"
+      },
+      {
+        "en": "legal name",
+        "bn": "আইনগত নাম"
+      }
+    ],
+    "example": "The author published her first novel under a pseudonym.",
+    "example_bn": "লেখক তাঁর প্রথম উপন্যাসটি ছদ্মনামে প্রকাশ করেছিলেন।",
+    "examples": [
+      "The author published her first novel under a pseudonym. — লেখক তাঁর প্রথম উপন্যাসটি ছদ্মনামে প্রকাশ করেছিলেন।",
+      "At dinner, she explained that 'pseudonym' means 'a fictitious name used by someone, especially', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘pseudonym’ শব্দটির অর্থ—ছদ্মনাম—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'pseudonym' as 'a fictitious name used by someone, especially' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘pseudonym’ শব্দটি ছদ্মনাম অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "psyche",
+    "pronunciation_bn": "সাইকি",
+    "pronunciation": "/ˈsaɪ.ki/",
+    "no": 646,
+    "group": 26,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the human mind, soul, or inner mental life",
+    "meaning_bn": [
+      "মন",
+      "মানসিক সত্তা",
+      "আত্মা"
+    ],
+    "synonyms": [
+      {
+        "en": "mind",
+        "bn": "মন"
+      },
+      {
+        "en": "mentality",
+        "bn": "মানসিকতা"
+      },
+      {
+        "en": "spirit",
+        "bn": "আত্মা/মনোবল"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "body",
+        "bn": "শরীর"
+      },
+      {
+        "en": "physique",
+        "bn": "দেহগঠন"
+      }
+    ],
+    "example": "Long periods of isolation can affect a person's psyche.",
+    "example_bn": "দীর্ঘদিনের একাকিত্ব একজন মানুষের মানসিক সত্তাকে প্রভাবিত করতে পারে।",
+    "examples": [
+      "Long periods of isolation can affect a person's psyche. — দীর্ঘদিনের একাকিত্ব একজন মানুষের মানসিক সত্তাকে প্রভাবিত করতে পারে।",
+      "At dinner, she explained that 'psyche' means 'the human mind, soul, or inner mental life', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘psyche’ শব্দটির অর্থ—মন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'psyche' as 'the human mind, soul, or inner mental life' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘psyche’ শব্দটি মন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "pummel",
+    "pronunciation_bn": "পামেল",
+    "pronunciation": "/ˈpʌm.əl/",
+    "no": 647,
+    "group": 26,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to hit or beat someone repeatedly with the fists or with something",
+    "meaning_bn": [
+      "বারবার ঘুষি মারা",
+      "প্রচণ্ড প্রহার করা"
+    ],
+    "synonyms": [
+      {
+        "en": "pound",
+        "bn": "প্রচণ্ড আঘাত করা"
+      },
+      {
+        "en": "batter",
+        "bn": "নির্মমভাবে প্রহার করা"
+      },
+      {
+        "en": "punch",
+        "bn": "ঘুষি মারা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "caress",
+        "bn": "স্নেহে স্পর্শ করা"
+      },
+      {
+        "en": "protect",
+        "bn": "রক্ষা করা"
+      }
+    ],
+    "example": "The boxer pummeled his opponent in the final round.",
+    "example_bn": "শেষ রাউন্ডে বক্সারটি প্রতিপক্ষকে বারবার ঘুষি মারল।",
+    "examples": [
+      "The boxer pummeled his opponent in the final round. — শেষ রাউন্ডে বক্সারটি প্রতিপক্ষকে বারবার ঘুষি মারল।",
+      "At dinner, she explained that 'pummel' means 'to hit or beat someone repeatedly', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘pummel’ শব্দটির অর্থ—বারবার ঘুষি মারা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'pummel' as 'to hit or beat someone repeatedly' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘pummel’ শব্দটি বারবার ঘুষি মারা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "punctilious",
+    "pronunciation_bn": "পাঙ্কটিলিয়াস",
+    "pronunciation": "/ˌpʌŋkˈtɪl.i.əs/",
+    "no": 648,
+    "group": 26,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "very careful about details and about following rules or correct behaviour",
+    "meaning_bn": [
+      "খুঁটিনাটি বিষয়ে অত্যন্ত যত্নশীল",
+      "নিয়মনিষ্ঠ",
+      "সূক্ষ্ম বিষয়ে সতর্ক"
+    ],
+    "synonyms": [
+      {
+        "en": "meticulous",
+        "bn": "অতিসতর্ক"
+      },
+      {
+        "en": "scrupulous",
+        "bn": "নীতিনিষ্ঠ ও সতর্ক"
+      },
+      {
+        "en": "precise",
+        "bn": "নির্ভুল"
+      },
+      {
+        "en": "Fastidious",
+        "bn": "খুঁতখুঁতে"
+      },
+      {
+        "en": "Painstaking",
+        "bn": "অত্যন্ত যত্নসহকারে করা"
+      },
+      {
+        "en": "Comprehensive",
+        "bn": "সর্বাঙ্গীণ"
+      },
+      {
+        "en": "Exhaustive",
+        "bn": "পুঙ্খানুপুঙ্খ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "careless",
+        "bn": "অসতর্ক"
+      },
+      {
+        "en": "sloppy",
+        "bn": "অগোছালো/অমনোযোগী"
+      },
+      {
+        "en": "nebulous",
+        "bn": "অস্পষ্ট"
+      },
+      {
+        "en": "cursory",
+        "bn": "দ্রুত ও উপর উপর করা"
+      },
+      {
+        "en": "delinquent",
+        "bn": "দায়িত্ব পালনে অবহেলাকারী"
+      },
+      {
+        "en": "Lax",
+        "bn": "শিথিল"
+      },
+      {
+        "en": "Perfunctory",
+        "bn": "দায়সারা"
+      }
+    ],
+    "example": "The punctilious editor checked every citation before publication.",
+    "example_bn": "খুঁটিনাটি বিষয়ে যত্নশীল সম্পাদক প্রকাশের আগে প্রতিটি উদ্ধৃতি যাচাই করলেন।",
+    "examples": [
+      "The punctilious editor checked every citation before publication. — খুঁটিনাটি বিষয়ে যত্নশীল সম্পাদক প্রকাশের আগে প্রতিটি উদ্ধৃতি যাচাই করলেন।",
+      "At dinner, she explained that 'punctilious' means 'very careful about details and about following rules', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘punctilious’ শব্দটির অর্থ—খুঁটিনাটি বিষয়ে অত্যন্ত যত্নশীল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'punctilious' as 'very careful about details and about following rules' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘punctilious’ শব্দটি খুঁটিনাটি বিষয়ে অত্যন্ত যত্নশীল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "pundit",
+    "pronunciation_bn": "পান্ডিট",
+    "pronunciation": "/ˈpʌn.dɪt/",
+    "no": 649,
+    "group": 26,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a person with extensive knowledge of a subject who is often asked to give opinions about it",
+    "meaning_bn": [
+      "বিশেষজ্ঞ",
+      "পণ্ডিত",
+      "কোনো বিষয়ে জ্ঞানী বিশ্লেষক"
+    ],
+    "synonyms": [
+      {
+        "en": "expert",
+        "bn": "বিশেষজ্ঞ"
+      },
+      {
+        "en": "authority",
+        "bn": "কর্তৃত্বপূর্ণ জ্ঞানী ব্যক্তি"
+      },
+      {
+        "en": "specialist",
+        "bn": "বিশেষজ্ঞ"
+      },
+      {
+        "en": "Connoisseur",
+        "bn": "রসজ্ঞ"
+      },
+      {
+        "en": "Virtuoso",
+        "bn": "অসাধারণ দক্ষ ব্যক্তি"
+      },
+      {
+        "en": "savant",
+        "bn": "অত্যন্ত জ্ঞানী ব্যক্তি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "novice",
+        "bn": "নবীন"
+      },
+      {
+        "en": "amateur",
+        "bn": "অপেশাদার"
+      },
+      {
+        "en": "Layman",
+        "bn": "অবিশেষজ্ঞ ব্যক্তি"
+      },
+      {
+        "en": "Dilettante",
+        "bn": "শখের শিল্পরসিক"
+      },
+      {
+        "en": "fledgling",
+        "bn": "সদ্য উড়তে শেখা পাখি"
+      },
+      {
+        "en": "neophyte",
+        "bn": "নবাগত"
+      },
+      {
+        "en": "Charlatan",
+        "bn": "ভণ্ড"
+      }
+    ],
+    "example": "Several political pundits debated the likely election results.",
+    "example_bn": "কয়েকজন রাজনৈতিক বিশ্লেষক সম্ভাব্য নির্বাচনী ফল নিয়ে বিতর্ক করলেন।",
+    "examples": [
+      "Several political pundits debated the likely election results. — কয়েকজন রাজনৈতিক বিশ্লেষক সম্ভাব্য নির্বাচনী ফল নিয়ে বিতর্ক করলেন।",
+      "At dinner, she explained that 'pundit' means 'a person with extensive knowledge of a subject', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘pundit’ শব্দটির অর্থ—বিশেষজ্ঞ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'pundit' as 'a person with extensive knowledge of a subject' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘pundit’ শব্দটি বিশেষজ্ঞ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "pungent",
+    "pronunciation_bn": "পানজেন্ট",
+    "pronunciation": "/ˈpʌn.dʒənt/",
+    "no": 650,
+    "group": 26,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "having a very strong, sharp smell or taste; also having a sharply forceful effect",
+    "meaning_bn": [
+      "ঝাঁঝালো",
+      "তীব্র গন্ধ বা স্বাদযুক্ত",
+      "তীক্ষ্ণ ও প্রখর"
+    ],
+    "synonyms": [
+      {
+        "en": "acrid",
+        "bn": "ঝাঁঝালো"
+      },
+      {
+        "en": "sharp",
+        "bn": "তীব্র"
+      },
+      {
+        "en": "biting",
+        "bn": "তীক্ষ্ণ/কটূ"
+      },
+      {
+        "en": "Acerbic",
+        "bn": "কটু"
+      },
+      {
+        "en": "Acute",
+        "bn": "তীব্র"
+      },
+      {
+        "en": "Caustic",
+        "bn": "ক্ষয়কারী"
+      },
+      {
+        "en": "Incisive",
+        "bn": "তীক্ষ্ণ বিশ্লেষণী"
+      },
+      {
+        "en": "trenchant",
+        "bn": "তীক্ষ্ণ ও জোরালো"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "mild",
+        "bn": "মৃদু"
+      },
+      {
+        "en": "bland",
+        "bn": "স্বাদহীন/নিরামিষ"
+      },
+      {
+        "en": "fragrant",
+        "bn": "সুগন্ধি"
+      },
+      {
+        "en": "Redolent",
+        "bn": "সুগন্ধময়"
+      },
+      {
+        "en": "Benign",
+        "bn": "ক্ষতিকর নয় এমন"
+      },
+      {
+        "en": "Obtuse",
+        "bn": "বুদ্ধিতে ধীর"
+      },
+      {
+        "en": "Temperate",
+        "bn": "সংযমী"
+      },
+      {
+        "en": "Insipid",
+        "bn": "বিস্বাদ"
+      }
+    ],
+    "example": "The pungent smell of garlic filled the kitchen.",
+    "example_bn": "রসুনের ঝাঁঝালো গন্ধ রান্নাঘর ভরিয়ে দিল।",
+    "examples": [
+      "The pungent smell of garlic filled the kitchen. — রসুনের ঝাঁঝালো গন্ধ রান্নাঘর ভরিয়ে দিল।",
+      "At dinner, she explained that 'pungent' means 'having a very strong, sharp smell or taste', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘pungent’ শব্দটির অর্থ—ঝাঁঝালো—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'pungent' as 'having a very strong, sharp smell or taste' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘pungent’ শব্দটি ঝাঁঝালো অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

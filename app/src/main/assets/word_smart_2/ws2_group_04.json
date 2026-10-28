@@ -1,0 +1,1652 @@
+[
+  {
+    "word": "Arrears",
+    "pronunciation_bn": "অ্যারিয়ার্স",
+    "pronunciation": "/əˈrɪrz/",
+    "no": 76,
+    "group": 4,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "money that is owed and should have been paid earlier",
+    "meaning_bn": [
+      "বকেয়া অর্থ",
+      "অপরিশোধিত পাওনা"
+    ],
+    "synonyms": [
+      {
+        "en": "debt",
+        "bn": "ঋণ"
+      },
+      {
+        "en": "overdue payment",
+        "bn": "বকেয়া অর্থপ্রদান"
+      },
+      {
+        "en": "back payments",
+        "bn": "পূর্বের বকেয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "advance payment",
+        "bn": "অগ্রিম অর্থপ্রদান"
+      },
+      {
+        "en": "prepayment",
+        "bn": "আগাম পরিশোধ"
+      },
+      {
+        "en": "Bequest",
+        "bn": "উইলে কাউকে দিয়ে যাওয়া অর্থ বা সম্পত্তি"
+      },
+      {
+        "en": "patrimony",
+        "bn": "পৈতৃক সম্পত্তি"
+      }
+    ],
+    "example": "The tenant was two months in arrears on the rent.",
+    "example_bn": "ভাড়াটিয়া দুই মাসের ভাড়া বকেয়া রেখেছিল.",
+    "examples": [
+      "The tenant was two months in arrears on the rent. — ভাড়াটিয়া দুই মাসের ভাড়া বকেয়া রেখেছিল.",
+      "At dinner, she explained that 'Arrears' means 'money that is owed and should have been', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Arrears’ শব্দটির অর্থ—বকেয়া অর্থ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Arrears' as 'money that is owed and should have been' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Arrears’ শব্দটি বকেয়া অর্থ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Arsenal",
+    "pronunciation_bn": "আর্সেনাল",
+    "pronunciation": "/ˈɑːrsənəl/",
+    "no": 77,
+    "group": 4,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a collection of weapons and military equipment; a store of resources or skills",
+    "meaning_bn": [
+      "অস্ত্রাগার",
+      "অস্ত্রশস্ত্রের ভান্ডার",
+      "দক্ষতা বা উপকরণের সমৃদ্ধ ভান্ডার"
+    ],
+    "synonyms": [
+      {
+        "en": "armory",
+        "bn": "অস্ত্রাগার"
+      },
+      {
+        "en": "stockpile",
+        "bn": "মজুতভান্ডার"
+      },
+      {
+        "en": "repertoire",
+        "bn": "দক্ষতা বা উপকরণের ভান্ডার"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "shortage",
+        "bn": "ঘাটতি"
+      },
+      {
+        "en": "dearth",
+        "bn": "অভাব"
+      },
+      {
+        "en": "Paucity",
+        "bn": "স্বল্পতা"
+      },
+      {
+        "en": "deficit",
+        "bn": "ঘাটতি"
+      }
+    ],
+    "example": "The team has an arsenal of talented players.",
+    "example_bn": "দলটির কাছে প্রতিভাবান খেলোয়াড়দের বিশাল ভান্ডার রয়েছে.",
+    "examples": [
+      "The team has an arsenal of talented players. — দলটির কাছে প্রতিভাবান খেলোয়াড়দের বিশাল ভান্ডার রয়েছে.",
+      "At dinner, she explained that 'Arsenal' means 'a collection of weapons and military equipment', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Arsenal’ শব্দটির অর্থ—অস্ত্রাগার—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Arsenal' as 'a collection of weapons and military equipment' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Arsenal’ শব্দটি অস্ত্রাগার অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Articulate",
+    "pronunciation_bn": "আর্টিকিউলেট",
+    "pronunciation": "/ɑːrˈtɪkjələt/",
+    "no": 78,
+    "group": 4,
+    "pos": [
+      "verb",
+      "adjective"
+    ],
+    "meaning_en": "to express thoughts or feelings clearly; able to express ideas clearly and effectively",
+    "meaning_bn": [
+      "স্পষ্টভাবে প্রকাশ করা",
+      "সুস্পষ্টভাবে বক্তব্য দিতে সক্ষম"
+    ],
+    "synonyms": [
+      {
+        "en": "express",
+        "bn": "প্রকাশ করা"
+      },
+      {
+        "en": "verbalize",
+        "bn": "কথায় প্রকাশ করা"
+      },
+      {
+        "en": "enunciate",
+        "bn": "স্পষ্টভাবে উচ্চারণ করা"
+      },
+      {
+        "en": "convey",
+        "bn": "বহন করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "mumble",
+        "bn": "অস্পষ্টভাবে বলা"
+      },
+      {
+        "en": "garble",
+        "bn": "গুলিয়ে বলা"
+      },
+      {
+        "en": "repress",
+        "bn": "দমন করা"
+      },
+      {
+        "en": "suppress",
+        "bn": "দমন করা"
+      }
+    ],
+    "example": "She was able to articulate her ideas with great clarity.",
+    "example_bn": "তিনি অত্যন্ত স্পষ্টভাবে নিজের ধারণাগুলো প্রকাশ করতে পেরেছিলেন.",
+    "examples": [
+      "She was able to articulate her ideas with great clarity. — তিনি অত্যন্ত স্পষ্টভাবে নিজের ধারণাগুলো প্রকাশ করতে পেরেছিলেন.",
+      "At dinner, she explained that 'Articulate' means 'to express thoughts or feelings clearly', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Articulate’ শব্দটির অর্থ—স্পষ্টভাবে প্রকাশ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Articulate' as 'to express thoughts or feelings clearly' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Articulate’ শব্দটি স্পষ্টভাবে প্রকাশ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Artisan",
+    "pronunciation_bn": "আর্টিজান",
+    "pronunciation": "/ˈɑːrtɪzən/",
+    "no": 79,
+    "group": 4,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a person who is skilled at making things by hand",
+    "meaning_bn": [
+      "কারুশিল্পী",
+      "হস্তশিল্পে দক্ষ ব্যক্তি"
+    ],
+    "synonyms": [
+      {
+        "en": "craftsperson",
+        "bn": "কারুশিল্পী"
+      },
+      {
+        "en": "craftworker",
+        "bn": "হস্তশিল্পী"
+      },
+      {
+        "en": "maker",
+        "bn": "নির্মাতা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "amateur",
+        "bn": "অপেশাদার"
+      },
+      {
+        "en": "novice",
+        "bn": "নবীন"
+      },
+      {
+        "en": "Dilettante",
+        "bn": "শখের শিল্পরসিক"
+      },
+      {
+        "en": "fledgling",
+        "bn": "সদ্য উড়তে শেখা পাখি"
+      },
+      {
+        "en": "Layman",
+        "bn": "অবিশেষজ্ঞ ব্যক্তি"
+      },
+      {
+        "en": "neophyte",
+        "bn": "নবাগত"
+      }
+    ],
+    "example": "The artisan carved intricate designs into the wood.",
+    "example_bn": "কারুশিল্পী কাঠের ওপর জটিল নকশা খোদাই করেছিলেন.",
+    "examples": [
+      "The artisan carved intricate designs into the wood. — কারুশিল্পী কাঠের ওপর জটিল নকশা খোদাই করেছিলেন.",
+      "At dinner, she explained that 'Artisan' means 'a person who is skilled at making things', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Artisan’ শব্দটির অর্থ—কারুশিল্পী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Artisan' as 'a person who is skilled at making things' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Artisan’ শব্দটি কারুশিল্পী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Ascertain",
+    "pronunciation_bn": "অ্যাসারটেইন",
+    "pronunciation": "/ˌæsərˈteɪn/",
+    "no": 80,
+    "group": 4,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to find out or establish something with certainty",
+    "meaning_bn": [
+      "নিশ্চিতভাবে নির্ধারণ করা",
+      "নিশ্চিতভাবে খুঁজে বের করা"
+    ],
+    "synonyms": [
+      {
+        "en": "determine",
+        "bn": "নির্ধারণ করা"
+      },
+      {
+        "en": "establish",
+        "bn": "প্রতিষ্ঠিত বা নিশ্চিত করা"
+      },
+      {
+        "en": "verify",
+        "bn": "যাচাই করা"
+      },
+      {
+        "en": "Corroborate",
+        "bn": "প্রমাণ দিয়ে সমর্থন করা"
+      },
+      {
+        "en": "Attest",
+        "bn": "প্রমাণ দেওয়া"
+      },
+      {
+        "en": "substantiate",
+        "bn": "প্রমাণ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "guess",
+        "bn": "অনুমান করা"
+      },
+      {
+        "en": "speculate",
+        "bn": "অনুমাননির্ভর ধারণা করা"
+      },
+      {
+        "en": "Allege",
+        "bn": "প্রমাণ ছাড়া দাবি করা"
+      },
+      {
+        "en": "Conjecture",
+        "bn": "অনুমান"
+      },
+      {
+        "en": "Extrapolate",
+        "bn": "জ্ঞাত তথ্য থেকে অজ্ঞাত বিষয়ে অনুমান করা"
+      },
+      {
+        "en": "Refute",
+        "bn": "খণ্ডন করা"
+      },
+      {
+        "en": "surmise",
+        "bn": "অনুমান করা"
+      }
+    ],
+    "example": "The detective worked to ascertain the truth.",
+    "example_bn": "গোয়েন্দা সত্যটি নিশ্চিতভাবে জানার চেষ্টা করেছিলেন.",
+    "examples": [
+      "The detective worked to ascertain the truth. — গোয়েন্দা সত্যটি নিশ্চিতভাবে জানার চেষ্টা করেছিলেন.",
+      "At dinner, she explained that 'Ascertain' means 'to find out or establish something with certainty', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Ascertain’ শব্দটির অর্থ—নিশ্চিতভাবে নির্ধারণ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Ascertain' as 'to find out or establish something with certainty' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Ascertain’ শব্দটি নিশ্চিতভাবে নির্ধারণ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Ascribe",
+    "pronunciation_bn": "অ্যাসক্রাইব",
+    "pronunciation": "/əˈskraɪb/",
+    "no": 81,
+    "group": 4,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to say or believe that something is caused by, created by, or belongs to someone or something",
+    "meaning_bn": [
+      "কারণ হিসেবে গণ্য করা",
+      "কৃতিত্ব আরোপ করা",
+      "দায়ী করা"
+    ],
+    "synonyms": [
+      {
+        "en": "attribute",
+        "bn": "আরোপ করা"
+      },
+      {
+        "en": "credit",
+        "bn": "কৃতিত্ব দেওয়া"
+      },
+      {
+        "en": "assign",
+        "bn": "নির্ধারণ করে দেওয়া"
+      },
+      {
+        "en": "Allocate",
+        "bn": "বরাদ্দ করা"
+      },
+      {
+        "en": "Allot",
+        "bn": "বরাদ্দ করা"
+      },
+      {
+        "en": "Relegate",
+        "bn": "নিম্নতর অবস্থানে নামিয়ে দেওয়া"
+      },
+      {
+        "en": "consign",
+        "bn": "হস্তান্তর করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "disassociate",
+        "bn": "সম্পর্ক অস্বীকার করা"
+      },
+      {
+        "en": "detach",
+        "bn": "বিচ্ছিন্ন করা"
+      }
+    ],
+    "example": "Scientists ascribe the climate changes to human activity.",
+    "example_bn": "বিজ্ঞানীরা জলবায়ু পরিবর্তনের জন্য মানুষের কর্মকাণ্ডকে দায়ী করেন.",
+    "examples": [
+      "Scientists ascribe the climate changes to human activity. — বিজ্ঞানীরা জলবায়ু পরিবর্তনের জন্য মানুষের কর্মকাণ্ডকে দায়ী করেন.",
+      "At dinner, she explained that 'Ascribe' means 'to say or believe that something is caused', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Ascribe’ শব্দটির অর্থ—কারণ হিসেবে গণ্য করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Ascribe' as 'to say or believe that something is caused' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Ascribe’ শব্দটি কারণ হিসেবে গণ্য করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Askance",
+    "pronunciation_bn": "অ্যাসক্যান্স",
+    "pronunciation": "/əˈskæns/",
+    "no": 82,
+    "group": 4,
+    "pos": [
+      "adverb"
+    ],
+    "meaning_en": "with suspicion, doubt, or disapproval",
+    "meaning_bn": [
+      "সন্দেহের দৃষ্টিতে",
+      "অসম্মতির দৃষ্টিতে",
+      "বাঁকা চোখে"
+    ],
+    "synonyms": [
+      {
+        "en": "skeptically",
+        "bn": "সন্দেহের সঙ্গে"
+      },
+      {
+        "en": "distrustfully",
+        "bn": "অবিশ্বাসের সঙ্গে"
+      },
+      {
+        "en": "disapprovingly",
+        "bn": "অসম্মতিসূচকভাবে"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "trustingly",
+        "bn": "বিশ্বাসের সঙ্গে"
+      },
+      {
+        "en": "approvingly",
+        "bn": "সমর্থনসূচকভাবে"
+      }
+    ],
+    "example": "She looked askance at the unusual request.",
+    "example_bn": "অস্বাভাবিক অনুরোধটির দিকে তিনি সন্দেহের দৃষ্টিতে তাকিয়েছিলেন.",
+    "examples": [
+      "She looked askance at the unusual request. — অস্বাভাবিক অনুরোধটির দিকে তিনি সন্দেহের দৃষ্টিতে তাকিয়েছিলেন.",
+      "At dinner, she explained that 'Askance' means 'with suspicion, doubt, or disapproval', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Askance’ শব্দটির অর্থ—সন্দেহের দৃষ্টিতে—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Askance' as 'with suspicion, doubt, or disapproval' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Askance’ শব্দটি সন্দেহের দৃষ্টিতে অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Aspersion",
+    "pronunciation_bn": "অ্যাসপারশন",
+    "pronunciation": "/əˈspɜːrʒən/",
+    "no": 83,
+    "group": 4,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "an untrue or damaging statement about someone's character or reputation",
+    "meaning_bn": [
+      "অপবাদ",
+      "চরিত্রহননমূলক মন্তব্য",
+      "কলঙ্কারোপ"
+    ],
+    "synonyms": [
+      {
+        "en": "slander",
+        "bn": "মৌখিক অপবাদ"
+      },
+      {
+        "en": "calumny",
+        "bn": "মিথ্যা অপবাদ"
+      },
+      {
+        "en": "defamation",
+        "bn": "মানহানি"
+      },
+      {
+        "en": "Libel",
+        "bn": "লিখিত বা প্রকাশিত মানহানিকর মিথ্যা বক্তব্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "praise",
+        "bn": "প্রশংসা"
+      },
+      {
+        "en": "commendation",
+        "bn": "প্রশংসাসূচক বক্তব্য"
+      },
+      {
+        "en": "Approbation",
+        "bn": "অনুমোদন"
+      },
+      {
+        "en": "Acclaim",
+        "bn": "প্রকাশ্যে প্রশংসা করা"
+      },
+      {
+        "en": "Tout",
+        "bn": "প্রচার করা"
+      }
+    ],
+    "example": "He cast aspersions on her character without evidence.",
+    "example_bn": "প্রমাণ ছাড়াই তিনি তাঁর চরিত্রের ওপর অপবাদ দিয়েছিলেন.",
+    "examples": [
+      "He cast aspersions on her character without evidence. — প্রমাণ ছাড়াই তিনি তাঁর চরিত্রের ওপর অপবাদ দিয়েছিলেন.",
+      "At dinner, she explained that 'Aspersion' means 'an untrue or damaging statement about someone's character', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Aspersion’ শব্দটির অর্থ—অপবাদ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Aspersion' as 'an untrue or damaging statement about someone's character' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Aspersion’ শব্দটি অপবাদ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Assail",
+    "pronunciation_bn": "অ্যাসেইল",
+    "pronunciation": "/əˈseɪl/",
+    "no": 84,
+    "group": 4,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to attack someone or something physically or with words",
+    "meaning_bn": [
+      "আক্রমণ করা",
+      "তীব্রভাবে সমালোচনা করা"
+    ],
+    "synonyms": [
+      {
+        "en": "attack",
+        "bn": "আক্রমণ করা"
+      },
+      {
+        "en": "assault",
+        "bn": "হামলা করা"
+      },
+      {
+        "en": "criticize",
+        "bn": "সমালোচনা করা"
+      },
+      {
+        "en": "Deprecate",
+        "bn": "কোনো কিছুর প্রতি অসম্মতি প্রকাশ করা"
+      },
+      {
+        "en": "decry",
+        "bn": "প্রকাশ্যে নিন্দা করা"
+      },
+      {
+        "en": "Reproach",
+        "bn": "তিরস্কার করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "defend",
+        "bn": "রক্ষা করা"
+      },
+      {
+        "en": "protect",
+        "bn": "সুরক্ষা দেওয়া"
+      },
+      {
+        "en": "Acclaim",
+        "bn": "প্রকাশ্যে প্রশংসা করা"
+      },
+      {
+        "en": "champion",
+        "bn": "সমর্থন করা"
+      },
+      {
+        "en": "Extol",
+        "bn": "ভূয়সী প্রশংসা করা"
+      },
+      {
+        "en": "Laud",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "rhapsodize",
+        "bn": "অত্যন্ত উৎসাহভরে কথা বলা"
+      }
+    ],
+    "example": "Critics assailed the new policy from all sides.",
+    "example_bn": "সমালোচকেরা চারদিক থেকে নতুন নীতিটির তীব্র সমালোচনা করেছিলেন.",
+    "examples": [
+      "Critics assailed the new policy from all sides. — সমালোচকেরা চারদিক থেকে নতুন নীতিটির তীব্র সমালোচনা করেছিলেন.",
+      "At dinner, she explained that 'Assail' means 'to attack someone or something physically', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Assail’ শব্দটির অর্থ—আক্রমণ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Assail' as 'to attack someone or something physically' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Assail’ শব্দটি আক্রমণ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Assert",
+    "pronunciation_bn": "অ্যাসার্ট",
+    "pronunciation": "/əˈsɜːrt/",
+    "no": 85,
+    "group": 4,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to state firmly that something is true; to defend a right or authority confidently",
+    "meaning_bn": [
+      "দৃঢ়ভাবে দাবি করা",
+      "জোর দিয়ে বলা",
+      "নিজের অধিকার প্রতিষ্ঠা করা"
+    ],
+    "synonyms": [
+      {
+        "en": "affirm",
+        "bn": "নিশ্চিতভাবে বলা"
+      },
+      {
+        "en": "declare",
+        "bn": "ঘোষণা করা"
+      },
+      {
+        "en": "maintain",
+        "bn": "দৃঢ়ভাবে বলা বা বজায় রাখা"
+      },
+      {
+        "en": "Allege",
+        "bn": "প্রমাণ ছাড়া দাবি করা"
+      },
+      {
+        "en": "Avow",
+        "bn": "প্রকাশ্যে ঘোষণা করা"
+      },
+      {
+        "en": "Profess",
+        "bn": "দাবি করা"
+      },
+      {
+        "en": "perpetuate",
+        "bn": "চিরস্থায়ী করা"
+      },
+      {
+        "en": "proclaim",
+        "bn": "ঘোষণা করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "deny",
+        "bn": "অস্বীকার করা"
+      },
+      {
+        "en": "retract",
+        "bn": "প্রত্যাহার করা"
+      },
+      {
+        "en": "Recant",
+        "bn": "আগের বক্তব্য প্রত্যাহার করা"
+      },
+      {
+        "en": "Insinuate",
+        "bn": "পরোক্ষভাবে ইঙ্গিত করা"
+      },
+      {
+        "en": "Abjure",
+        "bn": "আনুষ্ঠানিকভাবে ত্যাগ করা"
+      },
+      {
+        "en": "Impugn",
+        "bn": "সততা নিয়ে প্রশ্ন তোলা"
+      },
+      {
+        "en": "forswear",
+        "bn": "শপথ করে ত্যাগ করা"
+      },
+      {
+        "en": "Relinquish",
+        "bn": "ত্যাগ করা"
+      },
+      {
+        "en": "Renounce",
+        "bn": "আনুষ্ঠানিকভাবে ত্যাগ করা"
+      }
+    ],
+    "example": "She asserted her right to be heard in court.",
+    "example_bn": "তিনি আদালতে নিজের বক্তব্য শোনানোর অধিকার দৃঢ়ভাবে দাবি করেছিলেন.",
+    "examples": [
+      "She asserted her right to be heard in court. — তিনি আদালতে নিজের বক্তব্য শোনানোর অধিকার দৃঢ়ভাবে দাবি করেছিলেন.",
+      "At dinner, she explained that 'Assert' means 'to state firmly that something is true', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Assert’ শব্দটির অর্থ—দৃঢ়ভাবে দাবি করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Assert' as 'to state firmly that something is true' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Assert’ শব্দটি দৃঢ়ভাবে দাবি করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Assess",
+    "pronunciation_bn": "অ্যাসেস",
+    "pronunciation": "/əˈses/",
+    "no": 86,
+    "group": 4,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to judge or estimate the nature, quality, importance, or value of something",
+    "meaning_bn": [
+      "মূল্যায়ন করা",
+      "অনুমান করা",
+      "যাচাই করে নির্ধারণ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "evaluate",
+        "bn": "মূল্যায়ন করা"
+      },
+      {
+        "en": "appraise",
+        "bn": "মূল্য নির্ধারণ করা"
+      },
+      {
+        "en": "estimate",
+        "bn": "আনুমানিক হিসাব করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "misjudge",
+        "bn": "ভুলভাবে বিচার করা"
+      },
+      {
+        "en": "ignore",
+        "bn": "উপেক্ষা করা"
+      }
+    ],
+    "example": "The inspector came to assess the damage to the building.",
+    "example_bn": "ভবনটির ক্ষয়ক্ষতি মূল্যায়ন করতে পরিদর্শক এসেছিলেন.",
+    "examples": [
+      "The inspector came to assess the damage to the building. — ভবনটির ক্ষয়ক্ষতি মূল্যায়ন করতে পরিদর্শক এসেছিলেন.",
+      "At dinner, she explained that 'Assess' means 'to judge or estimate the nature, quality, importance', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Assess’ শব্দটির অর্থ—মূল্যায়ন করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Assess' as 'to judge or estimate the nature, quality, importance' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Assess’ শব্দটি মূল্যায়ন করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Astringent",
+    "pronunciation_bn": "অ্যাস্ট্রিনজেন্ট",
+    "pronunciation": "/əˈstrɪndʒənt/",
+    "no": 87,
+    "group": 4,
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "meaning_en": "harsh or severe in manner or tone; causing body tissues to contract",
+    "meaning_bn": [
+      "কঠোর",
+      "তীক্ষ্ণ",
+      "কষায়"
+    ],
+    "synonyms": [
+      {
+        "en": "harsh",
+        "bn": "কঠোর"
+      },
+      {
+        "en": "severe",
+        "bn": "কঠিন বা কঠোর"
+      },
+      {
+        "en": "caustic",
+        "bn": "কটূক্তিপূর্ণ"
+      },
+      {
+        "en": "Acerbic",
+        "bn": "কটু"
+      },
+      {
+        "en": "Austere",
+        "bn": "সাদাসিধে ও অনাড়ম্বর"
+      },
+      {
+        "en": "Vitriolic",
+        "bn": "তীব্র কটূক্তিপূর্ণ"
+      },
+      {
+        "en": "draconian",
+        "bn": "অত্যন্ত কঠোর"
+      },
+      {
+        "en": "corrosive",
+        "bn": "ক্ষয়কারী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "mild",
+        "bn": "মৃদু"
+      },
+      {
+        "en": "gentle",
+        "bn": "কোমল"
+      },
+      {
+        "en": "Benign",
+        "bn": "ক্ষতিকর নয় এমন"
+      },
+      {
+        "en": "Idyllic",
+        "bn": "অত্যন্ত মনোরম"
+      },
+      {
+        "en": "Mellifluous",
+        "bn": "শুনতে মধুর, মসৃণ ও সুরেলা"
+      },
+      {
+        "en": "bland",
+        "bn": "মৃদু"
+      },
+      {
+        "en": "Decadent",
+        "bn": "নৈতিকভাবে অধঃপতিত"
+      }
+    ],
+    "example": "The critic's astringent review devastated the author.",
+    "example_bn": "সমালোচকের কঠোর পর্যালোচনা লেখককে ভীষণভাবে মর্মাহত করেছিল.",
+    "examples": [
+      "The critic's astringent review devastated the author. — সমালোচকের কঠোর পর্যালোচনা লেখককে ভীষণভাবে মর্মাহত করেছিল.",
+      "At dinner, she explained that 'Astringent' means 'harsh or severe in manner or tone', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Astringent’ শব্দটির অর্থ—কঠোর—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Astringent' as 'harsh or severe in manner or tone' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Astringent’ শব্দটি কঠোর অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Asylum",
+    "pronunciation_bn": "অ্যাসাইলাম",
+    "pronunciation": "/əˈsaɪləm/",
+    "no": 88,
+    "group": 4,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "protection granted by a country to someone who has left their own country because they are in danger; a place of refuge",
+    "meaning_bn": [
+      "রাজনৈতিক আশ্রয়",
+      "নিরাপদ আশ্রয়স্থল",
+      "আশ্রয়"
+    ],
+    "synonyms": [
+      {
+        "en": "refuge",
+        "bn": "আশ্রয়"
+      },
+      {
+        "en": "shelter",
+        "bn": "আশ্রয়স্থল"
+      },
+      {
+        "en": "sanctuary",
+        "bn": "নিরাপদ আশ্রয়"
+      },
+      {
+        "en": "bivouac",
+        "bn": "অস্থায়ী শিবির"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "exposure",
+        "bn": "অনিরাপদ অবস্থায় থাকা"
+      },
+      {
+        "en": "peril",
+        "bn": "বিপদ"
+      }
+    ],
+    "example": "He sought political asylum in a neighboring country.",
+    "example_bn": "তিনি প্রতিবেশী একটি দেশে রাজনৈতিক আশ্রয় চেয়েছিলেন.",
+    "examples": [
+      "He sought political asylum in a neighboring country. — তিনি প্রতিবেশী একটি দেশে রাজনৈতিক আশ্রয় চেয়েছিলেন.",
+      "At dinner, she explained that 'Asylum' means 'protection granted by a country to someone who', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Asylum’ শব্দটির অর্থ—রাজনৈতিক আশ্রয়—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Asylum' as 'protection granted by a country to someone who' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Asylum’ শব্দটি রাজনৈতিক আশ্রয় অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "At the lower limit",
+    "pronunciation_bn": "অ্যাট দ্য লোয়ার লিমিট",
+    "pronunciation": "/ət ðə ˈloʊər ˈlɪmɪt/",
+    "no": 89,
+    "group": 4,
+    "pos": [
+      "phrase"
+    ],
+    "meaning_en": "at the lowest boundary or minimum level; the supplied source uses it to mean insignificant, but that equivalence is not a standard general-dictionary definition",
+    "meaning_bn": [
+      "সর্বনিম্ন সীমায়",
+      "সর্বনিম্ন পর্যায়ে"
+    ],
+    "synonyms": [
+      {
+        "en": "at the minimum",
+        "bn": "সর্বনিম্ন পর্যায়ে"
+      },
+      {
+        "en": "at the bottom end",
+        "bn": "নিম্নতম প্রান্তে"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "at the upper limit",
+        "bn": "সর্বোচ্চ সীমায়"
+      }
+    ],
+    "example": "The measurement was at the lower limit of the accepted range.",
+    "example_bn": "পরিমাপটি গ্রহণযোগ্য সীমার সর্বনিম্ন পর্যায়ে ছিল.",
+    "examples": [
+      "The measurement was at the lower limit of the accepted range. — পরিমাপটি গ্রহণযোগ্য সীমার সর্বনিম্ন পর্যায়ে ছিল.",
+      "At dinner, she explained that 'At the lower limit' means 'at the lowest boundary or minimum level', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘At the lower limit’ শব্দটির অর্থ—সর্বনিম্ন সীমায়—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'At the lower limit' as 'at the lowest boundary or' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘At the lower limit’ শব্দটি সর্বনিম্ন সীমায় অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Atone",
+    "pronunciation_bn": "অ্যাটোন",
+    "pronunciation": "/əˈtoʊn/",
+    "no": 90,
+    "group": 4,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to do something to show that you are sorry for something wrong you have done",
+    "meaning_bn": [
+      "প্রায়শ্চিত্ত করা",
+      "ভুলের ক্ষতিপূরণ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "make amends",
+        "bn": "ক্ষতিপূরণ করা"
+      },
+      {
+        "en": "redeem oneself",
+        "bn": "নিজের ভুলের প্রায়শ্চিত্ত করা"
+      },
+      {
+        "en": "compensate",
+        "bn": "ক্ষতিপূরণ করা"
+      },
+      {
+        "en": "redeem",
+        "bn": "পুনরুদ্ধার করা"
+      },
+      {
+        "en": "redress",
+        "bn": "প্রতিকার করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "offend",
+        "bn": "অপরাধ বা কষ্ট দেওয়া"
+      },
+      {
+        "en": "aggravate",
+        "bn": "পরিস্থিতি আরও খারাপ করা"
+      },
+      {
+        "en": "Vex",
+        "bn": "বিরক্ত করা"
+      },
+      {
+        "en": "Exacerbate",
+        "bn": "আরও খারাপ করে তোলা"
+      }
+    ],
+    "example": "He tried to atone for his mistakes through charitable work.",
+    "example_bn": "তিনি দাতব্য কাজের মাধ্যমে নিজের ভুলের প্রায়শ্চিত্ত করার চেষ্টা করেছিলেন.",
+    "examples": [
+      "He tried to atone for his mistakes through charitable work. — তিনি দাতব্য কাজের মাধ্যমে নিজের ভুলের প্রায়শ্চিত্ত করার চেষ্টা করেছিলেন.",
+      "At dinner, she explained that 'Atone' means 'to do something to show that you are', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Atone’ শব্দটির অর্থ—প্রায়শ্চিত্ত করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Atone' as 'to do something to show that you are' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Atone’ শব্দটি প্রায়শ্চিত্ত করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Atrophy",
+    "pronunciation_bn": "অ্যাট্রফি",
+    "pronunciation": "/ˈætrəfi/",
+    "no": 91,
+    "group": 4,
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "meaning_en": "to become weaker or smaller because of lack of use; the wasting away of tissue or an organ",
+    "meaning_bn": [
+      "ক্ষয় হয়ে যাওয়া",
+      "ব্যবহার না করার ফলে দুর্বল বা ক্ষীণ হয়ে পড়া",
+      "ক্ষয়"
+    ],
+    "synonyms": [
+      {
+        "en": "waste away",
+        "bn": "ক্ষয় হয়ে যাওয়া"
+      },
+      {
+        "en": "dwindle",
+        "bn": "ক্রমে কমে যাওয়া"
+      },
+      {
+        "en": "degenerate",
+        "bn": "অবক্ষয় হওয়া"
+      },
+      {
+        "en": "Decadent",
+        "bn": "নৈতিকভাবে অধঃপতিত"
+      },
+      {
+        "en": "Dissipate",
+        "bn": "ধীরে ধীরে মিলিয়ে যাওয়া"
+      },
+      {
+        "en": "emaciate",
+        "bn": "অত্যন্ত শীর্ণ করে ফেলা"
+      },
+      {
+        "en": "Exacerbate",
+        "bn": "আরও খারাপ করে তোলা"
+      },
+      {
+        "en": "Languish",
+        "bn": "নিস্তেজ হয়ে পড়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "develop",
+        "bn": "বিকশিত হওয়া"
+      },
+      {
+        "en": "strengthen",
+        "bn": "শক্তিশালী হওয়া"
+      },
+      {
+        "en": "Proliferate",
+        "bn": "দ্রুত সংখ্যায় বা পরিমাণে বৃদ্ধি পাওয়া"
+      },
+      {
+        "en": "Burgeon",
+        "bn": "দ্রুত বৃদ্ধি পাওয়া"
+      },
+      {
+        "en": "Alleviate",
+        "bn": "উপশম করা"
+      },
+      {
+        "en": "Ameliorate",
+        "bn": "উন্নত করা"
+      },
+      {
+        "en": "consolidate",
+        "bn": "একত্রিত করা"
+      }
+    ],
+    "example": "Muscles will atrophy if not exercised regularly.",
+    "example_bn": "নিয়মিত ব্যায়াম না করলে পেশি ক্ষয় হয়ে যেতে পারে.",
+    "examples": [
+      "Muscles will atrophy if not exercised regularly. — নিয়মিত ব্যায়াম না করলে পেশি ক্ষয় হয়ে যেতে পারে.",
+      "At dinner, she explained that 'Atrophy' means 'to become weaker or smaller because of lack', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Atrophy’ শব্দটির অর্থ—ক্ষয় হয়ে যাওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Atrophy' as 'to become weaker or smaller because of lack' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Atrophy’ শব্দটি ক্ষয় হয়ে যাওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Attest",
+    "pronunciation_bn": "অ্যাটেস্ট",
+    "pronunciation": "/əˈtest/",
+    "no": 92,
+    "group": 4,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to show or prove that something is true; to state formally that something is true",
+    "meaning_bn": [
+      "প্রমাণ দেওয়া",
+      "সত্য বলে সাক্ষ্য দেওয়া",
+      "নিশ্চিত করা"
+    ],
+    "synonyms": [
+      {
+        "en": "testify",
+        "bn": "সাক্ষ্য দেওয়া"
+      },
+      {
+        "en": "verify",
+        "bn": "যাচাই করা"
+      },
+      {
+        "en": "certify",
+        "bn": "প্রত্যয়ন করা"
+      },
+      {
+        "en": "Ascertain",
+        "bn": "নিশ্চিতভাবে নির্ধারণ করা"
+      },
+      {
+        "en": "Corroborate",
+        "bn": "প্রমাণ দিয়ে সমর্থন করা"
+      },
+      {
+        "en": "substantiate",
+        "bn": "প্রমাণ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "disprove",
+        "bn": "ভুল প্রমাণ করা"
+      },
+      {
+        "en": "contradict",
+        "bn": "বিরোধিতা করা"
+      },
+      {
+        "en": "Refute",
+        "bn": "খণ্ডন করা"
+      },
+      {
+        "en": "Allege",
+        "bn": "প্রমাণ ছাড়া দাবি করা"
+      },
+      {
+        "en": "Belie",
+        "bn": "মিথ্যা ধারণা দেওয়া"
+      },
+      {
+        "en": "Extrapolate",
+        "bn": "জ্ঞাত তথ্য থেকে অজ্ঞাত বিষয়ে অনুমান করা"
+      },
+      {
+        "en": "Rebut",
+        "bn": "খণ্ডন করা"
+      }
+    ],
+    "example": "His medals attest to years of military service.",
+    "example_bn": "তাঁর পদকগুলো বহু বছরের সামরিক সেবার প্রমাণ দেয়.",
+    "examples": [
+      "His medals attest to years of military service. — তাঁর পদকগুলো বহু বছরের সামরিক সেবার প্রমাণ দেয়.",
+      "At dinner, she explained that 'Attest' means 'to show or prove that something is true', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Attest’ শব্দটির অর্থ—প্রমাণ দেওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Attest' as 'to show or prove that something is true' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Attest’ শব্দটি প্রমাণ দেওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Attribute",
+    "pronunciation_bn": "অ্যাট্রিবিউট",
+    "pronunciation": "/əˈtrɪbjuːt/",
+    "no": 93,
+    "group": 4,
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "meaning_en": "to regard something as being caused by someone or something; a quality or feature of a person or thing",
+    "meaning_bn": [
+      "কারণ হিসেবে আরোপ করা",
+      "কৃতিত্ব দেওয়া",
+      "বৈশিষ্ট্য",
+      "গুণ"
+    ],
+    "synonyms": [
+      {
+        "en": "ascribe",
+        "bn": "আরোপ করা"
+      },
+      {
+        "en": "assign",
+        "bn": "নির্ধারণ করা"
+      },
+      {
+        "en": "characteristic",
+        "bn": "বৈশিষ্ট্য"
+      },
+      {
+        "en": "Allocate",
+        "bn": "বরাদ্দ করা"
+      },
+      {
+        "en": "Allot",
+        "bn": "বরাদ্দ করা"
+      },
+      {
+        "en": "Relegate",
+        "bn": "নিম্নতর অবস্থানে নামিয়ে দেওয়া"
+      },
+      {
+        "en": "consign",
+        "bn": "হস্তান্তর করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "disassociate",
+        "bn": "সম্পর্ক বিচ্ছিন্ন করা"
+      }
+    ],
+    "example": "She attributed her success to hard work and persistence.",
+    "example_bn": "তিনি তাঁর সাফল্যের কৃতিত্ব কঠোর পরিশ্রম ও অধ্যবসায়কে দিয়েছিলেন.",
+    "examples": [
+      "She attributed her success to hard work and persistence. — তিনি তাঁর সাফল্যের কৃতিত্ব কঠোর পরিশ্রম ও অধ্যবসায়কে দিয়েছিলেন.",
+      "At dinner, she explained that 'Attribute' means 'to regard something as being caused by someone', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Attribute’ শব্দটির অর্থ—কারণ হিসেবে আরোপ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Attribute' as 'to regard something as being caused by someone' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Attribute’ শব্দটি কারণ হিসেবে আরোপ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Augur",
+    "pronunciation_bn": "অগার",
+    "pronunciation": "/ˈɔːɡər/",
+    "no": 94,
+    "group": 4,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to be a sign of what will happen in the future",
+    "meaning_bn": [
+      "ভবিষ্যতের লক্ষণ হওয়া",
+      "পূর্বাভাস দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "foreshadow",
+        "bn": "আগাম ইঙ্গিত দেওয়া"
+      },
+      {
+        "en": "portend",
+        "bn": "পূর্বলক্ষণ হওয়া"
+      },
+      {
+        "en": "predict",
+        "bn": "ভবিষ্যদ্বাণী করা"
+      },
+      {
+        "en": "forebode",
+        "bn": "অশুভ ঘটনার পূর্বাভাস দেওয়া"
+      },
+      {
+        "en": "presage",
+        "bn": "পূর্বাভাস দেওয়া"
+      },
+      {
+        "en": "divine",
+        "bn": "অন্তর্দৃষ্টি দিয়ে বুঝতে পারা"
+      },
+      {
+        "en": "Herald",
+        "bn": "ঘোষক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "contradict",
+        "bn": "বিরোধী ইঙ্গিত দেওয়া"
+      },
+      {
+        "en": "Belie",
+        "bn": "মিথ্যা ধারণা দেওয়া"
+      }
+    ],
+    "example": "Dark clouds augur a coming storm.",
+    "example_bn": "কালো মেঘ আসন্ন ঝড়ের পূর্বাভাস দেয়.",
+    "examples": [
+      "Dark clouds augur a coming storm. — কালো মেঘ আসন্ন ঝড়ের পূর্বাভাস দেয়.",
+      "At dinner, she explained that 'Augur' means 'to be a sign of what will happen', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Augur’ শব্দটির অর্থ—ভবিষ্যতের লক্ষণ হওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Augur' as 'to be a sign of what will happen' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Augur’ শব্দটি ভবিষ্যতের লক্ষণ হওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "August",
+    "pronunciation_bn": "অগাস্ট",
+    "pronunciation": "/ɔːˈɡʌst/",
+    "no": 95,
+    "group": 4,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "respected and impressive because of age, dignity, or importance",
+    "meaning_bn": [
+      "মহিমান্বিত",
+      "গম্ভীর মর্যাদাপূর্ণ",
+      "শ্রদ্ধা ও বিস্ময় জাগায় এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "venerable",
+        "bn": "শ্রদ্ধেয়"
+      },
+      {
+        "en": "majestic",
+        "bn": "মহিমান্বিত"
+      },
+      {
+        "en": "dignified",
+        "bn": "মর্যাদাপূর্ণ"
+      },
+      {
+        "en": "Decorous",
+        "bn": "শালীন"
+      },
+      {
+        "en": "Hoary",
+        "bn": "বয়সের কারণে ধূসর বা সাদা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "undistinguished",
+        "bn": "বিশেষ মর্যাদাহীন"
+      },
+      {
+        "en": "humble",
+        "bn": "সাধারণ বা বিনয়ী"
+      }
+    ],
+    "example": "The august presence of the judge silenced the room.",
+    "example_bn": "বিচারকের মর্যাদাপূর্ণ উপস্থিতিতে কক্ষটি নিস্তব্ধ হয়ে গেল.",
+    "examples": [
+      "The august presence of the judge silenced the room. — বিচারকের মর্যাদাপূর্ণ উপস্থিতিতে কক্ষটি নিস্তব্ধ হয়ে গেল.",
+      "At dinner, she explained that 'August' means 'respected and impressive because of age, dignity', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘August’ শব্দটির অর্থ—মহিমান্বিত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'August' as 'respected and impressive because of age, dignity' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘August’ শব্দটি মহিমান্বিত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Auspices",
+    "pronunciation_bn": "অস্পিসেস",
+    "pronunciation": "/ˈɔːspɪsɪz/",
+    "no": 96,
+    "group": 4,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "support, protection, or sponsorship, especially by an organization",
+    "meaning_bn": [
+      "পৃষ্ঠপোষকতা",
+      "সমর্থন",
+      "তত্ত্বাবধান"
+    ],
+    "synonyms": [
+      {
+        "en": "patronage",
+        "bn": "পৃষ্ঠপোষকতা"
+      },
+      {
+        "en": "sponsorship",
+        "bn": "অর্থায়ন বা পৃষ্ঠপোষকতা"
+      },
+      {
+        "en": "support",
+        "bn": "সমর্থন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "opposition",
+        "bn": "বিরোধিতা"
+      },
+      {
+        "en": "hindrance",
+        "bn": "বাধা"
+      }
+    ],
+    "example": "The conference was held under the auspices of the UN.",
+    "example_bn": "জাতিসংঘের পৃষ্ঠপোষকতায় সম্মেলনটি অনুষ্ঠিত হয়েছিল.",
+    "examples": [
+      "The conference was held under the auspices of the UN. — জাতিসংঘের পৃষ্ঠপোষকতায় সম্মেলনটি অনুষ্ঠিত হয়েছিল.",
+      "At dinner, she explained that 'Auspices' means 'support, protection, or sponsorship, especially by an organization', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Auspices’ শব্দটির অর্থ—পৃষ্ঠপোষকতা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Auspices' as 'support, protection, or sponsorship, especially by an organization' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Auspices’ শব্দটি পৃষ্ঠপোষকতা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Auxiliary",
+    "pronunciation_bn": "অগজিলিয়ারি",
+    "pronunciation": "/ɔːɡˈzɪliəri/",
+    "no": 97,
+    "group": 4,
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "meaning_en": "providing additional help or support; a person or thing that provides such help",
+    "meaning_bn": [
+      "সহায়ক",
+      "অতিরিক্ত সহায়তা প্রদানকারী",
+      "সহায়ক ব্যক্তি বা উপকরণ"
+    ],
+    "synonyms": [
+      {
+        "en": "supporting",
+        "bn": "সহায়তাকারী"
+      },
+      {
+        "en": "supplementary",
+        "bn": "পরিপূরক"
+      },
+      {
+        "en": "ancillary",
+        "bn": "আনুষঙ্গিক সহায়ক"
+      },
+      {
+        "en": "subsidiary",
+        "bn": "সহায়ক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "primary",
+        "bn": "প্রধান"
+      },
+      {
+        "en": "main",
+        "bn": "মূল"
+      },
+      {
+        "en": "Autonomous",
+        "bn": "স্বায়ত্তশাসিত"
+      },
+      {
+        "en": "Inherent",
+        "bn": "সহজাত"
+      },
+      {
+        "en": "Integral",
+        "bn": "অবিচ্ছেদ্য অংশ"
+      },
+      {
+        "en": "Intrinsic",
+        "bn": "অন্তর্নিহিত"
+      }
+    ],
+    "example": "The hospital hired auxiliary nurses during the emergency.",
+    "example_bn": "জরুরি পরিস্থিতিতে হাসপাতালটি অতিরিক্ত সহায়ক নার্স নিয়োগ করেছিল.",
+    "examples": [
+      "The hospital hired auxiliary nurses during the emergency. — জরুরি পরিস্থিতিতে হাসপাতালটি অতিরিক্ত সহায়ক নার্স নিয়োগ করেছিল.",
+      "At dinner, she explained that 'Auxiliary' means 'providing additional help or support', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Auxiliary’ শব্দটির অর্থ—সহায়ক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Auxiliary' as 'providing additional help or support' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Auxiliary’ শব্দটি সহায়ক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Avail",
+    "pronunciation_bn": "অ্যাভেইল",
+    "pronunciation": "/əˈveɪl/",
+    "no": 98,
+    "group": 4,
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "meaning_en": "to help or benefit; to be useful or effective, often in the phrase 'to no avail'",
+    "meaning_bn": [
+      "উপকারে আসা",
+      "কাজে লাগা",
+      "উপকার বা সুবিধা"
+    ],
+    "synonyms": [
+      {
+        "en": "benefit",
+        "bn": "উপকার করা"
+      },
+      {
+        "en": "help",
+        "bn": "সাহায্য করা"
+      },
+      {
+        "en": "serve",
+        "bn": "কাজে লাগা"
+      },
+      {
+        "en": "Perquisite",
+        "bn": "চাকরির অতিরিক্ত সুবিধা"
+      },
+      {
+        "en": "boon",
+        "bn": "আশীর্বাদস্বরূপ বিষয়"
+      },
+      {
+        "en": "suffice",
+        "bn": "যথেষ্ট হওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "hinder",
+        "bn": "বাধা দেওয়া"
+      },
+      {
+        "en": "fail",
+        "bn": "ব্যর্থ হওয়া"
+      },
+      {
+        "en": "Bane",
+        "bn": "সর্বনাশের কারণ"
+      },
+      {
+        "en": "Founder",
+        "bn": "(ক্রিয়া) পানি ঢুকে ডুবে যাওয়া"
+      },
+      {
+        "en": "Stymie",
+        "bn": "বাধাগ্রস্ত করা"
+      },
+      {
+        "en": "disservice",
+        "bn": "অপকার"
+      },
+      {
+        "en": "Impede",
+        "bn": "বাধা দেওয়া"
+      }
+    ],
+    "example": "All efforts to save the crop were of no avail.",
+    "example_bn": "ফসল বাঁচানোর সব প্রচেষ্টা ব্যর্থ হয়েছিল.",
+    "examples": [
+      "All efforts to save the crop were of no avail. — ফসল বাঁচানোর সব প্রচেষ্টা ব্যর্থ হয়েছিল.",
+      "At dinner, she explained that 'Avail' means 'to help or benefit', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Avail’ শব্দটির অর্থ—উপকারে আসা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Avail' as 'to help or benefit' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Avail’ শব্দটি উপকারে আসা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Aversion",
+    "pronunciation_bn": "অ্যাভারশন",
+    "pronunciation": "/əˈvɜːrʒən/",
+    "no": 99,
+    "group": 4,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a strong feeling of dislike or unwillingness",
+    "meaning_bn": [
+      "তীব্র অপছন্দ",
+      "বিরাগ",
+      "অনিচ্ছা"
+    ],
+    "synonyms": [
+      {
+        "en": "dislike",
+        "bn": "অপছন্দ"
+      },
+      {
+        "en": "antipathy",
+        "bn": "বিরাগ"
+      },
+      {
+        "en": "repugnance",
+        "bn": "তীব্র ঘৃণা"
+      },
+      {
+        "en": "Animosity",
+        "bn": "শত্রুতা"
+      },
+      {
+        "en": "Rancor",
+        "bn": "তিক্ত ক্ষোভ"
+      },
+      {
+        "en": "revulsion",
+        "bn": "তীব্র ঘৃণা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "liking",
+        "bn": "পছন্দ"
+      },
+      {
+        "en": "affinity",
+        "bn": "আকর্ষণ বা সাদৃশ্য"
+      },
+      {
+        "en": "disposition",
+        "bn": "স্বভাব"
+      },
+      {
+        "en": "Propensity",
+        "bn": "স্বাভাবিক প্রবণতা"
+      },
+      {
+        "en": "Penchant",
+        "bn": "বিশেষ ঝোঁক"
+      },
+      {
+        "en": "Predilection",
+        "bn": "বিশেষ পছন্দ"
+      },
+      {
+        "en": "Inclination",
+        "bn": "প্রবণতা"
+      }
+    ],
+    "example": "She had a deep aversion to dishonesty.",
+    "example_bn": "অসততার প্রতি তাঁর গভীর বিরাগ ছিল.",
+    "examples": [
+      "She had a deep aversion to dishonesty. — অসততার প্রতি তাঁর গভীর বিরাগ ছিল.",
+      "At dinner, she explained that 'Aversion' means 'a strong feeling of dislike or unwillingness', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Aversion’ শব্দটির অর্থ—তীব্র অপছন্দ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Aversion' as 'a strong feeling of dislike or unwillingness' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Aversion’ শব্দটি তীব্র অপছন্দ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Avert",
+    "pronunciation_bn": "অ্যাভার্ট",
+    "pronunciation": "/əˈvɜːrt/",
+    "no": 100,
+    "group": 4,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to prevent something unpleasant from happening; to turn away",
+    "meaning_bn": [
+      "প্রতিরোধ করা",
+      "ঠেকানো",
+      "মুখ বা দৃষ্টি ফিরিয়ে নেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "prevent",
+        "bn": "প্রতিরোধ করা"
+      },
+      {
+        "en": "ward off",
+        "bn": "ঠেকানো"
+      },
+      {
+        "en": "avoid",
+        "bn": "এড়ানো"
+      },
+      {
+        "en": "obviate",
+        "bn": "অপ্রয়োজনীয় করে তোলা"
+      },
+      {
+        "en": "forestall",
+        "bn": "আগেভাগে ঠেকানো"
+      },
+      {
+        "en": "Preclude",
+        "bn": "ঘটতে বাধা দেওয়া"
+      },
+      {
+        "en": "Preempt",
+        "bn": "আগেভাগে পদক্ষেপ নিয়ে ঠেকানো"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "cause",
+        "bn": "ঘটানো"
+      },
+      {
+        "en": "invite",
+        "bn": "ডেকে আনা"
+      },
+      {
+        "en": "Precipitate",
+        "bn": "হঠাৎ ঘটিয়ে তোলা"
+      },
+      {
+        "en": "Beget",
+        "bn": "জন্ম দেওয়া"
+      },
+      {
+        "en": "Engender",
+        "bn": "সৃষ্টি করা"
+      },
+      {
+        "en": "Accost",
+        "bn": "কারও কাছে গিয়ে কথা বলা"
+      },
+      {
+        "en": "Broach",
+        "bn": "আলোচনার জন্য কোনো বিষয় উত্থাপন করা"
+      },
+      {
+        "en": "connive",
+        "bn": "গোপনে ষড়যন্ত্রে সহযোগিতা করা"
+      },
+      {
+        "en": "Expedite",
+        "bn": "দ্রুততর করা"
+      }
+    ],
+    "example": "Quick action averted a serious accident.",
+    "example_bn": "দ্রুত পদক্ষেপ একটি গুরুতর দুর্ঘটনা ঠেকিয়েছিল.",
+    "examples": [
+      "Quick action averted a serious accident. — দ্রুত পদক্ষেপ একটি গুরুতর দুর্ঘটনা ঠেকিয়েছিল.",
+      "At dinner, she explained that 'Avert' means 'to prevent something unpleasant from happening', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Avert’ শব্দটির অর্থ—প্রতিরোধ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Avert' as 'to prevent something unpleasant from happening' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Avert’ শব্দটি প্রতিরোধ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

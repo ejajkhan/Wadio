@@ -1,0 +1,1733 @@
+[
+  {
+    "word": "Congenital",
+    "pronunciation_bn": "কনজেনিটাল",
+    "pronunciation": "/kənˈdʒen.ɪ.təl/",
+    "no": 226,
+    "group": 10,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "existing from birth; present from the time a person is born",
+    "meaning_bn": [
+      "জন্মগত",
+      "জন্ম থেকেই বিদ্যমান"
+    ],
+    "synonyms": [
+      {
+        "en": "inborn",
+        "bn": "জন্মগত"
+      },
+      {
+        "en": "innate",
+        "bn": "সহজাত"
+      },
+      {
+        "en": "hereditary",
+        "bn": "বংশগত"
+      },
+      {
+        "en": "Inherent",
+        "bn": "সহজাত"
+      },
+      {
+        "en": "Intrinsic",
+        "bn": "অন্তর্নিহিত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "acquired",
+        "bn": "অর্জিত"
+      },
+      {
+        "en": "developed",
+        "bn": "পরবর্তীকালে সৃষ্ট"
+      }
+    ],
+    "example": "The baby was born with a congenital heart defect.",
+    "example_bn": "শিশুটি জন্মগত হৃদ্‌যন্ত্রের ত্রুটি নিয়ে জন্মেছিল.",
+    "examples": [
+      "The baby was born with a congenital heart defect. — শিশুটি জন্মগত হৃদ্‌যন্ত্রের ত্রুটি নিয়ে জন্মেছিল.",
+      "At dinner, she explained that 'Congenital' means 'existing from birth', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Congenital’ শব্দটির অর্থ—জন্মগত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Congenital' as 'existing from birth' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Congenital’ শব্দটি জন্মগত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Conjecture",
+    "pronunciation_bn": "কনজেকচার",
+    "pronunciation": "/kənˈdʒek.tʃər/",
+    "no": 227,
+    "group": 10,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "an opinion or conclusion formed without sufficient evidence; to form an opinion by guessing",
+    "meaning_bn": [
+      "অনুমান",
+      "প্রমাণের অভাবে ধারণা করা",
+      "অনুমান করা"
+    ],
+    "synonyms": [
+      {
+        "en": "speculation",
+        "bn": "অনুমানভিত্তিক ধারণা"
+      },
+      {
+        "en": "guess",
+        "bn": "আন্দাজ"
+      },
+      {
+        "en": "surmise",
+        "bn": "অনুমান করা"
+      },
+      {
+        "en": "Infer",
+        "bn": "অনুমান করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "certainty",
+        "bn": "নিশ্চয়তা"
+      },
+      {
+        "en": "proof",
+        "bn": "প্রমাণ"
+      },
+      {
+        "en": "knowledge",
+        "bn": "জ্ঞান"
+      },
+      {
+        "en": "Ascertain",
+        "bn": "নিশ্চিতভাবে নির্ধারণ করা"
+      },
+      {
+        "en": "conviction",
+        "bn": "দৃঢ় বিশ্বাস"
+      },
+      {
+        "en": "Deduce",
+        "bn": "যুক্তি ও প্রমাণ থেকে সিদ্ধান্তে পৌঁছানো"
+      }
+    ],
+    "example": "Without evidence, we can only conjecture about the cause.",
+    "example_bn": "প্রমাণ ছাড়া আমরা কারণটি সম্পর্কে কেবল অনুমানই করতে পারি।",
+    "examples": [
+      "Without evidence, we can only conjecture about the cause. — প্রমাণ ছাড়া আমরা কারণটি সম্পর্কে কেবল অনুমানই করতে পারি।",
+      "At dinner, she explained that 'Conjecture' means 'an opinion or conclusion formed without sufficient evidence', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Conjecture’ শব্দটির অর্থ—অনুমান—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Conjecture' as 'an opinion or conclusion formed without sufficient evidence' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Conjecture’ শব্দটি অনুমান অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Conjure",
+    "pronunciation_bn": "কানজার",
+    "pronunciation": "/ˈkʌn.dʒər/",
+    "no": 228,
+    "group": 10,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to make something appear as if by magic; to bring an idea, image, or memory to mind",
+    "meaning_bn": [
+      "জাদুর মতো হাজির করা",
+      "মনে জাগিয়ে তোলা",
+      "কল্পনায় সৃষ্টি করা"
+    ],
+    "synonyms": [
+      {
+        "en": "summon",
+        "bn": "ডেকে আনা"
+      },
+      {
+        "en": "evoke",
+        "bn": "মনে জাগিয়ে তোলা"
+      },
+      {
+        "en": "produce",
+        "bn": "উৎপন্ন করা"
+      },
+      {
+        "en": "convene",
+        "bn": "সভা আহ্বান করা"
+      },
+      {
+        "en": "Elicit",
+        "bn": "আদায় করা"
+      },
+      {
+        "en": "muster",
+        "bn": "সমবেত করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "dispel",
+        "bn": "দূর করা"
+      },
+      {
+        "en": "banish",
+        "bn": "তাড়িয়ে দেওয়া"
+      },
+      {
+        "en": "erase",
+        "bn": "মুছে ফেলা"
+      },
+      {
+        "en": "Efface",
+        "bn": "মুছে ফেলা"
+      },
+      {
+        "en": "expunge",
+        "bn": "সম্পূর্ণ মুছে ফেলা"
+      },
+      {
+        "en": "suppress",
+        "bn": "দমন করা"
+      }
+    ],
+    "example": "She conjured a brilliant solution seemingly out of thin air.",
+    "example_bn": "সে যেন শূন্য থেকেই এক অসাধারণ সমাধান বের করে আনল।",
+    "examples": [
+      "She conjured a brilliant solution seemingly out of thin air. — সে যেন শূন্য থেকেই এক অসাধারণ সমাধান বের করে আনল।",
+      "At dinner, she explained that 'Conjure' means 'to make something appear as if by magic', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Conjure’ শব্দটির অর্থ—জাদুর মতো হাজির করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Conjure' as 'to make something appear as if by magic' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Conjure’ শব্দটি জাদুর মতো হাজির করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Connoisseur",
+    "pronunciation_bn": "কনসার",
+    "pronunciation": "/ˌkɒn.əˈsɜːr/",
+    "no": 229,
+    "group": 10,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "an expert judge in matters of art, food, drink, or other matters of taste and quality",
+    "meaning_bn": [
+      "রসজ্ঞ",
+      "বিশেষজ্ঞ বিচারক",
+      "সুরুচিসম্পন্ন গুণগ্রাহী"
+    ],
+    "synonyms": [
+      {
+        "en": "expert",
+        "bn": "বিশেষজ্ঞ"
+      },
+      {
+        "en": "authority",
+        "bn": "কর্তৃত্বপূর্ণ জ্ঞানসম্পন্ন ব্যক্তি"
+      },
+      {
+        "en": "aficionado",
+        "bn": "অনুরাগী ও অভিজ্ঞ ব্যক্তি"
+      },
+      {
+        "en": "epicure",
+        "bn": "ভোজনরসিক"
+      },
+      {
+        "en": "pundit",
+        "bn": "বিশেষজ্ঞ"
+      },
+      {
+        "en": "savant",
+        "bn": "অত্যন্ত জ্ঞানী ব্যক্তি"
+      },
+      {
+        "en": "Virtuoso",
+        "bn": "অসাধারণ দক্ষ ব্যক্তি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "Dilettante",
+        "bn": "শখের শিল্পরসিক"
+      },
+      {
+        "en": "Charlatan",
+        "bn": "ভণ্ড"
+      },
+      {
+        "en": "fledgling",
+        "bn": "সদ্য উড়তে শেখা পাখি"
+      },
+      {
+        "en": "Layman",
+        "bn": "অবিশেষজ্ঞ ব্যক্তি"
+      },
+      {
+        "en": "neophyte",
+        "bn": "নবাগত"
+      }
+    ],
+    "example": "He is a connoisseur of French wine.",
+    "example_bn": "তিনি ফরাসি ওয়াইনের একজন রসজ্ঞ।",
+    "examples": [
+      "He is a connoisseur of French wine. — তিনি ফরাসি ওয়াইনের একজন রসজ্ঞ।",
+      "At dinner, she explained that 'Connoisseur' means 'an expert judge in matters of art, food', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Connoisseur’ শব্দটির অর্থ—রসজ্ঞ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Connoisseur' as 'an expert judge in matters of art, food' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Connoisseur’ শব্দটি রসজ্ঞ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Consecrate",
+    "pronunciation_bn": "কনসিক্রেইট",
+    "pronunciation": "/ˈkɒn.sɪ.kreɪt/",
+    "no": 230,
+    "group": 10,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to make or declare something sacred; to dedicate something to a special purpose",
+    "meaning_bn": [
+      "পবিত্র করা",
+      "ধর্মীয়ভাবে উৎসর্গ করা",
+      "বিশেষ উদ্দেশ্যে নিবেদন করা"
+    ],
+    "synonyms": [
+      {
+        "en": "sanctify",
+        "bn": "পবিত্র করা"
+      },
+      {
+        "en": "dedicate",
+        "bn": "উৎসর্গ করা"
+      },
+      {
+        "en": "bless",
+        "bn": "আশীর্বাদ করে পবিত্র করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "desecrate",
+        "bn": "অপবিত্র করা"
+      },
+      {
+        "en": "profane",
+        "bn": "পবিত্রতা নষ্ট করা"
+      },
+      {
+        "en": "defile",
+        "bn": "নোংরা করা"
+      }
+    ],
+    "example": "The priest consecrated the new church.",
+    "example_bn": "যাজক নতুন গির্জাটিকে পবিত্র বলে অভিষিক্ত করলেন।",
+    "examples": [
+      "The priest consecrated the new church. — যাজক নতুন গির্জাটিকে পবিত্র বলে অভিষিক্ত করলেন।",
+      "At dinner, she explained that 'Consecrate' means 'to make or declare something sacred', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Consecrate’ শব্দটির অর্থ—পবিত্র করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Consecrate' as 'to make or declare something sacred' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Consecrate’ শব্দটি পবিত্র করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Consensus",
+    "pronunciation_bn": "কনসেনসাস",
+    "pronunciation": "/kənˈsen.səs/",
+    "no": 231,
+    "group": 10,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "general agreement among a group of people",
+    "meaning_bn": [
+      "সাধারণ ঐকমত্য",
+      "সর্বসম্মত মত"
+    ],
+    "synonyms": [
+      {
+        "en": "agreement",
+        "bn": "সম্মতি"
+      },
+      {
+        "en": "accord",
+        "bn": "মতৈক্য"
+      },
+      {
+        "en": "unanimity",
+        "bn": "সর্বসম্মতি"
+      },
+      {
+        "en": "Concord",
+        "bn": "সম্প্রীতি"
+      },
+      {
+        "en": "compromise",
+        "bn": "আপস"
+      },
+      {
+        "en": "concert",
+        "bn": "সম্মিলিত উদ্যোগ"
+      },
+      {
+        "en": "Covenant",
+        "bn": "আনুষ্ঠানিক চুক্তি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "disagreement",
+        "bn": "মতভেদ"
+      },
+      {
+        "en": "discord",
+        "bn": "অনৈক্য"
+      },
+      {
+        "en": "dissent",
+        "bn": "ভিন্নমত"
+      },
+      {
+        "en": "Faction",
+        "bn": "বৃহত্তর দলের অভ্যন্তরীণ উপদল"
+      },
+      {
+        "en": "Cacophony",
+        "bn": "কর্কশ শব্দমিশ্রণ"
+      },
+      {
+        "en": "Clique",
+        "bn": "ঘনিষ্ঠ একচেটিয়া দল"
+      },
+      {
+        "en": "Antithesis",
+        "bn": "সম্পূর্ণ বিপরীত"
+      },
+      {
+        "en": "discrepancy",
+        "bn": "অমিল"
+      },
+      {
+        "en": "Strife",
+        "bn": "দ্বন্দ্ব"
+      }
+    ],
+    "example": "There was a consensus that the plan needed revision.",
+    "example_bn": "পরিকল্পনাটির সংশোধন প্রয়োজন—এ বিষয়ে সবার মধ্যে ঐকমত্য ছিল।",
+    "examples": [
+      "There was a consensus that the plan needed revision. — পরিকল্পনাটির সংশোধন প্রয়োজন—এ বিষয়ে সবার মধ্যে ঐকমত্য ছিল।",
+      "At dinner, she explained that 'Consensus' means 'general agreement among a group of people', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Consensus’ শব্দটির অর্থ—সাধারণ ঐকমত্য—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Consensus' as 'general agreement among a group of people' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Consensus’ শব্দটি সাধারণ ঐকমত্য অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Consonant",
+    "pronunciation_bn": "কনসন্যান্ট",
+    "pronunciation": "/ˈkɒn.sə.nənt/",
+    "no": 232,
+    "group": 10,
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "meaning_en": "(adjective) in agreement or harmony with something; (noun) a speech sound made by restricting the airflow",
+    "meaning_bn": [
+      "সামঞ্জস্যপূর্ণ",
+      "সঙ্গতিপূর্ণ",
+      "ব্যঞ্জনধ্বনি"
+    ],
+    "synonyms": [
+      {
+        "en": "consistent",
+        "bn": "সামঞ্জস্যপূর্ণ"
+      },
+      {
+        "en": "compatible",
+        "bn": "সুসংগত"
+      },
+      {
+        "en": "harmonious",
+        "bn": "সামঞ্জস্যপূর্ণ"
+      },
+      {
+        "en": "Coherent",
+        "bn": "সুসংগত"
+      },
+      {
+        "en": "Congenial",
+        "bn": "মনোরম"
+      },
+      {
+        "en": "Homogeneous",
+        "bn": "সমজাতীয়"
+      },
+      {
+        "en": "Uniform",
+        "bn": "একরূপ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "inconsistent",
+        "bn": "অসামঞ্জস্যপূর্ণ"
+      },
+      {
+        "en": "incompatible",
+        "bn": "অসঙ্গত"
+      },
+      {
+        "en": "contradictory",
+        "bn": "বিরোধী"
+      },
+      {
+        "en": "Capricious",
+        "bn": "খামখেয়ালি"
+      },
+      {
+        "en": "Incongruous",
+        "bn": "বেমানান"
+      },
+      {
+        "en": "Mercurial",
+        "bn": "হঠাৎ ও অনিশ্চিতভাবে মেজাজ বা আচরণ বদলায় এমন"
+      }
+    ],
+    "example": "His actions were consonant with his stated values.",
+    "example_bn": "তার কাজকর্ম তার ঘোষিত মূল্যবোধের সঙ্গে সামঞ্জস্যপূর্ণ ছিল।",
+    "examples": [
+      "His actions were consonant with his stated values. — তার কাজকর্ম তার ঘোষিত মূল্যবোধের সঙ্গে সামঞ্জস্যপূর্ণ ছিল।",
+      "At dinner, she explained that 'Consonant' means '(adjective) in agreement or harmony with something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Consonant’ শব্দটির অর্থ—সামঞ্জস্যপূর্ণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Consonant' as '(adjective) in agreement or harmony with something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Consonant’ শব্দটি সামঞ্জস্যপূর্ণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Construe",
+    "pronunciation_bn": "কনস্ট্রু",
+    "pronunciation": "/kənˈstruː/",
+    "no": 233,
+    "group": 10,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to understand or interpret the meaning of something in a particular way",
+    "meaning_bn": [
+      "ব্যাখ্যা করা",
+      "অর্থ নির্ণয় করা",
+      "বিশেষভাবে বুঝে নেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "interpret",
+        "bn": "ব্যাখ্যা করা"
+      },
+      {
+        "en": "understand",
+        "bn": "বোঝা"
+      },
+      {
+        "en": "explain",
+        "bn": "ব্যাখ্যা করা"
+      },
+      {
+        "en": "explicate",
+        "bn": "বিস্তারিত ব্যাখ্যা করা"
+      },
+      {
+        "en": "fathom",
+        "bn": "গভীরভাবে বোঝা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "misinterpret",
+        "bn": "ভুল ব্যাখ্যা করা"
+      },
+      {
+        "en": "misunderstand",
+        "bn": "ভুল বোঝা"
+      }
+    ],
+    "example": "His silence was construed as agreement.",
+    "example_bn": "তার নীরবতাকে সম্মতি হিসেবে ব্যাখ্যা করা হয়েছিল।",
+    "examples": [
+      "His silence was construed as agreement. — তার নীরবতাকে সম্মতি হিসেবে ব্যাখ্যা করা হয়েছিল।",
+      "At dinner, she explained that 'Construe' means 'to understand or interpret the meaning of something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Construe’ শব্দটির অর্থ—ব্যাখ্যা করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Construe' as 'to understand or interpret the meaning of something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Construe’ শব্দটি ব্যাখ্যা করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Consummate",
+    "pronunciation_bn": "কনসামিট (বিশেষণ); কনসামেইট (ক্রিয়া)",
+    "pronunciation": "/ˈkɒn.sə.mət/ (adjective); /ˈkɒn.sə.meɪt/ (verb)",
+    "no": 234,
+    "group": 10,
+    "pos": [
+      "adjective",
+      "verb"
+    ],
+    "meaning_en": "(adjective) showing the highest degree of skill or quality; (verb) to complete or bring to fulfillment",
+    "meaning_bn": [
+      "অত্যন্ত দক্ষ",
+      "পরিপূর্ণ",
+      "সম্পন্ন করা",
+      "পূর্ণতা দান করা"
+    ],
+    "synonyms": [
+      {
+        "en": "accomplished",
+        "bn": "দক্ষ"
+      },
+      {
+        "en": "masterful",
+        "bn": "নৈপুণ্যপূর্ণ"
+      },
+      {
+        "en": "complete",
+        "bn": "সম্পন্ন করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "incompetent",
+        "bn": "অদক্ষ"
+      },
+      {
+        "en": "unskilled",
+        "bn": "দক্ষতাহীন"
+      },
+      {
+        "en": "incomplete",
+        "bn": "অসম্পূর্ণ"
+      },
+      {
+        "en": "Inept",
+        "bn": "অদক্ষ"
+      },
+      {
+        "en": "fragmentary",
+        "bn": "খণ্ডিত"
+      }
+    ],
+    "example": "She is a consummate professional.",
+    "example_bn": "তিনি অত্যন্ত দক্ষ একজন পেশাজীবী।",
+    "examples": [
+      "She is a consummate professional. — তিনি অত্যন্ত দক্ষ একজন পেশাজীবী।",
+      "At dinner, she explained that 'Consummate' means '(adjective) showing the highest degree of skill', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Consummate’ শব্দটির অর্থ—অত্যন্ত দক্ষ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Consummate' as '(adjective) showing the highest degree of skill' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Consummate’ শব্দটি অত্যন্ত দক্ষ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Contentious",
+    "pronunciation_bn": "কনটেনশাস",
+    "pronunciation": "/kənˈten.ʃəs/",
+    "no": 235,
+    "group": 10,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "causing or likely to cause disagreement or argument; fond of arguing",
+    "meaning_bn": [
+      "বিতর্কসৃষ্টিকারী",
+      "বিতর্কপ্রবণ",
+      "ঝগড়াটে"
+    ],
+    "synonyms": [
+      {
+        "en": "controversial",
+        "bn": "বিতর্কিত"
+      },
+      {
+        "en": "argumentative",
+        "bn": "তর্কপ্রবণ"
+      },
+      {
+        "en": "quarrelsome",
+        "bn": "ঝগড়াটে"
+      },
+      {
+        "en": "Dialectical",
+        "bn": "দ্বান্দ্বিক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "agreeable",
+        "bn": "সহজে একমত হয় এমন"
+      },
+      {
+        "en": "peaceful",
+        "bn": "শান্তিপূর্ণ"
+      },
+      {
+        "en": "conciliatory",
+        "bn": "আপসকামী"
+      },
+      {
+        "en": "Amenable",
+        "bn": "রাজি"
+      },
+      {
+        "en": "Congenial",
+        "bn": "মনোরম"
+      },
+      {
+        "en": "Halcyon",
+        "bn": "শান্তিপূর্ণ"
+      },
+      {
+        "en": "Idyllic",
+        "bn": "অত্যন্ত মনোরম"
+      },
+      {
+        "en": "palatable",
+        "bn": "সুস্বাদু"
+      }
+    ],
+    "example": "The contentious debate lasted for hours.",
+    "example_bn": "বিতর্কপূর্ণ আলোচনাটি কয়েক ঘণ্টা ধরে চলেছিল।",
+    "examples": [
+      "The contentious debate lasted for hours. — বিতর্কপূর্ণ আলোচনাটি কয়েক ঘণ্টা ধরে চলেছিল।",
+      "At dinner, she explained that 'Contentious' means 'causing or likely to cause disagreement or argument', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Contentious’ শব্দটির অর্থ—বিতর্কসৃষ্টিকারী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Contentious' as 'causing or likely to cause disagreement or argument' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Contentious’ শব্দটি বিতর্কসৃষ্টিকারী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Contiguous",
+    "pronunciation_bn": "কনটিগুয়াস",
+    "pronunciation": "/kənˈtɪɡ.ju.əs/",
+    "no": 236,
+    "group": 10,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "sharing a border or touching; next to or adjoining",
+    "meaning_bn": [
+      "সংলগ্ন",
+      "পাশাপাশি অবস্থিত",
+      "সীমানা-সংলগ্ন"
+    ],
+    "synonyms": [
+      {
+        "en": "adjacent",
+        "bn": "সংলগ্ন"
+      },
+      {
+        "en": "adjoining",
+        "bn": "লাগোয়া"
+      },
+      {
+        "en": "abutting",
+        "bn": "সীমানা-লাগোয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "separate",
+        "bn": "পৃথক"
+      },
+      {
+        "en": "distant",
+        "bn": "দূরবর্তী"
+      },
+      {
+        "en": "nonadjacent",
+        "bn": "সংলগ্ন নয় এমন"
+      },
+      {
+        "en": "Aloof",
+        "bn": "নির্লিপ্ত"
+      },
+      {
+        "en": "Antipodal",
+        "bn": "পৃথিবীর বিপরীত প্রান্তে অবস্থিত"
+      },
+      {
+        "en": "Discrete",
+        "bn": "পৃথক"
+      },
+      {
+        "en": "distinct",
+        "bn": "স্বতন্ত্র"
+      }
+    ],
+    "example": "The two countries share a contiguous border.",
+    "example_bn": "দুটি দেশের মধ্যে একটি অভিন্ন সংলগ্ন সীমান্ত রয়েছে।",
+    "examples": [
+      "The two countries share a contiguous border. — দুটি দেশের মধ্যে একটি অভিন্ন সংলগ্ন সীমান্ত রয়েছে।",
+      "At dinner, she explained that 'Contiguous' means 'sharing a border or touching', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Contiguous’ শব্দটির অর্থ—সংলগ্ন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Contiguous' as 'sharing a border or touching' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Contiguous’ শব্দটি সংলগ্ন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Contingent",
+    "pronunciation_bn": "কনটিনজেন্ট",
+    "pronunciation": "/kənˈtɪn.dʒənt/",
+    "no": 237,
+    "group": 10,
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "meaning_en": "(adjective) dependent on something else or possible but not certain; (noun) a group representing a larger group",
+    "meaning_bn": [
+      "নির্ভরশীল",
+      "শর্তসাপেক্ষ",
+      "প্রতিনিধিদল",
+      "দলবিশেষ"
+    ],
+    "synonyms": [
+      {
+        "en": "dependent",
+        "bn": "নির্ভরশীল"
+      },
+      {
+        "en": "conditional",
+        "bn": "শর্তসাপেক্ষ"
+      },
+      {
+        "en": "provisional",
+        "bn": "সাময়িক"
+      },
+      {
+        "en": "Interim",
+        "bn": "অন্তর্বর্তীকালীন"
+      },
+      {
+        "en": "Tentative",
+        "bn": "অনিশ্চিত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "independent",
+        "bn": "স্বাধীন"
+      },
+      {
+        "en": "unconditional",
+        "bn": "নিঃশর্ত"
+      },
+      {
+        "en": "certain",
+        "bn": "নিশ্চিত"
+      },
+      {
+        "en": "Autonomous",
+        "bn": "স্বায়ত্তশাসিত"
+      },
+      {
+        "en": "Absolute",
+        "bn": "সম্পূর্ণ"
+      },
+      {
+        "en": "self-made",
+        "bn": "নিজের চেষ্টায় সফল"
+      },
+      {
+        "en": "Chronic",
+        "bn": "দীর্ঘস্থায়ী"
+      },
+      {
+        "en": "Definitive",
+        "bn": "চূড়ান্ত"
+      }
+    ],
+    "example": "The plan is contingent on receiving funding.",
+    "example_bn": "অর্থায়ন পাওয়ার ওপর পরিকল্পনাটির বাস্তবায়ন নির্ভর করছে।",
+    "examples": [
+      "The plan is contingent on receiving funding. — অর্থায়ন পাওয়ার ওপর পরিকল্পনাটির বাস্তবায়ন নির্ভর করছে।",
+      "At dinner, she explained that 'Contingent' means '(adjective) dependent on something else or possible but', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Contingent’ শব্দটির অর্থ—নির্ভরশীল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Contingent' as '(adjective) dependent on something else or possible but' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Contingent’ শব্দটি নির্ভরশীল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Contrite",
+    "pronunciation_bn": "কনট্রাইট",
+    "pronunciation": "/kənˈtraɪt/",
+    "no": 238,
+    "group": 10,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "feeling or showing sincere regret and guilt for having done something wrong",
+    "meaning_bn": [
+      "অনুতপ্ত",
+      "অনুশোচনাশীল",
+      "অপরাধবোধে দগ্ধ"
+    ],
+    "synonyms": [
+      {
+        "en": "remorseful",
+        "bn": "অনুতপ্ত"
+      },
+      {
+        "en": "penitent",
+        "bn": "অনুশোচনাকারী"
+      },
+      {
+        "en": "repentant",
+        "bn": "অনুতপ্ত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "unrepentant",
+        "bn": "অনুতাপহীন"
+      },
+      {
+        "en": "remorseless",
+        "bn": "অনুশোচনাহীন"
+      },
+      {
+        "en": "defiant",
+        "bn": "অবাধ্য"
+      },
+      {
+        "en": "Recalcitrant",
+        "bn": "অবাধ্য"
+      }
+    ],
+    "example": "He was contrite after realizing he had hurt her feelings.",
+    "example_bn": "তার অনুভূতিতে আঘাত দিয়েছে বুঝতে পেরে সে অনুতপ্ত হয়েছিল।",
+    "examples": [
+      "He was contrite after realizing he had hurt her feelings. — তার অনুভূতিতে আঘাত দিয়েছে বুঝতে পেরে সে অনুতপ্ত হয়েছিল।",
+      "At dinner, she explained that 'Contrite' means 'feeling or showing sincere regret and guilt', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Contrite’ শব্দটির অর্থ—অনুতপ্ত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Contrite' as 'feeling or showing sincere regret and guilt' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Contrite’ শব্দটি অনুতপ্ত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Contrived",
+    "pronunciation_bn": "কনট্রাইভড",
+    "pronunciation": "/kənˈtraɪvd/",
+    "no": 239,
+    "group": 10,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "planned or created in an artificial or forced way rather than seeming natural",
+    "meaning_bn": [
+      "কৃত্রিম",
+      "জোর করে তৈরি",
+      "স্বাভাবিকতাবর্জিত"
+    ],
+    "synonyms": [
+      {
+        "en": "artificial",
+        "bn": "কৃত্রিম"
+      },
+      {
+        "en": "forced",
+        "bn": "জোর করে তৈরি"
+      },
+      {
+        "en": "implausible",
+        "bn": "অবিশ্বাস্য"
+      },
+      {
+        "en": "faux",
+        "bn": "নকল"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "natural",
+        "bn": "স্বাভাবিক"
+      },
+      {
+        "en": "spontaneous",
+        "bn": "স্বতঃস্ফূর্ত"
+      },
+      {
+        "en": "genuine",
+        "bn": "আসল"
+      },
+      {
+        "en": "Impromptu",
+        "bn": "পূর্বপ্রস্তুতি ছাড়া করা"
+      },
+      {
+        "en": "Innate",
+        "bn": "জন্মগত"
+      },
+      {
+        "en": "plausible",
+        "bn": "বিশ্বাসযোগ্য"
+      }
+    ],
+    "example": "The ending of the film felt contrived and unrealistic.",
+    "example_bn": "চলচ্চিত্রটির সমাপ্তি কৃত্রিম ও অবাস্তব মনে হয়েছিল।",
+    "examples": [
+      "The ending of the film felt contrived and unrealistic. — চলচ্চিত্রটির সমাপ্তি কৃত্রিম ও অবাস্তব মনে হয়েছিল।",
+      "At dinner, she explained that 'Contrived' means 'planned or created in an artificial or forced', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Contrived’ শব্দটির অর্থ—কৃত্রিম—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Contrived' as 'planned or created in an artificial or forced' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Contrived’ শব্দটি কৃত্রিম অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Conventional",
+    "pronunciation_bn": "কনভেনশনাল",
+    "pronunciation": "/kənˈven.ʃən.əl/",
+    "no": 240,
+    "group": 10,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "following established customs, practices, or accepted standards; ordinary rather than unusual",
+    "meaning_bn": [
+      "প্রচলিত",
+      "রীতিসম্মত",
+      "প্রথাগত"
+    ],
+    "synonyms": [
+      {
+        "en": "traditional",
+        "bn": "ঐতিহ্যগত"
+      },
+      {
+        "en": "customary",
+        "bn": "প্রথাগত"
+      },
+      {
+        "en": "usual",
+        "bn": "স্বাভাবিক/প্রচলিত"
+      },
+      {
+        "en": "Orthodox",
+        "bn": "প্রথাগত"
+      },
+      {
+        "en": "Bourgeois",
+        "bn": "মধ্যবিত্ত শ্রেণিসংক্রান্ত"
+      },
+      {
+        "en": "Acquisitive",
+        "bn": "অর্জন করতে আগ্রহী"
+      },
+      {
+        "en": "Materialistic",
+        "bn": "বস্তুবাদী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "unconventional",
+        "bn": "প্রথাবহির্ভূত"
+      },
+      {
+        "en": "unusual",
+        "bn": "অস্বাভাবিক"
+      },
+      {
+        "en": "innovative",
+        "bn": "উদ্ভাবনী"
+      },
+      {
+        "en": "Eccentric",
+        "bn": "অদ্ভুত"
+      },
+      {
+        "en": "Novel",
+        "bn": "নতুন"
+      },
+      {
+        "en": "quaint",
+        "bn": "মনোরমভাবে সেকেলে"
+      },
+      {
+        "en": "peculiar",
+        "bn": "অদ্ভুত"
+      },
+      {
+        "en": "Aboriginal",
+        "bn": "আদিবাসী"
+      },
+      {
+        "en": "singular",
+        "bn": "অসাধারণ"
+      },
+      {
+        "en": "uncanny",
+        "bn": "অস্বাভাবিক"
+      }
+    ],
+    "example": "He chose a conventional career in law.",
+    "example_bn": "তিনি আইন পেশায় একটি প্রচলিত কর্মজীবনের পথ বেছে নিয়েছিলেন।",
+    "examples": [
+      "He chose a conventional career in law. — তিনি আইন পেশায় একটি প্রচলিত কর্মজীবনের পথ বেছে নিয়েছিলেন।",
+      "At dinner, she explained that 'Conventional' means 'following established customs, practices, or accepted standards', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Conventional’ শব্দটির অর্থ—প্রচলিত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Conventional' as 'following established customs, practices, or accepted standards' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Conventional’ শব্দটি প্রচলিত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Convivial",
+    "pronunciation_bn": "কনভিভিয়াল",
+    "pronunciation": "/kənˈvɪv.i.əl/",
+    "no": 241,
+    "group": 10,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "friendly, lively, and enjoyable, especially in a social gathering",
+    "meaning_bn": [
+      "আনন্দময়",
+      "বন্ধুত্বপূর্ণ",
+      "আড্ডা ও মেলামেশাপ্রিয়"
+    ],
+    "synonyms": [
+      {
+        "en": "sociable",
+        "bn": "মিশুক"
+      },
+      {
+        "en": "genial",
+        "bn": "অমায়িক"
+      },
+      {
+        "en": "jovial",
+        "bn": "হাসিখুশি"
+      },
+      {
+        "en": "Gregarious",
+        "bn": "মিশুক"
+      },
+      {
+        "en": "cordial",
+        "bn": "আন্তরিক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "unsociable",
+        "bn": "মিশুক নয় এমন"
+      },
+      {
+        "en": "unfriendly",
+        "bn": "বন্ধুত্বহীন"
+      },
+      {
+        "en": "gloomy",
+        "bn": "বিষণ্ন"
+      },
+      {
+        "en": "Aloof",
+        "bn": "নির্লিপ্ত"
+      },
+      {
+        "en": "Reclusive",
+        "bn": "নির্জনবাসী"
+      },
+      {
+        "en": "dour",
+        "bn": "গম্ভীর"
+      },
+      {
+        "en": "Morose",
+        "bn": "অসুখী, বিষণ্ণ ও খিটখিটে মেজাজের"
+      },
+      {
+        "en": "dismal",
+        "bn": "বিষণ্ণ"
+      }
+    ],
+    "example": "The party had a convivial atmosphere.",
+    "example_bn": "অনুষ্ঠানটিতে ছিল আনন্দময় ও বন্ধুত্বপূর্ণ পরিবেশ।",
+    "examples": [
+      "The party had a convivial atmosphere. — অনুষ্ঠানটিতে ছিল আনন্দময় ও বন্ধুত্বপূর্ণ পরিবেশ।",
+      "At dinner, she explained that 'Convivial' means 'friendly, lively, and enjoyable, especially in a social', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Convivial’ শব্দটির অর্থ—আনন্দময়—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Convivial' as 'friendly, lively, and enjoyable, especially in a social' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Convivial’ শব্দটি আনন্দময় অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Copious",
+    "pronunciation_bn": "কোপিয়াস",
+    "pronunciation": "/ˈkəʊ.pi.əs/",
+    "no": 242,
+    "group": 10,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "existing or being produced in large quantities; abundant",
+    "meaning_bn": [
+      "প্রচুর",
+      "বিপুল",
+      "প্রাচুর্যপূর্ণ"
+    ],
+    "synonyms": [
+      {
+        "en": "abundant",
+        "bn": "প্রচুর"
+      },
+      {
+        "en": "plentiful",
+        "bn": "পর্যাপ্ত পরিমাণে"
+      },
+      {
+        "en": "ample",
+        "bn": "প্রচুর/যথেষ্ট"
+      },
+      {
+        "en": "Profuse",
+        "bn": "প্রচুর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "scarce",
+        "bn": "দুষ্প্রাপ্য"
+      },
+      {
+        "en": "sparse",
+        "bn": "বিরল"
+      },
+      {
+        "en": "meagre",
+        "bn": "অপ্রতুল"
+      }
+    ],
+    "example": "She took copious notes during the lecture.",
+    "example_bn": "বক্তৃতার সময় সে প্রচুর নোট নিয়েছিল।",
+    "examples": [
+      "She took copious notes during the lecture. — বক্তৃতার সময় সে প্রচুর নোট নিয়েছিল।",
+      "At dinner, she explained that 'Copious' means 'existing or being produced in large quantities', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Copious’ শব্দটির অর্থ—প্রচুর—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Copious' as 'existing or being produced in large quantities' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Copious’ শব্দটি প্রচুর অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Corollary",
+    "pronunciation_bn": "করলারী",
+    "pronunciation": "/kəˈrɒl.ər.i/",
+    "no": 243,
+    "group": 10,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a result or consequence that follows naturally from something already established",
+    "meaning_bn": [
+      "স্বাভাবিক পরিণতি",
+      "অনিবার্য ফল",
+      "উপপাদ্য থেকে প্রাপ্ত সিদ্ধান্ত"
+    ],
+    "synonyms": [
+      {
+        "en": "consequence",
+        "bn": "পরিণতি"
+      },
+      {
+        "en": "result",
+        "bn": "ফলাফল"
+      },
+      {
+        "en": "outcome",
+        "bn": "পরিণাম"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "cause",
+        "bn": "কারণ"
+      },
+      {
+        "en": "origin",
+        "bn": "উৎস"
+      },
+      {
+        "en": "premise",
+        "bn": "পূর্বধারণা"
+      }
+    ],
+    "example": "Obesity can be a corollary of a sedentary lifestyle.",
+    "example_bn": "নিষ্ক্রিয় জীবনযাপনের স্বাভাবিক পরিণতি হতে পারে স্থূলতা।",
+    "examples": [
+      "Obesity can be a corollary of a sedentary lifestyle. — নিষ্ক্রিয় জীবনযাপনের স্বাভাবিক পরিণতি হতে পারে স্থূলতা।",
+      "At dinner, she explained that 'Corollary' means 'a result or consequence that follows naturally from', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Corollary’ শব্দটির অর্থ—স্বাভাবিক পরিণতি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Corollary' as 'a result or consequence that follows naturally from' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Corollary’ শব্দটি স্বাভাবিক পরিণতি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Corroborate",
+    "pronunciation_bn": "করবোরেইট",
+    "pronunciation": "/kəˈrɒb.ə.reɪt/",
+    "no": 244,
+    "group": 10,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to confirm or support a statement, theory, or account with additional evidence",
+    "meaning_bn": [
+      "প্রমাণ দিয়ে সমর্থন করা",
+      "সত্যতা নিশ্চিত করা",
+      "সমর্থনকারী প্রমাণ দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "confirm",
+        "bn": "নিশ্চিত করা"
+      },
+      {
+        "en": "verify",
+        "bn": "যাচাই করে নিশ্চিত করা"
+      },
+      {
+        "en": "substantiate",
+        "bn": "প্রমাণসহ প্রতিষ্ঠা করা"
+      },
+      {
+        "en": "Ascertain",
+        "bn": "নিশ্চিতভাবে নির্ধারণ করা"
+      },
+      {
+        "en": "Attest",
+        "bn": "প্রমাণ দেওয়া"
+      },
+      {
+        "en": "document",
+        "bn": "নথিবদ্ধ করা"
+      },
+      {
+        "en": "ratify",
+        "bn": "আনুষ্ঠানিকভাবে অনুমোদন করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "contradict",
+        "bn": "বিরোধিতা করা"
+      },
+      {
+        "en": "refute",
+        "bn": "খণ্ডন করা"
+      },
+      {
+        "en": "disprove",
+        "bn": "ভুল প্রমাণ করা"
+      },
+      {
+        "en": "Belie",
+        "bn": "মিথ্যা ধারণা দেওয়া"
+      },
+      {
+        "en": "Allege",
+        "bn": "প্রমাণ ছাড়া দাবি করা"
+      },
+      {
+        "en": "debunk",
+        "bn": "ভুল বা মিথ্যা প্রমাণ করা"
+      },
+      {
+        "en": "Rebut",
+        "bn": "খণ্ডন করা"
+      },
+      {
+        "en": "Extrapolate",
+        "bn": "জ্ঞাত তথ্য থেকে অজ্ঞাত বিষয়ে অনুমান করা"
+      }
+    ],
+    "example": "His story was corroborated by two witnesses.",
+    "example_bn": "দুজন সাক্ষীর বক্তব্য তার বর্ণনার সত্যতা সমর্থন করেছিল।",
+    "examples": [
+      "His story was corroborated by two witnesses. — দুজন সাক্ষীর বক্তব্য তার বর্ণনার সত্যতা সমর্থন করেছিল।",
+      "At dinner, she explained that 'Corroborate' means 'to confirm or support a statement, theory', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Corroborate’ শব্দটির অর্থ—প্রমাণ দিয়ে সমর্থন করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Corroborate' as 'to confirm or support a statement, theory' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Corroborate’ শব্দটি প্রমাণ দিয়ে সমর্থন করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Cosmopolitan",
+    "pronunciation_bn": "কজমোপলিটান",
+    "pronunciation": "/ˌkɒz.məˈpɒl.ɪ.tən/",
+    "no": 245,
+    "group": 10,
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "meaning_en": "(adjective) including or familiar with people and cultures from many different countries; (noun) a person with such broad international experience",
+    "meaning_bn": [
+      "বহুজাতিক সংস্কৃতিসমৃদ্ধ",
+      "বিশ্বনাগরিক",
+      "বিভিন্ন সংস্কৃতির সঙ্গে পরিচিত ব্যক্তি"
+    ],
+    "synonyms": [
+      {
+        "en": "international",
+        "bn": "আন্তর্জাতিক"
+      },
+      {
+        "en": "multicultural",
+        "bn": "বহুসাংস্কৃতিক"
+      },
+      {
+        "en": "worldly",
+        "bn": "বিশ্ব-অভিজ্ঞ"
+      },
+      {
+        "en": "Materialistic",
+        "bn": "বস্তুবাদী"
+      },
+      {
+        "en": "Secular",
+        "bn": "ধর্মনিরপেক্ষ"
+      },
+      {
+        "en": "temporal",
+        "bn": "সময়সংক্রান্ত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "provincial",
+        "bn": "সংকীর্ণ স্থানীয় দৃষ্টিভঙ্গির"
+      },
+      {
+        "en": "insular",
+        "bn": "সংকীর্ণমনা"
+      },
+      {
+        "en": "parochial",
+        "bn": "স্থানীয় গণ্ডিতে সীমাবদ্ধ"
+      },
+      {
+        "en": "Domestic",
+        "bn": "গৃহস্থালি-সংক্রান্ত"
+      }
+    ],
+    "example": "London is a truly cosmopolitan city.",
+    "example_bn": "লন্ডন সত্যিই একটি বহুসাংস্কৃতিক বিশ্বনগরী।",
+    "examples": [
+      "London is a truly cosmopolitan city. — লন্ডন সত্যিই একটি বহুসাংস্কৃতিক বিশ্বনগরী।",
+      "At dinner, she explained that 'Cosmopolitan' means '(adjective) including or familiar with people and cultures', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Cosmopolitan’ শব্দটির অর্থ—বহুজাতিক সংস্কৃতিসমৃদ্ধ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Cosmopolitan' as '(adjective) including or familiar with people and cultures' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Cosmopolitan’ শব্দটি বহুজাতিক সংস্কৃতিসমৃদ্ধ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Countenance",
+    "pronunciation_bn": "কাউনটেন্যান্স",
+    "pronunciation": "/ˈkaʊn.tə.nəns/",
+    "no": 246,
+    "group": 10,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "(noun) a person's face or facial expression; (verb) to approve of or tolerate something",
+    "meaning_bn": [
+      "মুখমণ্ডল",
+      "মুখভাব",
+      "সমর্থন করা",
+      "প্রশ্রয় দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "expression",
+        "bn": "মুখের অভিব্যক্তি"
+      },
+      {
+        "en": "visage",
+        "bn": "মুখমণ্ডল"
+      },
+      {
+        "en": "approve",
+        "bn": "অনুমোদন করা"
+      },
+      {
+        "en": "Effusion",
+        "bn": "আবেগের উচ্ছ্বসিত প্রকাশ"
+      },
+      {
+        "en": "ratify",
+        "bn": "আনুষ্ঠানিকভাবে অনুমোদন করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "disapprove",
+        "bn": "অসমর্থন করা"
+      },
+      {
+        "en": "oppose",
+        "bn": "বিরোধিতা করা"
+      },
+      {
+        "en": "reject",
+        "bn": "প্রত্যাখ্যান করা"
+      },
+      {
+        "en": "Castigate",
+        "bn": "কঠোরভাবে সমালোচনা করা"
+      },
+      {
+        "en": "deplore",
+        "bn": "তীব্র নিন্দা করা"
+      },
+      {
+        "en": "expostulate",
+        "bn": "যুক্তি দিয়ে আপত্তি জানানো"
+      },
+      {
+        "en": "rebuff",
+        "bn": "রূঢ়ভাবে প্রত্যাখ্যান করা"
+      },
+      {
+        "en": "Remonstrate",
+        "bn": "প্রতিবাদ করা"
+      }
+    ],
+    "example": "Her countenance revealed her deep disappointment.",
+    "example_bn": "তার মুখভাবেই গভীর হতাশা প্রকাশ পাচ্ছিল।",
+    "examples": [
+      "Her countenance revealed her deep disappointment. — তার মুখভাবেই গভীর হতাশা প্রকাশ পাচ্ছিল।",
+      "At dinner, she explained that 'Countenance' means '(noun) a person's face or facial expression', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Countenance’ শব্দটির অর্থ—মুখমণ্ডল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Countenance' as '(noun) a person's face or facial expression' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Countenance’ শব্দটি মুখমণ্ডল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Coup",
+    "pronunciation_bn": "কু",
+    "pronunciation": "/kuː/",
+    "no": 247,
+    "group": 10,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a sudden, often illegal seizure of political power; an unexpectedly successful achievement",
+    "meaning_bn": [
+      "সামরিক অভ্যুত্থান",
+      "ক্ষমতা দখল",
+      "বড়সড় সাফল্য"
+    ],
+    "synonyms": [
+      {
+        "en": "overthrow",
+        "bn": "ক্ষমতাচ্যুতি/উৎখাত"
+      },
+      {
+        "en": "takeover",
+        "bn": "দখল"
+      },
+      {
+        "en": "achievement",
+        "bn": "সাফল্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "Debacle",
+        "bn": "চরম ব্যর্থতা"
+      }
+    ],
+    "example": "Winning that contract was a major coup for the company.",
+    "example_bn": "চুক্তিটি জেতা কোম্পানিটির জন্য ছিল বড়সড় সাফল্য।",
+    "examples": [
+      "Winning that contract was a major coup for the company. — চুক্তিটি জেতা কোম্পানিটির জন্য ছিল বড়সড় সাফল্য।",
+      "At dinner, she explained that 'Coup' means 'a sudden, often illegal seizure of political power', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Coup’ শব্দটির অর্থ—সামরিক অভ্যুত্থান—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Coup' as 'a sudden, often illegal seizure of political power' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Coup’ শব্দটি সামরিক অভ্যুত্থান অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Covenant",
+    "pronunciation_bn": "কাভেন্যান্ট",
+    "pronunciation": "/ˈkʌv.ə.nənt/",
+    "no": 248,
+    "group": 10,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "a formal, solemn agreement or promise; to agree formally to something",
+    "meaning_bn": [
+      "আনুষ্ঠানিক চুক্তি",
+      "গুরুগম্ভীর অঙ্গীকার",
+      "প্রতিশ্রুতি"
+    ],
+    "synonyms": [
+      {
+        "en": "pact",
+        "bn": "চুক্তি"
+      },
+      {
+        "en": "agreement",
+        "bn": "সমঝোতা"
+      },
+      {
+        "en": "pledge",
+        "bn": "অঙ্গীকার"
+      },
+      {
+        "en": "Accord",
+        "bn": "চুক্তি"
+      },
+      {
+        "en": "Concord",
+        "bn": "সম্প্রীতি"
+      },
+      {
+        "en": "Consensus",
+        "bn": "সাধারণ ঐকমত্য"
+      },
+      {
+        "en": "compromise",
+        "bn": "আপস"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "disagreement",
+        "bn": "মতভেদ"
+      },
+      {
+        "en": "breach",
+        "bn": "চুক্তিভঙ্গ"
+      },
+      {
+        "en": "violation",
+        "bn": "লঙ্ঘন"
+      },
+      {
+        "en": "Infraction",
+        "bn": "নিয়মভঙ্গ"
+      },
+      {
+        "en": "Altercation",
+        "bn": "তীব্র বাকবিতণ্ডা"
+      },
+      {
+        "en": "Antithesis",
+        "bn": "সম্পূর্ণ বিপরীত"
+      },
+      {
+        "en": "discrepancy",
+        "bn": "অমিল"
+      },
+      {
+        "en": "Infringe",
+        "bn": "লঙ্ঘন করা"
+      }
+    ],
+    "example": "The two nations signed a covenant of mutual protection.",
+    "example_bn": "দুটি দেশ পারস্পরিক সুরক্ষার একটি আনুষ্ঠানিক চুক্তিতে স্বাক্ষর করেছিল।",
+    "examples": [
+      "The two nations signed a covenant of mutual protection. — দুটি দেশ পারস্পরিক সুরক্ষার একটি আনুষ্ঠানিক চুক্তিতে স্বাক্ষর করেছিল।",
+      "At dinner, she explained that 'Covenant' means 'a formal, solemn agreement or promise', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Covenant’ শব্দটির অর্থ—আনুষ্ঠানিক চুক্তি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Covenant' as 'a formal, solemn agreement or promise' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Covenant’ শব্দটি আনুষ্ঠানিক চুক্তি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Covert",
+    "pronunciation_bn": "কোভার্ট",
+    "pronunciation": "/ˈkəʊ.vɜːt/",
+    "no": 249,
+    "group": 10,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "secret or hidden, especially because it is not intended to be noticed",
+    "meaning_bn": [
+      "গোপন",
+      "প্রচ্ছন্ন",
+      "লোকচক্ষুর আড়ালে"
+    ],
+    "synonyms": [
+      {
+        "en": "secret",
+        "bn": "গোপন"
+      },
+      {
+        "en": "concealed",
+        "bn": "লুকানো"
+      },
+      {
+        "en": "clandestine",
+        "bn": "গোপনে পরিচালিত"
+      },
+      {
+        "en": "Surreptitious",
+        "bn": "গোপনে করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "overt",
+        "bn": "প্রকাশ্য"
+      },
+      {
+        "en": "open",
+        "bn": "খোলামেলা"
+      },
+      {
+        "en": "public",
+        "bn": "সর্বজনসমক্ষে"
+      }
+    ],
+    "example": "The spy conducted covert operations abroad.",
+    "example_bn": "গুপ্তচরটি বিদেশে গোপন অভিযান পরিচালনা করেছিল।",
+    "examples": [
+      "The spy conducted covert operations abroad. — গুপ্তচরটি বিদেশে গোপন অভিযান পরিচালনা করেছিল।",
+      "At dinner, she explained that 'Covert' means 'secret or hidden, especially because it is not', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Covert’ শব্দটির অর্থ—গোপন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Covert' as 'secret or hidden, especially because it is not' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Covert’ শব্দটি গোপন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Covet",
+    "pronunciation_bn": "কাভিট",
+    "pronunciation": "/ˈkʌv.ɪt/",
+    "no": 250,
+    "group": 10,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to want to possess something very much, especially something that belongs to someone else",
+    "meaning_bn": [
+      "লোভ করা",
+      "অন্যের সম্পদের প্রতি লালসা পোষণ করা",
+      "অত্যন্ত কামনা করা"
+    ],
+    "synonyms": [
+      {
+        "en": "desire",
+        "bn": "কামনা করা"
+      },
+      {
+        "en": "crave",
+        "bn": "তীব্রভাবে চাওয়া"
+      },
+      {
+        "en": "envy",
+        "bn": "ঈর্ষা করা"
+      },
+      {
+        "en": "begrudge",
+        "bn": "অন্যের প্রাপ্তিতে ঈর্ষা বা ক্ষোভ অনুভব করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "be content with",
+        "bn": "যা আছে তাতেই সন্তুষ্ট থাকা"
+      },
+      {
+        "en": "relinquish",
+        "bn": "ত্যাগ করা"
+      },
+      {
+        "en": "disdain",
+        "bn": "তুচ্ছজ্ঞান করা"
+      },
+      {
+        "en": "Abdicate",
+        "bn": "সিংহাসন ত্যাগ করা"
+      },
+      {
+        "en": "Abhor",
+        "bn": "ঘৃণা করা"
+      },
+      {
+        "en": "Abjure",
+        "bn": "আনুষ্ঠানিকভাবে ত্যাগ করা"
+      },
+      {
+        "en": "Abnegate",
+        "bn": "নিজের ইচ্ছা বা অধিকার ত্যাগ করা"
+      },
+      {
+        "en": "Capitulate",
+        "bn": "আত্মসমর্পণ করা"
+      }
+    ],
+    "example": "He coveted his neighbor's success.",
+    "example_bn": "সে তার প্রতিবেশীর সাফল্যকে ঈর্ষাভরে কামনা করত।",
+    "examples": [
+      "He coveted his neighbor's success. — সে তার প্রতিবেশীর সাফল্যকে ঈর্ষাভরে কামনা করত।",
+      "At dinner, she explained that 'Covet' means 'to want to possess something very much, especially', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Covet’ শব্দটির অর্থ—লোভ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Covet' as 'to want to possess something very much, especially' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Covet’ শব্দটি লোভ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

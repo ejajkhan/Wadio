@@ -1,0 +1,268 @@
+[
+  {
+    "word": "woe",
+    "pronunciation_bn": "উও",
+    "pronunciation": "/wəʊ/",
+    "no": 826,
+    "group": 34,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "Great sadness, suffering, or serious trouble.",
+    "meaning_bn": [
+      "দুঃখ",
+      "দুর্দশা",
+      "দুর্ভোগ",
+      "গভীর বেদনা"
+    ],
+    "synonyms": [
+      {
+        "en": "sorrow",
+        "bn": "দুঃখ"
+      },
+      {
+        "en": "distress",
+        "bn": "মানসিক কষ্ট"
+      },
+      {
+        "en": "misery",
+        "bn": "দুর্দশা"
+      },
+      {
+        "en": "Affliction",
+        "bn": "দুর্দশা"
+      },
+      {
+        "en": "consternation",
+        "bn": "আতঙ্ক"
+      },
+      {
+        "en": "pathos",
+        "bn": "করুণা বা দুঃখ জাগায় এমন আবেগময়তা"
+      },
+      {
+        "en": "Anguish",
+        "bn": "তীব্র যন্ত্রণা"
+      },
+      {
+        "en": "dismay",
+        "bn": "হতাশা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "joy",
+        "bn": "আনন্দ"
+      },
+      {
+        "en": "happiness",
+        "bn": "সুখ"
+      },
+      {
+        "en": "delight",
+        "bn": "উল্লাস"
+      },
+      {
+        "en": "bliss",
+        "bn": "পরম সুখ"
+      },
+      {
+        "en": "Felicity",
+        "bn": "পরম সুখ"
+      },
+      {
+        "en": "Equanimity",
+        "bn": "মানসিক স্থিরতা"
+      },
+      {
+        "en": "nirvana",
+        "bn": "বৌদ্ধধর্মে দুঃখ ও পুনর্জন্মের চক্র থেকে মুক্তির পরম অবস্থা"
+      },
+      {
+        "en": "rapture",
+        "bn": "পরম আনন্দ"
+      }
+    ],
+    "example": "The refugees shared tales of woe from their homeland.",
+    "example_bn": "শরণার্থীরা তাদের মাতৃভূমির দুঃখ-দুর্দশার কাহিনি একে অপরের সঙ্গে ভাগ করে নিলেন।",
+    "examples": [
+      "The refugees shared tales of woe from their homeland. — শরণার্থীরা তাদের মাতৃভূমির দুঃখ-দুর্দশার কাহিনি একে অপরের সঙ্গে ভাগ করে নিলেন।",
+      "At dinner, she explained that 'woe' means 'Great sadness, suffering, or serious trouble', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘woe’ শব্দটির অর্থ—দুঃখ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'woe' as 'Great sadness, suffering, or serious trouble' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘woe’ শব্দটি দুঃখ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "wrath",
+    "pronunciation_bn": "র‍্যাথ",
+    "pronunciation": "/rɒθ/",
+    "no": 827,
+    "group": 34,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "Extreme anger; intense fury.",
+    "meaning_bn": [
+      "প্রচণ্ড রাগ",
+      "ক্রোধ",
+      "প্রবল ক্ষোভ"
+    ],
+    "synonyms": [
+      {
+        "en": "anger",
+        "bn": "রাগ"
+      },
+      {
+        "en": "fury",
+        "bn": "প্রচণ্ড ক্রোধ"
+      },
+      {
+        "en": "rage",
+        "bn": "উন্মত্ত ক্রোধ"
+      },
+      {
+        "en": "Incense",
+        "bn": "ক্রুদ্ধ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "calm",
+        "bn": "শান্তভাব"
+      },
+      {
+        "en": "peace",
+        "bn": "শান্তি"
+      },
+      {
+        "en": "forgiveness",
+        "bn": "ক্ষমা"
+      },
+      {
+        "en": "Amnesty",
+        "bn": "সাধারণ ক্ষমা"
+      },
+      {
+        "en": "nirvana",
+        "bn": "বৌদ্ধধর্মে দুঃখ ও পুনর্জন্মের চক্র থেকে মুক্তির পরম অবস্থা"
+      }
+    ],
+    "example": "He incurred the wrath of his boss by missing the deadline.",
+    "example_bn": "নির্ধারিত সময়ের মধ্যে কাজ শেষ না করায় সে তার বসের প্রচণ্ড ক্রোধের মুখে পড়েছিল।",
+    "examples": [
+      "He incurred the wrath of his boss by missing the deadline. — নির্ধারিত সময়ের মধ্যে কাজ শেষ না করায় সে তার বসের প্রচণ্ড ক্রোধের মুখে পড়েছিল।",
+      "At dinner, she explained that 'wrath' means 'Extreme anger', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘wrath’ শব্দটির অর্থ—প্রচণ্ড রাগ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'wrath' as 'Extreme anger' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘wrath’ শব্দটি প্রচণ্ড রাগ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "zeitgeist",
+    "pronunciation_bn": "জাইটগাইস্ট / সাইটগাইস্ট",
+    "pronunciation": "/ˈtsaɪt.ɡaɪst/",
+    "no": 828,
+    "group": 34,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "The general ideas, beliefs, and feelings characteristic of a particular period in history; the spirit of the age.",
+    "meaning_bn": [
+      "কোনো নির্দিষ্ট যুগের সামগ্রিক মানসিকতা",
+      "যুগচেতনা",
+      "সময়ের চেতনা"
+    ],
+    "synonyms": [
+      {
+        "en": "spirit of the age",
+        "bn": "যুগের চেতনা"
+      },
+      {
+        "en": "mood of the times",
+        "bn": "সময়কালের মানসিক আবহ"
+      },
+      {
+        "en": "current climate",
+        "bn": "সমকালীন মানসিক বা সাংস্কৃতিক পরিবেশ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "anachronism",
+        "bn": "কালবৈষম্য; যুগের সঙ্গে অসংগত বিষয়"
+      },
+      {
+        "en": "outdatedness",
+        "bn": "সেকেলে অবস্থা"
+      }
+    ],
+    "example": "The film captured the zeitgeist of the 1960s.",
+    "example_bn": "চলচ্চিত্রটি ষাটের দশকের যুগচেতনাকে ধারণ করেছিল।",
+    "examples": [
+      "The film captured the zeitgeist of the 1960s. — চলচ্চিত্রটি ষাটের দশকের যুগচেতনাকে ধারণ করেছিল।",
+      "At dinner, she explained that 'zeitgeist' means 'The general ideas, beliefs, and feelings characteristic', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘zeitgeist’ শব্দটির অর্থ—কোনো নির্দিষ্ট যুগের সামগ্রিক মানসিকতা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'zeitgeist' as 'The general ideas, beliefs, and feelings characteristic' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘zeitgeist’ শব্দটি কোনো নির্দিষ্ট যুগের সামগ্রিক মানসিকতা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "zenith",
+    "pronunciation_bn": "জেনিথ (ব্রিটিশ) / জীনিথ (আমেরিকান)",
+    "pronunciation": "/ˈzen.ɪθ/",
+    "no": 829,
+    "group": 34,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "The highest point reached by a celestial body in the sky; the most successful or powerful point in a person's or thing's development.",
+    "meaning_bn": [
+      "সর্বোচ্চ বিন্দু",
+      "চূড়া",
+      "শীর্ষস্থান",
+      "সাফল্যের সর্বোচ্চ পর্যায়"
+    ],
+    "synonyms": [
+      {
+        "en": "peak",
+        "bn": "শিখর"
+      },
+      {
+        "en": "pinnacle",
+        "bn": "সর্বোচ্চ চূড়া"
+      },
+      {
+        "en": "apex",
+        "bn": "শীর্ষবিন্দু"
+      },
+      {
+        "en": "summit",
+        "bn": "চূড়া"
+      },
+      {
+        "en": "Apogee",
+        "bn": "পৃথিবী থেকে কক্ষপথের সর্বাধিক দূরবর্তী বিন্দু"
+      },
+      {
+        "en": "Heyday",
+        "bn": "সোনালি সময়"
+      },
+      {
+        "en": "Apotheosis",
+        "bn": "চূড়ান্ত উৎকর্ষ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "nadir",
+        "bn": "সর্বনিম্ন বিন্দু"
+      },
+      {
+        "en": "bottom",
+        "bn": "তলানি; সর্বনিম্ন স্তর"
+      }
+    ],
+    "example": "She reached the zenith of her career at the age of forty.",
+    "example_bn": "চল্লিশ বছর বয়সে তিনি তাঁর কর্মজীবনের শীর্ষস্থানে পৌঁছেছিলেন।",
+    "examples": [
+      "She reached the zenith of her career at the age of forty. — চল্লিশ বছর বয়সে তিনি তাঁর কর্মজীবনের শীর্ষস্থানে পৌঁছেছিলেন।",
+      "At dinner, she explained that 'zenith' means 'The highest point reached by a celestial body', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘zenith’ শব্দটির অর্থ—সর্বোচ্চ বিন্দু—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'zenith' as 'The highest point reached by a celestial body' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘zenith’ শব্দটি সর্বোচ্চ বিন্দু অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

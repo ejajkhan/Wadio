@@ -1,0 +1,1424 @@
+[
+  {
+    "word": "canon",
+    "pronunciation_bn": "ক্যানন",
+    "pronunciation": "/ˈkænən/",
+    "no": 151,
+    "group": 7,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a rule, principle, or law; a generally accepted standard; also a body of authoritative works",
+    "meaning_bn": [
+      "নিয়ম বা নীতি",
+      "আইন বা বিধান, বিশেষত ধর্মীয় বিধান",
+      "স্বীকৃত মানদণ্ড",
+      "গুরুত্বপূর্ণ বা স্বীকৃত রচনাসমূহের সমষ্টি"
+    ],
+    "synonyms": [
+      {
+        "en": "rule",
+        "bn": "নিয়ম"
+      },
+      {
+        "en": "principle",
+        "bn": "নীতি"
+      },
+      {
+        "en": "standard",
+        "bn": "মানদণ্ড"
+      },
+      {
+        "en": "Axiom",
+        "bn": "স্বতঃসিদ্ধ সত্য"
+      },
+      {
+        "en": "Criterion",
+        "bn": "বিচারের মানদণ্ড"
+      },
+      {
+        "en": "Precept",
+        "bn": "আচরণনির্দেশক নীতি"
+      },
+      {
+        "en": "Tenet",
+        "bn": "মূলনীতি"
+      },
+      {
+        "en": "Touchstone",
+        "bn": "কষ্টিপাথর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "exception",
+        "bn": "ব্যতিক্রম"
+      },
+      {
+        "en": "anomaly",
+        "bn": "ব্যতিক্রমী বিষয়"
+      },
+      {
+        "en": "Aberration",
+        "bn": "স্বাভাবিকতার ব্যতিক্রম"
+      }
+    ],
+    "example": "The canon of medical ethics forbids harming patients.",
+    "example_bn": "চিকিৎসা নীতিশাস্ত্রের নীতি রোগীদের ক্ষতি করতে নিষেধ করে।",
+    "examples": [
+      "The canon of medical ethics forbids harming patients. — চিকিৎসা নীতিশাস্ত্রের নীতি রোগীদের ক্ষতি করতে নিষেধ করে।",
+      "At dinner, she explained that 'canon' means 'a rule, principle, or law', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘canon’ শব্দটির অর্থ—নিয়ম বা নীতি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'canon' as 'a rule, principle, or law' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘canon’ শব্দটি নিয়ম বা নীতি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "cant",
+    "pronunciation_bn": "ক্যান্ট",
+    "pronunciation": "/kænt/",
+    "no": 152,
+    "group": 7,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "insincere or hypocritical talk; to speak in such a way",
+    "meaning_bn": [
+      "কপট বা ভণ্ডামিপূর্ণ কথা",
+      "অসৎ বক্তৃতা"
+    ],
+    "synonyms": [
+      {
+        "en": "hypocrisy",
+        "bn": "ভণ্ডামি"
+      },
+      {
+        "en": "insincerity",
+        "bn": "অকপটতার অভাব"
+      },
+      {
+        "en": "pretense",
+        "bn": "ভান"
+      },
+      {
+        "en": "Duplicity",
+        "bn": "দ্বিমুখীতা"
+      },
+      {
+        "en": "Guile",
+        "bn": "ধূর্ততা"
+      },
+      {
+        "en": "Guise",
+        "bn": "ছদ্মবেশ"
+      },
+      {
+        "en": "Perfidy",
+        "bn": "বিশ্বাসঘাতকতা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "sincerity",
+        "bn": "আন্তরিকতা"
+      },
+      {
+        "en": "candour",
+        "bn": "খোলামেলা সততা"
+      },
+      {
+        "en": "Candor",
+        "bn": "আন্তরিক সততা"
+      }
+    ],
+    "example": "His pious cant impressed no one who knew him well.",
+    "example_bn": "তাকে ভালোভাবে চিনত এমন কাউকে তার ধার্মিকতার ভণ্ডামিপূর্ণ কথাবার্তা মুগ্ধ করতে পারেনি।",
+    "examples": [
+      "His pious cant impressed no one who knew him well. — তাকে ভালোভাবে চিনত এমন কাউকে তার ধার্মিকতার ভণ্ডামিপূর্ণ কথাবার্তা মুগ্ধ করতে পারেনি।",
+      "At dinner, she explained that 'cant' means 'insincere or hypocritical talk', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘cant’ শব্দটির অর্থ—কপট বা ভণ্ডামিপূর্ণ কথা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'cant' as 'insincere or hypocritical talk' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘cant’ শব্দটি কপট বা ভণ্ডামিপূর্ণ কথা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "canvass",
+    "pronunciation_bn": "ক্যানভাস",
+    "pronunciation": "/ˈkænvəs/",
+    "no": 153,
+    "group": 7,
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "meaning_en": "to ask people for votes, support, opinions, or information; the activity of doing this",
+    "meaning_bn": [
+      "ভোট বা সমর্থন চাওয়া",
+      "মতামত বা তথ্য সংগ্রহ করা",
+      "মতামত সংগ্রহের কার্যক্রম"
+    ],
+    "synonyms": [
+      {
+        "en": "solicit",
+        "bn": "অনুরোধ করে চাওয়া"
+      },
+      {
+        "en": "poll",
+        "bn": "মতামত জরিপ করা"
+      },
+      {
+        "en": "survey",
+        "bn": "জরিপ করা"
+      },
+      {
+        "en": "Importune",
+        "bn": "বারবার অনুরোধ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "ignore",
+        "bn": "উপেক্ষা করা"
+      },
+      {
+        "en": "disregard",
+        "bn": "অগ্রাহ্য করা"
+      },
+      {
+        "en": "Flout",
+        "bn": "অমান্য করা"
+      }
+    ],
+    "example": "The volunteers canvassed door to door for the candidate.",
+    "example_bn": "স্বেচ্ছাসেবকেরা প্রার্থীর পক্ষে বাড়ি বাড়ি গিয়ে ভোট চেয়েছিলেন।",
+    "examples": [
+      "The volunteers canvassed door to door for the candidate. — স্বেচ্ছাসেবকেরা প্রার্থীর পক্ষে বাড়ি বাড়ি গিয়ে ভোট চেয়েছিলেন।",
+      "At dinner, she explained that 'canvass' means 'to ask people for votes, support, opinions', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘canvass’ শব্দটির অর্থ—ভোট বা সমর্থন চাওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'canvass' as 'to ask people for votes, support, opinions' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘canvass’ শব্দটি ভোট বা সমর্থন চাওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "capacious",
+    "pronunciation_bn": "ক্যাপেশাস",
+    "pronunciation": "/kəˈpeɪʃəs/",
+    "no": 154,
+    "group": 7,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "having a lot of space inside; roomy",
+    "meaning_bn": [
+      "প্রশস্ত",
+      "বড় ও জায়গাসম্পন্ন"
+    ],
+    "synonyms": [
+      {
+        "en": "spacious",
+        "bn": "প্রশস্ত"
+      },
+      {
+        "en": "roomy",
+        "bn": "বড় ও জায়গাসম্পন্ন"
+      },
+      {
+        "en": "commodious",
+        "bn": "প্রশস্ত ও আরামদায়ক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "cramped",
+        "bn": "সংকীর্ণ"
+      },
+      {
+        "en": "confined",
+        "bn": "সীমিত জায়গার"
+      }
+    ],
+    "example": "The capacious hall held over a thousand people.",
+    "example_bn": "প্রশস্ত হলটিতে এক হাজারেরও বেশি মানুষ ধরেছিল।",
+    "examples": [
+      "The capacious hall held over a thousand people. — প্রশস্ত হলটিতে এক হাজারেরও বেশি মানুষ ধরেছিল।",
+      "At dinner, she explained that 'capacious' means 'having a lot of space inside', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘capacious’ শব্দটির অর্থ—প্রশস্ত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'capacious' as 'having a lot of space inside' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘capacious’ শব্দটি প্রশস্ত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "captivate",
+    "pronunciation_bn": "ক্যাপটিভেইট",
+    "pronunciation": "/ˈkæptɪveɪt/",
+    "no": 155,
+    "group": 7,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to attract and hold someone's attention by being interesting, attractive, or charming",
+    "meaning_bn": [
+      "মুগ্ধ করা",
+      "আকর্ষণ করা",
+      "মোহিত করা"
+    ],
+    "synonyms": [
+      {
+        "en": "fascinate",
+        "bn": "মুগ্ধ করা"
+      },
+      {
+        "en": "enchant",
+        "bn": "মোহিত করা"
+      },
+      {
+        "en": "charm",
+        "bn": "আকর্ষণ করা"
+      },
+      {
+        "en": "Intrigue",
+        "bn": "কৌতূহলী করে তোলা"
+      },
+      {
+        "en": "transfix",
+        "bn": "বিস্ময় বা ভয়ে স্থির করে দেওয়া"
+      },
+      {
+        "en": "rivet",
+        "bn": "মনোযোগ সম্পূর্ণভাবে ধরে রাখা"
+      },
+      {
+        "en": "endear",
+        "bn": "প্রিয় করে তোলা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "bore",
+        "bn": "বিরক্ত করা"
+      },
+      {
+        "en": "repel",
+        "bn": "বিতৃষ্ণ করা"
+      }
+    ],
+    "example": "The storyteller captivated the children with her tales.",
+    "example_bn": "গল্পকার তাঁর গল্প দিয়ে শিশুদের মুগ্ধ করেছিলেন।",
+    "examples": [
+      "The storyteller captivated the children with her tales. — গল্পকার তাঁর গল্প দিয়ে শিশুদের মুগ্ধ করেছিলেন।",
+      "At dinner, she explained that 'captivate' means 'to attract and hold someone's attention by being', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘captivate’ শব্দটির অর্থ—মুগ্ধ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'captivate' as 'to attract and hold someone's attention by being' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘captivate’ শব্দটি মুগ্ধ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "carcinogenic",
+    "pronunciation_bn": "কার্সিনোজেনিক",
+    "pronunciation": "/ˌkɑːsɪnəˈdʒenɪk/",
+    "no": 156,
+    "group": 7,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "causing or likely to cause cancer",
+    "meaning_bn": [
+      "ক্যানসার সৃষ্টিকারী",
+      "ক্যানসার ঘটাতে পারে এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "cancer-causing",
+        "bn": "ক্যানসার সৃষ্টিকারী"
+      },
+      {
+        "en": "oncogenic",
+        "bn": "ক্যানসার-উদ্দীপক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "non-carcinogenic",
+        "bn": "ক্যানসার সৃষ্টিকারী নয়"
+      }
+    ],
+    "example": "Prolonged exposure to asbestos can be carcinogenic.",
+    "example_bn": "অ্যাসবেস্টসের দীর্ঘমেয়াদি সংস্পর্শ ক্যানসার সৃষ্টির ঝুঁকি বাড়াতে পারে।",
+    "examples": [
+      "Prolonged exposure to asbestos can be carcinogenic. — অ্যাসবেস্টসের দীর্ঘমেয়াদি সংস্পর্শ ক্যানসার সৃষ্টির ঝুঁকি বাড়াতে পারে।",
+      "At dinner, she explained that 'carcinogenic' means 'causing or likely to cause cancer', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘carcinogenic’ শব্দটির অর্থ—ক্যানসার সৃষ্টিকারী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'carcinogenic' as 'causing or likely to cause cancer' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘carcinogenic’ শব্দটি ক্যানসার সৃষ্টিকারী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "cardinal",
+    "pronunciation_bn": "কার্ডিনাল",
+    "pronunciation": "/ˈkɑːdɪnəl/",
+    "no": 157,
+    "group": 7,
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "meaning_en": "most important; fundamental; also a senior official in the Roman Catholic Church",
+    "meaning_bn": [
+      "সবচেয়ে গুরুত্বপূর্ণ",
+      "মৌলিক",
+      "রোমান ক্যাথলিক চার্চের উচ্চপদস্থ ধর্মযাজক"
+    ],
+    "synonyms": [
+      {
+        "en": "chief",
+        "bn": "প্রধান"
+      },
+      {
+        "en": "principal",
+        "bn": "মুখ্য"
+      },
+      {
+        "en": "fundamental",
+        "bn": "মৌলিক"
+      },
+      {
+        "en": "Integral",
+        "bn": "অবিচ্ছেদ্য অংশ"
+      },
+      {
+        "en": "predominant",
+        "bn": "প্রধান"
+      },
+      {
+        "en": "primal",
+        "bn": "আদি"
+      },
+      {
+        "en": "underlying",
+        "bn": "অন্তর্নিহিত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "minor",
+        "bn": "গৌণ"
+      },
+      {
+        "en": "secondary",
+        "bn": "দ্বিতীয় পর্যায়ের"
+      },
+      {
+        "en": "Marginal",
+        "bn": "প্রান্তিক"
+      },
+      {
+        "en": "subsidiary",
+        "bn": "সহায়ক"
+      }
+    ],
+    "example": "Honesty is a cardinal virtue in any relationship.",
+    "example_bn": "যেকোনো সম্পর্কের ক্ষেত্রে সততা একটি অত্যন্ত গুরুত্বপূর্ণ গুণ।",
+    "examples": [
+      "Honesty is a cardinal virtue in any relationship. — যেকোনো সম্পর্কের ক্ষেত্রে সততা একটি অত্যন্ত গুরুত্বপূর্ণ গুণ।",
+      "At dinner, she explained that 'cardinal' means 'most important', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘cardinal’ শব্দটির অর্থ—সবচেয়ে গুরুত্বপূর্ণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'cardinal' as 'most important' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘cardinal’ শব্দটি সবচেয়ে গুরুত্বপূর্ণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "careen",
+    "pronunciation_bn": "কেরিন",
+    "pronunciation": "/kəˈriːn/",
+    "no": 158,
+    "group": 7,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to move forward quickly and in an uncontrolled way, often swaying from side to side",
+    "meaning_bn": [
+      "নিয়ন্ত্রণহীনভাবে দ্রুত ছুটে চলা",
+      "দুলতে দুলতে এগোনো",
+      "একদিকে হেলে চলা"
+    ],
+    "synonyms": [
+      {
+        "en": "swerve",
+        "bn": "আকস্মিকভাবে দিক বদলানো"
+      },
+      {
+        "en": "lurch",
+        "bn": "টলতে টলতে এগোনো"
+      },
+      {
+        "en": "veer",
+        "bn": "দিক পরিবর্তন করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "stabilize",
+        "bn": "স্থিতিশীল করা"
+      },
+      {
+        "en": "steady",
+        "bn": "স্থির করা"
+      }
+    ],
+    "example": "The car careened down the hill and hit the barrier.",
+    "example_bn": "গাড়িটি পাহাড়ি ঢাল বেয়ে নিয়ন্ত্রণহীনভাবে ছুটে গিয়ে বাধায় ধাক্কা খেয়েছিল।",
+    "examples": [
+      "The car careened down the hill and hit the barrier. — গাড়িটি পাহাড়ি ঢাল বেয়ে নিয়ন্ত্রণহীনভাবে ছুটে গিয়ে বাধায় ধাক্কা খেয়েছিল।",
+      "At dinner, she explained that 'careen' means 'to move forward quickly and in an uncontrolled', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘careen’ শব্দটির অর্থ—নিয়ন্ত্রণহীনভাবে দ্রুত ছুটে চলা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'careen' as 'to move forward quickly and in an uncontrolled' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘careen’ শব্দটি নিয়ন্ত্রণহীনভাবে দ্রুত ছুটে চলা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "cartography",
+    "pronunciation_bn": "কার্টোগ্রাফি",
+    "pronunciation": "/kɑːˈtɒɡrəfi/",
+    "no": 159,
+    "group": 7,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the art or process of making maps",
+    "meaning_bn": [
+      "মানচিত্র তৈরির বিদ্যা",
+      "মানচিত্র অঙ্কন ও প্রস্তুতকরণ"
+    ],
+    "synonyms": [
+      {
+        "en": "mapmaking",
+        "bn": "মানচিত্র তৈরি"
+      },
+      {
+        "en": "mapping",
+        "bn": "মানচিত্রায়ন"
+      }
+    ],
+    "antonyms": [],
+    "example": "Cartography is the art and science of making maps.",
+    "example_bn": "মানচিত্রবিদ্যা হলো মানচিত্র তৈরির শিল্প ও বিজ্ঞান।",
+    "examples": [
+      "Cartography is the art and science of making maps. — মানচিত্রবিদ্যা হলো মানচিত্র তৈরির শিল্প ও বিজ্ঞান।",
+      "At dinner, she explained that 'cartography' means 'the art or process of making maps', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘cartography’ শব্দটির অর্থ—মানচিত্র তৈরির বিদ্যা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'cartography' as 'the art or process of making maps' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘cartography’ শব্দটি মানচিত্র তৈরির বিদ্যা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "cascade",
+    "pronunciation_bn": "ক্যাসকেড",
+    "pronunciation": "/kæsˈkeɪd/",
+    "no": 160,
+    "group": 7,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "a small waterfall; something that falls or happens in a series; to fall or happen in a series",
+    "meaning_bn": [
+      "ছোট জলপ্রপাত",
+      "ধারাবাহিকভাবে ঘটে যাওয়া ঘটনা",
+      "পরপর নেমে আসা বা ঘটতে থাকা"
+    ],
+    "synonyms": [
+      {
+        "en": "waterfall",
+        "bn": "জলপ্রপাত"
+      },
+      {
+        "en": "series",
+        "bn": "ধারাবাহিকতা"
+      },
+      {
+        "en": "succession",
+        "bn": "পরম্পরা"
+      },
+      {
+        "en": "Litany",
+        "bn": "দীর্ঘ তালিকা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "standstill",
+        "bn": "স্থবিরতা"
+      },
+      {
+        "en": "cessation",
+        "bn": "বন্ধ হয়ে যাওয়া"
+      },
+      {
+        "en": "Abeyance",
+        "bn": "স্থগিতাবস্থা"
+      },
+      {
+        "en": "Stagnation",
+        "bn": "স্থবিরতা"
+      }
+    ],
+    "example": "Problems cascaded one after another throughout the week.",
+    "example_bn": "সারা সপ্তাহজুড়ে একের পর এক সমস্যা দেখা দিয়েছিল।",
+    "examples": [
+      "Problems cascaded one after another throughout the week. — সারা সপ্তাহজুড়ে একের পর এক সমস্যা দেখা দিয়েছিল।",
+      "At dinner, she explained that 'cascade' means 'a small waterfall', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘cascade’ শব্দটির অর্থ—ছোট জলপ্রপাত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'cascade' as 'a small waterfall' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘cascade’ শব্দটি ছোট জলপ্রপাত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "cataclysm",
+    "pronunciation_bn": "ক্যাটাক্লিজম",
+    "pronunciation": "/ˈkætəklɪzəm/",
+    "no": 161,
+    "group": 7,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a sudden violent event causing great destruction or change",
+    "meaning_bn": [
+      "প্রলয়ংকরী বিপর্যয়",
+      "ধ্বংসাত্মক আকস্মিক ঘটনা",
+      "মহাবিপর্যয়"
+    ],
+    "synonyms": [
+      {
+        "en": "catastrophe",
+        "bn": "মহাবিপর্যয়"
+      },
+      {
+        "en": "disaster",
+        "bn": "দুর্যোগ"
+      },
+      {
+        "en": "upheaval",
+        "bn": "বড় ধরনের ওলটপালট"
+      },
+      {
+        "en": "Apocalypse",
+        "bn": "মহাবিপর্যয়"
+      },
+      {
+        "en": "calamity",
+        "bn": "বিপর্যয়"
+      },
+      {
+        "en": "Debacle",
+        "bn": "চরম ব্যর্থতা"
+      },
+      {
+        "en": "fiasco",
+        "bn": "সম্পূর্ণ ব্যর্থতা"
+      },
+      {
+        "en": "turmoil",
+        "bn": "তীব্র অস্থিরতা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "recovery",
+        "bn": "পুনরুদ্ধার"
+      },
+      {
+        "en": "stability",
+        "bn": "স্থিতিশীলতা"
+      }
+    ],
+    "example": "The volcanic eruption was a cataclysm for the entire region.",
+    "example_bn": "আগ্নেয়গিরির অগ্ন্যুৎপাত পুরো অঞ্চলের জন্য এক মহাবিপর্যয় ছিল।",
+    "examples": [
+      "The volcanic eruption was a cataclysm for the entire region. — আগ্নেয়গিরির অগ্ন্যুৎপাত পুরো অঞ্চলের জন্য এক মহাবিপর্যয় ছিল।",
+      "At dinner, she explained that 'cataclysm' means 'a sudden violent event causing great destruction', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘cataclysm’ শব্দটির অর্থ—প্রলয়ংকরী বিপর্যয়—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'cataclysm' as 'a sudden violent event causing great destruction' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘cataclysm’ শব্দটি প্রলয়ংকরী বিপর্যয় অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "cavalier",
+    "pronunciation_bn": "ক্যাভালিয়ার",
+    "pronunciation": "/ˌkævəˈlɪə(r)/",
+    "no": 162,
+    "group": 7,
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "meaning_en": "showing a lack of proper concern or seriousness; also a mounted soldier or a supporter of Charles I",
+    "meaning_bn": [
+      "উদাসীন ও দায়িত্বজ্ঞানহীন",
+      "অবহেলাপূর্ণ",
+      "অশ্বারোহী সৈনিক; ঐতিহাসিকভাবে রাজা প্রথম চার্লসের সমর্থক"
+    ],
+    "synonyms": [
+      {
+        "en": "casual",
+        "bn": "উদাসীন"
+      },
+      {
+        "en": "dismissive",
+        "bn": "অবজ্ঞাপূর্ণ"
+      },
+      {
+        "en": "nonchalant",
+        "bn": "নির্বিকার"
+      },
+      {
+        "en": "Indifferent",
+        "bn": "উদাসীন"
+      },
+      {
+        "en": "Disinterested",
+        "bn": "নিরপেক্ষ"
+      },
+      {
+        "en": "Insouciant",
+        "bn": "নিরুদ্বিগ্ন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "careful",
+        "bn": "সতর্ক"
+      },
+      {
+        "en": "concerned",
+        "bn": "উদ্বিগ্ন"
+      },
+      {
+        "en": "respectful",
+        "bn": "শ্রদ্ধাশীল"
+      },
+      {
+        "en": "Solicitous",
+        "bn": "যত্নশীল"
+      },
+      {
+        "en": "Painstaking",
+        "bn": "অত্যন্ত যত্নসহকারে করা"
+      },
+      {
+        "en": "Aghast",
+        "bn": "আতঙ্কিত"
+      },
+      {
+        "en": "Amorous",
+        "bn": "প্রেমাসক্ত"
+      },
+      {
+        "en": "Apprehensive",
+        "bn": "উদ্বিগ্ন"
+      }
+    ],
+    "example": "His cavalier attitude toward safety rules was dangerous.",
+    "example_bn": "নিরাপত্তাবিধির প্রতি তার দায়িত্বজ্ঞানহীন মনোভাব বিপজ্জনক ছিল।",
+    "examples": [
+      "His cavalier attitude toward safety rules was dangerous. — নিরাপত্তাবিধির প্রতি তার দায়িত্বজ্ঞানহীন মনোভাব বিপজ্জনক ছিল।",
+      "At dinner, she explained that 'cavalier' means 'showing a lack of proper concern or seriousness', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘cavalier’ শব্দটির অর্থ—উদাসীন ও দায়িত্বজ্ঞানহীন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'cavalier' as 'showing a lack of proper concern or seriousness' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘cavalier’ শব্দটি উদাসীন ও দায়িত্বজ্ঞানহীন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "cavil",
+    "pronunciation_bn": "ক্যাভিল",
+    "pronunciation": "/ˈkævɪl/",
+    "no": 163,
+    "group": 7,
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "meaning_en": "to make unnecessary or trivial objections; a petty objection",
+    "meaning_bn": [
+      "তুচ্ছ বিষয়ে আপত্তি তোলা",
+      "খুঁতখুঁতে আপত্তি করা",
+      "তুচ্ছ আপত্তি"
+    ],
+    "synonyms": [
+      {
+        "en": "quibble",
+        "bn": "তুচ্ছ বিষয়ে তর্ক করা"
+      },
+      {
+        "en": "nitpick",
+        "bn": "খুঁটিনাটি নিয়ে আপত্তি করা"
+      },
+      {
+        "en": "carp",
+        "bn": "অনবরত খুঁত ধরা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "agree",
+        "bn": "একমত হওয়া"
+      },
+      {
+        "en": "accept",
+        "bn": "মেনে নেওয়া"
+      },
+      {
+        "en": "Accede",
+        "bn": "সম্মত হওয়া"
+      }
+    ],
+    "example": "He caviled over every minor detail in the contract.",
+    "example_bn": "চুক্তির প্রতিটি ছোটখাটো বিষয় নিয়েও সে আপত্তি তুলেছিল।",
+    "examples": [
+      "He caviled over every minor detail in the contract. — চুক্তির প্রতিটি ছোটখাটো বিষয় নিয়েও সে আপত্তি তুলেছিল।",
+      "At dinner, she explained that 'cavil' means 'to make unnecessary or trivial objections', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘cavil’ শব্দটির অর্থ—তুচ্ছ বিষয়ে আপত্তি তোলা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'cavil' as 'to make unnecessary or trivial objections' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘cavil’ শব্দটি তুচ্ছ বিষয়ে আপত্তি তোলা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "chaff",
+    "pronunciation_bn": "চ্যাফ",
+    "pronunciation": "/tʃɑːf/",
+    "no": 164,
+    "group": 7,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "the husks of grain separated from the seed; worthless material; to tease someone playfully",
+    "meaning_bn": [
+      "শস্যের তুষ",
+      "মূল্যহীন বস্তু",
+      "হালকা ঠাট্টা করা"
+    ],
+    "synonyms": [
+      {
+        "en": "husk",
+        "bn": "তুষ"
+      },
+      {
+        "en": "rubbish",
+        "bn": "আবর্জনা"
+      },
+      {
+        "en": "tease",
+        "bn": "ঠাট্টা করা"
+      },
+      {
+        "en": "dross",
+        "bn": "আবর্জনা"
+      },
+      {
+        "en": "titillate",
+        "bn": "কৌতূহল জাগানো"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "grain",
+        "bn": "শস্যদানা"
+      },
+      {
+        "en": "substance",
+        "bn": "সারবস্তু"
+      }
+    ],
+    "example": "Separate the wheat from the chaff when reviewing submissions.",
+    "example_bn": "জমা দেওয়া কাজগুলো পর্যালোচনার সময় মূল্যহীন অংশ থেকে ভালো অংশ আলাদা করুন।",
+    "examples": [
+      "Separate the wheat from the chaff when reviewing submissions. — জমা দেওয়া কাজগুলো পর্যালোচনার সময় মূল্যহীন অংশ থেকে ভালো অংশ আলাদা করুন।",
+      "At dinner, she explained that 'chaff' means 'the husks of grain separated from the seed', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘chaff’ শব্দটির অর্থ—শস্যের তুষ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'chaff' as 'the husks of grain separated from the seed' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘chaff’ শব্দটি শস্যের তুষ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "chameleon",
+    "pronunciation_bn": "ক্যামেলিয়ন",
+    "pronunciation": "/kəˈmiːliən/",
+    "no": 165,
+    "group": 7,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a lizard that can change colour; a person whose opinions or behaviour change to suit the situation",
+    "meaning_bn": [
+      "রং পরিবর্তন করতে পারে এমন গিরগিটি",
+      "পরিস্থিতি অনুযায়ী মত বা আচরণ বদলায় এমন ব্যক্তি"
+    ],
+    "synonyms": [
+      {
+        "en": "shape-shifter",
+        "bn": "রূপ বদলাতে সক্ষম ব্যক্তি"
+      },
+      {
+        "en": "opportunist",
+        "bn": "সুযোগসন্ধানী ব্যক্তি"
+      },
+      {
+        "en": "conformist",
+        "bn": "পরিস্থিতির সঙ্গে মানিয়ে চলা ব্যক্তি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "steadfast person",
+        "bn": "অবিচল ব্যক্তি"
+      },
+      {
+        "en": "constant",
+        "bn": "স্থির বা অপরিবর্তনীয় ব্যক্তি"
+      },
+      {
+        "en": "Iconoclast",
+        "bn": "প্রচলিত বিশ্বাস ও প্রথার বিরোধিতাকারী ব্যক্তি"
+      },
+      {
+        "en": "Maverick",
+        "bn": "যিনি প্রচলিত নিয়ম বা দলের মত অনুসরণ না করে স্বাধীনভাবে চিন্তা বা কাজ করেন"
+      },
+      {
+        "en": "dissident",
+        "bn": "ভিন্নমতাবলম্বী ব্যক্তি"
+      }
+    ],
+    "example": "She was a political chameleon, shifting views to gain support.",
+    "example_bn": "সমর্থন পাওয়ার জন্য সে বারবার নিজের রাজনৈতিক মত বদলাত।",
+    "examples": [
+      "She was a political chameleon, shifting views to gain support. — সমর্থন পাওয়ার জন্য সে বারবার নিজের রাজনৈতিক মত বদলাত।",
+      "At dinner, she explained that 'chameleon' means 'a lizard that can change colour', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘chameleon’ শব্দটির অর্থ—রং পরিবর্তন করতে পারে এমন গিরগিটি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'chameleon' as 'a lizard that can change colour' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘chameleon’ শব্দটি রং পরিবর্তন করতে পারে এমন গিরগিটি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "champion",
+    "pronunciation_bn": "চ্যাম্পিয়ন",
+    "pronunciation": "/ˈtʃæmpiən/",
+    "no": 166,
+    "group": 7,
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "meaning_en": "to publicly support or defend a person, cause, or belief; a winner of a competition",
+    "meaning_bn": [
+      "সমর্থন করা",
+      "পক্ষে দাঁড়ানো",
+      "অধিকার রক্ষা করা",
+      "প্রতিযোগিতায় বিজয়ী"
+    ],
+    "synonyms": [
+      {
+        "en": "advocate",
+        "bn": "পক্ষে কথা বলা"
+      },
+      {
+        "en": "defend",
+        "bn": "রক্ষা করা"
+      },
+      {
+        "en": "support",
+        "bn": "সমর্থন করা"
+      },
+      {
+        "en": "Proponent",
+        "bn": "কোনো ধারণা, পরিকল্পনা বা উদ্দেশ্যের সমর্থক"
+      },
+      {
+        "en": "Protagonist",
+        "bn": "গল্প, নাটক বা চলচ্চিত্রের প্রধান চরিত্র"
+      },
+      {
+        "en": "Partisan",
+        "bn": "কোনো পক্ষ বা দলের একনিষ্ঠ সমর্থক"
+      },
+      {
+        "en": "Espouse",
+        "bn": "সমর্থন করা"
+      },
+      {
+        "en": "Adherent",
+        "bn": "অনুসারী"
+      },
+      {
+        "en": "Benefactor",
+        "bn": "দাতা"
+      },
+      {
+        "en": "Tout",
+        "bn": "প্রচার করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "oppose",
+        "bn": "বিরোধিতা করা"
+      },
+      {
+        "en": "undermine",
+        "bn": "দুর্বল করে দেওয়া"
+      },
+      {
+        "en": "Assail",
+        "bn": "আক্রমণ করা"
+      },
+      {
+        "en": "Debilitate",
+        "bn": "দুর্বল করে দেওয়া"
+      },
+      {
+        "en": "Vitiate",
+        "bn": "দূষিত করা"
+      },
+      {
+        "en": "Insurgent",
+        "bn": "বিদ্রোহী"
+      },
+      {
+        "en": "Arbiter",
+        "bn": "বিচারক"
+      }
+    ],
+    "example": "She championed the rights of the underprivileged throughout her career.",
+    "example_bn": "তিনি তাঁর কর্মজীবনজুড়ে সুবিধাবঞ্চিত মানুষের অধিকার রক্ষা করেছেন।",
+    "examples": [
+      "She championed the rights of the underprivileged throughout her career. — তিনি তাঁর কর্মজীবনজুড়ে সুবিধাবঞ্চিত মানুষের অধিকার রক্ষা করেছেন।",
+      "At dinner, she explained that 'champion' means 'to publicly support or defend a person, cause', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘champion’ শব্দটির অর্থ—সমর্থন করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'champion' as 'to publicly support or defend a person, cause' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘champion’ শব্দটি সমর্থন করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "channel",
+    "pronunciation_bn": "চ্যানেল",
+    "pronunciation": "/ˈtʃænəl/",
+    "no": 167,
+    "group": 7,
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "meaning_en": "to direct something along a particular route or toward a particular purpose; a passage or means of communication",
+    "meaning_bn": [
+      "নির্দিষ্ট পথে পরিচালিত করা",
+      "কোনো কাজে নিয়োজিত করা",
+      "চ্যানেল বা প্রবাহপথ"
+    ],
+    "synonyms": [
+      {
+        "en": "direct",
+        "bn": "পরিচালিত করা"
+      },
+      {
+        "en": "guide",
+        "bn": "পথ দেখানো"
+      },
+      {
+        "en": "route",
+        "bn": "নির্দিষ্ট পথে পাঠানো"
+      },
+      {
+        "en": "Medium",
+        "bn": "মাধ্যম"
+      },
+      {
+        "en": "Mentor",
+        "bn": "অভিজ্ঞ ও বিশ্বস্ত পরামর্শদাতা, যিনি কাউকে পথ দেখান"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "divert",
+        "bn": "অন্যদিকে ঘুরিয়ে দেওয়া"
+      },
+      {
+        "en": "misdirect",
+        "bn": "ভুল পথে পরিচালিত করা"
+      }
+    ],
+    "example": "She channeled her energy into writing a novel.",
+    "example_bn": "সে তার শক্তিকে একটি উপন্যাস লেখার কাজে নিয়োজিত করেছিল।",
+    "examples": [
+      "She channeled her energy into writing a novel. — সে তার শক্তিকে একটি উপন্যাস লেখার কাজে নিয়োজিত করেছিল।",
+      "At dinner, she explained that 'channel' means 'to direct something along a particular route', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘channel’ শব্দটির অর্থ—নির্দিষ্ট পথে পরিচালিত করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'channel' as 'to direct something along a particular route' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘channel’ শব্দটি নির্দিষ্ট পথে পরিচালিত করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "chaste",
+    "pronunciation_bn": "চেইস্ট",
+    "pronunciation": "/tʃeɪst/",
+    "no": 168,
+    "group": 7,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "not having sex, or showing sexual restraint; simple and undecorated in style",
+    "meaning_bn": [
+      "যৌনসংযমী",
+      "পবিত্র",
+      "সরল ও অনাড়ম্বর"
+    ],
+    "synonyms": [
+      {
+        "en": "celibate",
+        "bn": "যৌনসম্পর্ক থেকে বিরত"
+      },
+      {
+        "en": "pure",
+        "bn": "পবিত্র"
+      },
+      {
+        "en": "unadorned",
+        "bn": "অলংকারহীন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "promiscuous",
+        "bn": "বহু যৌনসঙ্গীর সঙ্গে সম্পর্ককারী"
+      },
+      {
+        "en": "ornate",
+        "bn": "অলংকৃত"
+      },
+      {
+        "en": "Licentious",
+        "bn": "নীতিবিবর্জিত"
+      },
+      {
+        "en": "Lascivious",
+        "bn": "কামুক"
+      },
+      {
+        "en": "baroque",
+        "bn": "অতিমাত্রায় অলংকৃত"
+      },
+      {
+        "en": "Decadent",
+        "bn": "নৈতিকভাবে অধঃপতিত"
+      },
+      {
+        "en": "florid",
+        "bn": "লালচে মুখমণ্ডলবিশিষ্ট"
+      }
+    ],
+    "example": "The design was chaste, with no unnecessary decoration.",
+    "example_bn": "নকশাটি ছিল সরল ও অনাড়ম্বর, তাতে অপ্রয়োজনীয় অলংকরণ ছিল না।",
+    "examples": [
+      "The design was chaste, with no unnecessary decoration. — নকশাটি ছিল সরল ও অনাড়ম্বর, তাতে অপ্রয়োজনীয় অলংকরণ ছিল না।",
+      "At dinner, she explained that 'chaste' means 'not having sex, or showing sexual restraint', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘chaste’ শব্দটির অর্থ—যৌনসংযমী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'chaste' as 'not having sex, or showing sexual restraint' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘chaste’ শব্দটি যৌনসংযমী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "cherub",
+    "pronunciation_bn": "কেরুব",
+    "pronunciation": "/ˈtʃerəb/",
+    "no": 169,
+    "group": 7,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "an angelic being in religious tradition; a child with a sweet, innocent face",
+    "meaning_bn": [
+      "ধর্মীয় ঐতিহ্যে এক ধরনের দেবদূত",
+      "মিষ্টি ও নিষ্পাপ চেহারার শিশু"
+    ],
+    "synonyms": [
+      {
+        "en": "angel",
+        "bn": "দেবদূত"
+      },
+      {
+        "en": "innocent-looking child",
+        "bn": "নিষ্পাপ চেহারার শিশু"
+      }
+    ],
+    "antonyms": [],
+    "example": "The painting depicted cherubs floating among clouds.",
+    "example_bn": "চিত্রটিতে মেঘের মধ্যে ভেসে থাকা কেরুবদের দেখানো হয়েছিল।",
+    "examples": [
+      "The painting depicted cherubs floating among clouds. — চিত্রটিতে মেঘের মধ্যে ভেসে থাকা কেরুবদের দেখানো হয়েছিল।",
+      "At dinner, she explained that 'cherub' means 'an angelic being in religious tradition', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘cherub’ শব্দটির অর্থ—ধর্মীয় ঐতিহ্যে এক ধরনের দেবদূত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'cherub' as 'an angelic being in religious tradition' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘cherub’ শব্দটি ধর্মীয় ঐতিহ্যে এক ধরনের দেবদূত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "chortle",
+    "pronunciation_bn": "চর্টল",
+    "pronunciation": "/ˈtʃɔːtl/",
+    "no": 170,
+    "group": 7,
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "meaning_en": "to laugh in a gleeful, partly suppressed way; such a laugh",
+    "meaning_bn": [
+      "আনন্দে খিলখিল করে হাসা",
+      "আনন্দমিশ্রিত হাসি"
+    ],
+    "synonyms": [
+      {
+        "en": "chuckle",
+        "bn": "মৃদু হাসা"
+      },
+      {
+        "en": "giggle",
+        "bn": "খিলখিল করে হাসা"
+      },
+      {
+        "en": "snicker",
+        "bn": "চাপা হাসি হাসা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "sob",
+        "bn": "ফুঁপিয়ে কাঁদা"
+      },
+      {
+        "en": "weep",
+        "bn": "কান্না করা"
+      }
+    ],
+    "example": "He chortled at his own joke.",
+    "example_bn": "নিজের কৌতুকে সে আনন্দে খিলখিল করে হেসেছিল।",
+    "examples": [
+      "He chortled at his own joke. — নিজের কৌতুকে সে আনন্দে খিলখিল করে হেসেছিল।",
+      "At dinner, she explained that 'chortle' means 'to laugh in a gleeful, partly suppressed way', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘chortle’ শব্দটির অর্থ—আনন্দে খিলখিল করে হাসা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'chortle' as 'to laugh in a gleeful, partly suppressed way' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘chortle’ শব্দটি আনন্দে খিলখিল করে হাসা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "churl",
+    "pronunciation_bn": "চার্ল",
+    "pronunciation": "/tʃɜːl/",
+    "no": 171,
+    "group": 7,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a rude, bad-mannered person",
+    "meaning_bn": [
+      "অভদ্র ব্যক্তি",
+      "রূঢ় মানুষ"
+    ],
+    "synonyms": [
+      {
+        "en": "boor",
+        "bn": "অভদ্র ব্যক্তি"
+      },
+      {
+        "en": "lout",
+        "bn": "অমার্জিত ব্যক্তি"
+      },
+      {
+        "en": "oaf",
+        "bn": "নির্বোধ ও অভদ্র ব্যক্তি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "gentleman",
+        "bn": "ভদ্রলোক"
+      },
+      {
+        "en": "polite person",
+        "bn": "ভদ্র ব্যক্তি"
+      }
+    ],
+    "example": "Don't be a churl; thank them for their hospitality.",
+    "example_bn": "অভদ্র হয়ো না; তাদের আতিথেয়তার জন্য ধন্যবাদ দাও।",
+    "examples": [
+      "Don't be a churl; thank them for their hospitality. — অভদ্র হয়ো না; তাদের আতিথেয়তার জন্য ধন্যবাদ দাও।",
+      "At dinner, she explained that 'churl' means 'a rude, bad-mannered person', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘churl’ শব্দটির অর্থ—অভদ্র ব্যক্তি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'churl' as 'a rude, bad-mannered person' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘churl’ শব্দটি অভদ্র ব্যক্তি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "chutzpah",
+    "pronunciation_bn": "হুট্সপা",
+    "pronunciation": "/ˈxʊtspə/",
+    "no": 172,
+    "group": 7,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "extreme confidence or boldness that can seem rude or shocking",
+    "meaning_bn": [
+      "দুঃসাহস",
+      "নির্লজ্জ সাহস",
+      "বেপরোয়া আত্মবিশ্বাস"
+    ],
+    "synonyms": [
+      {
+        "en": "audacity",
+        "bn": "দুঃসাহস"
+      },
+      {
+        "en": "brazenness",
+        "bn": "নির্লজ্জতা"
+      },
+      {
+        "en": "nerve",
+        "bn": "দুঃসাহস"
+      },
+      {
+        "en": "Temerity",
+        "bn": "ধৃষ্টতা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "timidity",
+        "bn": "ভীরুতা"
+      },
+      {
+        "en": "diffidence",
+        "bn": "আত্মবিশ্বাসের অভাব"
+      }
+    ],
+    "example": "It took real chutzpah to ask for a raise after one week.",
+    "example_bn": "মাত্র এক সপ্তাহ কাজ করার পর বেতন বাড়ানোর অনুরোধ করতে সত্যিই অনেক দুঃসাহসের দরকার হয়।",
+    "examples": [
+      "It took real chutzpah to ask for a raise after one week. — মাত্র এক সপ্তাহ কাজ করার পর বেতন বাড়ানোর অনুরোধ করতে সত্যিই অনেক দুঃসাহসের দরকার হয়।",
+      "At dinner, she explained that 'chutzpah' means 'extreme confidence or boldness that can seem rude', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘chutzpah’ শব্দটির অর্থ—দুঃসাহস—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'chutzpah' as 'extreme confidence or boldness that can seem rude' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘chutzpah’ শব্দটি দুঃসাহস অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "cipher",
+    "pronunciation_bn": "সাইফার",
+    "pronunciation": "/ˈsaɪfə(r)/",
+    "no": 173,
+    "group": 7,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "zero; a secret code; a person or thing of no importance; to write or calculate in code",
+    "meaning_bn": [
+      "শূন্য",
+      "সাংকেতিক লেখা",
+      "গুরুত্বহীন ব্যক্তি",
+      "সংকেতে লেখা বা হিসাব করা"
+    ],
+    "synonyms": [
+      {
+        "en": "zero",
+        "bn": "শূন্য"
+      },
+      {
+        "en": "code",
+        "bn": "সংকেত"
+      },
+      {
+        "en": "nonentity",
+        "bn": "গুরুত্বহীন ব্যক্তি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "significance",
+        "bn": "গুরুত্ব"
+      },
+      {
+        "en": "importance",
+        "bn": "তাৎপর্য"
+      },
+      {
+        "en": "Gravity",
+        "bn": "গাম্ভীর্য"
+      }
+    ],
+    "example": "He felt like a mere cipher in the large corporation.",
+    "example_bn": "বড় প্রতিষ্ঠানটিতে সে নিজেকে নিছক এক গুরুত্বহীন ব্যক্তি বলে মনে করত।",
+    "examples": [
+      "He felt like a mere cipher in the large corporation. — বড় প্রতিষ্ঠানটিতে সে নিজেকে নিছক এক গুরুত্বহীন ব্যক্তি বলে মনে করত।",
+      "At dinner, she explained that 'cipher' means 'zero', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘cipher’ শব্দটির অর্থ—শূন্য—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'cipher' as 'zero' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘cipher’ শব্দটি শূন্য অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "circumnavigate",
+    "pronunciation_bn": "সার্কামনেভিগেইট",
+    "pronunciation": "/ˌsɜːkəmˈnævɪɡeɪt/",
+    "no": 174,
+    "group": 7,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to travel or sail all the way around something, especially the world",
+    "meaning_bn": [
+      "পুরো পৃথিবী বা কোনো স্থান প্রদক্ষিণ করা",
+      "জাহাজে বা অন্যভাবে চারদিকে ঘুরে আসা"
+    ],
+    "synonyms": [
+      {
+        "en": "circle",
+        "bn": "চারদিকে ঘোরা"
+      },
+      {
+        "en": "navigate around",
+        "bn": "চারদিকে পথ পাড়ি দেওয়া"
+      },
+      {
+        "en": "orbit",
+        "bn": "কক্ষপথে ঘোরা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "remain",
+        "bn": "এক জায়গায় থাকা"
+      },
+      {
+        "en": "stay",
+        "bn": "থেকে যাওয়া"
+      }
+    ],
+    "example": "Magellan's crew was the first to circumnavigate the globe.",
+    "example_bn": "ম্যাগেলানের নাবিকদলই প্রথম পৃথিবী প্রদক্ষিণ করেছিল।",
+    "examples": [
+      "Magellan's crew was the first to circumnavigate the globe. — ম্যাগেলানের নাবিকদলই প্রথম পৃথিবী প্রদক্ষিণ করেছিল।",
+      "At dinner, she explained that 'circumnavigate' means 'to travel or sail all the way around', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘circumnavigate’ শব্দটির অর্থ—পুরো পৃথিবী বা কোনো স্থান প্রদক্ষিণ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'circumnavigate' as 'to travel or sail all the way around' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘circumnavigate’ শব্দটি পুরো পৃথিবী বা কোনো স্থান প্রদক্ষিণ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "citadel",
+    "pronunciation_bn": "সিটাডেল",
+    "pronunciation": "/ˈsɪtədəl/",
+    "no": 175,
+    "group": 7,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a castle or fortress that protects or dominates a city; a strong defensive position",
+    "meaning_bn": [
+      "নগররক্ষী দুর্গ",
+      "সুরক্ষিত ঘাঁটি",
+      "প্রতিরক্ষার শক্তিশালী অবলম্বন"
+    ],
+    "synonyms": [
+      {
+        "en": "fortress",
+        "bn": "দুর্গ"
+      },
+      {
+        "en": "stronghold",
+        "bn": "সুরক্ষিত ঘাঁটি"
+      },
+      {
+        "en": "bastion",
+        "bn": "প্রতিরক্ষার শক্তিশালী অবলম্বন"
+      },
+      {
+        "en": "bulwark",
+        "bn": "প্রতিরক্ষাপ্রাচীর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "open ground",
+        "bn": "উন্মুক্ত প্রান্তর"
+      },
+      {
+        "en": "vulnerability",
+        "bn": "অরক্ষিত অবস্থা"
+      },
+      {
+        "en": "Foible",
+        "bn": "ছোটখাটো দোষ"
+      }
+    ],
+    "example": "The ancient citadel still stands at the center of the city.",
+    "example_bn": "প্রাচীন দুর্গটি এখনো শহরের কেন্দ্রে দাঁড়িয়ে আছে।",
+    "examples": [
+      "The ancient citadel still stands at the center of the city. — প্রাচীন দুর্গটি এখনো শহরের কেন্দ্রে দাঁড়িয়ে আছে।",
+      "At dinner, she explained that 'citadel' means 'a castle or fortress that protects or dominates', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘citadel’ শব্দটির অর্থ—নগররক্ষী দুর্গ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'citadel' as 'a castle or fortress that protects or dominates' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘citadel’ শব্দটি নগররক্ষী দুর্গ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

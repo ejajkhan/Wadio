@@ -1,0 +1,1867 @@
+[
+  {
+    "word": "subside",
+    "pronunciation_bn": "সাবসাইড",
+    "pronunciation": "/səbˈsaɪd/",
+    "no": 751,
+    "group": 31,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to become less strong, intense, or severe; to go down to a lower level",
+    "meaning_bn": [
+      "কমে আসা",
+      "প্রশমিত হওয়া",
+      "নিচে নেমে যাওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "diminish",
+        "bn": "কমে যাওয়া"
+      },
+      {
+        "en": "abate",
+        "bn": "প্রশমিত হওয়া"
+      },
+      {
+        "en": "recede",
+        "bn": "পিছিয়ে যাওয়া বা নেমে যাওয়া"
+      },
+      {
+        "en": "ebb",
+        "bn": "কমে যাওয়া"
+      },
+      {
+        "en": "Alleviate",
+        "bn": "উপশম করা"
+      },
+      {
+        "en": "Mitigate",
+        "bn": "কোনো কিছুর তীব্রতা, ক্ষতি বা কষ্ট কমানো"
+      },
+      {
+        "en": "wane",
+        "bn": "কমে যাওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "intensify",
+        "bn": "তীব্র হওয়া"
+      },
+      {
+        "en": "escalate",
+        "bn": "বেড়ে যাওয়া"
+      },
+      {
+        "en": "Accrue",
+        "bn": "সময়ের সঙ্গে জমা হওয়া"
+      },
+      {
+        "en": "Aggrandize",
+        "bn": "নিজের গুরুত্ব বাড়িয়ে দেখানো"
+      },
+      {
+        "en": "Augment",
+        "bn": "বৃদ্ধি করা"
+      },
+      {
+        "en": "Exacerbate",
+        "bn": "আরও খারাপ করে তোলা"
+      },
+      {
+        "en": "fuel",
+        "bn": "জ্বালানি"
+      }
+    ],
+    "example": "The floodwaters gradually subsided after several days of heavy rain.",
+    "example_bn": "কয়েক দিনের ভারী বৃষ্টির পর বন্যার পানি ধীরে ধীরে নেমে গেল।",
+    "examples": [
+      "The floodwaters gradually subsided after several days of heavy rain. — কয়েক দিনের ভারী বৃষ্টির পর বন্যার পানি ধীরে ধীরে নেমে গেল।",
+      "At dinner, she explained that 'subside' means 'to become less strong, intense, or severe', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘subside’ শব্দটির অর্থ—কমে আসা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'subside' as 'to become less strong, intense, or severe' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘subside’ শব্দটি কমে আসা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "subsidiary",
+    "pronunciation_bn": "সাবসিডিয়েরি",
+    "pronunciation": "/səbˈsɪd.i.er.i/",
+    "no": 752,
+    "group": 31,
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "meaning_en": "serving as an additional or supporting part; a company controlled by another company",
+    "meaning_bn": [
+      "সহায়ক",
+      "অতিরিক্ত",
+      "অধীনস্থ",
+      "অন্য কোম্পানির নিয়ন্ত্রণাধীন প্রতিষ্ঠান"
+    ],
+    "synonyms": [
+      {
+        "en": "secondary",
+        "bn": "গৌণ"
+      },
+      {
+        "en": "auxiliary",
+        "bn": "সহায়ক"
+      },
+      {
+        "en": "branch",
+        "bn": "শাখা প্রতিষ্ঠান"
+      },
+      {
+        "en": "Ancillary",
+        "bn": "সহায়ক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "primary",
+        "bn": "প্রধান"
+      },
+      {
+        "en": "main",
+        "bn": "মূল"
+      },
+      {
+        "en": "independent",
+        "bn": "স্বাধীন"
+      },
+      {
+        "en": "Autonomous",
+        "bn": "স্বায়ত্তশাসিত"
+      },
+      {
+        "en": "cardinal",
+        "bn": "সবচেয়ে গুরুত্বপূর্ণ"
+      },
+      {
+        "en": "predominant",
+        "bn": "প্রধান"
+      },
+      {
+        "en": "self-made",
+        "bn": "নিজের চেষ্টায় সফল"
+      }
+    ],
+    "example": "The parent company opened a subsidiary to manage its operations abroad.",
+    "example_bn": "বিদেশে কার্যক্রম পরিচালনার জন্য মূল কোম্পানিটি একটি অধীনস্থ প্রতিষ্ঠান খুলেছিল।",
+    "examples": [
+      "The parent company opened a subsidiary to manage its operations abroad. — বিদেশে কার্যক্রম পরিচালনার জন্য মূল কোম্পানিটি একটি অধীনস্থ প্রতিষ্ঠান খুলেছিল।",
+      "At dinner, she explained that 'subsidiary' means 'serving as an additional or supporting part', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘subsidiary’ শব্দটির অর্থ—সহায়ক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'subsidiary' as 'serving as an additional or supporting part' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘subsidiary’ শব্দটি সহায়ক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "subsidize",
+    "pronunciation_bn": "সাবসিডাইজ",
+    "pronunciation": "/ˈsʌb.sɪ.daɪz/",
+    "no": 753,
+    "group": 31,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to pay part of the cost of something, often using public money or financial support",
+    "meaning_bn": [
+      "ভর্তুকি দেওয়া",
+      "খরচের একটি অংশ বহন করা",
+      "আর্থিক সহায়তা করা"
+    ],
+    "synonyms": [
+      {
+        "en": "fund",
+        "bn": "অর্থায়ন করা"
+      },
+      {
+        "en": "support financially",
+        "bn": "আর্থিকভাবে সহায়তা করা"
+      },
+      {
+        "en": "underwrite",
+        "bn": "ব্যয়ের দায় নেওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "charge fully",
+        "bn": "সম্পূর্ণ খরচ আদায় করা"
+      },
+      {
+        "en": "withdraw funding",
+        "bn": "অর্থায়ন বন্ধ করা"
+      }
+    ],
+    "example": "The government subsidizes bus fares for students.",
+    "example_bn": "সরকার শিক্ষার্থীদের বাসভাড়ায় ভর্তুকি দেয়।",
+    "examples": [
+      "The government subsidizes bus fares for students. — সরকার শিক্ষার্থীদের বাসভাড়ায় ভর্তুকি দেয়।",
+      "At dinner, she explained that 'subsidize' means 'to pay part of the cost of something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘subsidize’ শব্দটির অর্থ—ভর্তুকি দেওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'subsidize' as 'to pay part of the cost of something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘subsidize’ শব্দটি ভর্তুকি দেওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "substantiate",
+    "pronunciation_bn": "সাবস্ট্যানশিয়েট",
+    "pronunciation": "/səbˈstæn.ʃi.eɪt/",
+    "no": 754,
+    "group": 31,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to support a statement, claim, or theory with evidence",
+    "meaning_bn": [
+      "প্রমাণ করা",
+      "তথ্যপ্রমাণ দিয়ে সমর্থন করা",
+      "সত্যতা প্রতিষ্ঠা করা"
+    ],
+    "synonyms": [
+      {
+        "en": "verify",
+        "bn": "যাচাই করা"
+      },
+      {
+        "en": "corroborate",
+        "bn": "সমর্থনকারী প্রমাণ দেওয়া"
+      },
+      {
+        "en": "validate",
+        "bn": "বৈধতা বা সত্যতা নিশ্চিত করা"
+      },
+      {
+        "en": "document",
+        "bn": "নথিবদ্ধ করা"
+      },
+      {
+        "en": "Ascertain",
+        "bn": "নিশ্চিতভাবে নির্ধারণ করা"
+      },
+      {
+        "en": "Attest",
+        "bn": "প্রমাণ দেওয়া"
+      },
+      {
+        "en": "Matriculate",
+        "bn": "কলেজ বা বিশ্ববিদ্যালয়ে আনুষ্ঠানিকভাবে শিক্ষার্থী হিসেবে ভর্তি হওয়া"
+      },
+      {
+        "en": "ratify",
+        "bn": "আনুষ্ঠানিকভাবে অনুমোদন করা"
+      },
+      {
+        "en": "warrant",
+        "bn": "যৌক্তিকতা প্রদান করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "refute",
+        "bn": "খণ্ডন করা"
+      },
+      {
+        "en": "disprove",
+        "bn": "ভুল প্রমাণ করা"
+      },
+      {
+        "en": "contradict",
+        "bn": "বিরোধিতা করা"
+      },
+      {
+        "en": "Rebut",
+        "bn": "খণ্ডন করা"
+      },
+      {
+        "en": "debunk",
+        "bn": "ভুল বা মিথ্যা প্রমাণ করা"
+      },
+      {
+        "en": "nullify",
+        "bn": "বাতিল করা"
+      },
+      {
+        "en": "Extrapolate",
+        "bn": "জ্ঞাত তথ্য থেকে অজ্ঞাত বিষয়ে অনুমান করা"
+      },
+      {
+        "en": "Allege",
+        "bn": "প্রমাণ ছাড়া দাবি করা"
+      },
+      {
+        "en": "Belie",
+        "bn": "মিথ্যা ধারণা দেওয়া"
+      },
+      {
+        "en": "Deduce",
+        "bn": "যুক্তি ও প্রমাণ থেকে সিদ্ধান্তে পৌঁছানো"
+      }
+    ],
+    "example": "She substantiated her claim with records and independent testimony.",
+    "example_bn": "সে নথিপত্র ও স্বাধীন সাক্ষ্যের মাধ্যমে তার দাবির সত্যতা প্রতিষ্ঠা করেছিল।",
+    "examples": [
+      "She substantiated her claim with records and independent testimony. — সে নথিপত্র ও স্বাধীন সাক্ষ্যের মাধ্যমে তার দাবির সত্যতা প্রতিষ্ঠা করেছিল।",
+      "At dinner, she explained that 'substantiate' means 'to support a statement, claim, or theory', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘substantiate’ শব্দটির অর্থ—প্রমাণ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'substantiate' as 'to support a statement, claim, or theory' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘substantiate’ শব্দটি প্রমাণ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "subterfuge",
+    "pronunciation_bn": "সাবটারফিউজ",
+    "pronunciation": "/ˈsʌb.tə.fjuːdʒ/",
+    "no": 755,
+    "group": 31,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a trick or deceptive method used to avoid the truth or achieve a purpose",
+    "meaning_bn": [
+      "ছলচাতুরি",
+      "প্রতারণামূলক কৌশল",
+      "ফন্দি"
+    ],
+    "synonyms": [
+      {
+        "en": "ruse",
+        "bn": "ছলনা"
+      },
+      {
+        "en": "ploy",
+        "bn": "কৌশলী ফন্দি"
+      },
+      {
+        "en": "deception",
+        "bn": "প্রতারণা"
+      },
+      {
+        "en": "Chicanery",
+        "bn": "কূটচাল"
+      },
+      {
+        "en": "stratagem",
+        "bn": "সুনিপুণভাবে পরিকল্পিত কৌশল"
+      },
+      {
+        "en": "Artifice",
+        "bn": "কূটকৌশল"
+      },
+      {
+        "en": "Gambit",
+        "bn": "সুবিধা আদায়ের কৌশল"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "honesty",
+        "bn": "সততা"
+      },
+      {
+        "en": "candor",
+        "bn": "খোলামেলা সততা"
+      },
+      {
+        "en": "frankness",
+        "bn": "সোজাসাপ্টা ভাব"
+      },
+      {
+        "en": "Veracity",
+        "bn": "সত্যতা"
+      }
+    ],
+    "example": "He resorted to subterfuge to avoid answering the difficult question.",
+    "example_bn": "কঠিন প্রশ্নটির উত্তর এড়াতে সে ছলচাতুরির আশ্রয় নিল।",
+    "examples": [
+      "He resorted to subterfuge to avoid answering the difficult question. — কঠিন প্রশ্নটির উত্তর এড়াতে সে ছলচাতুরির আশ্রয় নিল।",
+      "At dinner, she explained that 'subterfuge' means 'a trick or deceptive method used to avoid', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘subterfuge’ শব্দটির অর্থ—ছলচাতুরি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'subterfuge' as 'a trick or deceptive method used to avoid' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘subterfuge’ শব্দটি ছলচাতুরি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "suffice",
+    "pronunciation_bn": "সাফাইস",
+    "pronunciation": "/səˈfaɪs/",
+    "no": 756,
+    "group": 31,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to be enough or adequate for a particular purpose",
+    "meaning_bn": [
+      "যথেষ্ট হওয়া",
+      "পর্যাপ্ত হওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "be enough",
+        "bn": "যথেষ্ট হওয়া"
+      },
+      {
+        "en": "meet the need",
+        "bn": "প্রয়োজন মেটানো"
+      },
+      {
+        "en": "serve",
+        "bn": "কাজে লাগা বা যথেষ্ট হওয়া"
+      },
+      {
+        "en": "Avail",
+        "bn": "উপকারে আসা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "be inadequate",
+        "bn": "অপর্যাপ্ত হওয়া"
+      },
+      {
+        "en": "fall short",
+        "bn": "যথেষ্ট না হওয়া"
+      }
+    ],
+    "example": "A short note will suffice to explain the main point.",
+    "example_bn": "মূল বিষয়টি বোঝাতে একটি সংক্ষিপ্ত নোটই যথেষ্ট হবে।",
+    "examples": [
+      "A short note will suffice to explain the main point. — মূল বিষয়টি বোঝাতে একটি সংক্ষিপ্ত নোটই যথেষ্ট হবে।",
+      "At dinner, she explained that 'suffice' means 'to be enough or adequate for a particular', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘suffice’ শব্দটির অর্থ—যথেষ্ট হওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'suffice' as 'to be enough or adequate for a particular' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘suffice’ শব্দটি যথেষ্ট হওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "suffrage",
+    "pronunciation_bn": "সাফ্রিজ",
+    "pronunciation": "/ˈsʌf.rɪdʒ/",
+    "no": 757,
+    "group": 31,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the right to vote in political elections",
+    "meaning_bn": [
+      "ভোটাধিকার",
+      "নির্বাচনে ভোট দেওয়ার অধিকার"
+    ],
+    "synonyms": [
+      {
+        "en": "right to vote",
+        "bn": "ভোট দেওয়ার অধিকার"
+      },
+      {
+        "en": "franchise",
+        "bn": "ভোটাধিকার"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "disenfranchisement",
+        "bn": "ভোটাধিকার থেকে বঞ্চিত করা"
+      },
+      {
+        "en": "exclusion from voting",
+        "bn": "ভোটদান থেকে বাদ দেওয়া"
+      }
+    ],
+    "example": "The campaign demanded universal suffrage for all adult citizens.",
+    "example_bn": "আন্দোলনটি সব প্রাপ্তবয়স্ক নাগরিকের সর্বজনীন ভোটাধিকার দাবি করেছিল।",
+    "examples": [
+      "The campaign demanded universal suffrage for all adult citizens. — আন্দোলনটি সব প্রাপ্তবয়স্ক নাগরিকের সর্বজনীন ভোটাধিকার দাবি করেছিল।",
+      "At dinner, she explained that 'suffrage' means 'the right to vote in political elections', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘suffrage’ শব্দটির অর্থ—ভোটাধিকার—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'suffrage' as 'the right to vote in political elections' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘suffrage’ শব্দটি ভোটাধিকার অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "suffuse",
+    "pronunciation_bn": "সাফিউজ",
+    "pronunciation": "/səˈfjuːz/",
+    "no": 758,
+    "group": 31,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to spread through or over something completely",
+    "meaning_bn": [
+      "ছেয়ে ফেলা",
+      "সর্বত্র ছড়িয়ে পড়া",
+      "কোনো কিছুকে আচ্ছন্ন করা"
+    ],
+    "synonyms": [
+      {
+        "en": "pervade",
+        "bn": "সর্বত্র ছড়িয়ে থাকা"
+      },
+      {
+        "en": "imbue",
+        "bn": "গুণ বা অনুভূতিতে পূর্ণ করা"
+      },
+      {
+        "en": "fill",
+        "bn": "ভরে দেওয়া"
+      },
+      {
+        "en": "Permeate",
+        "bn": "সর্বত্র ছড়িয়ে পড়া"
+      },
+      {
+        "en": "Infuse",
+        "bn": "সঞ্চারিত করা"
+      },
+      {
+        "en": "Inculcate",
+        "bn": "বারবার শেখানো"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "clear",
+        "bn": "মুছে ফেলা"
+      },
+      {
+        "en": "drain",
+        "bn": "শূন্য করে দেওয়া"
+      },
+      {
+        "en": "deplete",
+        "bn": "অনেকটা কমিয়ে ফেলা"
+      },
+      {
+        "en": "cloister",
+        "bn": "মঠের আঙিনার চারপাশের ছাউনিযুক্ত চলাচলের পথ"
+      },
+      {
+        "en": "Impoverish",
+        "bn": "দরিদ্র করে ফেলা"
+      },
+      {
+        "en": "ostracize",
+        "bn": "একঘরে করা"
+      }
+    ],
+    "example": "A warm golden light suffused the room at sunset.",
+    "example_bn": "সূর্যাস্তের সময় উষ্ণ সোনালি আলো ঘরটিকে ছেয়ে ফেলেছিল।",
+    "examples": [
+      "A warm golden light suffused the room at sunset. — সূর্যাস্তের সময় উষ্ণ সোনালি আলো ঘরটিকে ছেয়ে ফেলেছিল।",
+      "At dinner, she explained that 'suffuse' means 'to spread through or over something completely', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘suffuse’ শব্দটির অর্থ—ছেয়ে ফেলা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'suffuse' as 'to spread through or over something completely' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘suffuse’ শব্দটি ছেয়ে ফেলা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "sumptuous",
+    "pronunciation_bn": "সাম্পচুয়াস",
+    "pronunciation": "/ˈsʌmp.tʃu.əs/",
+    "no": 759,
+    "group": 31,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "luxurious, splendid, and often expensive in appearance or quality",
+    "meaning_bn": [
+      "বিলাসবহুল",
+      "জাঁকজমকপূর্ণ",
+      "আড়ম্বরপূর্ণ"
+    ],
+    "synonyms": [
+      {
+        "en": "luxurious",
+        "bn": "বিলাসবহুল"
+      },
+      {
+        "en": "lavish",
+        "bn": "প্রচুর ও জাঁকজমকপূর্ণ"
+      },
+      {
+        "en": "opulent",
+        "bn": "ঐশ্বর্যশালী"
+      },
+      {
+        "en": "Munificent",
+        "bn": "বিশেষত অর্থ বা উপহার দেওয়ার ক্ষেত্রে অত্যন্ত উদার"
+      },
+      {
+        "en": "Profuse",
+        "bn": "প্রচুর"
+      },
+      {
+        "en": "copious",
+        "bn": "প্রচুর"
+      },
+      {
+        "en": "Magnanimous",
+        "bn": "মহানুভব"
+      },
+      {
+        "en": "Prodigal",
+        "bn": "অপচয়ী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "plain",
+        "bn": "সাদামাটা"
+      },
+      {
+        "en": "modest",
+        "bn": "অনাড়ম্বর"
+      },
+      {
+        "en": "spartan",
+        "bn": "অতি সাধারণ ও কঠোর"
+      },
+      {
+        "en": "Austere",
+        "bn": "সাদাসিধে ও অনাড়ম্বর"
+      },
+      {
+        "en": "Frugal",
+        "bn": "মিতব্যয়ী"
+      },
+      {
+        "en": "Ascetic",
+        "bn": "কৃচ্ছ্রসাধনকারী"
+      },
+      {
+        "en": "Parsimonious",
+        "bn": "অত্যন্ত কৃপণ"
+      },
+      {
+        "en": "corrosive",
+        "bn": "ক্ষয়কারী"
+      }
+    ],
+    "example": "The hotel served a sumptuous dinner in its grand dining room.",
+    "example_bn": "হোটেলটির বিশাল খাবারঘরে জাঁকজমকপূর্ণ নৈশভোজ পরিবেশন করা হয়েছিল।",
+    "examples": [
+      "The hotel served a sumptuous dinner in its grand dining room. — হোটেলটির বিশাল খাবারঘরে জাঁকজমকপূর্ণ নৈশভোজ পরিবেশন করা হয়েছিল।",
+      "At dinner, she explained that 'sumptuous' means 'luxurious, splendid, and often expensive in appearance', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘sumptuous’ শব্দটির অর্থ—বিলাসবহুল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'sumptuous' as 'luxurious, splendid, and often expensive in appearance' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘sumptuous’ শব্দটি বিলাসবহুল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "supersede",
+    "pronunciation_bn": "সুপারসিড",
+    "pronunciation": "/ˌsuː.pəˈsiːd/",
+    "no": 760,
+    "group": 31,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to replace something older or less effective; to take the place of",
+    "meaning_bn": [
+      "প্রতিস্থাপন করা",
+      "স্থান দখল করা",
+      "পুরোনো কিছুর বদলে কার্যকর হওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "replace",
+        "bn": "প্রতিস্থাপন করা"
+      },
+      {
+        "en": "supplant",
+        "bn": "স্থানচ্যুত করে স্থান নেওয়া"
+      },
+      {
+        "en": "displace",
+        "bn": "সরিয়ে স্থান নেওয়া"
+      },
+      {
+        "en": "override",
+        "bn": "সিদ্ধান্ত বাতিল করা"
+      },
+      {
+        "en": "Usurp",
+        "bn": "জবরদখল করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "retain",
+        "bn": "বজায় রাখা"
+      },
+      {
+        "en": "preserve",
+        "bn": "সংরক্ষণ করা"
+      },
+      {
+        "en": "keep",
+        "bn": "রেখে দেওয়া"
+      },
+      {
+        "en": "perpetuate",
+        "bn": "চিরস্থায়ী করা"
+      }
+    ],
+    "example": "Digital records have largely superseded paper files in the office.",
+    "example_bn": "অফিসে ডিজিটাল নথি অনেকাংশে কাগজের ফাইলের স্থান দখল করেছে।",
+    "examples": [
+      "Digital records have largely superseded paper files in the office. — অফিসে ডিজিটাল নথি অনেকাংশে কাগজের ফাইলের স্থান দখল করেছে।",
+      "At dinner, she explained that 'supersede' means 'to replace something older or less effective', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘supersede’ শব্দটির অর্থ—প্রতিস্থাপন করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'supersede' as 'to replace something older or less effective' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘supersede’ শব্দটি প্রতিস্থাপন করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "supine",
+    "pronunciation_bn": "সুপাইন",
+    "pronunciation": "/ˈsuː.paɪn/",
+    "no": 761,
+    "group": 31,
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "meaning_en": "lying flat on the back with the face upward; figuratively, passive or failing to act",
+    "meaning_bn": [
+      "চিত হয়ে শোয়া",
+      "নিষ্ক্রিয়",
+      "কর্মে উদ্যোগহীন"
+    ],
+    "synonyms": [
+      {
+        "en": "reclining",
+        "bn": "হেলান দিয়ে বা শুয়ে থাকা"
+      },
+      {
+        "en": "passive",
+        "bn": "নিষ্ক্রিয়"
+      },
+      {
+        "en": "inactive",
+        "bn": "কর্মহীন"
+      },
+      {
+        "en": "Dormant",
+        "bn": "সুপ্ত"
+      },
+      {
+        "en": "Inert",
+        "bn": "নিষ্ক্রিয়"
+      },
+      {
+        "en": "defunct",
+        "bn": "অস্তিত্বহীন"
+      },
+      {
+        "en": "quiescent",
+        "bn": "নিষ্ক্রিয়"
+      },
+      {
+        "en": "sedentary",
+        "bn": "বেশিরভাগ সময় বসে থাকা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "upright",
+        "bn": "সোজা হয়ে থাকা"
+      },
+      {
+        "en": "active",
+        "bn": "সক্রিয়"
+      },
+      {
+        "en": "assertive",
+        "bn": "দৃঢ়ভাবে মত প্রকাশ করে এমন"
+      }
+    ],
+    "example": "He lay supine on the grass and watched the clouds drift by.",
+    "example_bn": "সে ঘাসের ওপর চিত হয়ে শুয়ে মেঘ ভেসে যেতে দেখল।",
+    "examples": [
+      "He lay supine on the grass and watched the clouds drift by. — সে ঘাসের ওপর চিত হয়ে শুয়ে মেঘ ভেসে যেতে দেখল।",
+      "At dinner, she explained that 'supine' means 'lying flat on the back with the face', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘supine’ শব্দটির অর্থ—চিত হয়ে শোয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'supine' as 'lying flat on the back with the face' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘supine’ শব্দটি চিত হয়ে শোয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "supplication",
+    "pronunciation_bn": "সাপ্লিকেশন",
+    "pronunciation": "/ˌsʌp.lɪˈkeɪ.ʃən/",
+    "no": 762,
+    "group": 31,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the act of asking humbly or earnestly for something, especially in prayer",
+    "meaning_bn": [
+      "বিনীত প্রার্থনা",
+      "কাতর আকুতি",
+      "আন্তরিক মিনতি"
+    ],
+    "synonyms": [
+      {
+        "en": "plea",
+        "bn": "আকুতি"
+      },
+      {
+        "en": "entreaty",
+        "bn": "কাতর অনুরোধ"
+      },
+      {
+        "en": "prayer",
+        "bn": "প্রার্থনা"
+      },
+      {
+        "en": "benediction",
+        "bn": "আশীর্বাদ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "demand",
+        "bn": "দাবি"
+      },
+      {
+        "en": "command",
+        "bn": "আদেশ"
+      },
+      {
+        "en": "order",
+        "bn": "নির্দেশ"
+      },
+      {
+        "en": "behest",
+        "bn": "আদেশ"
+      },
+      {
+        "en": "decree",
+        "bn": "সরকারি বা কর্তৃপক্ষের আনুষ্ঠানিক আদেশ"
+      },
+      {
+        "en": "fiat",
+        "bn": "কর্তৃপক্ষের আনুষ্ঠানিক আদেশ"
+      },
+      {
+        "en": "Injunction",
+        "bn": "আদালতের নিষেধাজ্ঞা বা নির্দেশ"
+      }
+    ],
+    "example": "The villagers offered a supplication for rain after weeks of drought.",
+    "example_bn": "কয়েক সপ্তাহের খরার পর গ্রামবাসীরা বৃষ্টির জন্য কাতর প্রার্থনা করলেন।",
+    "examples": [
+      "The villagers offered a supplication for rain after weeks of drought. — কয়েক সপ্তাহের খরার পর গ্রামবাসীরা বৃষ্টির জন্য কাতর প্রার্থনা করলেন।",
+      "At dinner, she explained that 'supplication' means 'the act of asking humbly or earnestly', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘supplication’ শব্দটির অর্থ—বিনীত প্রার্থনা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'supplication' as 'the act of asking humbly or earnestly' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘supplication’ শব্দটি বিনীত প্রার্থনা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "suppress",
+    "pronunciation_bn": "সাপ্রেস",
+    "pronunciation": "/səˈpres/",
+    "no": 763,
+    "group": 31,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to put an end to something by force or authority; to prevent information or feelings from being expressed",
+    "meaning_bn": [
+      "দমন করা",
+      "চেপে রাখা",
+      "প্রকাশ হতে বাধা দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "quell",
+        "bn": "দমন করা"
+      },
+      {
+        "en": "subdue",
+        "bn": "বশে আনা"
+      },
+      {
+        "en": "repress",
+        "bn": "দমন বা চেপে রাখা"
+      },
+      {
+        "en": "curb",
+        "bn": "নিয়ন্ত্রণ করা"
+      },
+      {
+        "en": "Fetter",
+        "bn": "শৃঙ্খলিত করা"
+      },
+      {
+        "en": "shackle",
+        "bn": "বেড়ি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "encourage",
+        "bn": "উৎসাহিত করা"
+      },
+      {
+        "en": "release",
+        "bn": "মুক্ত করা"
+      },
+      {
+        "en": "express",
+        "bn": "প্রকাশ করা"
+      },
+      {
+        "en": "evoke",
+        "bn": "মনে করিয়ে দেওয়া"
+      },
+      {
+        "en": "Adduce",
+        "bn": "প্রমাণ বা উদাহরণ হিসেবে উপস্থাপন করা"
+      },
+      {
+        "en": "Promulgate",
+        "bn": "আইন বা সরকারি সিদ্ধান্ত আনুষ্ঠানিকভাবে ঘোষণা করা"
+      },
+      {
+        "en": "Beget",
+        "bn": "জন্ম দেওয়া"
+      },
+      {
+        "en": "propagate",
+        "bn": "বংশবিস্তার করা"
+      },
+      {
+        "en": "proclaim",
+        "bn": "ঘোষণা করা"
+      },
+      {
+        "en": "foster",
+        "bn": "লালন করা"
+      },
+      {
+        "en": "document",
+        "bn": "নথিবদ্ধ করা"
+      },
+      {
+        "en": "Spawn",
+        "bn": "উৎপন্ন করা"
+      },
+      {
+        "en": "Disseminate",
+        "bn": "ছড়িয়ে দেওয়া"
+      },
+      {
+        "en": "Broach",
+        "bn": "আলোচনার জন্য কোনো বিষয় উত্থাপন করা"
+      },
+      {
+        "en": "Engender",
+        "bn": "সৃষ্টি করা"
+      },
+      {
+        "en": "Herald",
+        "bn": "ঘোষক"
+      },
+      {
+        "en": "Instigate",
+        "bn": "উসকে দেওয়া"
+      },
+      {
+        "en": "Elicit",
+        "bn": "আদায় করা"
+      },
+      {
+        "en": "Articulate",
+        "bn": "স্পষ্টভাবে প্রকাশ করা"
+      },
+      {
+        "en": "Conjure",
+        "bn": "জাদুর মতো হাজির করা"
+      },
+      {
+        "en": "convey",
+        "bn": "বহন করা"
+      },
+      {
+        "en": "Exhort",
+        "bn": "জোরালোভাবে অনুরোধ করা"
+      },
+      {
+        "en": "Abet",
+        "bn": "অন্যায় কাজে সহায়তা করা"
+      }
+    ],
+    "example": "The authorities tried to suppress the uprising.",
+    "example_bn": "কর্তৃপক্ষ বিদ্রোহটি দমন করার চেষ্টা করেছিল।",
+    "examples": [
+      "The authorities tried to suppress the uprising. — কর্তৃপক্ষ বিদ্রোহটি দমন করার চেষ্টা করেছিল।",
+      "At dinner, she explained that 'suppress' means 'to put an end to something by force', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘suppress’ শব্দটির অর্থ—দমন করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'suppress' as 'to put an end to something by force' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘suppress’ শব্দটি দমন করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "surmise",
+    "pronunciation_bn": "সারমাইজ",
+    "pronunciation": "/səˈmaɪz/",
+    "no": 764,
+    "group": 31,
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "meaning_en": "to form an opinion or guess based on incomplete information; such a guess",
+    "meaning_bn": [
+      "অনুমান করা",
+      "আন্দাজ করা",
+      "অসম্পূর্ণ তথ্যের ভিত্তিতে ধারণা করা"
+    ],
+    "synonyms": [
+      {
+        "en": "infer",
+        "bn": "অনুমান করা"
+      },
+      {
+        "en": "conjecture",
+        "bn": "অনুমান করা"
+      },
+      {
+        "en": "speculate",
+        "bn": "জল্পনা করা"
+      },
+      {
+        "en": "Extrapolate",
+        "bn": "জ্ঞাত তথ্য থেকে অজ্ঞাত বিষয়ে অনুমান করা"
+      },
+      {
+        "en": "Deduce",
+        "bn": "যুক্তি ও প্রমাণ থেকে সিদ্ধান্তে পৌঁছানো"
+      },
+      {
+        "en": "Amass",
+        "bn": "জমা করা"
+      },
+      {
+        "en": "convene",
+        "bn": "সভা আহ্বান করা"
+      },
+      {
+        "en": "divine",
+        "bn": "অন্তর্দৃষ্টি দিয়ে বুঝতে পারা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "know",
+        "bn": "জানা"
+      },
+      {
+        "en": "verify",
+        "bn": "যাচাই করা"
+      },
+      {
+        "en": "establish",
+        "bn": "প্রতিষ্ঠা করা বা নিশ্চিত করা"
+      },
+      {
+        "en": "Ascertain",
+        "bn": "নিশ্চিতভাবে নির্ধারণ করা"
+      },
+      {
+        "en": "Attest",
+        "bn": "প্রমাণ দেওয়া"
+      },
+      {
+        "en": "conviction",
+        "bn": "দৃঢ় বিশ্বাস"
+      },
+      {
+        "en": "Corroborate",
+        "bn": "প্রমাণ দিয়ে সমর্থন করা"
+      },
+      {
+        "en": "diffuse",
+        "bn": "ছড়িয়ে পড়া"
+      }
+    ],
+    "example": "From the empty house, we surmised that the family had moved away.",
+    "example_bn": "বাড়িটি খালি দেখে আমরা অনুমান করলাম যে পরিবারটি অন্যত্র চলে গেছে।",
+    "examples": [
+      "From the empty house, we surmised that the family had moved away. — বাড়িটি খালি দেখে আমরা অনুমান করলাম যে পরিবারটি অন্যত্র চলে গেছে।",
+      "At dinner, she explained that 'surmise' means 'to form an opinion or guess based', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘surmise’ শব্দটির অর্থ—অনুমান করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'surmise' as 'to form an opinion or guess based' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘surmise’ শব্দটি অনুমান করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "surreal",
+    "pronunciation_bn": "সাররিয়াল",
+    "pronunciation": "/səˈrɪəl/",
+    "no": 765,
+    "group": 31,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "strange and dreamlike, as if not real; resembling a dream or fantasy",
+    "meaning_bn": [
+      "অবাস্তব",
+      "স্বপ্নের মতো অদ্ভুত",
+      "কল্পনাতীত"
+    ],
+    "synonyms": [
+      {
+        "en": "dreamlike",
+        "bn": "স্বপ্নের মতো"
+      },
+      {
+        "en": "fantastical",
+        "bn": "কল্পনাপ্রসূত"
+      },
+      {
+        "en": "unreal",
+        "bn": "অবাস্তব"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "realistic",
+        "bn": "বাস্তবসম্মত"
+      },
+      {
+        "en": "ordinary",
+        "bn": "সাধারণ"
+      },
+      {
+        "en": "mundane",
+        "bn": "নিত্যনৈমিত্তিক"
+      },
+      {
+        "en": "Pedestrian",
+        "bn": "গতানুগতিক"
+      },
+      {
+        "en": "Existential",
+        "bn": "অস্তিত্বসংক্রান্ত"
+      },
+      {
+        "en": "Plebeian",
+        "bn": "সাধারণ মানুষের সঙ্গে সম্পর্কিত"
+      },
+      {
+        "en": "Banal",
+        "bn": "গতানুগতিক"
+      },
+      {
+        "en": "Pragmatic",
+        "bn": "বাস্তবসম্মত"
+      }
+    ],
+    "example": "Walking through the empty city at dawn felt surreal.",
+    "example_bn": "ভোরে জনশূন্য শহরের মধ্য দিয়ে হাঁটতে অভিজ্ঞতাটি অবাস্তব বলে মনে হচ্ছিল।",
+    "examples": [
+      "Walking through the empty city at dawn felt surreal. — ভোরে জনশূন্য শহরের মধ্য দিয়ে হাঁটতে অভিজ্ঞতাটি অবাস্তব বলে মনে হচ্ছিল।",
+      "At dinner, she explained that 'surreal' means 'strange and dreamlike, as if not real', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘surreal’ শব্দটির অর্থ—অবাস্তব—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'surreal' as 'strange and dreamlike, as if not real' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘surreal’ শব্দটি অবাস্তব অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "susceptible",
+    "pronunciation_bn": "সাসেপ্টিবল",
+    "pronunciation": "/səˈsep.tə.bəl/",
+    "no": 766,
+    "group": 31,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "easily affected, influenced, or harmed by something; capable of being affected",
+    "meaning_bn": [
+      "সহজে প্রভাবিত হয় এমন",
+      "সংবেদনশীল",
+      "কোনো কিছুর দ্বারা আক্রান্ত হওয়ার ঝুঁকিতে থাকা"
+    ],
+    "synonyms": [
+      {
+        "en": "vulnerable",
+        "bn": "অরক্ষিত বা ঝুঁকিপূর্ণ"
+      },
+      {
+        "en": "sensitive",
+        "bn": "সংবেদনশীল"
+      },
+      {
+        "en": "impressionable",
+        "bn": "সহজে প্রভাবিত হয় এমন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "resistant",
+        "bn": "প্রতিরোধী"
+      },
+      {
+        "en": "immune",
+        "bn": "রোগপ্রতিরোধী"
+      },
+      {
+        "en": "unaffected",
+        "bn": "প্রভাবিত নয় এমন"
+      },
+      {
+        "en": "Impervious",
+        "bn": "অভেদ্য"
+      },
+      {
+        "en": "refractory",
+        "bn": "অবাধ্য"
+      },
+      {
+        "en": "callous",
+        "bn": "নির্দয়"
+      },
+      {
+        "en": "crass",
+        "bn": "স্থূলবুদ্ধিসম্পন্ন"
+      },
+      {
+        "en": "Impenetrable",
+        "bn": "দুর্ভেদ্য"
+      },
+      {
+        "en": "Impregnable",
+        "bn": "অজেয়"
+      }
+    ],
+    "example": "Young plants are susceptible to damage from frost.",
+    "example_bn": "কচি গাছগুলো তুষারপাতের কারণে ক্ষতিগ্রস্ত হওয়ার ঝুঁকিতে থাকে।",
+    "examples": [
+      "Young plants are susceptible to damage from frost. — কচি গাছগুলো তুষারপাতের কারণে ক্ষতিগ্রস্ত হওয়ার ঝুঁকিতে থাকে।",
+      "At dinner, she explained that 'susceptible' means 'easily affected, influenced, or harmed by something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘susceptible’ শব্দটির অর্থ—সহজে প্রভাবিত হয় এমন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'susceptible' as 'easily affected, influenced, or harmed by something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘susceptible’ শব্দটি সহজে প্রভাবিত হয় এমন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "sweeping",
+    "pronunciation_bn": "সুইপিং",
+    "pronunciation": "/ˈswiː.pɪŋ/",
+    "no": 767,
+    "group": 31,
+    "pos": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "wide-ranging or affecting many things; moving in a broad curve; the act of cleaning with a broom",
+    "meaning_bn": [
+      "ব্যাপক",
+      "সুদূরপ্রসারী",
+      "বিস্তৃত",
+      "ঝাড়ু দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "extensive",
+        "bn": "বিস্তৃত"
+      },
+      {
+        "en": "far-reaching",
+        "bn": "সুদূরপ্রসারী"
+      },
+      {
+        "en": "comprehensive",
+        "bn": "সামগ্রিক"
+      },
+      {
+        "en": "Catholic",
+        "bn": "বিস্তৃত রুচিসম্পন্ন"
+      },
+      {
+        "en": "Exacting",
+        "bn": "অত্যন্ত পরিশ্রমসাপেক্ষ"
+      },
+      {
+        "en": "Exhaustive",
+        "bn": "পুঙ্খানুপুঙ্খ"
+      },
+      {
+        "en": "Fastidious",
+        "bn": "খুঁতখুঁতে"
+      },
+      {
+        "en": "Meticulous",
+        "bn": "খুঁটিনাটিতে অত্যন্ত যত্নশীল"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "limited",
+        "bn": "সীমিত"
+      },
+      {
+        "en": "narrow",
+        "bn": "সংকীর্ণ"
+      },
+      {
+        "en": "restricted",
+        "bn": "সীমাবদ্ধ"
+      },
+      {
+        "en": "cursory",
+        "bn": "দ্রুত ও উপর উপর করা"
+      },
+      {
+        "en": "Facile",
+        "bn": "অতি সহজে করা হলেও যথেষ্ট চিন্তাভাবনাহীন"
+      },
+      {
+        "en": "fragmentary",
+        "bn": "খণ্ডিত"
+      },
+      {
+        "en": "Insular",
+        "bn": "বিচ্ছিন্ন"
+      },
+      {
+        "en": "Parochial",
+        "bn": "সংকীর্ণ দৃষ্টিভঙ্গির"
+      }
+    ],
+    "example": "The new policy introduced sweeping changes across the education system.",
+    "example_bn": "নতুন নীতিটি শিক্ষাব্যবস্থাজুড়ে ব্যাপক পরিবর্তন এনেছিল।",
+    "examples": [
+      "The new policy introduced sweeping changes across the education system. — নতুন নীতিটি শিক্ষাব্যবস্থাজুড়ে ব্যাপক পরিবর্তন এনেছিল।",
+      "At dinner, she explained that 'sweeping' means 'wide-ranging or affecting many things', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘sweeping’ শব্দটির অর্থ—ব্যাপক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'sweeping' as 'wide-ranging or affecting many things' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘sweeping’ শব্দটি ব্যাপক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "systemic",
+    "pronunciation_bn": "সিস্টেমিক",
+    "pronunciation": "/sɪˈstem.ɪk/",
+    "no": 768,
+    "group": 31,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "affecting or relating to an entire system, organization, or body",
+    "meaning_bn": [
+      "পুরো ব্যবস্থাজুড়ে প্রভাব ফেলে এমন",
+      "ব্যবস্থাগত",
+      "সমগ্র শরীর-সম্পর্কিত"
+    ],
+    "synonyms": [
+      {
+        "en": "structural",
+        "bn": "কাঠামোগত"
+      },
+      {
+        "en": "institutional",
+        "bn": "প্রাতিষ্ঠানিক"
+      },
+      {
+        "en": "pervasive",
+        "bn": "সর্বব্যাপী"
+      },
+      {
+        "en": "Ubiquitous",
+        "bn": "সর্বত্র বিরাজমান"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "isolated",
+        "bn": "বিচ্ছিন্ন"
+      },
+      {
+        "en": "localized",
+        "bn": "স্থানীয়ভাবে সীমাবদ্ধ"
+      },
+      {
+        "en": "individual",
+        "bn": "ব্যক্তিগত"
+      },
+      {
+        "en": "Discrete",
+        "bn": "পৃথক"
+      },
+      {
+        "en": "Insular",
+        "bn": "বিচ্ছিন্ন"
+      },
+      {
+        "en": "unilateral",
+        "bn": "একতরফা"
+      }
+    ],
+    "example": "The review found systemic weaknesses in the company's safety procedures.",
+    "example_bn": "পর্যালোচনায় কোম্পানির নিরাপত্তাব্যবস্থায় কাঠামোগত দুর্বলতা পাওয়া গিয়েছিল।",
+    "examples": [
+      "The review found systemic weaknesses in the company's safety procedures. — পর্যালোচনায় কোম্পানির নিরাপত্তাব্যবস্থায় কাঠামোগত দুর্বলতা পাওয়া গিয়েছিল।",
+      "At dinner, she explained that 'systemic' means 'affecting or relating to an entire system, organization', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘systemic’ শব্দটির অর্থ—পুরো ব্যবস্থাজুড়ে প্রভাব ফেলে এমন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'systemic' as 'affecting or relating to an entire system, organization' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘systemic’ শব্দটি পুরো ব্যবস্থাজুড়ে প্রভাব ফেলে এমন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "tactical",
+    "pronunciation_bn": "ট্যাকটিক্যাল",
+    "pronunciation": "/ˈtæk.tɪ.kəl/",
+    "no": 769,
+    "group": 31,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "relating to tactics or the practical actions used to achieve a specific short-term goal",
+    "meaning_bn": [
+      "কৌশলগত",
+      "রণকৌশল-সংক্রান্ত",
+      "নির্দিষ্ট লক্ষ্য অর্জনের ব্যবহারিক পদক্ষেপ-সম্পর্কিত"
+    ],
+    "synonyms": [
+      {
+        "en": "strategic",
+        "bn": "কৌশলগত"
+      },
+      {
+        "en": "calculating",
+        "bn": "হিসেবি"
+      },
+      {
+        "en": "practical",
+        "bn": "ব্যবহারিক"
+      },
+      {
+        "en": "Expedient",
+        "bn": "সুবিধাজনক"
+      },
+      {
+        "en": "Pragmatic",
+        "bn": "বাস্তবসম্মত"
+      },
+      {
+        "en": "Utilitarian",
+        "bn": "উপযোগবাদী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "untactical",
+        "bn": "কৌশলহীন"
+      },
+      {
+        "en": "unplanned",
+        "bn": "অপরিকল্পিত"
+      },
+      {
+        "en": "Impromptu",
+        "bn": "পূর্বপ্রস্তুতি ছাড়া করা"
+      },
+      {
+        "en": "Pedantic",
+        "bn": "খুঁটিনাটি নিয়ে অতিরিক্ত ব্যস্ত"
+      },
+      {
+        "en": "Quixotic",
+        "bn": "অবাস্তব আদর্শবাদী"
+      }
+    ],
+    "example": "The team made a tactical decision to conserve its energy until the final round.",
+    "example_bn": "শেষ পর্ব পর্যন্ত শক্তি সঞ্চয় করতে দলটি একটি কৌশলগত সিদ্ধান্ত নিল।",
+    "examples": [
+      "The team made a tactical decision to conserve its energy until the final round. — শেষ পর্ব পর্যন্ত শক্তি সঞ্চয় করতে দলটি একটি কৌশলগত সিদ্ধান্ত নিল।",
+      "At dinner, she explained that 'tactical' means 'relating to tactics or the practical actions used', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘tactical’ শব্দটির অর্থ—কৌশলগত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'tactical' as 'relating to tactics or the practical actions used' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘tactical’ শব্দটি কৌশলগত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "taint",
+    "pronunciation_bn": "টেইন্ট",
+    "pronunciation": "/teɪnt/",
+    "no": 770,
+    "group": 31,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "to contaminate or spoil something; to damage someone's reputation or the purity of something; a trace of contamination",
+    "meaning_bn": [
+      "দূষিত করা",
+      "কলঙ্কিত করা",
+      "দূষণ বা কলঙ্কের চিহ্ন"
+    ],
+    "synonyms": [
+      {
+        "en": "contaminate",
+        "bn": "দূষিত করা"
+      },
+      {
+        "en": "stain",
+        "bn": "দাগ লাগানো"
+      },
+      {
+        "en": "tarnish",
+        "bn": "সুনাম নষ্ট করা"
+      },
+      {
+        "en": "defile",
+        "bn": "নোংরা করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "purify",
+        "bn": "বিশুদ্ধ করা"
+      },
+      {
+        "en": "cleanse",
+        "bn": "পরিষ্কার করা"
+      },
+      {
+        "en": "exonerate",
+        "bn": "দোষমুক্ত করা"
+      },
+      {
+        "en": "Absolve",
+        "bn": "দায়মুক্ত করা"
+      },
+      {
+        "en": "Acquit",
+        "bn": "অপরাধের অভিযোগ থেকে খালাস দেওয়া"
+      },
+      {
+        "en": "Vindicate",
+        "bn": "নির্দোষ প্রমাণ করা"
+      }
+    ],
+    "example": "The bribery scandal tainted the official's reputation.",
+    "example_bn": "ঘুষের কেলেঙ্কারিটি কর্মকর্তার সুনাম কলঙ্কিত করেছিল।",
+    "examples": [
+      "The bribery scandal tainted the official's reputation. — ঘুষের কেলেঙ্কারিটি কর্মকর্তার সুনাম কলঙ্কিত করেছিল।",
+      "At dinner, she explained that 'taint' means 'to contaminate or spoil something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘taint’ শব্দটির অর্থ—দূষিত করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'taint' as 'to contaminate or spoil something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘taint’ শব্দটি দূষিত করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "tedium",
+    "pronunciation_bn": "টিডিয়াম",
+    "pronunciation": "/ˈtiː.di.əm/",
+    "no": 771,
+    "group": 31,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the state of being bored by something repetitive, dull, or prolonged",
+    "meaning_bn": [
+      "একঘেয়েমি",
+      "দীর্ঘস্থায়ী বিরক্তিকর অবস্থা",
+      "নীরসতা"
+    ],
+    "synonyms": [
+      {
+        "en": "boredom",
+        "bn": "একঘেয়েমি"
+      },
+      {
+        "en": "monotony",
+        "bn": "একঘেয়ে ভাব"
+      },
+      {
+        "en": "weariness",
+        "bn": "ক্লান্তি"
+      },
+      {
+        "en": "ennui",
+        "bn": "একঘেয়েমি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "excitement",
+        "bn": "উত্তেজনা"
+      },
+      {
+        "en": "variety",
+        "bn": "বৈচিত্র্য"
+      },
+      {
+        "en": "stimulation",
+        "bn": "উদ্দীপনা"
+      },
+      {
+        "en": "Cadence",
+        "bn": "স্বরের ওঠানামা"
+      }
+    ],
+    "example": "Music helped relieve the tedium of the long bus journey.",
+    "example_bn": "দীর্ঘ বাসযাত্রার একঘেয়েমি দূর করতে গান সাহায্য করেছিল।",
+    "examples": [
+      "Music helped relieve the tedium of the long bus journey. — দীর্ঘ বাসযাত্রার একঘেয়েমি দূর করতে গান সাহায্য করেছিল।",
+      "At dinner, she explained that 'tedium' means 'the state of being bored by something repetitive', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘tedium’ শব্দটির অর্থ—একঘেয়েমি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'tedium' as 'the state of being bored by something repetitive' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘tedium’ শব্দটি একঘেয়েমি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "teem",
+    "pronunciation_bn": "টিম",
+    "pronunciation": "/tiːm/",
+    "no": 772,
+    "group": 31,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to be full of or swarming with people, animals, or things",
+    "meaning_bn": [
+      "প্রচুর পরিমাণে থাকা",
+      "ঝাঁকে ঝাঁকে ভরে থাকা",
+      "উপচে পড়া"
+    ],
+    "synonyms": [
+      {
+        "en": "swarm",
+        "bn": "ঝাঁকে ঝাঁকে থাকা"
+      },
+      {
+        "en": "abound",
+        "bn": "প্রচুর থাকা"
+      },
+      {
+        "en": "overflow",
+        "bn": "উপচে পড়া"
+      },
+      {
+        "en": "Proliferate",
+        "bn": "দ্রুত সংখ্যায় বা পরিমাণে বৃদ্ধি পাওয়া"
+      },
+      {
+        "en": "brandish",
+        "bn": "হুমকিসূচকভাবে নাড়ানো"
+      },
+      {
+        "en": "Burgeon",
+        "bn": "দ্রুত বৃদ্ধি পাওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "lack",
+        "bn": "অভাব থাকা"
+      },
+      {
+        "en": "be scarce",
+        "bn": "দুষ্প্রাপ্য হওয়া"
+      },
+      {
+        "en": "empty",
+        "bn": "খালি হওয়া"
+      },
+      {
+        "en": "Founder",
+        "bn": "(ক্রিয়া) পানি ঢুকে ডুবে যাওয়া"
+      },
+      {
+        "en": "Languish",
+        "bn": "নিস্তেজ হয়ে পড়া"
+      }
+    ],
+    "example": "The wetlands teem with birds during the winter months.",
+    "example_bn": "শীতের মাসগুলোতে জলাভূমি পাখিতে ভরে থাকে।",
+    "examples": [
+      "The wetlands teem with birds during the winter months. — শীতের মাসগুলোতে জলাভূমি পাখিতে ভরে থাকে।",
+      "At dinner, she explained that 'teem' means 'to be full of or swarming with people', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘teem’ শব্দটির অর্থ—প্রচুর পরিমাণে থাকা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'teem' as 'to be full of or swarming with people' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘teem’ শব্দটি প্রচুর পরিমাণে থাকা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "temporal",
+    "pronunciation_bn": "টেম্পোরাল",
+    "pronunciation": "/ˈtem.pər.əl/",
+    "no": 773,
+    "group": 31,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "relating to time; relating to worldly rather than spiritual matters; temporary or short-lived in some contexts",
+    "meaning_bn": [
+      "সময়সংক্রান্ত",
+      "পার্থিব",
+      "ক্ষণস্থায়ী"
+    ],
+    "synonyms": [
+      {
+        "en": "time-related",
+        "bn": "সময়-সম্পর্কিত"
+      },
+      {
+        "en": "worldly",
+        "bn": "পার্থিব"
+      },
+      {
+        "en": "transient",
+        "bn": "ক্ষণস্থায়ী"
+      },
+      {
+        "en": "Cosmopolitan",
+        "bn": "বহুজাতিক সংস্কৃতিসমৃদ্ধ"
+      },
+      {
+        "en": "Ephemeral",
+        "bn": "ক্ষণস্থায়ী"
+      },
+      {
+        "en": "Evanescent",
+        "bn": "ক্ষণস্থায়ী"
+      },
+      {
+        "en": "Secular",
+        "bn": "ধর্মনিরপেক্ষ"
+      },
+      {
+        "en": "Interim",
+        "bn": "অন্তর্বর্তীকালীন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "eternal",
+        "bn": "চিরন্তন"
+      },
+      {
+        "en": "spiritual",
+        "bn": "আধ্যাত্মিক"
+      },
+      {
+        "en": "timeless",
+        "bn": "কালাতীত"
+      },
+      {
+        "en": "platonic",
+        "bn": "যৌনসম্পর্কহীন"
+      },
+      {
+        "en": "Chronic",
+        "bn": "দীর্ঘস্থায়ী"
+      },
+      {
+        "en": "ecclesiastical",
+        "bn": "গির্জা-সম্পর্কিত"
+      },
+      {
+        "en": "Ineradicable",
+        "bn": "মোছা যায় না এমন"
+      },
+      {
+        "en": "Interminable",
+        "bn": "শেষহীন বলে মনে হয় এমন"
+      }
+    ],
+    "example": "The historian examined temporal changes in the region's political boundaries.",
+    "example_bn": "ইতিহাসবিদ অঞ্চলটির রাজনৈতিক সীমানার সময়গত পরিবর্তন পরীক্ষা করেছিলেন।",
+    "examples": [
+      "The historian examined temporal changes in the region's political boundaries. — ইতিহাসবিদ অঞ্চলটির রাজনৈতিক সীমানার সময়গত পরিবর্তন পরীক্ষা করেছিলেন।",
+      "At dinner, she explained that 'temporal' means 'relating to time', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘temporal’ শব্দটির অর্থ—সময়সংক্রান্ত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'temporal' as 'relating to time' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘temporal’ শব্দটি সময়সংক্রান্ত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "temporize",
+    "pronunciation_bn": "টেম্পোরাইজ",
+    "pronunciation": "/ˈtem.pə.raɪz/",
+    "no": 774,
+    "group": 31,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to delay making a decision or taking action, often to gain time",
+    "meaning_bn": [
+      "সিদ্ধান্ত নিতে দেরি করা",
+      "সময়ক্ষেপণ করা",
+      "সময় নেওয়ার জন্য গড়িমসি করা"
+    ],
+    "synonyms": [
+      {
+        "en": "stall",
+        "bn": "সময়ক্ষেপণ করা"
+      },
+      {
+        "en": "prevaricate",
+        "bn": "সত্য এড়িয়ে কথা বলা"
+      },
+      {
+        "en": "procrastinate",
+        "bn": "কাজ পিছিয়ে দেওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "decide",
+        "bn": "সিদ্ধান্ত নেওয়া"
+      },
+      {
+        "en": "act promptly",
+        "bn": "দ্রুত পদক্ষেপ নেওয়া"
+      },
+      {
+        "en": "resolve",
+        "bn": "মীমাংসা করা"
+      }
+    ],
+    "example": "Rather than answer directly, the manager continued to temporize.",
+    "example_bn": "সরাসরি উত্তর দেওয়ার বদলে ব্যবস্থাপক সময়ক্ষেপণ করতে থাকলেন।",
+    "examples": [
+      "Rather than answer directly, the manager continued to temporize. — সরাসরি উত্তর দেওয়ার বদলে ব্যবস্থাপক সময়ক্ষেপণ করতে থাকলেন।",
+      "At dinner, she explained that 'temporize' means 'to delay making a decision or taking action', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘temporize’ শব্দটির অর্থ—সিদ্ধান্ত নিতে দেরি করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'temporize' as 'to delay making a decision or taking action' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘temporize’ শব্দটি সিদ্ধান্ত নিতে দেরি করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "tepid",
+    "pronunciation_bn": "টেপিড",
+    "pronunciation": "/ˈtep.ɪd/",
+    "no": 775,
+    "group": 31,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "slightly warm; lacking enthusiasm, energy, or interest",
+    "meaning_bn": [
+      "কুসুম গরম",
+      "উৎসাহহীন",
+      "অনাগ্রহী"
+    ],
+    "synonyms": [
+      {
+        "en": "lukewarm",
+        "bn": "কুসুম গরম; অনাগ্রহী"
+      },
+      {
+        "en": "halfhearted",
+        "bn": "অনিচ্ছুক বা অর্ধহৃদয়"
+      },
+      {
+        "en": "unenthusiastic",
+        "bn": "উৎসাহহীন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "hot",
+        "bn": "গরম"
+      },
+      {
+        "en": "enthusiastic",
+        "bn": "উৎসাহী"
+      },
+      {
+        "en": "passionate",
+        "bn": "আবেগপূর্ণ"
+      },
+      {
+        "en": "Vehement",
+        "bn": "তীব্র"
+      },
+      {
+        "en": "Zealous",
+        "bn": "অত্যন্ত উৎসাহী"
+      },
+      {
+        "en": "Amorous",
+        "bn": "প্রেমাসক্ত"
+      },
+      {
+        "en": "Ardent",
+        "bn": "প্রগাঢ় আবেগপূর্ণ"
+      },
+      {
+        "en": "avid",
+        "bn": "অত্যন্ত আগ্রহী"
+      }
+    ],
+    "example": "The proposal received a tepid response from the committee.",
+    "example_bn": "প্রস্তাবটি কমিটির কাছ থেকে উৎসাহহীন প্রতিক্রিয়া পেয়েছিল।",
+    "examples": [
+      "The proposal received a tepid response from the committee. — প্রস্তাবটি কমিটির কাছ থেকে উৎসাহহীন প্রতিক্রিয়া পেয়েছিল।",
+      "At dinner, she explained that 'tepid' means 'slightly warm', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘tepid’ শব্দটির অর্থ—কুসুম গরম—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'tepid' as 'slightly warm' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘tepid’ শব্দটি কুসুম গরম অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

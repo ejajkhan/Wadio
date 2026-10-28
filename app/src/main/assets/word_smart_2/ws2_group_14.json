@@ -1,0 +1,1577 @@
+[
+  {
+    "word": "dour",
+    "pronunciation_bn": "ডুয়ার",
+    "pronunciation": "/dʊə(r)/",
+    "no": 326,
+    "group": 14,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "serious, stern, or gloomy in manner or appearance",
+    "meaning_bn": [
+      "গম্ভীর",
+      "কঠোর",
+      "বিষণ্ণ"
+    ],
+    "synonyms": [
+      {
+        "en": "stern",
+        "bn": "কঠোর"
+      },
+      {
+        "en": "gloomy",
+        "bn": "বিষণ্ণ"
+      },
+      {
+        "en": "austere",
+        "bn": "কঠোর ও অনাড়ম্বর"
+      },
+      {
+        "en": "Ascetic",
+        "bn": "কৃচ্ছ্রসাধনকারী"
+      },
+      {
+        "en": "dismal",
+        "bn": "বিষণ্ণ"
+      },
+      {
+        "en": "Lugubrious",
+        "bn": "অত্যন্ত বিষণ্ণ"
+      },
+      {
+        "en": "Morose",
+        "bn": "অসুখী, বিষণ্ণ ও খিটখিটে মেজাজের"
+      },
+      {
+        "en": "Astringent",
+        "bn": "কঠোর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "cheerful",
+        "bn": "প্রফুল্ল"
+      },
+      {
+        "en": "friendly",
+        "bn": "বন্ধুত্বপূর্ণ"
+      },
+      {
+        "en": "genial",
+        "bn": "সদয় ও প্রফুল্ল"
+      },
+      {
+        "en": "cordial",
+        "bn": "আন্তরিক"
+      },
+      {
+        "en": "Convivial",
+        "bn": "আনন্দময়"
+      },
+      {
+        "en": "Amiable",
+        "bn": "বন্ধুত্বপূর্ণ"
+      },
+      {
+        "en": "Decadent",
+        "bn": "নৈতিকভাবে অধঃপতিত"
+      },
+      {
+        "en": "Fraternal",
+        "bn": "ভ্রাতৃসুলভ"
+      }
+    ],
+    "example": "The dour manager rarely showed any emotion.",
+    "example_bn": "গম্ভীর ব্যবস্থাপককে খুব কমই কোনো আবেগ প্রকাশ করতে দেখা যেত।",
+    "examples": [
+      "The dour manager rarely showed any emotion. — গম্ভীর ব্যবস্থাপককে খুব কমই কোনো আবেগ প্রকাশ করতে দেখা যেত।",
+      "At dinner, she explained that 'dour' means 'serious, stern, or gloomy in manner or appearance', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘dour’ শব্দটির অর্থ—গম্ভীর—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'dour' as 'serious, stern, or gloomy in manner or appearance' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘dour’ শব্দটি গম্ভীর অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "downcast",
+    "pronunciation_bn": "ডাউনকাস্ট",
+    "pronunciation": "/ˈdaʊnkɑːst/",
+    "no": 327,
+    "group": 14,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "sad or disappointed",
+    "meaning_bn": [
+      "হতাশ",
+      "মনমরা",
+      "বিষণ্ণ"
+    ],
+    "synonyms": [
+      {
+        "en": "dejected",
+        "bn": "হতাশ"
+      },
+      {
+        "en": "dispirited",
+        "bn": "মনোবলহীন"
+      },
+      {
+        "en": "despondent",
+        "bn": "নিরাশ"
+      },
+      {
+        "en": "crestfallen",
+        "bn": "হতাশ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "cheerful",
+        "bn": "প্রফুল্ল"
+      },
+      {
+        "en": "elated",
+        "bn": "উল্লসিত"
+      },
+      {
+        "en": "hopeful",
+        "bn": "আশাবাদী"
+      },
+      {
+        "en": "Sanguine",
+        "bn": "আশাবাদী"
+      },
+      {
+        "en": "Blithe",
+        "bn": "প্রফুল্ল ও নিশ্চিন্ত"
+      },
+      {
+        "en": "Ebullient",
+        "bn": "উচ্ছ্বসিত"
+      },
+      {
+        "en": "exuberant",
+        "bn": "উচ্ছ্বসিত"
+      }
+    ],
+    "example": "He looked downcast after hearing the result.",
+    "example_bn": "ফলাফল শোনার পর তাকে হতাশ দেখাচ্ছিল।",
+    "examples": [
+      "He looked downcast after hearing the result. — ফলাফল শোনার পর তাকে হতাশ দেখাচ্ছিল।",
+      "At dinner, she explained that 'downcast' means 'sad or disappointed', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘downcast’ শব্দটির অর্থ—হতাশ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'downcast' as 'sad or disappointed' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘downcast’ শব্দটি হতাশ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "downplay",
+    "pronunciation_bn": "ডাউনপ্লে",
+    "pronunciation": "/ˌdaʊnˈpleɪ/",
+    "no": 328,
+    "group": 14,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to make something seem less important or serious than it really is",
+    "meaning_bn": [
+      "গুরুত্ব কমিয়ে দেখানো",
+      "তুচ্ছ করে উপস্থাপন করা"
+    ],
+    "synonyms": [
+      {
+        "en": "minimize",
+        "bn": "কম করে দেখানো"
+      },
+      {
+        "en": "play down",
+        "bn": "গুরুত্ব কমিয়ে দেখানো"
+      },
+      {
+        "en": "understate",
+        "bn": "কম গুরুত্ব দিয়ে বলা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "emphasize",
+        "bn": "গুরুত্ব দেওয়া"
+      },
+      {
+        "en": "exaggerate",
+        "bn": "অতিরঞ্জিত করা"
+      },
+      {
+        "en": "highlight",
+        "bn": "বিশেষভাবে তুলে ধরা"
+      },
+      {
+        "en": "underscore",
+        "bn": "জোর দিয়ে তুলে ধরা"
+      },
+      {
+        "en": "Accentuate",
+        "bn": "বিশেষভাবে তুলে ধরা"
+      },
+      {
+        "en": "Aggrandize",
+        "bn": "নিজের গুরুত্ব বাড়িয়ে দেখানো"
+      }
+    ],
+    "example": "The spokesperson tried to downplay the seriousness of the problem.",
+    "example_bn": "মুখপাত্র সমস্যাটির গুরুত্ব কমিয়ে দেখানোর চেষ্টা করেছিলেন।",
+    "examples": [
+      "The spokesperson tried to downplay the seriousness of the problem. — মুখপাত্র সমস্যাটির গুরুত্ব কমিয়ে দেখানোর চেষ্টা করেছিলেন।",
+      "At dinner, she explained that 'downplay' means 'to make something seem less important or serious', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘downplay’ শব্দটির অর্থ—গুরুত্ব কমিয়ে দেখানো—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'downplay' as 'to make something seem less important or serious' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘downplay’ শব্দটি গুরুত্ব কমিয়ে দেখানো অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "draconian",
+    "pronunciation_bn": "ড্রাকোনিয়ান",
+    "pronunciation": "/drəˈkəʊniən/",
+    "no": 329,
+    "group": 14,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "extremely severe, especially when referring to laws or punishments",
+    "meaning_bn": [
+      "অত্যন্ত কঠোর",
+      "নির্মম",
+      "কঠোর দণ্ডবিধিসংক্রান্ত"
+    ],
+    "synonyms": [
+      {
+        "en": "harsh",
+        "bn": "কঠোর"
+      },
+      {
+        "en": "severe",
+        "bn": "তীব্র বা কঠোর"
+      },
+      {
+        "en": "stringent",
+        "bn": "কড়াকড়িপূর্ণ"
+      },
+      {
+        "en": "Astringent",
+        "bn": "কঠোর"
+      },
+      {
+        "en": "Austere",
+        "bn": "সাদাসিধে ও অনাড়ম্বর"
+      },
+      {
+        "en": "Exacting",
+        "bn": "অত্যন্ত পরিশ্রমসাপেক্ষ"
+      },
+      {
+        "en": "Arduous",
+        "bn": "কঠিন"
+      },
+      {
+        "en": "Grievous",
+        "bn": "গুরুতর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "lenient",
+        "bn": "নমনীয়"
+      },
+      {
+        "en": "mild",
+        "bn": "মৃদু"
+      },
+      {
+        "en": "permissive",
+        "bn": "ছাড় দেয় এমন"
+      },
+      {
+        "en": "Indulgent",
+        "bn": "প্রশ্রয়দাতা"
+      },
+      {
+        "en": "Idyllic",
+        "bn": "অত্যন্ত মনোরম"
+      },
+      {
+        "en": "Mellifluous",
+        "bn": "শুনতে মধুর, মসৃণ ও সুরেলা"
+      },
+      {
+        "en": "Lax",
+        "bn": "শিথিল"
+      },
+      {
+        "en": "Benign",
+        "bn": "ক্ষতিকর নয় এমন"
+      }
+    ],
+    "example": "The government introduced draconian penalties for tax evasion.",
+    "example_bn": "সরকার কর ফাঁকির জন্য অত্যন্ত কঠোর শাস্তি চালু করেছিল।",
+    "examples": [
+      "The government introduced draconian penalties for tax evasion. — সরকার কর ফাঁকির জন্য অত্যন্ত কঠোর শাস্তি চালু করেছিল।",
+      "At dinner, she explained that 'draconian' means 'extremely severe, especially when referring to laws', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘draconian’ শব্দটির অর্থ—অত্যন্ত কঠোর—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'draconian' as 'extremely severe, especially when referring to laws' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘draconian’ শব্দটি অত্যন্ত কঠোর অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "droll",
+    "pronunciation_bn": "ড্রোল",
+    "pronunciation": "/drəʊl/",
+    "no": 330,
+    "group": 14,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "amusing in an unusual, often dry or understated way",
+    "meaning_bn": [
+      "অদ্ভুতভাবে মজার",
+      "শুষ্ক রসিকতাপূর্ণ",
+      "কৌতুকপূর্ণ"
+    ],
+    "synonyms": [
+      {
+        "en": "witty",
+        "bn": "রসিক"
+      },
+      {
+        "en": "humorous",
+        "bn": "হাস্যরসাত্মক"
+      },
+      {
+        "en": "whimsical",
+        "bn": "খেয়ালি ও মজার"
+      },
+      {
+        "en": "Arbitrary",
+        "bn": "খেয়ালখুশিমতো"
+      },
+      {
+        "en": "Capricious",
+        "bn": "খামখেয়ালি"
+      },
+      {
+        "en": "Jocular",
+        "bn": "রসিক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "serious",
+        "bn": "গম্ভীর"
+      },
+      {
+        "en": "humorless",
+        "bn": "রসবোধহীন"
+      },
+      {
+        "en": "solemn",
+        "bn": "গম্ভীর"
+      },
+      {
+        "en": "Grievous",
+        "bn": "গুরুতর"
+      }
+    ],
+    "example": "His droll remarks made the meeting less tedious.",
+    "example_bn": "তার অদ্ভুত মজার মন্তব্যগুলো সভাটিকে কম একঘেয়ে করে তুলেছিল।",
+    "examples": [
+      "His droll remarks made the meeting less tedious. — তার অদ্ভুত মজার মন্তব্যগুলো সভাটিকে কম একঘেয়ে করে তুলেছিল।",
+      "At dinner, she explained that 'droll' means 'amusing in an unusual, often dry or understated', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘droll’ শব্দটির অর্থ—অদ্ভুতভাবে মজার—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'droll' as 'amusing in an unusual, often dry or understated' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘droll’ শব্দটি অদ্ভুতভাবে মজার অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "dross",
+    "pronunciation_bn": "ড্রস",
+    "pronunciation": "/drɒs/",
+    "no": 331,
+    "group": 14,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "waste or unwanted material, especially impurities separated from metal; figuratively, something worthless",
+    "meaning_bn": [
+      "আবর্জনা",
+      "মূল্যহীন বস্তু",
+      "ধাতুর মল বা অশুদ্ধি"
+    ],
+    "synonyms": [
+      {
+        "en": "waste",
+        "bn": "বর্জ্য"
+      },
+      {
+        "en": "rubbish",
+        "bn": "আবর্জনা"
+      },
+      {
+        "en": "dregs",
+        "bn": "তলানি বা নিকৃষ্ট অংশ"
+      },
+      {
+        "en": "chaff",
+        "bn": "শস্যের তুষ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "treasure",
+        "bn": "মূল্যবান বস্তু"
+      },
+      {
+        "en": "essence",
+        "bn": "সারবস্তু"
+      },
+      {
+        "en": "worth",
+        "bn": "মূল্য"
+      },
+      {
+        "en": "crux",
+        "bn": "মূল বিষয়"
+      }
+    ],
+    "example": "The editor removed the dross and kept the strongest parts of the essay.",
+    "example_bn": "সম্পাদক অপ্রয়োজনীয় অংশ বাদ দিয়ে প্রবন্ধের সবচেয়ে শক্তিশালী অংশগুলো রেখেছিলেন।",
+    "examples": [
+      "The editor removed the dross and kept the strongest parts of the essay. — সম্পাদক অপ্রয়োজনীয় অংশ বাদ দিয়ে প্রবন্ধের সবচেয়ে শক্তিশালী অংশগুলো রেখেছিলেন।",
+      "At dinner, she explained that 'dross' means 'waste or unwanted material, especially impurities separated from', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘dross’ শব্দটির অর্থ—আবর্জনা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'dross' as 'waste or unwanted material, especially impurities separated from' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘dross’ শব্দটি আবর্জনা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "duress",
+    "pronunciation_bn": "ডিউরেস",
+    "pronunciation": "/djʊˈres/",
+    "no": 332,
+    "group": 14,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "threats, force, or pressure used to make someone do something",
+    "meaning_bn": [
+      "জবরদস্তি",
+      "বলপ্রয়োগ বা হুমকির মাধ্যমে বাধ্য করা",
+      "চাপ প্রয়োগ"
+    ],
+    "synonyms": [
+      {
+        "en": "coercion",
+        "bn": "জবরদস্তি"
+      },
+      {
+        "en": "compulsion",
+        "bn": "বাধ্যবাধকতা"
+      },
+      {
+        "en": "intimidation",
+        "bn": "ভয় দেখানো"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "free will",
+        "bn": "স্বাধীন ইচ্ছা"
+      },
+      {
+        "en": "voluntariness",
+        "bn": "স্বেচ্ছাসম্মতি"
+      },
+      {
+        "en": "Volition",
+        "bn": "স্বেচ্ছাসিদ্ধ সিদ্ধান্ত"
+      }
+    ],
+    "example": "She claimed that she had signed the agreement under duress.",
+    "example_bn": "তিনি দাবি করেছিলেন যে তাঁকে জবরদস্তি করে চুক্তিতে স্বাক্ষর করানো হয়েছিল।",
+    "examples": [
+      "She claimed that she had signed the agreement under duress. — তিনি দাবি করেছিলেন যে তাঁকে জবরদস্তি করে চুক্তিতে স্বাক্ষর করানো হয়েছিল।",
+      "At dinner, she explained that 'duress' means 'threats, force, or pressure used to make someone', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘duress’ শব্দটির অর্থ—জবরদস্তি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'duress' as 'threats, force, or pressure used to make someone' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘duress’ শব্দটি জবরদস্তি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "ebb",
+    "pronunciation_bn": "এব",
+    "pronunciation": "/eb/",
+    "no": 333,
+    "group": 14,
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "meaning_en": "(verb) to become weaker or less; (noun) the movement of the tide away from the shore",
+    "meaning_bn": [
+      "কমে যাওয়া",
+      "হ্রাস পাওয়া",
+      "ভাটা"
+    ],
+    "synonyms": [
+      {
+        "en": "recede",
+        "bn": "পিছিয়ে যাওয়া"
+      },
+      {
+        "en": "diminish",
+        "bn": "কমে যাওয়া"
+      },
+      {
+        "en": "wane",
+        "bn": "ক্ষীণ হয়ে আসা"
+      },
+      {
+        "en": "Abate",
+        "bn": "কমে যাওয়া"
+      },
+      {
+        "en": "subside",
+        "bn": "কমে আসা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "increase",
+        "bn": "বৃদ্ধি পাওয়া"
+      },
+      {
+        "en": "rise",
+        "bn": "বেড়ে ওঠা"
+      },
+      {
+        "en": "surge",
+        "bn": "হঠাৎ বেড়ে যাওয়া"
+      },
+      {
+        "en": "Augment",
+        "bn": "বৃদ্ধি করা"
+      },
+      {
+        "en": "Increment",
+        "bn": "বৃদ্ধি"
+      },
+      {
+        "en": "crescendo",
+        "bn": "ক্রমশ শব্দ বা তীব্রতা বৃদ্ধি"
+      },
+      {
+        "en": "Accrue",
+        "bn": "সময়ের সঙ্গে জমা হওয়া"
+      },
+      {
+        "en": "Aggrandize",
+        "bn": "নিজের গুরুত্ব বাড়িয়ে দেখানো"
+      }
+    ],
+    "example": "Public interest in the issue began to ebb.",
+    "example_bn": "বিষয়টি নিয়ে জনসাধারণের আগ্রহ কমতে শুরু করেছিল।",
+    "examples": [
+      "Public interest in the issue began to ebb. — বিষয়টি নিয়ে জনসাধারণের আগ্রহ কমতে শুরু করেছিল।",
+      "At dinner, she explained that 'ebb' means '(verb) to become weaker', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘ebb’ শব্দটির অর্থ—কমে যাওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'ebb' as '(verb) to become weaker' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘ebb’ শব্দটি কমে যাওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "ecclesiastical",
+    "pronunciation_bn": "এক্লিজিয়াস্টিক্যাল",
+    "pronunciation": "/ɪˌkliːziˈæstɪkəl/",
+    "no": 334,
+    "group": 14,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "relating to the Christian Church or its clergy",
+    "meaning_bn": [
+      "গির্জা-সম্পর্কিত",
+      "খ্রিষ্টীয় ধর্মীয় প্রতিষ্ঠানের সঙ্গে সংশ্লিষ্ট"
+    ],
+    "synonyms": [
+      {
+        "en": "church",
+        "bn": "গির্জাসংক্রান্ত"
+      },
+      {
+        "en": "clerical",
+        "bn": "যাজক বা ধর্মযাজক-সম্পর্কিত"
+      },
+      {
+        "en": "religious",
+        "bn": "ধর্মীয়"
+      },
+      {
+        "en": "devout",
+        "bn": "ধর্মপ্রাণ"
+      },
+      {
+        "en": "Pious",
+        "bn": "ধর্মপরায়ণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "secular",
+        "bn": "ধর্মনিরপেক্ষ"
+      },
+      {
+        "en": "lay",
+        "bn": "ধর্মযাজক নন এমন"
+      },
+      {
+        "en": "Profane",
+        "bn": "ধর্মীয় বা পবিত্র বিষয়ের সঙ্গে সম্পর্কহীন"
+      },
+      {
+        "en": "Cosmopolitan",
+        "bn": "বহুজাতিক সংস্কৃতিসমৃদ্ধ"
+      },
+      {
+        "en": "Transient",
+        "bn": "ক্ষণস্থায়ী"
+      }
+    ],
+    "example": "The museum displays documents from ecclesiastical archives.",
+    "example_bn": "জাদুঘরটিতে গির্জার আর্কাইভ থেকে সংগৃহীত নথি প্রদর্শিত হয়।",
+    "examples": [
+      "The museum displays documents from ecclesiastical archives. — জাদুঘরটিতে গির্জার আর্কাইভ থেকে সংগৃহীত নথি প্রদর্শিত হয়।",
+      "At dinner, she explained that 'ecclesiastical' means 'relating to the Christian Church or its clergy', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘ecclesiastical’ শব্দটির অর্থ—গির্জা-সম্পর্কিত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'ecclesiastical' as 'relating to the Christian Church or its clergy' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘ecclesiastical’ শব্দটি গির্জা-সম্পর্কিত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "eclipse",
+    "pronunciation_bn": "ইক্লিপ্স",
+    "pronunciation": "/ɪˈklɪps/",
+    "no": 335,
+    "group": 14,
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "meaning_en": "(verb) to block light from a celestial body; to overshadow or outshine; (noun) an obscuring of light by one celestial body",
+    "meaning_bn": [
+      "আলো আড়াল করা",
+      "ছাপিয়ে যাওয়া",
+      "গ্রহণ"
+    ],
+    "synonyms": [
+      {
+        "en": "overshadow",
+        "bn": "ছাপিয়ে যাওয়া"
+      },
+      {
+        "en": "outshine",
+        "bn": "উজ্জ্বলতায় ছাড়িয়ে যাওয়া"
+      },
+      {
+        "en": "obscure",
+        "bn": "আড়াল করা"
+      },
+      {
+        "en": "Obfuscate",
+        "bn": "অস্পষ্ট করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "illuminate",
+        "bn": "আলোকিত করা"
+      },
+      {
+        "en": "highlight",
+        "bn": "বিশেষভাবে তুলে ধরা"
+      },
+      {
+        "en": "Accentuate",
+        "bn": "বিশেষভাবে তুলে ধরা"
+      },
+      {
+        "en": "Delineate",
+        "bn": "সুনির্দিষ্টভাবে বর্ণনা করা"
+      },
+      {
+        "en": "explicate",
+        "bn": "বিস্তারিত ব্যাখ্যা করা"
+      },
+      {
+        "en": "Manifest",
+        "bn": "স্পষ্ট"
+      },
+      {
+        "en": "Patent",
+        "bn": "সুস্পষ্ট"
+      }
+    ],
+    "example": "Her later achievements eclipsed her earlier success.",
+    "example_bn": "তার পরবর্তী অর্জনগুলো আগের সাফল্যকে ছাপিয়ে গিয়েছিল।",
+    "examples": [
+      "Her later achievements eclipsed her earlier success. — তার পরবর্তী অর্জনগুলো আগের সাফল্যকে ছাপিয়ে গিয়েছিল।",
+      "At dinner, she explained that 'eclipse' means '(verb) to block light from a celestial body', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘eclipse’ শব্দটির অর্থ—আলো আড়াল করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'eclipse' as '(verb) to block light from a celestial body' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘eclipse’ শব্দটি আলো আড়াল করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "edict",
+    "pronunciation_bn": "ইডিক্ট",
+    "pronunciation": "/ˈiːdɪkt/",
+    "no": 336,
+    "group": 14,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "an official order or proclamation issued by someone in authority",
+    "meaning_bn": [
+      "সরকারি আদেশ",
+      "ফরমান",
+      "আনুষ্ঠানিক নির্দেশ"
+    ],
+    "synonyms": [
+      {
+        "en": "decree",
+        "bn": "আদেশ"
+      },
+      {
+        "en": "proclamation",
+        "bn": "ঘোষণা"
+      },
+      {
+        "en": "mandate",
+        "bn": "আদেশ বা নির্দেশ"
+      },
+      {
+        "en": "fiat",
+        "bn": "কর্তৃপক্ষের আনুষ্ঠানিক আদেশ"
+      },
+      {
+        "en": "Injunction",
+        "bn": "আদালতের নিষেধাজ্ঞা বা নির্দেশ"
+      },
+      {
+        "en": "behest",
+        "bn": "আদেশ"
+      },
+      {
+        "en": "ordinance",
+        "bn": "আইন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "request",
+        "bn": "অনুরোধ"
+      },
+      {
+        "en": "suggestion",
+        "bn": "পরামর্শ"
+      },
+      {
+        "en": "Anarchy",
+        "bn": "অরাজকতা"
+      },
+      {
+        "en": "bedlam",
+        "bn": "হট্টগোল"
+      },
+      {
+        "en": "disarray",
+        "bn": "বিশৃঙ্খলা"
+      },
+      {
+        "en": "Implication",
+        "bn": "সম্ভাব্য পরিণতি"
+      }
+    ],
+    "example": "The ruler issued an edict restricting public gatherings.",
+    "example_bn": "শাসক জনসমাবেশ সীমিত করে একটি আদেশ জারি করেছিলেন।",
+    "examples": [
+      "The ruler issued an edict restricting public gatherings. — শাসক জনসমাবেশ সীমিত করে একটি আদেশ জারি করেছিলেন।",
+      "At dinner, she explained that 'edict' means 'an official order or proclamation issued by someone', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘edict’ শব্দটির অর্থ—সরকারি আদেশ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'edict' as 'an official order or proclamation issued by someone' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘edict’ শব্দটি সরকারি আদেশ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "edifice",
+    "pronunciation_bn": "এডিফিস",
+    "pronunciation": "/ˈedɪfɪs/",
+    "no": 337,
+    "group": 14,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a large, impressive building; figuratively, a complex system or institution",
+    "meaning_bn": [
+      "বিশাল অট্টালিকা",
+      "বৃহৎ ও দৃষ্টিনন্দন ভবন",
+      "জটিল ব্যবস্থা বা প্রতিষ্ঠান"
+    ],
+    "synonyms": [
+      {
+        "en": "building",
+        "bn": "ভবন"
+      },
+      {
+        "en": "structure",
+        "bn": "কাঠামো"
+      },
+      {
+        "en": "monument",
+        "bn": "স্মৃতিস্তম্ভ বা বিশাল স্থাপনা"
+      },
+      {
+        "en": "configuration",
+        "bn": "বিন্যাস"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "shack",
+        "bn": "কুঁড়েঘর"
+      },
+      {
+        "en": "hut",
+        "bn": "কুটির"
+      }
+    ],
+    "example": "The courthouse was an imposing edifice of stone.",
+    "example_bn": "আদালত ভবনটি ছিল পাথরের তৈরি এক বিশাল অট্টালিকা।",
+    "examples": [
+      "The courthouse was an imposing edifice of stone. — আদালত ভবনটি ছিল পাথরের তৈরি এক বিশাল অট্টালিকা।",
+      "At dinner, she explained that 'edifice' means 'a large, impressive building', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘edifice’ শব্দটির অর্থ—বিশাল অট্টালিকা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'edifice' as 'a large, impressive building' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘edifice’ শব্দটি বিশাল অট্টালিকা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "effectual",
+    "pronunciation_bn": "ইফেকচুয়াল",
+    "pronunciation": "/ɪˈfektʃuəl/",
+    "no": 338,
+    "group": 14,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "producing the intended or desired result; effective",
+    "meaning_bn": [
+      "কার্যকর",
+      "কাঙ্ক্ষিত ফল দেয় এমন",
+      "ফলপ্রসূ"
+    ],
+    "synonyms": [
+      {
+        "en": "effective",
+        "bn": "কার্যকর"
+      },
+      {
+        "en": "efficacious",
+        "bn": "ফলপ্রসূ"
+      },
+      {
+        "en": "successful",
+        "bn": "সফল"
+      },
+      {
+        "en": "fruitful",
+        "bn": "ফলপ্রসূ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "ineffective",
+        "bn": "অকার্যকর"
+      },
+      {
+        "en": "ineffectual",
+        "bn": "ফলহীন"
+      },
+      {
+        "en": "useless",
+        "bn": "অকাজের"
+      },
+      {
+        "en": "Futile",
+        "bn": "নিষ্ফল"
+      },
+      {
+        "en": "Abortive",
+        "bn": "ব্যর্থ"
+      },
+      {
+        "en": "Impotent",
+        "bn": "ক্ষমতাহীন"
+      },
+      {
+        "en": "Hapless",
+        "bn": "দুর্ভাগা"
+      },
+      {
+        "en": "titular",
+        "bn": "নামমাত্র পদে থাকা"
+      }
+    ],
+    "example": "The team needs an effectual strategy to reduce delays.",
+    "example_bn": "দেরি কমাতে দলটির একটি কার্যকর কৌশল প্রয়োজন।",
+    "examples": [
+      "The team needs an effectual strategy to reduce delays. — দেরি কমাতে দলটির একটি কার্যকর কৌশল প্রয়োজন।",
+      "At dinner, she explained that 'effectual' means 'producing the intended or desired result', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘effectual’ শব্দটির অর্থ—কার্যকর—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'effectual' as 'producing the intended or desired result' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘effectual’ শব্দটি কার্যকর অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "efficacy",
+    "pronunciation_bn": "এফিকেসি",
+    "pronunciation": "/ˈefɪkəsi/",
+    "no": 339,
+    "group": 14,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the ability of something to produce the intended result",
+    "meaning_bn": [
+      "কার্যকারিতা",
+      "ফলপ্রসূতা"
+    ],
+    "synonyms": [
+      {
+        "en": "effectiveness",
+        "bn": "কার্যকারিতা"
+      },
+      {
+        "en": "efficiency",
+        "bn": "দক্ষতা"
+      },
+      {
+        "en": "potency",
+        "bn": "কার্যক্ষমতা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "ineffectiveness",
+        "bn": "অকার্যকারিতা"
+      },
+      {
+        "en": "inefficacy",
+        "bn": "ফলপ্রসূতার অভাব"
+      }
+    ],
+    "example": "The study examined the efficacy of the treatment.",
+    "example_bn": "গবেষণায় চিকিৎসাটির কার্যকারিতা পরীক্ষা করা হয়েছিল।",
+    "examples": [
+      "The study examined the efficacy of the treatment. — গবেষণায় চিকিৎসাটির কার্যকারিতা পরীক্ষা করা হয়েছিল।",
+      "At dinner, she explained that 'efficacy' means 'the ability of something to produce the intended', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘efficacy’ শব্দটির অর্থ—কার্যকারিতা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'efficacy' as 'the ability of something to produce the intended' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘efficacy’ শব্দটি কার্যকারিতা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "effigy",
+    "pronunciation_bn": "এফিজি",
+    "pronunciation": "/ˈefɪdʒi/",
+    "no": 340,
+    "group": 14,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a model or representation of a person, often made to be mocked or publicly condemned",
+    "meaning_bn": [
+      "প্রতিকৃতি",
+      "কুশপুত্তলিকা",
+      "কোনো ব্যক্তির প্রতিরূপ"
+    ],
+    "synonyms": [
+      {
+        "en": "likeness",
+        "bn": "প্রতিকৃতি"
+      },
+      {
+        "en": "image",
+        "bn": "ছবি বা প্রতিরূপ"
+      },
+      {
+        "en": "dummy",
+        "bn": "পুতুলসদৃশ প্রতিরূপ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "original",
+        "bn": "মূল ব্যক্তি বা বস্তু"
+      },
+      {
+        "en": "Aboriginal",
+        "bn": "আদিবাসী"
+      },
+      {
+        "en": "Novel",
+        "bn": "নতুন"
+      }
+    ],
+    "example": "Protesters burned an effigy of the governor.",
+    "example_bn": "বিক্ষোভকারীরা গভর্নরের একটি কুশপুত্তলিকা পুড়িয়েছিল।",
+    "examples": [
+      "Protesters burned an effigy of the governor. — বিক্ষোভকারীরা গভর্নরের একটি কুশপুত্তলিকা পুড়িয়েছিল।",
+      "At dinner, she explained that 'effigy' means 'a model or representation of a person, often', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘effigy’ শব্দটির অর্থ—প্রতিকৃতি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'effigy' as 'a model or representation of a person, often' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘effigy’ শব্দটি প্রতিকৃতি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "elation",
+    "pronunciation_bn": "ইলেইশন",
+    "pronunciation": "/ɪˈleɪʃən/",
+    "no": 341,
+    "group": 14,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a feeling of great happiness and excitement",
+    "meaning_bn": [
+      "প্রবল আনন্দ",
+      "উচ্ছ্বাস",
+      "অত্যন্ত খুশির অনুভূতি"
+    ],
+    "synonyms": [
+      {
+        "en": "exhilaration",
+        "bn": "উচ্ছ্বাস"
+      },
+      {
+        "en": "jubilation",
+        "bn": "উল্লাস"
+      },
+      {
+        "en": "euphoria",
+        "bn": "পরমানন্দ"
+      },
+      {
+        "en": "rapture",
+        "bn": "পরম আনন্দ"
+      },
+      {
+        "en": "bliss",
+        "bn": "পরম সুখ"
+      },
+      {
+        "en": "Felicity",
+        "bn": "পরম সুখ"
+      },
+      {
+        "en": "nirvana",
+        "bn": "বৌদ্ধধর্মে দুঃখ ও পুনর্জন্মের চক্র থেকে মুক্তির পরম অবস্থা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "dejection",
+        "bn": "হতাশা"
+      },
+      {
+        "en": "despondency",
+        "bn": "নিরাশা"
+      },
+      {
+        "en": "gloom",
+        "bn": "বিষণ্ণতা"
+      },
+      {
+        "en": "dirge",
+        "bn": "শোকগীতি"
+      },
+      {
+        "en": "Affliction",
+        "bn": "দুর্দশা"
+      },
+      {
+        "en": "Lament",
+        "bn": "শোক প্রকাশ করা"
+      },
+      {
+        "en": "Melancholy",
+        "bn": "বিষণ্নতা"
+      }
+    ],
+    "example": "She felt a surge of elation after winning the scholarship.",
+    "example_bn": "বৃত্তি জেতার পর সে প্রবল আনন্দ অনুভব করেছিল।",
+    "examples": [
+      "She felt a surge of elation after winning the scholarship. — বৃত্তি জেতার পর সে প্রবল আনন্দ অনুভব করেছিল।",
+      "At dinner, she explained that 'elation' means 'a feeling of great happiness and excitement', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘elation’ শব্দটির অর্থ—প্রবল আনন্দ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'elation' as 'a feeling of great happiness and excitement' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘elation’ শব্দটি প্রবল আনন্দ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "electorate",
+    "pronunciation_bn": "ইলেক্টরেট",
+    "pronunciation": "/ɪˈlektərət/",
+    "no": 342,
+    "group": 14,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "all the people in a country or area who have the right to vote",
+    "meaning_bn": [
+      "ভোটারসমষ্টি",
+      "নির্বাচকমণ্ডলী",
+      "ভোটাধিকারপ্রাপ্ত জনগণ"
+    ],
+    "synonyms": [
+      {
+        "en": "voters",
+        "bn": "ভোটাররা"
+      },
+      {
+        "en": "constituency",
+        "bn": "নির্বাচকমণ্ডলী বা নির্বাচনী এলাকা"
+      },
+      {
+        "en": "electors",
+        "bn": "নির্বাচকরা"
+      }
+    ],
+    "antonyms": [],
+    "example": "The electorate will choose its representatives in the next election.",
+    "example_bn": "পরবর্তী নির্বাচনে ভোটাররা তাঁদের প্রতিনিধি নির্বাচন করবেন।",
+    "examples": [
+      "The electorate will choose its representatives in the next election. — পরবর্তী নির্বাচনে ভোটাররা তাঁদের প্রতিনিধি নির্বাচন করবেন।",
+      "At dinner, she explained that 'electorate' means 'all the people in a country or area', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘electorate’ শব্দটির অর্থ—ভোটারসমষ্টি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'electorate' as 'all the people in a country or area' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘electorate’ শব্দটি ভোটারসমষ্টি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "elegy",
+    "pronunciation_bn": "এলিজি",
+    "pronunciation": "/ˈelədʒi/",
+    "no": 343,
+    "group": 14,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a poem or song expressing sadness, especially for someone who has died",
+    "meaning_bn": [
+      "শোকগাথা",
+      "শোকের কবিতা",
+      "শোকসংগীত"
+    ],
+    "synonyms": [
+      {
+        "en": "lament",
+        "bn": "শোকপ্রকাশ"
+      },
+      {
+        "en": "threnody",
+        "bn": "মৃতের জন্য শোকগীতি"
+      },
+      {
+        "en": "dirge",
+        "bn": "শোকগীতি"
+      },
+      {
+        "en": "rue",
+        "bn": "অনুতাপ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "celebration",
+        "bn": "উদ্‌যাপন"
+      },
+      {
+        "en": "paean",
+        "bn": "প্রশস্তিমূলক গান"
+      },
+      {
+        "en": "elation",
+        "bn": "প্রবল আনন্দ"
+      },
+      {
+        "en": "Jubilation",
+        "bn": "উল্লাস"
+      }
+    ],
+    "example": "The poet wrote an elegy for his friend.",
+    "example_bn": "কবি তাঁর বন্ধুর জন্য একটি শোকগাথা লিখেছিলেন।",
+    "examples": [
+      "The poet wrote an elegy for his friend. — কবি তাঁর বন্ধুর জন্য একটি শোকগাথা লিখেছিলেন।",
+      "At dinner, she explained that 'elegy' means 'a poem or song expressing sadness, especially', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘elegy’ শব্দটির অর্থ—শোকগাথা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'elegy' as 'a poem or song expressing sadness, especially' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘elegy’ শব্দটি শোকগাথা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "elite",
+    "pronunciation_bn": "এলিট",
+    "pronunciation": "/eɪˈliːt/",
+    "no": 344,
+    "group": 14,
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "meaning_en": "(noun) a group considered the best or most powerful; (adjective) belonging to such a group",
+    "meaning_bn": [
+      "অভিজাত শ্রেণি",
+      "সেরা বা প্রভাবশালী গোষ্ঠী",
+      "অভিজাত"
+    ],
+    "synonyms": [
+      {
+        "en": "privileged class",
+        "bn": "সুবিধাভোগী শ্রেণি"
+      },
+      {
+        "en": "best",
+        "bn": "সেরা গোষ্ঠী"
+      },
+      {
+        "en": "select group",
+        "bn": "নির্বাচিত গোষ্ঠী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "masses",
+        "bn": "সাধারণ জনগণ"
+      },
+      {
+        "en": "common people",
+        "bn": "সাধারণ মানুষ"
+      }
+    ],
+    "example": "The program is designed for an elite group of researchers.",
+    "example_bn": "এই কর্মসূচিটি নির্বাচিত একদল গবেষকের জন্য তৈরি।",
+    "examples": [
+      "The program is designed for an elite group of researchers. — এই কর্মসূচিটি নির্বাচিত একদল গবেষকের জন্য তৈরি।",
+      "At dinner, she explained that 'elite' means '(noun) a group considered the best or most', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘elite’ শব্দটির অর্থ—অভিজাত শ্রেণি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'elite' as '(noun) a group considered the best or most' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘elite’ শব্দটি অভিজাত শ্রেণি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "elocution",
+    "pronunciation_bn": "এলোকিউশন",
+    "pronunciation": "/ˌeləˈkjuːʃən/",
+    "no": 345,
+    "group": 14,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the skill of clear and effective public speaking, including pronunciation and delivery",
+    "meaning_bn": [
+      "বক্তৃতাশিল্প",
+      "স্পষ্ট ও কার্যকরভাবে কথা বলার কৌশল",
+      "উচ্চারণ ও বাচনভঙ্গির দক্ষতা"
+    ],
+    "synonyms": [
+      {
+        "en": "diction",
+        "bn": "শব্দোচ্চারণের ধরন"
+      },
+      {
+        "en": "oratory",
+        "bn": "বক্তৃতাশিল্প"
+      },
+      {
+        "en": "speechcraft",
+        "bn": "বক্তৃতার কৌশল"
+      },
+      {
+        "en": "Rhetoric",
+        "bn": "বাগ্মিতা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "mumbling",
+        "bn": "অস্পষ্টভাবে বিড়বিড় করা"
+      },
+      {
+        "en": "inarticulacy",
+        "bn": "স্পষ্টভাবে কথা বলতে না পারা"
+      }
+    ],
+    "example": "She took elocution lessons to improve her speech delivery.",
+    "example_bn": "বক্তৃতা দেওয়ার দক্ষতা বাড়াতে সে বাচনশিল্পের পাঠ নিয়েছিল।",
+    "examples": [
+      "She took elocution lessons to improve her speech delivery. — বক্তৃতা দেওয়ার দক্ষতা বাড়াতে সে বাচনশিল্পের পাঠ নিয়েছিল।",
+      "At dinner, she explained that 'elocution' means 'the skill of clear and effective public speaking', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘elocution’ শব্দটির অর্থ—বক্তৃতাশিল্প—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'elocution' as 'the skill of clear and effective public speaking' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘elocution’ শব্দটি বক্তৃতাশিল্প অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "emaciate",
+    "pronunciation_bn": "ইমেইশিয়েট",
+    "pronunciation": "/ɪˈmeɪʃieɪt/",
+    "no": 346,
+    "group": 14,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to make or become extremely thin, especially because of illness or lack of food",
+    "meaning_bn": [
+      "অত্যন্ত শীর্ণ করে ফেলা",
+      "অত্যন্ত রোগা হয়ে যাওয়া",
+      "অপুষ্টিতে কৃশ হওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "waste away",
+        "bn": "শীর্ণ হয়ে যাওয়া"
+      },
+      {
+        "en": "make thin",
+        "bn": "রোগা করে ফেলা"
+      },
+      {
+        "en": "attenuate",
+        "bn": "ক্ষীণ করা"
+      },
+      {
+        "en": "Atrophy",
+        "bn": "ক্ষয় হয়ে যাওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "fatten",
+        "bn": "মোটা করা"
+      },
+      {
+        "en": "fatten up",
+        "bn": "ওজন বাড়ানো"
+      }
+    ],
+    "example": "Prolonged illness had emaciated the once-strong horse.",
+    "example_bn": "দীর্ঘ অসুস্থতা একসময়ের শক্তিশালী ঘোড়াটিকে অত্যন্ত শীর্ণ করে দিয়েছিল।",
+    "examples": [
+      "Prolonged illness had emaciated the once-strong horse. — দীর্ঘ অসুস্থতা একসময়ের শক্তিশালী ঘোড়াটিকে অত্যন্ত শীর্ণ করে দিয়েছিল।",
+      "At dinner, she explained that 'emaciate' means 'to make or become extremely thin, especially because', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘emaciate’ শব্দটির অর্থ—অত্যন্ত শীর্ণ করে ফেলা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'emaciate' as 'to make or become extremely thin, especially because' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘emaciate’ শব্দটি অত্যন্ত শীর্ণ করে ফেলা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "emanate",
+    "pronunciation_bn": "এমানেইট",
+    "pronunciation": "/ˈeməneɪt/",
+    "no": 347,
+    "group": 14,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to come out or flow from a source",
+    "meaning_bn": [
+      "নিঃসৃত হওয়া",
+      "উৎসারিত হওয়া",
+      "বেরিয়ে আসা"
+    ],
+    "synonyms": [
+      {
+        "en": "issue",
+        "bn": "নিঃসৃত হওয়া"
+      },
+      {
+        "en": "emerge",
+        "bn": "বেরিয়ে আসা"
+      },
+      {
+        "en": "radiate",
+        "bn": "বিকিরিত হওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "enter",
+        "bn": "প্রবেশ করা"
+      },
+      {
+        "en": "absorb",
+        "bn": "শোষণ করা"
+      },
+      {
+        "en": "Assimilate",
+        "bn": "আত্মস্থ করা"
+      }
+    ],
+    "example": "A warm glow emanated from the windows.",
+    "example_bn": "জানালাগুলো থেকে উষ্ণ আভা ছড়িয়ে পড়ছিল।",
+    "examples": [
+      "A warm glow emanated from the windows. — জানালাগুলো থেকে উষ্ণ আভা ছড়িয়ে পড়ছিল।",
+      "At dinner, she explained that 'emanate' means 'to come out or flow from a source', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘emanate’ শব্দটির অর্থ—নিঃসৃত হওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'emanate' as 'to come out or flow from a source' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘emanate’ শব্দটি নিঃসৃত হওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "emancipate",
+    "pronunciation_bn": "ইম্যানসিপেইট",
+    "pronunciation": "/ɪˈmænsɪpeɪt/",
+    "no": 348,
+    "group": 14,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to free someone from legal, social, or political restrictions or control",
+    "meaning_bn": [
+      "মুক্ত করা",
+      "দাসত্ব বা বন্ধন থেকে স্বাধীন করা",
+      "নিয়ন্ত্রণ থেকে মুক্ত করা"
+    ],
+    "synonyms": [
+      {
+        "en": "liberate",
+        "bn": "মুক্ত করা"
+      },
+      {
+        "en": "free",
+        "bn": "স্বাধীন করা"
+      },
+      {
+        "en": "release",
+        "bn": "ছেড়ে দেওয়া"
+      },
+      {
+        "en": "Extricate",
+        "bn": "বিপদ বা জটিল অবস্থা থেকে মুক্ত করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "enslave",
+        "bn": "দাসে পরিণত করা"
+      },
+      {
+        "en": "subjugate",
+        "bn": "পরাধীন করা"
+      },
+      {
+        "en": "oppress",
+        "bn": "নিপীড়ন করা"
+      },
+      {
+        "en": "Beset",
+        "bn": "ঘিরে ফেলা"
+      },
+      {
+        "en": "Fetter",
+        "bn": "শৃঙ্খলিত করা"
+      },
+      {
+        "en": "Aggrieve",
+        "bn": "অন্যায় আচরণে কষ্ট দেওয়া"
+      },
+      {
+        "en": "Beleaguer",
+        "bn": "অবরোধ করা"
+      },
+      {
+        "en": "Circumscribe",
+        "bn": "সীমাবদ্ধ করা"
+      }
+    ],
+    "example": "The reform helped emancipate people from unjust restrictions.",
+    "example_bn": "সংস্কারটি মানুষকে অন্যায় বিধিনিষেধ থেকে মুক্ত হতে সাহায্য করেছিল।",
+    "examples": [
+      "The reform helped emancipate people from unjust restrictions. — সংস্কারটি মানুষকে অন্যায় বিধিনিষেধ থেকে মুক্ত হতে সাহায্য করেছিল।",
+      "At dinner, she explained that 'emancipate' means 'to free someone from legal, social, or political', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘emancipate’ শব্দটির অর্থ—মুক্ত করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'emancipate' as 'to free someone from legal, social, or political' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘emancipate’ শব্দটি মুক্ত করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "embargo",
+    "pronunciation_bn": "এমবার্গো",
+    "pronunciation": "/ɪmˈbɑːɡəʊ/",
+    "no": 349,
+    "group": 14,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "(noun) an official ban on trade or other commercial activity with a country; (verb) to impose such a ban",
+    "meaning_bn": [
+      "বাণিজ্য নিষেধাজ্ঞা",
+      "সরকারি বাণিজ্যিক নিষেধাজ্ঞা",
+      "নিষেধাজ্ঞা আরোপ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "ban",
+        "bn": "নিষেধাজ্ঞা"
+      },
+      {
+        "en": "prohibition",
+        "bn": "নিষেধ"
+      },
+      {
+        "en": "trade restriction",
+        "bn": "বাণিজ্যিক সীমাবদ্ধতা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "trade agreement",
+        "bn": "বাণিজ্য চুক্তি"
+      },
+      {
+        "en": "free trade",
+        "bn": "মুক্ত বাণিজ্য"
+      },
+      {
+        "en": "Mandate",
+        "bn": "আনুষ্ঠানিক আদেশ"
+      },
+      {
+        "en": "sanction",
+        "bn": "আনুষ্ঠানিক অনুমোদন"
+      }
+    ],
+    "example": "Several countries imposed an embargo on arms exports to the region.",
+    "example_bn": "কয়েকটি দেশ ওই অঞ্চলে অস্ত্র রপ্তানির ওপর নিষেধাজ্ঞা আরোপ করেছিল।",
+    "examples": [
+      "Several countries imposed an embargo on arms exports to the region. — কয়েকটি দেশ ওই অঞ্চলে অস্ত্র রপ্তানির ওপর নিষেধাজ্ঞা আরোপ করেছিল।",
+      "At dinner, she explained that 'embargo' means '(noun) an official ban on trade or other', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘embargo’ শব্দটির অর্থ—বাণিজ্য নিষেধাজ্ঞা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'embargo' as '(noun) an official ban on trade or other' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘embargo’ শব্দটি বাণিজ্য নিষেধাজ্ঞা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "embellish",
+    "pronunciation_bn": "এমবেলিশ",
+    "pronunciation": "/ɪmˈbelɪʃ/",
+    "no": 350,
+    "group": 14,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to decorate or improve something by adding details; to make a story more interesting by adding details that may not be true",
+    "meaning_bn": [
+      "সাজানো",
+      "অলংকৃত করা",
+      "গল্পে অতিরিক্ত বা কাল্পনিক বিবরণ যোগ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "adorn",
+        "bn": "সজ্জিত করা"
+      },
+      {
+        "en": "ornament",
+        "bn": "অলংকৃত করা"
+      },
+      {
+        "en": "embroider",
+        "bn": "অতিরঞ্জিত বিবরণ যোগ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "strip",
+        "bn": "অলংকার সরানো"
+      },
+      {
+        "en": "simplify",
+        "bn": "সরল করা"
+      },
+      {
+        "en": "plain",
+        "bn": "সাদামাটা করা"
+      }
+    ],
+    "example": "He embellished the account with details that were not entirely true.",
+    "example_bn": "তিনি পুরোপুরি সত্য নয় এমন বিবরণ যোগ করে ঘটনাটির বর্ণনা অতিরঞ্জিত করেছিলেন।",
+    "examples": [
+      "He embellished the account with details that were not entirely true. — তিনি পুরোপুরি সত্য নয় এমন বিবরণ যোগ করে ঘটনাটির বর্ণনা অতিরঞ্জিত করেছিলেন।",
+      "At dinner, she explained that 'embellish' means 'to decorate or improve something by adding details', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘embellish’ শব্দটির অর্থ—সাজানো—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'embellish' as 'to decorate or improve something by adding details' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘embellish’ শব্দটি সাজানো অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

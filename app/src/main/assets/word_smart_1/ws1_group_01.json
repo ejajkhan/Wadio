@@ -1,0 +1,1464 @@
+[
+  {
+    "word": "Abase",
+    "pronunciation_bn": "আবেইস",
+    "pronunciation": "/əˈbeɪs/",
+    "no": 1,
+    "group": 1,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to make someone or oneself seem less important or worthy of respect",
+    "meaning_bn": [
+      "অপমান করা",
+      "হেয় করা"
+    ],
+    "synonyms": [
+      {
+        "en": "humiliate",
+        "bn": "অপমান করা"
+      },
+      {
+        "en": "degrade",
+        "bn": "হেয় করা"
+      },
+      {
+        "en": "demean",
+        "bn": "অপদস্থ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "honor",
+        "bn": "সম্মান করা"
+      },
+      {
+        "en": "esteem",
+        "bn": "শ্রদ্ধা করা"
+      }
+    ],
+    "example": "The king tried to abase his enemies by parading them through the streets.",
+    "example_bn": "রাজা শত্রুদের রাস্তায় ঘুরিয়ে প্রদর্শন করে তাদের অপমান করার চেষ্টা করেছিলেন।",
+    "examples": [
+      "The king tried to abase his enemies by parading them through the streets. — রাজা শত্রুদের রাস্তায় ঘুরিয়ে প্রদর্শন করে তাদের অপমান করার চেষ্টা করেছিলেন।",
+      "At dinner, she explained that 'Abase' means 'to make someone seem less important or worthy', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Abase’ শব্দটির অর্থ—অপমান করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Abase' as 'to make someone seem less important or worthy' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Abase’ শব্দটি অপমান করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Abash",
+    "pronunciation_bn": "অ্যাব্যাশ",
+    "pronunciation": "/əˈbæʃ/",
+    "no": 2,
+    "group": 1,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to embarrass",
+    "meaning_bn": [
+      "বিব্রত করা",
+      "লজ্জায় ফেলা"
+    ],
+    "synonyms": [
+      {
+        "en": "embarrass",
+        "bn": "বিব্রত করা"
+      },
+      {
+        "en": "disconcert",
+        "bn": "বিচলিত করা"
+      },
+      {
+        "en": "fluster",
+        "bn": "হতবিহ্বল করা"
+      },
+      {
+        "en": "discomfit",
+        "bn": "বিব্রত করা"
+      },
+      {
+        "en": "Mortify",
+        "bn": "কাউকে অত্যন্ত বিব্রত বা লজ্জিত করা"
+      },
+      {
+        "en": "Perturb",
+        "bn": "উদ্বিগ্ন করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "reassure",
+        "bn": "আশ্বস্ত করা"
+      },
+      {
+        "en": "comfort",
+        "bn": "সান্ত্বনা দেওয়া"
+      },
+      {
+        "en": "solace",
+        "bn": "সান্ত্বনা"
+      }
+    ],
+    "example": "She was abashed when she forgot her speech on stage.",
+    "example_bn": "মঞ্চে বক্তৃতা ভুলে যাওয়ায় সে বিব্রত হয়ে পড়েছিল।",
+    "examples": [
+      "She was abashed when she forgot her speech on stage. — মঞ্চে বক্তৃতা ভুলে যাওয়ায় সে বিব্রত হয়ে পড়েছিল।",
+      "At dinner, she explained that 'Abash' means 'to embarrass', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Abash’ শব্দটির অর্থ—বিব্রত করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Abash' as 'to embarrass' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Abash’ শব্দটি বিব্রত করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Abate",
+    "pronunciation_bn": "অ্যাবেইট",
+    "pronunciation": "/əˈbeɪt/",
+    "no": 3,
+    "group": 1,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to become less strong or severe; to reduce",
+    "meaning_bn": [
+      "কমে যাওয়া",
+      "হ্রাস করা",
+      "তীব্রতা কমে যাওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "subside",
+        "bn": "প্রশমিত হওয়া"
+      },
+      {
+        "en": "lessen",
+        "bn": "কমে যাওয়া"
+      },
+      {
+        "en": "diminish",
+        "bn": "হ্রাস পাওয়া"
+      },
+      {
+        "en": "ebb",
+        "bn": "কমে যাওয়া"
+      },
+      {
+        "en": "Mitigate",
+        "bn": "কোনো কিছুর তীব্রতা, ক্ষতি বা কষ্ট কমানো"
+      },
+      {
+        "en": "wane",
+        "bn": "কমে যাওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "intensify",
+        "bn": "তীব্রতর হওয়া"
+      },
+      {
+        "en": "increase",
+        "bn": "বেড়ে যাওয়া"
+      },
+      {
+        "en": "Augment",
+        "bn": "বৃদ্ধি করা"
+      },
+      {
+        "en": "Accrue",
+        "bn": "সময়ের সঙ্গে জমা হওয়া"
+      },
+      {
+        "en": "Aggrandize",
+        "bn": "নিজের গুরুত্ব বাড়িয়ে দেখানো"
+      },
+      {
+        "en": "Exacerbate",
+        "bn": "আরও খারাপ করে তোলা"
+      },
+      {
+        "en": "fuel",
+        "bn": "জ্বালানি"
+      }
+    ],
+    "example": "The storm finally abated after three days.",
+    "example_bn": "তিন দিন পর অবশেষে ঝড়ের তীব্রতা কমে গেল।",
+    "examples": [
+      "The storm finally abated after three days. — তিন দিন পর অবশেষে ঝড়ের তীব্রতা কমে গেল।",
+      "At dinner, she explained that 'Abate' means 'to become less strong or severe', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Abate’ শব্দটির অর্থ—কমে যাওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Abate' as 'to become less strong or severe' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Abate’ শব্দটি কমে যাওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Abdicate",
+    "pronunciation_bn": "অ্যাবডিকেট",
+    "pronunciation": "/ˈæb.dɪ.keɪt/",
+    "no": 4,
+    "group": 1,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to step down from a position of power",
+    "meaning_bn": [
+      "সিংহাসন ত্যাগ করা",
+      "ক্ষমতা ছেড়ে দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "relinquish",
+        "bn": "ত্যাগ করা"
+      },
+      {
+        "en": "renounce",
+        "bn": "পরিত্যাগ করা"
+      },
+      {
+        "en": "resign",
+        "bn": "পদত্যাগ করা"
+      },
+      {
+        "en": "Abjure",
+        "bn": "আনুষ্ঠানিকভাবে ত্যাগ করা"
+      },
+      {
+        "en": "Abnegate",
+        "bn": "নিজের ইচ্ছা বা অধিকার ত্যাগ করা"
+      },
+      {
+        "en": "disclaim",
+        "bn": "দায়িত্ব অস্বীকার করা"
+      },
+      {
+        "en": "Forgo",
+        "bn": "ত্যাগ করা"
+      },
+      {
+        "en": "forswear",
+        "bn": "শপথ করে ত্যাগ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "retain",
+        "bn": "ধরে রাখা"
+      },
+      {
+        "en": "keep",
+        "bn": "রেখে দেওয়া"
+      },
+      {
+        "en": "Appropriate",
+        "bn": "নিজের কাজে নেওয়া"
+      },
+      {
+        "en": "Covet",
+        "bn": "লোভ করা"
+      },
+      {
+        "en": "Espouse",
+        "bn": "সমর্থন করা"
+      },
+      {
+        "en": "Usurp",
+        "bn": "জবরদখল করা"
+      }
+    ],
+    "example": "The king abdicated his throne to marry a commoner.",
+    "example_bn": "একজন সাধারণ নারীকে বিয়ে করার জন্য রাজা সিংহাসন ত্যাগ করেছিলেন।",
+    "examples": [
+      "The king abdicated his throne to marry a commoner. — একজন সাধারণ নারীকে বিয়ে করার জন্য রাজা সিংহাসন ত্যাগ করেছিলেন।",
+      "At dinner, she explained that 'Abdicate' means 'to step down from a position of power', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Abdicate’ শব্দটির অর্থ—সিংহাসন ত্যাগ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Abdicate' as 'to step down from a position of power' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Abdicate’ শব্দটি সিংহাসন ত্যাগ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Aberration",
+    "pronunciation_bn": "অ্যাবারেইশন",
+    "pronunciation": "/ˌæb.əˈreɪ.ʃən/",
+    "no": 5,
+    "group": 1,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "something not typical",
+    "meaning_bn": [
+      "স্বাভাবিকতার ব্যতিক্রম",
+      "বিচ্যুতি"
+    ],
+    "synonyms": [
+      {
+        "en": "deviation",
+        "bn": "বিচ্যুতি"
+      },
+      {
+        "en": "anomaly",
+        "bn": "অস্বাভাবিকতা"
+      },
+      {
+        "en": "irregularity",
+        "bn": "অনিয়ম"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "normality",
+        "bn": "স্বাভাবিকতা"
+      },
+      {
+        "en": "regularity",
+        "bn": "নিয়মিততা"
+      },
+      {
+        "en": "Paradigm",
+        "bn": "দৃষ্টান্ত"
+      },
+      {
+        "en": "canon",
+        "bn": "নিয়ম বা নীতি"
+      }
+    ],
+    "example": "His rude behavior was an aberration from his usual kindness.",
+    "example_bn": "তার অভদ্র আচরণ তার স্বাভাবিক সদয় স্বভাবের ব্যতিক্রম ছিল।",
+    "examples": [
+      "His rude behavior was an aberration from his usual kindness. — তার অভদ্র আচরণ তার স্বাভাবিক সদয় স্বভাবের ব্যতিক্রম ছিল।",
+      "At dinner, she explained that 'Aberration' means 'something not typical', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Aberration’ শব্দটির অর্থ—স্বাভাবিকতার ব্যতিক্রম—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Aberration' as 'something not typical' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Aberration’ শব্দটি স্বাভাবিকতার ব্যতিক্রম অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Abet",
+    "pronunciation_bn": "অ্যাবেট",
+    "pronunciation": "/əˈbet/",
+    "no": 6,
+    "group": 1,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to support or encourage someone who has done something wrong",
+    "meaning_bn": [
+      "অন্যায় কাজে সহায়তা করা",
+      "অপরাধে প্ররোচনা দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "aid",
+        "bn": "সহায়তা করা"
+      },
+      {
+        "en": "assist",
+        "bn": "সাহায্য করা"
+      },
+      {
+        "en": "instigate",
+        "bn": "প্ররোচনা দেওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "hinder",
+        "bn": "বাধা দেওয়া"
+      },
+      {
+        "en": "discourage",
+        "bn": "নিরুৎসাহিত করা"
+      }
+    ],
+    "example": "He was jailed for abetting the criminal.",
+    "example_bn": "অপরাধীকে সহায়তা করার জন্য তাকে কারাদণ্ড দেওয়া হয়েছিল।",
+    "examples": [
+      "He was jailed for abetting the criminal. — অপরাধীকে সহায়তা করার জন্য তাকে কারাদণ্ড দেওয়া হয়েছিল।",
+      "At dinner, she explained that 'Abet' means 'to support or encourage someone who has done', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Abet’ শব্দটির অর্থ—অন্যায় কাজে সহায়তা করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Abet' as 'to support or encourage someone who has done' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Abet’ শব্দটি অন্যায় কাজে সহায়তা করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Abeyance",
+    "pronunciation_bn": "অ্যাবেইয়ান্স",
+    "pronunciation": "/əˈbeɪ.əns/",
+    "no": 7,
+    "group": 1,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "suspension",
+    "meaning_bn": [
+      "সাময়িক স্থগিতাবস্থা",
+      "মুলতবি অবস্থা"
+    ],
+    "synonyms": [
+      {
+        "en": "suspension",
+        "bn": "স্থগিতাবস্থা"
+      },
+      {
+        "en": "deferment",
+        "bn": "মুলতবি রাখা"
+      },
+      {
+        "en": "dormancy",
+        "bn": "নিষ্ক্রিয় অবস্থা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "continuation",
+        "bn": "অব্যাহত থাকা"
+      },
+      {
+        "en": "resumption",
+        "bn": "পুনরারম্ভ"
+      }
+    ],
+    "example": "The project was held in abeyance until funds arrived.",
+    "example_bn": "অর্থের ব্যবস্থা না হওয়া পর্যন্ত প্রকল্পটি স্থগিত রাখা হয়েছিল।",
+    "examples": [
+      "The project was held in abeyance until funds arrived. — অর্থের ব্যবস্থা না হওয়া পর্যন্ত প্রকল্পটি স্থগিত রাখা হয়েছিল।",
+      "At dinner, she explained that 'Abeyance' means 'suspension', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Abeyance’ শব্দটির অর্থ—সাময়িক স্থগিতাবস্থা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Abeyance' as 'suspension' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Abeyance’ শব্দটি সাময়িক স্থগিতাবস্থা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Abhor",
+    "pronunciation_bn": "অ্যাবহর",
+    "pronunciation": "/əbˈhɔːr/",
+    "no": 8,
+    "group": 1,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to hate",
+    "meaning_bn": [
+      "ঘৃণা করা",
+      "তীব্র বিরাগ পোষণ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "detest",
+        "bn": "ঘৃণা করা"
+      },
+      {
+        "en": "loathe",
+        "bn": "অত্যন্ত ঘৃণা করা"
+      },
+      {
+        "en": "despise",
+        "bn": "ঘৃণা করা"
+      },
+      {
+        "en": "Disdain",
+        "bn": "তাচ্ছিল্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "admire",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "cherish",
+        "bn": "স্নেহ করা"
+      },
+      {
+        "en": "Revere",
+        "bn": "গভীরভাবে শ্রদ্ধা করা"
+      },
+      {
+        "en": "Venerate",
+        "bn": "গভীর শ্রদ্ধা করা"
+      }
+    ],
+    "example": "She abhors any form of cruelty to animals.",
+    "example_bn": "সে পশুদের প্রতি যেকোনো ধরনের নিষ্ঠুরতাকে ঘৃণা করে।",
+    "examples": [
+      "She abhors any form of cruelty to animals. — সে পশুদের প্রতি যেকোনো ধরনের নিষ্ঠুরতাকে ঘৃণা করে।",
+      "At dinner, she explained that 'Abhor' means 'to hate', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Abhor’ শব্দটির অর্থ—ঘৃণা করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Abhor' as 'to hate' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Abhor’ শব্দটি ঘৃণা করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Abject",
+    "pronunciation_bn": "অ্যাবজেক্ট",
+    "pronunciation": "/ˈæb.dʒekt/",
+    "no": 9,
+    "group": 1,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "extremely bad, severe, or unpleasant; showing no pride or self-respect",
+    "meaning_bn": [
+      "চরম শোচনীয়",
+      "দুর্দশাগ্রস্ত",
+      "আত্মমর্যাদাহীন"
+    ],
+    "synonyms": [
+      {
+        "en": "miserable",
+        "bn": "দুর্দশাগ্রস্ত"
+      },
+      {
+        "en": "wretched",
+        "bn": "অত্যন্ত শোচনীয়"
+      },
+      {
+        "en": "degraded",
+        "bn": "অবনত"
+      },
+      {
+        "en": "dismal",
+        "bn": "বিষণ্ণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "comfortable",
+        "bn": "স্বচ্ছন্দ"
+      },
+      {
+        "en": "noble",
+        "bn": "মহৎ"
+      },
+      {
+        "en": "Aristocratic",
+        "bn": "অভিজাত"
+      },
+      {
+        "en": "Patrician",
+        "bn": "অভিজাত ব্যক্তি"
+      }
+    ],
+    "example": "The refugees lived in abject poverty.",
+    "example_bn": "শরণার্থীরা চরম দারিদ্র্যের মধ্যে বাস করছিল।",
+    "examples": [
+      "The refugees lived in abject poverty. — শরণার্থীরা চরম দারিদ্র্যের মধ্যে বাস করছিল।",
+      "At dinner, she explained that 'Abject' means 'extremely bad, severe, or unpleasant', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Abject’ শব্দটির অর্থ—চরম শোচনীয়—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Abject' as 'extremely bad, severe, or unpleasant' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Abject’ শব্দটি চরম শোচনীয় অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Abjure",
+    "pronunciation_bn": "অ্যাবজুর",
+    "pronunciation": "/əbˈdʒʊr/",
+    "no": 10,
+    "group": 1,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to formally or publicly reject or give up a belief, claim, or way of behaving",
+    "meaning_bn": [
+      "আনুষ্ঠানিকভাবে প্রত্যাখ্যান করা",
+      "বিশ্বাস বা আচরণ পরিত্যাগ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "renounce",
+        "bn": "ত্যাগ করা"
+      },
+      {
+        "en": "forswear",
+        "bn": "আনুষ্ঠানিকভাবে পরিত্যাগ করা"
+      },
+      {
+        "en": "relinquish",
+        "bn": "ছেড়ে দেওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "embrace",
+        "bn": "গ্রহণ করা"
+      },
+      {
+        "en": "maintain",
+        "bn": "বজায় রাখা"
+      }
+    ],
+    "example": "He abjured violence and chose a peaceful path.",
+    "example_bn": "সে সহিংসতা ত্যাগ করে শান্তিপূর্ণ পথ বেছে নিয়েছিল।",
+    "examples": [
+      "He abjured violence and chose a peaceful path. — সে সহিংসতা ত্যাগ করে শান্তিপূর্ণ পথ বেছে নিয়েছিল।",
+      "At dinner, she explained that 'Abjure' means 'to formally or publicly reject or give up', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Abjure’ শব্দটির অর্থ—আনুষ্ঠানিকভাবে প্রত্যাখ্যান করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Abjure' as 'to formally or publicly reject or give up' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Abjure’ শব্দটি আনুষ্ঠানিকভাবে প্রত্যাখ্যান করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Abnegate",
+    "pronunciation_bn": "অ্যাবনিগেইট",
+    "pronunciation": "/ˈæb.nɪ.ɡeɪt/",
+    "no": 11,
+    "group": 1,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to deny or give up something, especially a personal desire or right",
+    "meaning_bn": [
+      "নিজের ইচ্ছা বা অধিকার ত্যাগ করা",
+      "নিজেকে কোনো কিছু থেকে বঞ্চিত করা"
+    ],
+    "synonyms": [
+      {
+        "en": "deny oneself",
+        "bn": "নিজেকে বঞ্চিত করা"
+      },
+      {
+        "en": "renounce",
+        "bn": "ত্যাগ করা"
+      },
+      {
+        "en": "sacrifice",
+        "bn": "ত্যাগ স্বীকার করা"
+      },
+      {
+        "en": "Abdicate",
+        "bn": "সিংহাসন ত্যাগ করা"
+      },
+      {
+        "en": "Abjure",
+        "bn": "আনুষ্ঠানিকভাবে ত্যাগ করা"
+      },
+      {
+        "en": "disclaim",
+        "bn": "দায়িত্ব অস্বীকার করা"
+      },
+      {
+        "en": "forswear",
+        "bn": "শপথ করে ত্যাগ করা"
+      },
+      {
+        "en": "Relinquish",
+        "bn": "ত্যাগ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "indulge",
+        "bn": "ইচ্ছামতো ভোগ করা"
+      },
+      {
+        "en": "gratify",
+        "bn": "তৃপ্ত করা"
+      },
+      {
+        "en": "Espouse",
+        "bn": "সমর্থন করা"
+      }
+    ],
+    "example": "She abnegated her personal desires to serve others.",
+    "example_bn": "অন্যদের সেবা করার জন্য সে নিজের ব্যক্তিগত ইচ্ছা ত্যাগ করেছিল।",
+    "examples": [
+      "She abnegated her personal desires to serve others. — অন্যদের সেবা করার জন্য সে নিজের ব্যক্তিগত ইচ্ছা ত্যাগ করেছিল।",
+      "At dinner, she explained that 'Abnegate' means 'to deny or give up something, especially', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Abnegate’ শব্দটির অর্থ—নিজের ইচ্ছা বা অধিকার ত্যাগ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Abnegate' as 'to deny or give up something, especially' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Abnegate’ শব্দটি নিজের ইচ্ছা বা অধিকার ত্যাগ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Abomination",
+    "pronunciation_bn": "অ্যাবমিনেইশন",
+    "pronunciation": "/əˌbɑː.məˈneɪ.ʃən/",
+    "no": 12,
+    "group": 1,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a thing or action that is hated or considered extremely unpleasant",
+    "meaning_bn": [
+      "ঘৃণ্য বস্তু বা কাজ",
+      "জঘন্য বিষয়"
+    ],
+    "synonyms": [
+      {
+        "en": "atrocity",
+        "bn": "নৃশংসতা"
+      },
+      {
+        "en": "disgrace",
+        "bn": "কলঙ্ক"
+      },
+      {
+        "en": "abhorrence",
+        "bn": "ঘৃণার বিষয়"
+      },
+      {
+        "en": "Anathema",
+        "bn": "অত্যন্ত ঘৃণিত ব্যক্তি বা বিষয়"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "delight",
+        "bn": "আনন্দের বিষয়"
+      },
+      {
+        "en": "blessing",
+        "bn": "আশীর্বাদ"
+      }
+    ],
+    "example": "War is an abomination that destroys lives.",
+    "example_bn": "যুদ্ধ এমন এক জঘন্য বিষয়, যা মানুষের জীবন ধ্বংস করে।",
+    "examples": [
+      "War is an abomination that destroys lives. — যুদ্ধ এমন এক জঘন্য বিষয়, যা মানুষের জীবন ধ্বংস করে।",
+      "At dinner, she explained that 'Abomination' means 'a thing or action that is hated', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Abomination’ শব্দটির অর্থ—ঘৃণ্য বস্তু বা কাজ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Abomination' as 'a thing or action that is hated' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Abomination’ শব্দটি ঘৃণ্য বস্তু বা কাজ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Aboriginal",
+    "pronunciation_bn": "অ্যাবরিজিনাল",
+    "pronunciation": "/ˌæb.əˈrɪdʒ.ən.əl/",
+    "no": 13,
+    "group": 1,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "native",
+    "meaning_bn": [
+      "আদিবাসী",
+      "কোনো অঞ্চলের আদি অধিবাসী"
+    ],
+    "synonyms": [
+      {
+        "en": "indigenous",
+        "bn": "আদিবাসী"
+      },
+      {
+        "en": "native",
+        "bn": "স্থানীয়"
+      },
+      {
+        "en": "original",
+        "bn": "আদি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "immigrant",
+        "bn": "অভিবাসী"
+      },
+      {
+        "en": "foreign",
+        "bn": "বিদেশি"
+      }
+    ],
+    "example": "The aboriginal people have lived on this land for centuries.",
+    "example_bn": "আদিবাসীরা শতাব্দীর পর শতাব্দী ধরে এই ভূমিতে বসবাস করে আসছে।",
+    "examples": [
+      "The aboriginal people have lived on this land for centuries. — আদিবাসীরা শতাব্দীর পর শতাব্দী ধরে এই ভূমিতে বসবাস করে আসছে।",
+      "At dinner, she explained that 'Aboriginal' means 'native', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Aboriginal’ শব্দটির অর্থ—আদিবাসী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Aboriginal' as 'native' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Aboriginal’ শব্দটি আদিবাসী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Abortive",
+    "pronunciation_bn": "অ্যাবর্টিভ",
+    "pronunciation": "/əˈbɔːr.tɪv/",
+    "no": 14,
+    "group": 1,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "unsuccessful",
+    "meaning_bn": [
+      "ব্যর্থ",
+      "সফল হতে পারেনি এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "unsuccessful",
+        "bn": "ব্যর্থ"
+      },
+      {
+        "en": "futile",
+        "bn": "নিষ্ফল"
+      },
+      {
+        "en": "fruitless",
+        "bn": "ফলহীন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "successful",
+        "bn": "সফল"
+      },
+      {
+        "en": "effective",
+        "bn": "কার্যকর"
+      },
+      {
+        "en": "fruitful",
+        "bn": "ফলপ্রসূ"
+      },
+      {
+        "en": "effectual",
+        "bn": "কার্যকর"
+      }
+    ],
+    "example": "Their abortive attempt to escape ended in capture.",
+    "example_bn": "তাদের পালানোর ব্যর্থ চেষ্টা শেষ পর্যন্ত ধরা পড়ার মধ্য দিয়ে শেষ হয়েছিল।",
+    "examples": [
+      "Their abortive attempt to escape ended in capture. — তাদের পালানোর ব্যর্থ চেষ্টা শেষ পর্যন্ত ধরা পড়ার মধ্য দিয়ে শেষ হয়েছিল।",
+      "At dinner, she explained that 'Abortive' means 'unsuccessful', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Abortive’ শব্দটির অর্থ—ব্যর্থ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Abortive' as 'unsuccessful' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Abortive’ শব্দটি ব্যর্থ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Abound",
+    "pronunciation_bn": "অ্যাবাউন্ড",
+    "pronunciation": "/əˈbaʊnd/",
+    "no": 15,
+    "group": 1,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to exist in large numbers or quantities",
+    "meaning_bn": [
+      "প্রচুর পরিমাণে থাকা",
+      "ভরপুর থাকা"
+    ],
+    "synonyms": [
+      {
+        "en": "teem",
+        "bn": "প্রচুর পরিমাণে থাকা"
+      },
+      {
+        "en": "overflow",
+        "bn": "উপচে পড়া"
+      },
+      {
+        "en": "proliferate",
+        "bn": "দ্রুত বৃদ্ধি পাওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "lack",
+        "bn": "অভাব থাকা"
+      },
+      {
+        "en": "be scarce",
+        "bn": "দুষ্প্রাপ্য হওয়া"
+      }
+    ],
+    "example": "Fish abound in this river during monsoon season.",
+    "example_bn": "বর্ষাকালে এই নদীতে প্রচুর মাছ পাওয়া যায়।",
+    "examples": [
+      "Fish abound in this river during monsoon season. — বর্ষাকালে এই নদীতে প্রচুর মাছ পাওয়া যায়।",
+      "At dinner, she explained that 'Abound' means 'to exist in large numbers or quantities', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Abound’ শব্দটির অর্থ—প্রচুর পরিমাণে থাকা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Abound' as 'to exist in large numbers or quantities' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Abound’ শব্দটি প্রচুর পরিমাণে থাকা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Abridge",
+    "pronunciation_bn": "অ্যাব্রিজ",
+    "pronunciation": "/əˈbrɪdʒ/",
+    "no": 16,
+    "group": 1,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to shorten",
+    "meaning_bn": [
+      "সংক্ষিপ্ত করা",
+      "সংক্ষেপে উপস্থাপন করা"
+    ],
+    "synonyms": [
+      {
+        "en": "shorten",
+        "bn": "ছোট করা"
+      },
+      {
+        "en": "condense",
+        "bn": "সংক্ষিপ্ত করা"
+      },
+      {
+        "en": "summarize",
+        "bn": "সারসংক্ষেপ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "expand",
+        "bn": "বিস্তার করা"
+      },
+      {
+        "en": "lengthen",
+        "bn": "দীর্ঘ করা"
+      },
+      {
+        "en": "Protract",
+        "bn": "দীর্ঘায়িত করা"
+      },
+      {
+        "en": "Belabor",
+        "bn": "কোনো বিষয় নিয়ে অতিরিক্ত দীর্ঘ আলোচনা করা"
+      },
+      {
+        "en": "dilate",
+        "bn": "প্রসারিত হওয়া"
+      },
+      {
+        "en": "Burgeon",
+        "bn": "দ্রুত বৃদ্ধি পাওয়া"
+      },
+      {
+        "en": "Distend",
+        "bn": "ফুলে ওঠা"
+      },
+      {
+        "en": "enumerate",
+        "bn": "এক এক করে উল্লেখ করা"
+      }
+    ],
+    "example": "The editor abridged the novel to fit the magazine.",
+    "example_bn": "পত্রিকায় প্রকাশের উপযোগী করতে সম্পাদক উপন্যাসটি সংক্ষিপ্ত করেছিলেন।",
+    "examples": [
+      "The editor abridged the novel to fit the magazine. — পত্রিকায় প্রকাশের উপযোগী করতে সম্পাদক উপন্যাসটি সংক্ষিপ্ত করেছিলেন।",
+      "At dinner, she explained that 'Abridge' means 'to shorten', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Abridge’ শব্দটির অর্থ—সংক্ষিপ্ত করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Abridge' as 'to shorten' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Abridge’ শব্দটি সংক্ষিপ্ত করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Abrogate",
+    "pronunciation_bn": "অ্যাবরোগেইট",
+    "pronunciation": "/ˈæb.rə.ɡeɪt/",
+    "no": 17,
+    "group": 1,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to nullify",
+    "meaning_bn": [
+      "আনুষ্ঠানিকভাবে বাতিল করা",
+      "রদ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "repeal",
+        "bn": "আইন বাতিল করা"
+      },
+      {
+        "en": "annul",
+        "bn": "বাতিল করা"
+      },
+      {
+        "en": "rescind",
+        "bn": "প্রত্যাহার করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "enact",
+        "bn": "আইন প্রণয়ন করা"
+      },
+      {
+        "en": "establish",
+        "bn": "প্রতিষ্ঠা করা"
+      }
+    ],
+    "example": "The new law abrogated several outdated regulations.",
+    "example_bn": "নতুন আইনটি কয়েকটি পুরোনো বিধান বাতিল করেছিল।",
+    "examples": [
+      "The new law abrogated several outdated regulations. — নতুন আইনটি কয়েকটি পুরোনো বিধান বাতিল করেছিল।",
+      "At dinner, she explained that 'Abrogate' means 'to nullify', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Abrogate’ শব্দটির অর্থ—আনুষ্ঠানিকভাবে বাতিল করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Abrogate' as 'to nullify' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Abrogate’ শব্দটি আনুষ্ঠানিকভাবে বাতিল করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Absolute",
+    "pronunciation_bn": "অ্যাবসলুট",
+    "pronunciation": "/ˈæb.sə.luːt/",
+    "no": 18,
+    "group": 1,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "total",
+    "meaning_bn": [
+      "সম্পূর্ণ",
+      "নিরঙ্কুশ",
+      "পরম"
+    ],
+    "synonyms": [
+      {
+        "en": "complete",
+        "bn": "সম্পূর্ণ"
+      },
+      {
+        "en": "total",
+        "bn": "সর্বাত্মক"
+      },
+      {
+        "en": "unconditional",
+        "bn": "শর্তহীন"
+      },
+      {
+        "en": "Categorical",
+        "bn": "নিঃশর্ত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "partial",
+        "bn": "আংশিক"
+      },
+      {
+        "en": "limited",
+        "bn": "সীমিত"
+      },
+      {
+        "en": "Ambiguous",
+        "bn": "দ্ব্যর্থক"
+      },
+      {
+        "en": "Contingent",
+        "bn": "নির্ভরশীল"
+      },
+      {
+        "en": "fragmentary",
+        "bn": "খণ্ডিত"
+      },
+      {
+        "en": "Tentative",
+        "bn": "অনিশ্চিত"
+      }
+    ],
+    "example": "The general demanded absolute obedience from his troops.",
+    "example_bn": "সেনাপতি তার সৈন্যদের কাছ থেকে নিরঙ্কুশ আনুগত্য দাবি করেছিলেন।",
+    "examples": [
+      "The general demanded absolute obedience from his troops. — সেনাপতি তার সৈন্যদের কাছ থেকে নিরঙ্কুশ আনুগত্য দাবি করেছিলেন।",
+      "At dinner, she explained that 'Absolute' means 'total', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Absolute’ শব্দটির অর্থ—সম্পূর্ণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Absolute' as 'total' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Absolute’ শব্দটি সম্পূর্ণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Absolve",
+    "pronunciation_bn": "অ্যাবজলভ",
+    "pronunciation": "/əbˈzɑːlv/",
+    "no": 19,
+    "group": 1,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to free from blame",
+    "meaning_bn": [
+      "দায়মুক্ত করা",
+      "অভিযোগ থেকে অব্যাহতি দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "exonerate",
+        "bn": "দায়মুক্ত করা"
+      },
+      {
+        "en": "acquit",
+        "bn": "খালাস দেওয়া"
+      },
+      {
+        "en": "pardon",
+        "bn": "ক্ষমা করা"
+      },
+      {
+        "en": "Vindicate",
+        "bn": "নির্দোষ প্রমাণ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "blame",
+        "bn": "দোষারোপ করা"
+      },
+      {
+        "en": "convict",
+        "bn": "দোষী সাব্যস্ত করা"
+      },
+      {
+        "en": "Arraign",
+        "bn": "অভিযোগের জবাব দিতে আদালতে হাজির করা"
+      },
+      {
+        "en": "Indict",
+        "bn": "অপরাধের আনুষ্ঠানিক অভিযোগ আনা"
+      },
+      {
+        "en": "Impeach",
+        "bn": "অভিশংসন করা"
+      },
+      {
+        "en": "Slander",
+        "bn": "মিথ্যা মৌখিক অপবাদ দেওয়া"
+      },
+      {
+        "en": "taint",
+        "bn": "দূষিত করা"
+      }
+    ],
+    "example": "The court absolved him of all charges.",
+    "example_bn": "আদালত তাকে সব অভিযোগ থেকে অব্যাহতি দিয়েছিল।",
+    "examples": [
+      "The court absolved him of all charges. — আদালত তাকে সব অভিযোগ থেকে অব্যাহতি দিয়েছিল।",
+      "At dinner, she explained that 'Absolve' means 'to free from blame', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Absolve’ শব্দটির অর্থ—দায়মুক্ত করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Absolve' as 'to free from blame' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Absolve’ শব্দটি দায়মুক্ত করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Abstinent",
+    "pronunciation_bn": "অ্যাবস্টিনেন্ট",
+    "pronunciation": "/ˈæb.stə.nənt/",
+    "no": 20,
+    "group": 1,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "refraining from something, especially an indulgence",
+    "meaning_bn": [
+      "বিরত থাকা",
+      "সংযমী"
+    ],
+    "synonyms": [
+      {
+        "en": "self-denying",
+        "bn": "আত্মসংযমী"
+      },
+      {
+        "en": "temperate",
+        "bn": "সংযমী"
+      },
+      {
+        "en": "restrained",
+        "bn": "সংযত"
+      },
+      {
+        "en": "Ascetic",
+        "bn": "কৃচ্ছ্রসাধনকারী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "indulgent",
+        "bn": "ভোগবিলাসী"
+      },
+      {
+        "en": "intemperate",
+        "bn": "অসংযমী"
+      },
+      {
+        "en": "exuberant",
+        "bn": "উচ্ছ্বসিত"
+      },
+      {
+        "en": "florid",
+        "bn": "লালচে মুখমণ্ডলবিশিষ্ট"
+      },
+      {
+        "en": "Histrionic",
+        "bn": "অতিনাটকীয়"
+      },
+      {
+        "en": "Licentious",
+        "bn": "নীতিবিবর্জিত"
+      },
+      {
+        "en": "Maudlin",
+        "bn": "অতিরিক্ত ভাবালু বা আবেগপ্রবণ, প্রায়ই অস্বাভাবিকভাবে কান্নাকাটি-প্রবণ"
+      }
+    ],
+    "example": "He remained abstinent from alcohol his entire life.",
+    "example_bn": "সে সারা জীবন মদ্যপান থেকে বিরত ছিল।",
+    "examples": [
+      "He remained abstinent from alcohol his entire life. — সে সারা জীবন মদ্যপান থেকে বিরত ছিল।",
+      "At dinner, she explained that 'Abstinent' means 'refraining from something, especially an indulgence', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Abstinent’ শব্দটির অর্থ—বিরত থাকা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Abstinent' as 'refraining from something, especially an indulgence' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Abstinent’ শব্দটি বিরত থাকা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Abstract",
+    "pronunciation_bn": "অ্যাবস্ট্র্যাক্ট",
+    "pronunciation": "/ˈæb.strækt/",
+    "no": 21,
+    "group": 1,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "existing as an idea rather than a physical thing; theoretical",
+    "meaning_bn": [
+      "বিমূর্ত",
+      "ধারণাগত",
+      "তাত্ত্বিক"
+    ],
+    "synonyms": [
+      {
+        "en": "theoretical",
+        "bn": "তাত্ত্বিক"
+      },
+      {
+        "en": "conceptual",
+        "bn": "ধারণাগত"
+      },
+      {
+        "en": "intangible",
+        "bn": "অস্পর্শনীয়"
+      },
+      {
+        "en": "Hypothetical",
+        "bn": "অনুমানভিত্তিক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "concrete",
+        "bn": "মূর্ত"
+      },
+      {
+        "en": "specific",
+        "bn": "নির্দিষ্ট"
+      },
+      {
+        "en": "Tangible",
+        "bn": "স্পর্শযোগ্য"
+      },
+      {
+        "en": "Palpable",
+        "bn": "স্পর্শযোগ্য"
+      },
+      {
+        "en": "corporeal",
+        "bn": "দৈহিক"
+      },
+      {
+        "en": "Empirical",
+        "bn": "অভিজ্ঞতা বা পর্যবেক্ষণনির্ভর"
+      },
+      {
+        "en": "Explicit",
+        "bn": "সুস্পষ্ট"
+      },
+      {
+        "en": "Pragmatic",
+        "bn": "বাস্তবসম্মত"
+      }
+    ],
+    "example": "Mathematics can seem very abstract to young students.",
+    "example_bn": "তরুণ শিক্ষার্থীদের কাছে গণিতকে খুব বিমূর্ত মনে হতে পারে।",
+    "examples": [
+      "Mathematics can seem very abstract to young students. — তরুণ শিক্ষার্থীদের কাছে গণিতকে খুব বিমূর্ত মনে হতে পারে।",
+      "At dinner, she explained that 'Abstract' means 'existing as an idea rather than a physical', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Abstract’ শব্দটির অর্থ—বিমূর্ত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Abstract' as 'existing as an idea rather than a physical' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Abstract’ শব্দটি বিমূর্ত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Abstruse",
+    "pronunciation_bn": "অ্যাবস্ট্রুস",
+    "pronunciation": "/əbˈstruːs/",
+    "no": 22,
+    "group": 1,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "difficult to understand",
+    "meaning_bn": [
+      "দুর্বোধ্য",
+      "বোঝা কঠিন এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "obscure",
+        "bn": "অস্পষ্ট"
+      },
+      {
+        "en": "recondite",
+        "bn": "দুর্বোধ্য"
+      },
+      {
+        "en": "arcane",
+        "bn": "গূঢ়"
+      },
+      {
+        "en": "Esoteric",
+        "bn": "দুর্বোধ্য"
+      },
+      {
+        "en": "Cryptic",
+        "bn": "রহস্যময়"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "clear",
+        "bn": "স্পষ্ট"
+      },
+      {
+        "en": "understandable",
+        "bn": "সহজবোধ্য"
+      },
+      {
+        "en": "conspicuous",
+        "bn": "সহজে চোখে পড়ে এমন"
+      },
+      {
+        "en": "Limpid",
+        "bn": "স্বচ্ছ"
+      },
+      {
+        "en": "Manifest",
+        "bn": "স্পষ্ট"
+      },
+      {
+        "en": "Patent",
+        "bn": "সুস্পষ্ট"
+      }
+    ],
+    "example": "The professor's lecture was so abstruse that students fell asleep.",
+    "example_bn": "অধ্যাপকের বক্তৃতাটি এত দুর্বোধ্য ছিল যে শিক্ষার্থীরা ঘুমিয়ে পড়েছিল।",
+    "examples": [
+      "The professor's lecture was so abstruse that students fell asleep. — অধ্যাপকের বক্তৃতাটি এত দুর্বোধ্য ছিল যে শিক্ষার্থীরা ঘুমিয়ে পড়েছিল।",
+      "At dinner, she explained that 'Abstruse' means 'difficult to understand', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Abstruse’ শব্দটির অর্থ—দুর্বোধ্য—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Abstruse' as 'difficult to understand' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Abstruse’ শব্দটি দুর্বোধ্য অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Abysmal",
+    "pronunciation_bn": "অ্যাবিজমাল",
+    "pronunciation": "/əˈbɪz.məl/",
+    "no": 23,
+    "group": 1,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "extremely bad; very deep or seemingly bottomless",
+    "meaning_bn": [
+      "অত্যন্ত খারাপ",
+      "অতলস্পর্শী"
+    ],
+    "synonyms": [
+      {
+        "en": "terrible",
+        "bn": "ভয়াবহ"
+      },
+      {
+        "en": "awful",
+        "bn": "জঘন্য"
+      },
+      {
+        "en": "dreadful",
+        "bn": "অত্যন্ত খারাপ"
+      },
+      {
+        "en": "dire",
+        "bn": "ভয়াবহ"
+      },
+      {
+        "en": "Ghastly",
+        "bn": "ভয়াবহ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "excellent",
+        "bn": "চমৎকার"
+      },
+      {
+        "en": "outstanding",
+        "bn": "অসাধারণ"
+      },
+      {
+        "en": "Preeminent",
+        "bn": "সর্বশ্রেষ্ঠ"
+      }
+    ],
+    "example": "The team's performance was abysmal in the final match.",
+    "example_bn": "ফাইনাল ম্যাচে দলটির পারফরম্যান্স ছিল অত্যন্ত খারাপ।",
+    "examples": [
+      "The team's performance was abysmal in the final match. — ফাইনাল ম্যাচে দলটির পারফরম্যান্স ছিল অত্যন্ত খারাপ।",
+      "At dinner, she explained that 'Abysmal' means 'extremely bad', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Abysmal’ শব্দটির অর্থ—অত্যন্ত খারাপ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Abysmal' as 'extremely bad' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Abysmal’ শব্দটি অত্যন্ত খারাপ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Accede",
+    "pronunciation_bn": "অ্যাকসিড",
+    "pronunciation": "/əkˈsiːd/",
+    "no": 24,
+    "group": 1,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to give in",
+    "meaning_bn": [
+      "সম্মত হওয়া",
+      "দাবি মেনে নেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "agree",
+        "bn": "সম্মত হওয়া"
+      },
+      {
+        "en": "consent",
+        "bn": "সম্মতি দেওয়া"
+      },
+      {
+        "en": "yield",
+        "bn": "মেনে নেওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "refuse",
+        "bn": "প্রত্যাখ্যান করা"
+      },
+      {
+        "en": "oppose",
+        "bn": "বিরোধিতা করা"
+      }
+    ],
+    "example": "The manager acceded to the workers' demands.",
+    "example_bn": "ব্যবস্থাপক কর্মীদের দাবিগুলো মেনে নিয়েছিলেন।",
+    "examples": [
+      "The manager acceded to the workers' demands. — ব্যবস্থাপক কর্মীদের দাবিগুলো মেনে নিয়েছিলেন।",
+      "At dinner, she explained that 'Accede' means 'to give', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Accede’ শব্দটির অর্থ—সম্মত হওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Accede' as 'to give' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Accede’ শব্দটি সম্মত হওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Accentuate",
+    "pronunciation_bn": "অ্যাকসেনচুয়েইট",
+    "pronunciation": "/əkˈsen.tʃu.eɪt/",
+    "no": 25,
+    "group": 1,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to emphasize",
+    "meaning_bn": [
+      "বিশেষভাবে তুলে ধরা",
+      "আরও স্পষ্ট করে তোলা"
+    ],
+    "synonyms": [
+      {
+        "en": "emphasize",
+        "bn": "জোর দেওয়া"
+      },
+      {
+        "en": "highlight",
+        "bn": "বিশেষভাবে তুলে ধরা"
+      },
+      {
+        "en": "stress",
+        "bn": "গুরুত্ব আরোপ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "downplay",
+        "bn": "গুরুত্ব কমিয়ে দেখানো"
+      },
+      {
+        "en": "understate",
+        "bn": "কম গুরুত্ব দিয়ে বলা"
+      }
+    ],
+    "example": "Her smile accentuated the warmth of her personality.",
+    "example_bn": "তার হাসি তার ব্যক্তিত্বের উষ্ণতাকে আরও স্পষ্ট করে তুলেছিল।",
+    "examples": [
+      "Her smile accentuated the warmth of her personality. — তার হাসি তার ব্যক্তিত্বের উষ্ণতাকে আরও স্পষ্ট করে তুলেছিল।",
+      "At dinner, she explained that 'Accentuate' means 'to emphasize', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Accentuate’ শব্দটির অর্থ—বিশেষভাবে তুলে ধরা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Accentuate' as 'to emphasize' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Accentuate’ শব্দটি বিশেষভাবে তুলে ধরা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

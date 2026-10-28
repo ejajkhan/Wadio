@@ -1,0 +1,1823 @@
+[
+  {
+    "word": "Subversive",
+    "pronunciation_bn": "সাবভার্সিভ",
+    "pronunciation": "/səbˈvɜː.sɪv/",
+    "no": 776,
+    "group": 32,
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "meaning_en": "intended to weaken or destroy an established political or social system; a person or thing with this aim",
+    "meaning_bn": [
+      "প্রচলিত ব্যবস্থা বা কর্তৃত্বকে দুর্বল বা উৎখাত করার উদ্দেশ্যে পরিচালিত",
+      "ব্যবস্থাবিরোধী ব্যক্তি বা বস্তু"
+    ],
+    "synonyms": [
+      {
+        "en": "undermining",
+        "bn": "দুর্বল করে এমন"
+      },
+      {
+        "en": "revolutionary",
+        "bn": "বিপ্লবী"
+      },
+      {
+        "en": "insurgent",
+        "bn": "বিদ্রোহী"
+      },
+      {
+        "en": "Iconoclast",
+        "bn": "প্রচলিত বিশ্বাস ও প্রথার বিরোধিতাকারী ব্যক্তি"
+      },
+      {
+        "en": "Maverick",
+        "bn": "যিনি প্রচলিত নিয়ম বা দলের মত অনুসরণ না করে স্বাধীনভাবে চিন্তা বা কাজ করেন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "supportive",
+        "bn": "সমর্থনমূলক"
+      },
+      {
+        "en": "constructive",
+        "bn": "গঠনমূলক"
+      },
+      {
+        "en": "loyal",
+        "bn": "অনুগত"
+      },
+      {
+        "en": "Staunch",
+        "bn": "একনিষ্ঠ"
+      },
+      {
+        "en": "Steadfast",
+        "bn": "অবিচল"
+      },
+      {
+        "en": "Adherent",
+        "bn": "অনুসারী"
+      },
+      {
+        "en": "Benefactor",
+        "bn": "দাতা"
+      },
+      {
+        "en": "Partisan",
+        "bn": "কোনো পক্ষ বা দলের একনিষ্ঠ সমর্থক"
+      }
+    ],
+    "example": "The government banned the subversive pamphlets.",
+    "example_bn": "সরকার ব্যবস্থাবিরোধী প্রচারপত্রগুলো নিষিদ্ধ করেছিল.",
+    "examples": [
+      "The government banned the subversive pamphlets. — সরকার ব্যবস্থাবিরোধী প্রচারপত্রগুলো নিষিদ্ধ করেছিল.",
+      "At dinner, she explained that 'Subversive' means 'intended to weaken or destroy an established political', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Subversive’ শব্দটির অর্থ—প্রচলিত ব্যবস্থা বা কর্তৃত্বকে দুর্বল বা উৎখাত করার উদ্দেশ্যে পরিচালিত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Subversive' as 'intended to weaken or destroy an established political' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Subversive’ শব্দটি প্রচলিত ব্যবস্থা বা কর্তৃত্বকে দুর্বল বা উৎখাত করার উদ্দেশ্যে পরিচালিত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Succinct",
+    "pronunciation_bn": "সাকসিঙ্ক্ট",
+    "pronunciation": "/səkˈsɪŋkt/",
+    "no": 777,
+    "group": 32,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "expressed clearly and briefly, without unnecessary words",
+    "meaning_bn": [
+      "সংক্ষিপ্ত ও স্পষ্ট",
+      "অল্প কথায় সারগর্ভভাবে প্রকাশিত"
+    ],
+    "synonyms": [
+      {
+        "en": "concise",
+        "bn": "সংক্ষিপ্ত ও সুস্পষ্ট"
+      },
+      {
+        "en": "brief",
+        "bn": "সংক্ষিপ্ত"
+      },
+      {
+        "en": "terse",
+        "bn": "অল্প কথায় প্রকাশিত"
+      },
+      {
+        "en": "Laconic",
+        "bn": "অল্পভাষী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "verbose",
+        "bn": "বাক্যবহুল"
+      },
+      {
+        "en": "long-winded",
+        "bn": "অতিরিক্ত কথাবলা"
+      },
+      {
+        "en": "wordy",
+        "bn": "শব্দবহুল"
+      },
+      {
+        "en": "Redundant",
+        "bn": "অপ্রয়োজনীয়"
+      },
+      {
+        "en": "discursive",
+        "bn": "প্রসঙ্গান্তরপ্রবণ"
+      },
+      {
+        "en": "Interminable",
+        "bn": "শেষহীন বলে মনে হয় এমন"
+      },
+      {
+        "en": "Tautological",
+        "bn": "একই অর্থের অপ্রয়োজনীয় পুনরাবৃত্তিমূলক"
+      },
+      {
+        "en": "voluminous",
+        "bn": "বৃহৎ"
+      }
+    ],
+    "example": "Her succinct reply answered all the questions.",
+    "example_bn": "তার সংক্ষিপ্ত ও স্পষ্ট উত্তরটি সব প্রশ্নের জবাব দিয়েছিল।",
+    "examples": [
+      "Her succinct reply answered all the questions. — তার সংক্ষিপ্ত ও স্পষ্ট উত্তরটি সব প্রশ্নের জবাব দিয়েছিল।",
+      "At dinner, she explained that 'Succinct' means 'expressed clearly and briefly, without unnecessary words', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Succinct’ শব্দটির অর্থ—সংক্ষিপ্ত ও স্পষ্ট—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Succinct' as 'expressed clearly and briefly, without unnecessary words' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Succinct’ শব্দটি সংক্ষিপ্ত ও স্পষ্ট অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Succumb",
+    "pronunciation_bn": "সাকাম",
+    "pronunciation": "/səˈkʌm/",
+    "no": 778,
+    "group": 32,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to stop resisting, give in to something, or die from an illness",
+    "meaning_bn": [
+      "নতিস্বীকার করা",
+      "প্রতিরোধে ব্যর্থ হয়ে মেনে নেওয়া",
+      "রোগে মারা যাওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "yield",
+        "bn": "নতিস্বীকার করা"
+      },
+      {
+        "en": "surrender",
+        "bn": "আত্মসমর্পণ করা"
+      },
+      {
+        "en": "give in",
+        "bn": "হার মেনে নেওয়া"
+      },
+      {
+        "en": "Capitulate",
+        "bn": "আত্মসমর্পণ করা"
+      },
+      {
+        "en": "Relinquish",
+        "bn": "ত্যাগ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "resist",
+        "bn": "প্রতিরোধ করা"
+      },
+      {
+        "en": "withstand",
+        "bn": "প্রতিরোধ করে টিকে থাকা"
+      },
+      {
+        "en": "overcome",
+        "bn": "জয় করা"
+      },
+      {
+        "en": "rout",
+        "bn": "সম্পূর্ণভাবে পরাজিত করা"
+      },
+      {
+        "en": "Prevail",
+        "bn": "জয়ী হওয়া"
+      },
+      {
+        "en": "disperse",
+        "bn": "ছড়িয়ে পড়া"
+      },
+      {
+        "en": "Dissipate",
+        "bn": "ধীরে ধীরে মিলিয়ে যাওয়া"
+      },
+      {
+        "en": "Exult",
+        "bn": "উল্লাস করা"
+      },
+      {
+        "en": "Inundate",
+        "bn": "প্লাবিত করা"
+      },
+      {
+        "en": "vanquish",
+        "bn": "সম্পূর্ণভাবে পরাজিত করা"
+      }
+    ],
+    "example": "He succumbed to the illness after a long fight.",
+    "example_bn": "দীর্ঘ লড়াইয়ের পর তিনি রোগটির কাছে হার মানলেন।",
+    "examples": [
+      "He succumbed to the illness after a long fight. — দীর্ঘ লড়াইয়ের পর তিনি রোগটির কাছে হার মানলেন।",
+      "At dinner, she explained that 'Succumb' means 'to stop resisting, give in to something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Succumb’ শব্দটির অর্থ—নতিস্বীকার করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Succumb' as 'to stop resisting, give in to something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Succumb’ শব্দটি নতিস্বীকার করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Supercilious",
+    "pronunciation_bn": "সুপারসিলিয়াস",
+    "pronunciation": "/ˌsuː.pəˈsɪl.i.əs/",
+    "no": 779,
+    "group": 32,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "behaving as though one is superior to others and their opinions do not matter",
+    "meaning_bn": [
+      "অহংকারী",
+      "অন্যকে তুচ্ছজ্ঞান করে এমন",
+      "উদ্ধত"
+    ],
+    "synonyms": [
+      {
+        "en": "haughty",
+        "bn": "অহংকারী"
+      },
+      {
+        "en": "arrogant",
+        "bn": "দাম্ভিক"
+      },
+      {
+        "en": "contemptuous",
+        "bn": "অবজ্ঞাপূর্ণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "humble",
+        "bn": "বিনয়ী"
+      },
+      {
+        "en": "modest",
+        "bn": "নম্র"
+      },
+      {
+        "en": "respectful",
+        "bn": "শ্রদ্ধাশীল"
+      },
+      {
+        "en": "demure",
+        "bn": "লাজুক ও সংযত"
+      }
+    ],
+    "example": "Her supercilious attitude made the new students uncomfortable.",
+    "example_bn": "তার উদ্ধত আচরণ নতুন শিক্ষার্থীদের অস্বস্তিতে ফেলেছিল।",
+    "examples": [
+      "Her supercilious attitude made the new students uncomfortable. — তার উদ্ধত আচরণ নতুন শিক্ষার্থীদের অস্বস্তিতে ফেলেছিল।",
+      "At dinner, she explained that 'Supercilious' means 'behaving as though one is superior to others', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Supercilious’ শব্দটির অর্থ—অহংকারী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Supercilious' as 'behaving as though one is superior to others' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Supercilious’ শব্দটি অহংকারী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Superficial",
+    "pronunciation_bn": "সুপারফিশাল",
+    "pronunciation": "/ˌsuː.pəˈfɪʃ.əl/",
+    "no": 780,
+    "group": 32,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "existing or appearing only on the surface; not thorough or showing deep understanding",
+    "meaning_bn": [
+      "উপরিভাগের",
+      "অগভীর",
+      "ভাসাভাসা",
+      "পুঙ্খানুপুঙ্খ নয় এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "shallow",
+        "bn": "অগভীর"
+      },
+      {
+        "en": "cursory",
+        "bn": "দ্রুত ও উপরিতলীয়"
+      },
+      {
+        "en": "surface-level",
+        "bn": "উপরিভাগসংশ্লিষ্ট"
+      },
+      {
+        "en": "Facile",
+        "bn": "অতি সহজে করা হলেও যথেষ্ট চিন্তাভাবনাহীন"
+      },
+      {
+        "en": "Perfunctory",
+        "bn": "দায়সারা"
+      },
+      {
+        "en": "Precipitous",
+        "bn": "খাড়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "deep",
+        "bn": "গভীর"
+      },
+      {
+        "en": "thorough",
+        "bn": "পুঙ্খানুপুঙ্খ"
+      },
+      {
+        "en": "profound",
+        "bn": "গভীর ও ব্যাপক"
+      },
+      {
+        "en": "Incisive",
+        "bn": "তীক্ষ্ণ বিশ্লেষণী"
+      },
+      {
+        "en": "Substantive",
+        "bn": "মৌলিক"
+      },
+      {
+        "en": "Exhaustive",
+        "bn": "পুঙ্খানুপুঙ্খ"
+      },
+      {
+        "en": "underlying",
+        "bn": "অন্তর্নিহিত"
+      },
+      {
+        "en": "Comprehensive",
+        "bn": "সর্বাঙ্গীণ"
+      },
+      {
+        "en": "Rigorous",
+        "bn": "কঠোর"
+      },
+      {
+        "en": "Painstaking",
+        "bn": "অত্যন্ত যত্নসহকারে করা"
+      },
+      {
+        "en": "Fastidious",
+        "bn": "খুঁতখুঁতে"
+      },
+      {
+        "en": "Scrupulous",
+        "bn": "অত্যন্ত সতর্ক"
+      }
+    ],
+    "example": "His knowledge of history was superficial.",
+    "example_bn": "ইতিহাস সম্পর্কে তার জ্ঞান ছিল ভাসাভাসা।",
+    "examples": [
+      "His knowledge of history was superficial. — ইতিহাস সম্পর্কে তার জ্ঞান ছিল ভাসাভাসা।",
+      "At dinner, she explained that 'Superficial' means 'existing or appearing only on the surface', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Superficial’ শব্দটির অর্থ—উপরিভাগের—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Superficial' as 'existing or appearing only on the surface' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Superficial’ শব্দটি উপরিভাগের অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Superfluous",
+    "pronunciation_bn": "সুপারফ্লুয়াস",
+    "pronunciation": "/suːˈpɜː.flu.əs/",
+    "no": 781,
+    "group": 32,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "more than is needed or wanted; unnecessary",
+    "meaning_bn": [
+      "অপ্রয়োজনীয়",
+      "প্রয়োজনের অতিরিক্ত",
+      "বাড়তি"
+    ],
+    "synonyms": [
+      {
+        "en": "unnecessary",
+        "bn": "অপ্রয়োজনীয়"
+      },
+      {
+        "en": "redundant",
+        "bn": "অতিরিক্ত ও পুনরাবৃত্ত"
+      },
+      {
+        "en": "excess",
+        "bn": "প্রয়োজনের অতিরিক্ত"
+      },
+      {
+        "en": "Extraneous",
+        "bn": "অপ্রাসঙ্গিক"
+      },
+      {
+        "en": "Gratuitous",
+        "bn": "অপ্রয়োজনীয়"
+      },
+      {
+        "en": "Tautological",
+        "bn": "একই অর্থের অপ্রয়োজনীয় পুনরাবৃত্তিমূলক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "necessary",
+        "bn": "প্রয়োজনীয়"
+      },
+      {
+        "en": "essential",
+        "bn": "অপরিহার্য"
+      },
+      {
+        "en": "indispensable",
+        "bn": "অত্যাবশ্যক"
+      },
+      {
+        "en": "Requisite",
+        "bn": "প্রয়োজনীয়"
+      },
+      {
+        "en": "Concise",
+        "bn": "সংক্ষিপ্ত"
+      },
+      {
+        "en": "Imperative",
+        "bn": "অত্যাবশ্যক"
+      },
+      {
+        "en": "Inherent",
+        "bn": "সহজাত"
+      },
+      {
+        "en": "Integral",
+        "bn": "অবিচ্ছেদ্য অংশ"
+      }
+    ],
+    "example": "Please remove any superfluous details from the report.",
+    "example_bn": "প্রতিবেদন থেকে অপ্রয়োজনীয় তথ্যগুলো সরিয়ে দিন।",
+    "examples": [
+      "Please remove any superfluous details from the report. — প্রতিবেদন থেকে অপ্রয়োজনীয় তথ্যগুলো সরিয়ে দিন।",
+      "At dinner, she explained that 'Superfluous' means 'more than is needed or wanted', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Superfluous’ শব্দটির অর্থ—অপ্রয়োজনীয়—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Superfluous' as 'more than is needed or wanted' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Superfluous’ শব্দটি অপ্রয়োজনীয় অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Surfeit",
+    "pronunciation_bn": "সারফিট",
+    "pronunciation": "/ˈsɜː.fɪt/",
+    "no": 782,
+    "group": 32,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "an amount that is too large or more than is needed; to supply or consume too much",
+    "meaning_bn": [
+      "অতিরিক্ত পরিমাণ",
+      "প্রাচুর্য বা আধিক্য",
+      "অতিরিক্ত ভোগ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "excess",
+        "bn": "অতিরিক্ততা"
+      },
+      {
+        "en": "glut",
+        "bn": "অতিরিক্ত জোগান"
+      },
+      {
+        "en": "oversupply",
+        "bn": "প্রয়োজনের অতিরিক্ত সরবরাহ"
+      },
+      {
+        "en": "Plethora",
+        "bn": "প্রাচুর্য"
+      },
+      {
+        "en": "cloy",
+        "bn": "অতিরিক্ত মিষ্টি বা আবেগপ্রবণ হয়ে বিরক্তিকর লাগা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "shortage",
+        "bn": "ঘাটতি"
+      },
+      {
+        "en": "scarcity",
+        "bn": "দুর্লভতা"
+      },
+      {
+        "en": "lack",
+        "bn": "অভাব"
+      },
+      {
+        "en": "Dearth",
+        "bn": "অভাব"
+      },
+      {
+        "en": "deficit",
+        "bn": "ঘাটতি"
+      },
+      {
+        "en": "Paucity",
+        "bn": "স্বল্পতা"
+      }
+    ],
+    "example": "A surfeit of rich food left him feeling ill.",
+    "example_bn": "অতিরিক্ত ভারী খাবার খেয়ে তার শরীর খারাপ লাগল।",
+    "examples": [
+      "A surfeit of rich food left him feeling ill. — অতিরিক্ত ভারী খাবার খেয়ে তার শরীর খারাপ লাগল।",
+      "At dinner, she explained that 'Surfeit' means 'an amount that is too large', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Surfeit’ শব্দটির অর্থ—অতিরিক্ত পরিমাণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Surfeit' as 'an amount that is too large' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Surfeit’ শব্দটি অতিরিক্ত পরিমাণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Surreptitious",
+    "pronunciation_bn": "সারাপটিশাস",
+    "pronunciation": "/ˌsʌr.əpˈtɪʃ.əs/",
+    "no": 783,
+    "group": 32,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "done secretly, without other people seeing or knowing",
+    "meaning_bn": [
+      "গোপনে করা",
+      "চোরাগোপ্তা",
+      "লোকচক্ষুর আড়ালে করা"
+    ],
+    "synonyms": [
+      {
+        "en": "secret",
+        "bn": "গোপন"
+      },
+      {
+        "en": "covert",
+        "bn": "গোপনীয়"
+      },
+      {
+        "en": "clandestine",
+        "bn": "গোপনে পরিচালিত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "open",
+        "bn": "প্রকাশ্য"
+      },
+      {
+        "en": "overt",
+        "bn": "খোলাখুলি"
+      },
+      {
+        "en": "public",
+        "bn": "সর্বসমক্ষে"
+      }
+    ],
+    "example": "He made a surreptitious recording of the meeting.",
+    "example_bn": "সে গোপনে বৈঠকটির রেকর্ড করেছিল।",
+    "examples": [
+      "He made a surreptitious recording of the meeting. — সে গোপনে বৈঠকটির রেকর্ড করেছিল।",
+      "At dinner, she explained that 'Surreptitious' means 'done secretly, without other people seeing or knowing', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Surreptitious’ শব্দটির অর্থ—গোপনে করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Surreptitious' as 'done secretly, without other people seeing or knowing' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Surreptitious’ শব্দটি গোপনে করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Surrogate",
+    "pronunciation_bn": "সারোগেট",
+    "pronunciation": "/ˈsʌr.ə.ɡət/",
+    "no": 784,
+    "group": 32,
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "meaning_en": "a person or thing that acts as a substitute for another",
+    "meaning_bn": [
+      "বিকল্প ব্যক্তি বা বস্তু",
+      "প্রতিনিধি",
+      "প্রতিস্থাপক"
+    ],
+    "synonyms": [
+      {
+        "en": "substitute",
+        "bn": "বিকল্প"
+      },
+      {
+        "en": "replacement",
+        "bn": "প্রতিস্থাপক"
+      },
+      {
+        "en": "stand-in",
+        "bn": "বিকল্প প্রতিনিধি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "original",
+        "bn": "মূল"
+      },
+      {
+        "en": "genuine article",
+        "bn": "আসল বস্তু"
+      },
+      {
+        "en": "prototype",
+        "bn": "আদি নমুনা"
+      },
+      {
+        "en": "Archetype",
+        "bn": "আদিরূপ"
+      },
+      {
+        "en": "Aboriginal",
+        "bn": "আদিবাসী"
+      },
+      {
+        "en": "Novel",
+        "bn": "নতুন"
+      }
+    ],
+    "example": "She acted as a surrogate mother for her sister.",
+    "example_bn": "সে তার বোনের জন্য গর্ভধারক মা হিসেবে কাজ করেছিল।",
+    "examples": [
+      "She acted as a surrogate mother for her sister. — সে তার বোনের জন্য গর্ভধারক মা হিসেবে কাজ করেছিল।",
+      "At dinner, she explained that 'Surrogate' means 'a person or thing that acts as', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Surrogate’ শব্দটির অর্থ—বিকল্প ব্যক্তি বা বস্তু—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Surrogate' as 'a person or thing that acts as' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Surrogate’ শব্দটি বিকল্প ব্যক্তি বা বস্তু অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Sycophant",
+    "pronunciation_bn": "সিকোফ্যান্ট",
+    "pronunciation": "/ˈsɪk.ə.fænt/",
+    "no": 785,
+    "group": 32,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a person who praises someone powerful or influential insincerely to gain an advantage",
+    "meaning_bn": [
+      "তোষামোদকারী",
+      "চাটুকার",
+      "স্বার্থসিদ্ধির জন্য ক্ষমতাবানকে তেল মারে যে"
+    ],
+    "synonyms": [
+      {
+        "en": "flatterer",
+        "bn": "তোষামোদকারী"
+      },
+      {
+        "en": "toady",
+        "bn": "চাটুকার"
+      },
+      {
+        "en": "bootlicker",
+        "bn": "খোশামোদকারী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "critic",
+        "bn": "সমালোচক"
+      },
+      {
+        "en": "opponent",
+        "bn": "বিরোধী"
+      },
+      {
+        "en": "truth-teller",
+        "bn": "সত্যকথক"
+      },
+      {
+        "en": "dissident",
+        "bn": "ভিন্নমতাবলম্বী ব্যক্তি"
+      }
+    ],
+    "example": "The manager was surrounded by sycophants who praised every decision.",
+    "example_bn": "ব্যবস্থাপক এমন চাটুকারদের দ্বারা পরিবেষ্টিত ছিলেন, যারা তাঁর প্রতিটি সিদ্ধান্তের প্রশংসা করত।",
+    "examples": [
+      "The manager was surrounded by sycophants who praised every decision. — ব্যবস্থাপক এমন চাটুকারদের দ্বারা পরিবেষ্টিত ছিলেন, যারা তাঁর প্রতিটি সিদ্ধান্তের প্রশংসা করত।",
+      "At dinner, she explained that 'Sycophant' means 'a person who praises someone powerful or influential', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Sycophant’ শব্দটির অর্থ—তোষামোদকারী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Sycophant' as 'a person who praises someone powerful or influential' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Sycophant’ শব্দটি তোষামোদকারী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Synthesis",
+    "pronunciation_bn": "সিন্থেসিস",
+    "pronunciation": "/ˈsɪn.θə.sɪs/",
+    "no": 786,
+    "group": 32,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the combining of separate parts, ideas, or substances to form a whole",
+    "meaning_bn": [
+      "সংশ্লেষণ",
+      "সমন্বয়",
+      "বিভিন্ন অংশ মিলিয়ে পূর্ণাঙ্গ কিছু তৈরি করা"
+    ],
+    "synonyms": [
+      {
+        "en": "combination",
+        "bn": "সমন্বয়"
+      },
+      {
+        "en": "integration",
+        "bn": "একীভূতকরণ"
+      },
+      {
+        "en": "blending",
+        "bn": "মিশ্রণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "analysis",
+        "bn": "বিশ্লেষণ"
+      },
+      {
+        "en": "separation",
+        "bn": "পৃথকীকরণ"
+      },
+      {
+        "en": "division",
+        "bn": "বিভাজন"
+      },
+      {
+        "en": "Apartheid",
+        "bn": "বর্ণবৈষম্যের নীতি"
+      },
+      {
+        "en": "partition",
+        "bn": "বিভাজন"
+      },
+      {
+        "en": "critique",
+        "bn": "সমালোচনামূলক বিশ্লেষণ"
+      },
+      {
+        "en": "dichotomy",
+        "bn": "দ্বিবিভাজন"
+      },
+      {
+        "en": "schism",
+        "bn": "বিভক্তি"
+      }
+    ],
+    "example": "His essay was a synthesis of several competing theories.",
+    "example_bn": "তার প্রবন্ধটি ছিল পরস্পরবিরোধী কয়েকটি তত্ত্বের সমন্বয়।",
+    "examples": [
+      "His essay was a synthesis of several competing theories. — তার প্রবন্ধটি ছিল পরস্পরবিরোধী কয়েকটি তত্ত্বের সমন্বয়।",
+      "At dinner, she explained that 'Synthesis' means 'the combining of separate parts, ideas, or substances', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Synthesis’ শব্দটির অর্থ—সংশ্লেষণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Synthesis' as 'the combining of separate parts, ideas, or substances' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Synthesis’ শব্দটি সংশ্লেষণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Tacit",
+    "pronunciation_bn": "ট্যাসিট",
+    "pronunciation": "/ˈtæs.ɪt/",
+    "no": 787,
+    "group": 32,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "understood or accepted without being expressed directly",
+    "meaning_bn": [
+      "অব্যক্ত",
+      "মৌন",
+      "স্পষ্টভাবে না বলেও বোঝা যায় এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "implicit",
+        "bn": "অন্তর্নিহিত"
+      },
+      {
+        "en": "unspoken",
+        "bn": "অনুচ্চারিত"
+      },
+      {
+        "en": "silent",
+        "bn": "নীরব"
+      },
+      {
+        "en": "underlying",
+        "bn": "অন্তর্নিহিত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "explicit",
+        "bn": "স্পষ্টভাবে প্রকাশিত"
+      },
+      {
+        "en": "expressed",
+        "bn": "প্রকাশিত"
+      },
+      {
+        "en": "stated",
+        "bn": "বলা হয়েছে এমন"
+      }
+    ],
+    "example": "There was a tacit agreement to avoid discussing the dispute.",
+    "example_bn": "বিরোধটি নিয়ে আলোচনা না করার একটি মৌনসম্মতি ছিল।",
+    "examples": [
+      "There was a tacit agreement to avoid discussing the dispute. — বিরোধটি নিয়ে আলোচনা না করার একটি মৌনসম্মতি ছিল।",
+      "At dinner, she explained that 'Tacit' means 'understood or accepted without being expressed directly', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Tacit’ শব্দটির অর্থ—অব্যক্ত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Tacit' as 'understood or accepted without being expressed directly' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Tacit’ শব্দটি অব্যক্ত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Taciturn",
+    "pronunciation_bn": "ট্যাসিটার্ন",
+    "pronunciation": "/ˈtæs.ɪ.tɜːn/",
+    "no": 788,
+    "group": 32,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "naturally tending to speak very little",
+    "meaning_bn": [
+      "স্বল্পভাষী",
+      "কম কথা বলে এমন",
+      "মিতভাষী"
+    ],
+    "synonyms": [
+      {
+        "en": "reserved",
+        "bn": "সংযত"
+      },
+      {
+        "en": "reticent",
+        "bn": "স্বল্পভাষী"
+      },
+      {
+        "en": "quiet",
+        "bn": "চুপচাপ"
+      },
+      {
+        "en": "Aloof",
+        "bn": "নির্লিপ্ত"
+      },
+      {
+        "en": "demure",
+        "bn": "লাজুক ও সংযত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "talkative",
+        "bn": "বাচাল"
+      },
+      {
+        "en": "loquacious",
+        "bn": "বহুভাষী"
+      },
+      {
+        "en": "garrulous",
+        "bn": "অতিবাচাল"
+      },
+      {
+        "en": "raucous",
+        "bn": "কর্কশ"
+      },
+      {
+        "en": "Vociferous",
+        "bn": "উচ্চকণ্ঠ"
+      }
+    ],
+    "example": "The taciturn soldier answered only when someone asked him a question.",
+    "example_bn": "স্বল্পভাষী সৈনিকটি কেবল কেউ প্রশ্ন করলে উত্তর দিত।",
+    "examples": [
+      "The taciturn soldier answered only when someone asked him a question. — স্বল্পভাষী সৈনিকটি কেবল কেউ প্রশ্ন করলে উত্তর দিত।",
+      "At dinner, she explained that 'Taciturn' means 'naturally tending to speak very little', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Taciturn’ শব্দটির অর্থ—স্বল্পভাষী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Taciturn' as 'naturally tending to speak very little' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Taciturn’ শব্দটি স্বল্পভাষী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Tangential",
+    "pronunciation_bn": "ট্যানজেনশাল",
+    "pronunciation": "/tænˈdʒen.ʃəl/",
+    "no": 789,
+    "group": 32,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "not directly connected with the subject or issue being discussed; relating to a tangent",
+    "meaning_bn": [
+      "মূল বিষয়ের সঙ্গে সরাসরি সম্পর্কহীন",
+      "পরোক্ষভাবে সম্পর্কিত",
+      "স্পর্শকের সঙ্গে সম্পর্কিত"
+    ],
+    "synonyms": [
+      {
+        "en": "indirect",
+        "bn": "পরোক্ষ"
+      },
+      {
+        "en": "peripheral",
+        "bn": "প্রান্তিক"
+      },
+      {
+        "en": "unrelated",
+        "bn": "সম্পর্কহীন"
+      },
+      {
+        "en": "Circuitous",
+        "bn": "ঘুরপ্যাঁচযুক্ত"
+      },
+      {
+        "en": "Oblique",
+        "bn": "পরোক্ষ"
+      },
+      {
+        "en": "Marginal",
+        "bn": "প্রান্তিক"
+      },
+      {
+        "en": "Vicarious",
+        "bn": "পরোক্ষভাবে অনুভূত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "relevant",
+        "bn": "প্রাসঙ্গিক"
+      },
+      {
+        "en": "direct",
+        "bn": "সরাসরি"
+      },
+      {
+        "en": "pertinent",
+        "bn": "প্রাসঙ্গিক"
+      },
+      {
+        "en": "Germane",
+        "bn": "প্রাসঙ্গিক"
+      },
+      {
+        "en": "Apposite",
+        "bn": "যথোপযুক্ত"
+      },
+      {
+        "en": "Apropos",
+        "bn": "প্রাসঙ্গিক"
+      },
+      {
+        "en": "concomitant",
+        "bn": "একই সঙ্গে ঘটে এমন"
+      },
+      {
+        "en": "Integral",
+        "bn": "অবিচ্ছেদ্য অংশ"
+      }
+    ],
+    "example": "His comment was tangential to the main argument.",
+    "example_bn": "তার মন্তব্যটি মূল যুক্তির সঙ্গে সরাসরি সম্পর্কিত ছিল না।",
+    "examples": [
+      "His comment was tangential to the main argument. — তার মন্তব্যটি মূল যুক্তির সঙ্গে সরাসরি সম্পর্কিত ছিল না।",
+      "At dinner, she explained that 'Tangential' means 'not directly connected with the subject or issue', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Tangential’ শব্দটির অর্থ—মূল বিষয়ের সঙ্গে সরাসরি সম্পর্কহীন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Tangential' as 'not directly connected with the subject or issue' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Tangential’ শব্দটি মূল বিষয়ের সঙ্গে সরাসরি সম্পর্কহীন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Tangible",
+    "pronunciation_bn": "ট্যানজিবল",
+    "pronunciation": "/ˈtæn.dʒə.bəl/",
+    "no": 790,
+    "group": 32,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "real and able to be touched, shown, or experienced; definite rather than imaginary",
+    "meaning_bn": [
+      "স্পর্শযোগ্য",
+      "বাস্তব",
+      "প্রত্যক্ষভাবে উপলব্ধি করা যায় এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "concrete",
+        "bn": "মূর্ত"
+      },
+      {
+        "en": "physical",
+        "bn": "ভৌত"
+      },
+      {
+        "en": "perceptible",
+        "bn": "অনুভবযোগ্য"
+      },
+      {
+        "en": "Palpable",
+        "bn": "স্পর্শযোগ্য"
+      },
+      {
+        "en": "corporeal",
+        "bn": "দৈহিক"
+      },
+      {
+        "en": "Blatant",
+        "bn": "নির্লজ্জভাবে স্পষ্ট"
+      },
+      {
+        "en": "Manifest",
+        "bn": "স্পষ্ট"
+      },
+      {
+        "en": "Patent",
+        "bn": "সুস্পষ্ট"
+      },
+      {
+        "en": "Salient",
+        "bn": "বিশিষ্ট"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "intangible",
+        "bn": "অস্পর্শনীয়"
+      },
+      {
+        "en": "abstract",
+        "bn": "বিমূর্ত"
+      },
+      {
+        "en": "imaginary",
+        "bn": "কাল্পনিক"
+      },
+      {
+        "en": "Hypothetical",
+        "bn": "অনুমানভিত্তিক"
+      },
+      {
+        "en": "Elusive",
+        "bn": "অধরা"
+      },
+      {
+        "en": "platonic",
+        "bn": "যৌনসম্পর্কহীন"
+      },
+      {
+        "en": "Subtle",
+        "bn": "সূক্ষ্ম"
+      }
+    ],
+    "example": "We need tangible evidence, not just theories.",
+    "example_bn": "আমাদের শুধু তত্ত্ব নয়, বাস্তব প্রমাণ দরকার।",
+    "examples": [
+      "We need tangible evidence, not just theories. — আমাদের শুধু তত্ত্ব নয়, বাস্তব প্রমাণ দরকার।",
+      "At dinner, she explained that 'Tangible' means 'real and able to be touched, shown', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Tangible’ শব্দটির অর্থ—স্পর্শযোগ্য—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Tangible' as 'real and able to be touched, shown' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Tangible’ শব্দটি স্পর্শযোগ্য অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Tantamount",
+    "pronunciation_bn": "ট্যান্টামাউন্ট",
+    "pronunciation": "/ˈtæn.tə.maʊnt/",
+    "no": 791,
+    "group": 32,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "having the same effect or meaning as something else; equivalent to",
+    "meaning_bn": [
+      "সমতুল্য",
+      "সমান ফলবিশিষ্ট",
+      "কার্যত একই অর্থবাহী"
+    ],
+    "synonyms": [
+      {
+        "en": "equivalent",
+        "bn": "সমতুল্য"
+      },
+      {
+        "en": "equal",
+        "bn": "সমান"
+      },
+      {
+        "en": "tantamount to",
+        "bn": "কার্যত সমান"
+      },
+      {
+        "en": "Commensurate",
+        "bn": "সমানুপাতিক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "different",
+        "bn": "ভিন্ন"
+      },
+      {
+        "en": "unequal",
+        "bn": "অসমান"
+      },
+      {
+        "en": "opposite",
+        "bn": "বিপরীত"
+      },
+      {
+        "en": "Antipodal",
+        "bn": "পৃথিবীর বিপরীত প্রান্তে অবস্থিত"
+      },
+      {
+        "en": "disproportionate",
+        "bn": "অনুপাতহীন"
+      }
+    ],
+    "example": "His silence was tantamount to an admission of guilt.",
+    "example_bn": "তার নীরবতা কার্যত অপরাধ স্বীকারের সমতুল্য ছিল।",
+    "examples": [
+      "His silence was tantamount to an admission of guilt. — তার নীরবতা কার্যত অপরাধ স্বীকারের সমতুল্য ছিল।",
+      "At dinner, she explained that 'Tantamount' means 'having the same effect or meaning as something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Tantamount’ শব্দটির অর্থ—সমতুল্য—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Tantamount' as 'having the same effect or meaning as something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Tantamount’ শব্দটি সমতুল্য অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Tautological",
+    "pronunciation_bn": "টটোলজিক্যাল",
+    "pronunciation": "/ˌtɔː.təˈlɒdʒ.ɪ.kəl/",
+    "no": 792,
+    "group": 32,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "using words or phrases that repeat the same meaning unnecessarily; relating to a tautology",
+    "meaning_bn": [
+      "একই অর্থের অপ্রয়োজনীয় পুনরাবৃত্তিমূলক",
+      "পুনরুক্তিমূলক",
+      "তর্কবিদ্যায় সর্বদা সত্য এমন উক্তিসংক্রান্ত"
+    ],
+    "synonyms": [
+      {
+        "en": "redundant",
+        "bn": "অতিরিক্ত ও পুনরাবৃত্ত"
+      },
+      {
+        "en": "repetitive",
+        "bn": "পুনরাবৃত্তিমূলক"
+      },
+      {
+        "en": "repetitious",
+        "bn": "বারবার বলা হয় এমন"
+      },
+      {
+        "en": "Superfluous",
+        "bn": "অপ্রয়োজনীয়"
+      },
+      {
+        "en": "Extraneous",
+        "bn": "অপ্রাসঙ্গিক"
+      },
+      {
+        "en": "Gratuitous",
+        "bn": "অপ্রয়োজনীয়"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "concise",
+        "bn": "সংক্ষিপ্ত"
+      },
+      {
+        "en": "nonredundant",
+        "bn": "পুনরাবৃত্তিহীন"
+      },
+      {
+        "en": "informative",
+        "bn": "তথ্যবহুল"
+      },
+      {
+        "en": "Laconic",
+        "bn": "অল্পভাষী"
+      },
+      {
+        "en": "Succinct",
+        "bn": "সংক্ষিপ্ত ও স্পষ্ট"
+      },
+      {
+        "en": "Requisite",
+        "bn": "প্রয়োজনীয়"
+      },
+      {
+        "en": "Terse",
+        "bn": "সংক্ষিপ্ত"
+      }
+    ],
+    "example": "The phrase “a free gift” is tautological because a gift is already free.",
+    "example_bn": "“বিনামূল্যের উপহার” কথাটি পুনরুক্তিমূলক, কারণ উপহার এমনিতেই বিনামূল্যে দেওয়া হয়।",
+    "examples": [
+      "The phrase “a free gift” is tautological because a gift is already free. — “বিনামূল্যের উপহার” কথাটি পুনরুক্তিমূলক, কারণ উপহার এমনিতেই বিনামূল্যে দেওয়া হয়।",
+      "At dinner, she explained that 'Tautological' means 'using words or phrases that repeat the same', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Tautological’ শব্দটির অর্থ—একই অর্থের অপ্রয়োজনীয় পুনরাবৃত্তিমূলক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Tautological' as 'using words or phrases that repeat the same' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Tautological’ শব্দটি একই অর্থের অপ্রয়োজনীয় পুনরাবৃত্তিমূলক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Temerity",
+    "pronunciation_bn": "টিমেরিটি",
+    "pronunciation": "/təˈmer.ə.ti/",
+    "no": 793,
+    "group": 32,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "excessive confidence or boldness that may be considered rude or shocking",
+    "meaning_bn": [
+      "ধৃষ্টতা",
+      "বেপরোয়া সাহস",
+      "দুঃসাহস"
+    ],
+    "synonyms": [
+      {
+        "en": "audacity",
+        "bn": "ধৃষ্টতা"
+      },
+      {
+        "en": "nerve",
+        "bn": "দুঃসাহস"
+      },
+      {
+        "en": "boldness",
+        "bn": "সাহসিকতা"
+      },
+      {
+        "en": "chutzpah",
+        "bn": "দুঃসাহস"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "timidity",
+        "bn": "ভীরুতা"
+      },
+      {
+        "en": "caution",
+        "bn": "সতর্কতা"
+      },
+      {
+        "en": "meekness",
+        "bn": "নম্রতা"
+      }
+    ],
+    "example": "He had the temerity to challenge the professor in front of the entire class.",
+    "example_bn": "পুরো ক্লাসের সামনে অধ্যাপকের সিদ্ধান্তকে চ্যালেঞ্জ করার ধৃষ্টতা তার ছিল।",
+    "examples": [
+      "He had the temerity to challenge the professor in front of the entire class. — পুরো ক্লাসের সামনে অধ্যাপকের সিদ্ধান্তকে চ্যালেঞ্জ করার ধৃষ্টতা তার ছিল।",
+      "At dinner, she explained that 'Temerity' means 'excessive confidence or boldness that may be considered', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Temerity’ শব্দটির অর্থ—ধৃষ্টতা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Temerity' as 'excessive confidence or boldness that may be considered' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Temerity’ শব্দটি ধৃষ্টতা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Temperate",
+    "pronunciation_bn": "টেম্পারেট",
+    "pronunciation": "/ˈtem.pər.ət/",
+    "no": 794,
+    "group": 32,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "moderate and self-controlled; (of a climate) neither very hot nor very cold",
+    "meaning_bn": [
+      "সংযমী",
+      "পরিমিত",
+      "নাতিশীতোষ্ণ"
+    ],
+    "synonyms": [
+      {
+        "en": "moderate",
+        "bn": "পরিমিত"
+      },
+      {
+        "en": "restrained",
+        "bn": "সংযত"
+      },
+      {
+        "en": "mild",
+        "bn": "মৃদু"
+      },
+      {
+        "en": "Abstinent",
+        "bn": "বিরত থাকা"
+      },
+      {
+        "en": "Benign",
+        "bn": "ক্ষতিকর নয় এমন"
+      },
+      {
+        "en": "Ascetic",
+        "bn": "কৃচ্ছ্রসাধনকারী"
+      },
+      {
+        "en": "Austere",
+        "bn": "সাদাসিধে ও অনাড়ম্বর"
+      },
+      {
+        "en": "bland",
+        "bn": "মৃদু"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "excessive",
+        "bn": "অতিরিক্ত"
+      },
+      {
+        "en": "intemperate",
+        "bn": "অসংযত"
+      },
+      {
+        "en": "extreme",
+        "bn": "চরম"
+      },
+      {
+        "en": "Inordinate",
+        "bn": "অতিরিক্ত"
+      },
+      {
+        "en": "Maudlin",
+        "bn": "অতিরিক্ত ভাবালু বা আবেগপ্রবণ, প্রায়ই অস্বাভাবিকভাবে কান্নাকাটি-প্রবণ"
+      },
+      {
+        "en": "Saccharine",
+        "bn": "অতিরিক্ত মিষ্টি"
+      },
+      {
+        "en": "Acerbic",
+        "bn": "কটু"
+      },
+      {
+        "en": "Acrid",
+        "bn": "ঝাঁঝালো"
+      }
+    ],
+    "example": "He led a temperate life and avoided excess.",
+    "example_bn": "তিনি সংযমী জীবনযাপন করতেন এবং বাড়াবাড়ি এড়িয়ে চলতেন।",
+    "examples": [
+      "He led a temperate life and avoided excess. — তিনি সংযমী জীবনযাপন করতেন এবং বাড়াবাড়ি এড়িয়ে চলতেন।",
+      "At dinner, she explained that 'Temperate' means 'moderate and self-controlled', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Temperate’ শব্দটির অর্থ—সংযমী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Temperate' as 'moderate and self-controlled' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Temperate’ শব্দটি সংযমী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Tenable",
+    "pronunciation_bn": "টেনেবল",
+    "pronunciation": "/ˈten.ə.bəl/",
+    "no": 795,
+    "group": 32,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "able to be defended successfully or maintained for a period of time",
+    "meaning_bn": [
+      "যুক্তি দিয়ে সমর্থনযোগ্য",
+      "টিকিয়ে রাখা সম্ভব",
+      "গ্রহণযোগ্য"
+    ],
+    "synonyms": [
+      {
+        "en": "defensible",
+        "bn": "যুক্তিসংগতভাবে সমর্থনযোগ্য"
+      },
+      {
+        "en": "justifiable",
+        "bn": "ন্যায়সংগত"
+      },
+      {
+        "en": "sustainable",
+        "bn": "টেকসই"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "indefensible",
+        "bn": "সমর্থন-অযোগ্য"
+      },
+      {
+        "en": "untenable",
+        "bn": "টিকিয়ে রাখা অসম্ভব"
+      },
+      {
+        "en": "unsustainable",
+        "bn": "টেকসই নয় এমন"
+      }
+    ],
+    "example": "His position was no longer tenable after the new evidence emerged.",
+    "example_bn": "নতুন প্রমাণ প্রকাশিত হওয়ার পর তার অবস্থান আর সমর্থনযোগ্য রইল না।",
+    "examples": [
+      "His position was no longer tenable after the new evidence emerged. — নতুন প্রমাণ প্রকাশিত হওয়ার পর তার অবস্থান আর সমর্থনযোগ্য রইল না।",
+      "At dinner, she explained that 'Tenable' means 'able to be defended successfully or maintained', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Tenable’ শব্দটির অর্থ—যুক্তি দিয়ে সমর্থনযোগ্য—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Tenable' as 'able to be defended successfully or maintained' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Tenable’ শব্দটি যুক্তি দিয়ে সমর্থনযোগ্য অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Tenacious",
+    "pronunciation_bn": "টেনেইশাস",
+    "pronunciation": "/təˈneɪ.ʃəs/",
+    "no": 796,
+    "group": 32,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "holding firmly to something or persisting with determination",
+    "meaning_bn": [
+      "অদম্য",
+      "দৃঢ়প্রতিজ্ঞ",
+      "আঁকড়ে ধরে থাকে এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "persistent",
+        "bn": "অধ্যবসায়ী"
+      },
+      {
+        "en": "determined",
+        "bn": "দৃঢ়প্রতিজ্ঞ"
+      },
+      {
+        "en": "dogged",
+        "bn": "একগুঁয়ে অধ্যবসায়ী"
+      },
+      {
+        "en": "Chronic",
+        "bn": "দীর্ঘস্থায়ী"
+      },
+      {
+        "en": "Perennial",
+        "bn": "দীর্ঘস্থায়ী"
+      },
+      {
+        "en": "Relentless",
+        "bn": "অবিরাম"
+      },
+      {
+        "en": "Resolute",
+        "bn": "দৃঢ়প্রতিজ্ঞ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "yielding",
+        "bn": "নতিস্বীকারকারী"
+      },
+      {
+        "en": "irresolute",
+        "bn": "সিদ্ধান্তহীন"
+      },
+      {
+        "en": "weak-willed",
+        "bn": "দুর্বলচিত্ত"
+      }
+    ],
+    "example": "She was tenacious in her pursuit of justice.",
+    "example_bn": "ন্যায়বিচার পাওয়ার প্রচেষ্টায় সে ছিল অদম্য।",
+    "examples": [
+      "She was tenacious in her pursuit of justice. — ন্যায়বিচার পাওয়ার প্রচেষ্টায় সে ছিল অদম্য।",
+      "At dinner, she explained that 'Tenacious' means 'holding firmly to something or persisting with determination', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Tenacious’ শব্দটির অর্থ—অদম্য—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Tenacious' as 'holding firmly to something or persisting with determination' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Tenacious’ শব্দটি অদম্য অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Tenet",
+    "pronunciation_bn": "টেনিট",
+    "pronunciation": "/ˈten.ɪt/",
+    "no": 797,
+    "group": 32,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "one of the main principles or beliefs on which a theory, religion, or group is based",
+    "meaning_bn": [
+      "মূলনীতি",
+      "মৌলিক বিশ্বাস",
+      "কোনো মতবাদ বা ধর্মের ভিত্তিগত নীতি"
+    ],
+    "synonyms": [
+      {
+        "en": "principle",
+        "bn": "নীতি"
+      },
+      {
+        "en": "doctrine",
+        "bn": "মতবাদ"
+      },
+      {
+        "en": "precept",
+        "bn": "নীতিবাক্য"
+      },
+      {
+        "en": "Axiom",
+        "bn": "স্বতঃসিদ্ধ সত্য"
+      },
+      {
+        "en": "Ideology",
+        "bn": "মতাদর্শ"
+      },
+      {
+        "en": "Maxim",
+        "bn": "সাধারণ সত্য, আচরণবিধি বা নীতি প্রকাশকারী সংক্ষিপ্ত উক্তি"
+      },
+      {
+        "en": "Aphorism",
+        "bn": "সংক্ষিপ্ত জ্ঞানগর্ভ উক্তি"
+      },
+      {
+        "en": "canon",
+        "bn": "নিয়ম বা নীতি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "doubt",
+        "bn": "সন্দেহ"
+      },
+      {
+        "en": "disbelief",
+        "bn": "অবিশ্বাস"
+      },
+      {
+        "en": "rejection",
+        "bn": "প্রত্যাখ্যান"
+      },
+      {
+        "en": "Malfeasance",
+        "bn": "অসদাচরণ"
+      }
+    ],
+    "example": "Compassion is a core tenet of Buddhism.",
+    "example_bn": "করুণা বৌদ্ধধর্মের একটি মূলনীতি।",
+    "examples": [
+      "Compassion is a core tenet of Buddhism. — করুণা বৌদ্ধধর্মের একটি মূলনীতি।",
+      "At dinner, she explained that 'Tenet' means 'one of the main principles or beliefs', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Tenet’ শব্দটির অর্থ—মূলনীতি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Tenet' as 'one of the main principles or beliefs' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Tenet’ শব্দটি মূলনীতি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Tentative",
+    "pronunciation_bn": "টেনটেটিভ",
+    "pronunciation": "/ˈten.tə.tɪv/",
+    "no": 798,
+    "group": 32,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "not certain or final; done cautiously because of uncertainty",
+    "meaning_bn": [
+      "অনিশ্চিত",
+      "অস্থায়ী",
+      "পরীক্ষামূলক বা চূড়ান্ত নয় এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "provisional",
+        "bn": "অস্থায়ী"
+      },
+      {
+        "en": "preliminary",
+        "bn": "প্রাথমিক"
+      },
+      {
+        "en": "uncertain",
+        "bn": "অনিশ্চিত"
+      },
+      {
+        "en": "Ambivalent",
+        "bn": "দ্বিধাগ্রস্ত"
+      },
+      {
+        "en": "Contingent",
+        "bn": "নির্ভরশীল"
+      },
+      {
+        "en": "Dubious",
+        "bn": "সন্দেহজনক"
+      },
+      {
+        "en": "Interim",
+        "bn": "অন্তর্বর্তীকালীন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "definite",
+        "bn": "নিশ্চিত"
+      },
+      {
+        "en": "final",
+        "bn": "চূড়ান্ত"
+      },
+      {
+        "en": "confirmed",
+        "bn": "নিশ্চিতভাবে স্থির"
+      },
+      {
+        "en": "Dogmatic",
+        "bn": "মতান্ধ"
+      },
+      {
+        "en": "Definitive",
+        "bn": "চূড়ান্ত"
+      },
+      {
+        "en": "Categorical",
+        "bn": "নিঃশর্ত"
+      },
+      {
+        "en": "Peremptory",
+        "bn": "হুকুমমূলক"
+      },
+      {
+        "en": "Irrevocable",
+        "bn": "অপরিবর্তনযোগ্য"
+      },
+      {
+        "en": "Absolute",
+        "bn": "সম্পূর্ণ"
+      },
+      {
+        "en": "Doctrinaire",
+        "bn": "মতবাদে অনড়"
+      },
+      {
+        "en": "Autocratic",
+        "bn": "একনায়কতান্ত্রিক"
+      },
+      {
+        "en": "Adamant",
+        "bn": "অনড়"
+      }
+    ],
+    "example": "We made a tentative plan to meet on Friday.",
+    "example_bn": "শুক্রবার দেখা করার জন্য আমরা একটি প্রাথমিক পরিকল্পনা করেছিলাম।",
+    "examples": [
+      "We made a tentative plan to meet on Friday. — শুক্রবার দেখা করার জন্য আমরা একটি প্রাথমিক পরিকল্পনা করেছিলাম।",
+      "At dinner, she explained that 'Tentative' means 'not certain or final', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Tentative’ শব্দটির অর্থ—অনিশ্চিত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Tentative' as 'not certain or final' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Tentative’ শব্দটি অনিশ্চিত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Tenuous",
+    "pronunciation_bn": "টেনিউয়াস",
+    "pronunciation": "/ˈten.ju.əs/",
+    "no": 799,
+    "group": 32,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "weak, slight, or uncertain; not firmly established",
+    "meaning_bn": [
+      "দুর্বল",
+      "ক্ষীণ",
+      "অনিশ্চিত বা দুর্বল ভিত্তির ওপর প্রতিষ্ঠিত"
+    ],
+    "synonyms": [
+      {
+        "en": "weak",
+        "bn": "দুর্বল"
+      },
+      {
+        "en": "flimsy",
+        "bn": "ঠুনকো"
+      },
+      {
+        "en": "slight",
+        "bn": "সামান্য"
+      },
+      {
+        "en": "Marginal",
+        "bn": "প্রান্তিক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "strong",
+        "bn": "শক্তিশালী"
+      },
+      {
+        "en": "solid",
+        "bn": "মজবুত"
+      },
+      {
+        "en": "substantial",
+        "bn": "যথেষ্ট দৃঢ়"
+      },
+      {
+        "en": "Substantive",
+        "bn": "মৌলিক"
+      },
+      {
+        "en": "voluminous",
+        "bn": "বৃহৎ"
+      }
+    ],
+    "example": "His argument rested on a tenuous assumption.",
+    "example_bn": "তার যুক্তিটি একটি দুর্বল অনুমানের ওপর নির্ভর করেছিল।",
+    "examples": [
+      "His argument rested on a tenuous assumption. — তার যুক্তিটি একটি দুর্বল অনুমানের ওপর নির্ভর করেছিল।",
+      "At dinner, she explained that 'Tenuous' means 'weak, slight, or uncertain', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Tenuous’ শব্দটির অর্থ—দুর্বল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Tenuous' as 'weak, slight, or uncertain' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Tenuous’ শব্দটি দুর্বল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Terse",
+    "pronunciation_bn": "টার্স",
+    "pronunciation": "/tɜːs/",
+    "no": 800,
+    "group": 32,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "using very few words, sometimes in a way that seems rude or unfriendly",
+    "meaning_bn": [
+      "সংক্ষিপ্ত",
+      "অল্পকথার",
+      "কখনো কখনো রূঢ়ভাবে সংক্ষিপ্ত"
+    ],
+    "synonyms": [
+      {
+        "en": "concise",
+        "bn": "সংক্ষিপ্ত ও স্পষ্ট"
+      },
+      {
+        "en": "brief",
+        "bn": "সংক্ষিপ্ত"
+      },
+      {
+        "en": "curt",
+        "bn": "রূঢ়ভাবে সংক্ষিপ্ত"
+      },
+      {
+        "en": "Succinct",
+        "bn": "সংক্ষিপ্ত ও স্পষ্ট"
+      },
+      {
+        "en": "Laconic",
+        "bn": "অল্পভাষী"
+      },
+      {
+        "en": "brusque",
+        "bn": "রুক্ষ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "verbose",
+        "bn": "বাক্যবহুল"
+      },
+      {
+        "en": "wordy",
+        "bn": "শব্দবহুল"
+      },
+      {
+        "en": "long-winded",
+        "bn": "অতিরিক্ত কথাবলা"
+      },
+      {
+        "en": "Tautological",
+        "bn": "একই অর্থের অপ্রয়োজনীয় পুনরাবৃত্তিমূলক"
+      },
+      {
+        "en": "Redundant",
+        "bn": "অপ্রয়োজনীয়"
+      },
+      {
+        "en": "discursive",
+        "bn": "প্রসঙ্গান্তরপ্রবণ"
+      },
+      {
+        "en": "Interminable",
+        "bn": "শেষহীন বলে মনে হয় এমন"
+      },
+      {
+        "en": "Superfluous",
+        "bn": "অপ্রয়োজনীয়"
+      }
+    ],
+    "example": "His terse reply showed that he was not in the mood for discussion.",
+    "example_bn": "তার সংক্ষিপ্ত ও রূঢ় উত্তর থেকে বোঝা গেল, সে আলোচনার মেজাজে ছিল না।",
+    "examples": [
+      "His terse reply showed that he was not in the mood for discussion. — তার সংক্ষিপ্ত ও রূঢ় উত্তর থেকে বোঝা গেল, সে আলোচনার মেজাজে ছিল না।",
+      "At dinner, she explained that 'Terse' means 'using very few words, sometimes in a way', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Terse’ শব্দটির অর্থ—সংক্ষিপ্ত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Terse' as 'using very few words, sometimes in a way' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Terse’ শব্দটি সংক্ষিপ্ত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

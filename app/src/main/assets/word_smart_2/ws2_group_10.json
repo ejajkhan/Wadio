@@ -1,0 +1,1662 @@
+[
+  {
+    "word": "conversant",
+    "pronunciation_bn": "কনভার্স্যান্ট",
+    "pronunciation": "/kənˈvɜːsənt/",
+    "no": 226,
+    "group": 10,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "familiar with or having knowledge or experience of a subject",
+    "meaning_bn": [
+      "কোনো বিষয়ে পরিচিত ও জ্ঞানসম্পন্ন",
+      "অভিজ্ঞ",
+      "অবগত"
+    ],
+    "synonyms": [
+      {
+        "en": "familiar",
+        "bn": "পরিচিত"
+      },
+      {
+        "en": "knowledgeable",
+        "bn": "জ্ঞানসম্পন্ন"
+      },
+      {
+        "en": "acquainted",
+        "bn": "পরিচিত"
+      },
+      {
+        "en": "Erudite",
+        "bn": "পাণ্ডিত্যপূর্ণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "unfamiliar",
+        "bn": "অপরিচিত"
+      },
+      {
+        "en": "ignorant",
+        "bn": "অজ্ঞ"
+      },
+      {
+        "en": "benighted",
+        "bn": "অজ্ঞ"
+      },
+      {
+        "en": "uncanny",
+        "bn": "অস্বাভাবিক"
+      }
+    ],
+    "example": "She is conversant with the latest teaching methods.",
+    "example_bn": "তিনি সর্বশেষ শিক্ষণপদ্ধতি সম্পর্কে অবগত.",
+    "examples": [
+      "She is conversant with the latest teaching methods. — তিনি সর্বশেষ শিক্ষণপদ্ধতি সম্পর্কে অবগত.",
+      "At dinner, she explained that 'conversant' means 'familiar with or having knowledge or experience', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘conversant’ শব্দটির অর্থ—কোনো বিষয়ে পরিচিত ও জ্ঞানসম্পন্ন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'conversant' as 'familiar with or having knowledge or experience' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘conversant’ শব্দটি কোনো বিষয়ে পরিচিত ও জ্ঞানসম্পন্ন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "converse",
+    "pronunciation_bn": "কনভার্স",
+    "pronunciation": "/ˈkɒnvɜːs/",
+    "no": 227,
+    "group": 10,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the opposite or reverse of something",
+    "meaning_bn": [
+      "বিপরীত বিষয়",
+      "উল্টো দিক বা বক্তব্য"
+    ],
+    "synonyms": [
+      {
+        "en": "opposite",
+        "bn": "বিপরীত"
+      },
+      {
+        "en": "reverse",
+        "bn": "উল্টো দিক"
+      },
+      {
+        "en": "contrary",
+        "bn": "বিপরীত বিষয়"
+      },
+      {
+        "en": "Antithesis",
+        "bn": "সম্পূর্ণ বিপরীত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "same",
+        "bn": "একই"
+      },
+      {
+        "en": "equivalent",
+        "bn": "সমতুল্য"
+      },
+      {
+        "en": "Apotheosis",
+        "bn": "চূড়ান্ত উৎকর্ষ"
+      },
+      {
+        "en": "Epitome",
+        "bn": "কোনো গুণের আদর্শ উদাহরণ বা মূর্ত প্রতীক"
+      },
+      {
+        "en": "Incarnation",
+        "bn": "মূর্ত প্রতীক"
+      },
+      {
+        "en": "paragon",
+        "bn": "শ্রেষ্ঠতার আদর্শ"
+      }
+    ],
+    "example": "The converse of his claim is also possible.",
+    "example_bn": "তার দাবির বিপরীতটিও সম্ভব.",
+    "examples": [
+      "The converse of his claim is also possible. — তার দাবির বিপরীতটিও সম্ভব.",
+      "At dinner, she explained that 'converse' means 'the opposite or reverse of something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘converse’ শব্দটির অর্থ—বিপরীত বিষয়—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'converse' as 'the opposite or reverse of something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘converse’ শব্দটি বিপরীত বিষয় অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "convey",
+    "pronunciation_bn": "কনভেই",
+    "pronunciation": "/kənˈveɪ/",
+    "no": 228,
+    "group": 10,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to transport or carry something; to communicate or express an idea, feeling, or information",
+    "meaning_bn": [
+      "বহন করা",
+      "পরিবহন করা",
+      "ভাব, অনুভূতি বা তথ্য প্রকাশ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "communicate",
+        "bn": "যোগাযোগ করা; প্রকাশ করা"
+      },
+      {
+        "en": "express",
+        "bn": "প্রকাশ করা"
+      },
+      {
+        "en": "transmit",
+        "bn": "প্রেরণ করা"
+      },
+      {
+        "en": "transport",
+        "bn": "পরিবহন করা"
+      },
+      {
+        "en": "Articulate",
+        "bn": "স্পষ্টভাবে প্রকাশ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "conceal",
+        "bn": "গোপন করা"
+      },
+      {
+        "en": "withhold",
+        "bn": "আটকে রাখা"
+      },
+      {
+        "en": "repress",
+        "bn": "দমন করা"
+      },
+      {
+        "en": "suppress",
+        "bn": "দমন করা"
+      }
+    ],
+    "example": "Her expression conveyed a sense of relief.",
+    "example_bn": "তার মুখভঙ্গি স্বস্তির অনুভূতি প্রকাশ করেছিল.",
+    "examples": [
+      "Her expression conveyed a sense of relief. — তার মুখভঙ্গি স্বস্তির অনুভূতি প্রকাশ করেছিল.",
+      "At dinner, she explained that 'convey' means 'to transport or carry something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘convey’ শব্দটির অর্থ—বহন করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'convey' as 'to transport or carry something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘convey’ শব্দটি বহন করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "conviction",
+    "pronunciation_bn": "কনভিকশন",
+    "pronunciation": "/kənˈvɪkʃən/",
+    "no": 229,
+    "group": 10,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a firmly held belief; the act or result of proving someone guilty of a crime",
+    "meaning_bn": [
+      "দৃঢ় বিশ্বাস",
+      "দোষী সাব্যস্তকরণ",
+      "অপরাধে দণ্ডিত হওয়ার বিচারিক সিদ্ধান্ত"
+    ],
+    "synonyms": [
+      {
+        "en": "belief",
+        "bn": "বিশ্বাস"
+      },
+      {
+        "en": "certainty",
+        "bn": "নিশ্চয়তা"
+      },
+      {
+        "en": "judgment",
+        "bn": "বিচারিক সিদ্ধান্ত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "doubt",
+        "bn": "সন্দেহ"
+      },
+      {
+        "en": "uncertainty",
+        "bn": "অনিশ্চয়তা"
+      },
+      {
+        "en": "Conjecture",
+        "bn": "অনুমান"
+      },
+      {
+        "en": "conundrum",
+        "bn": "জটিল সমস্যা"
+      },
+      {
+        "en": "Enigma",
+        "bn": "রহস্য"
+      },
+      {
+        "en": "Nihilism",
+        "bn": "শূন্যবাদ"
+      },
+      {
+        "en": "dilemma",
+        "bn": "উভয়সংকট"
+      }
+    ],
+    "example": "She spoke with conviction about the importance of education.",
+    "example_bn": "শিক্ষার গুরুত্ব সম্পর্কে তিনি দৃঢ় বিশ্বাস নিয়ে কথা বলেছিলেন.",
+    "examples": [
+      "She spoke with conviction about the importance of education. — শিক্ষার গুরুত্ব সম্পর্কে তিনি দৃঢ় বিশ্বাস নিয়ে কথা বলেছিলেন.",
+      "At dinner, she explained that 'conviction' means 'a firmly held belief', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘conviction’ শব্দটির অর্থ—দৃঢ় বিশ্বাস—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'conviction' as 'a firmly held belief' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘conviction’ শব্দটি দৃঢ় বিশ্বাস অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "convolution",
+    "pronunciation_bn": "কনভলিউশন",
+    "pronunciation": "/ˌkɒnvəˈluːʃən/",
+    "no": 230,
+    "group": 10,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a twist or complex fold; something complicated, especially in an explanation or process",
+    "meaning_bn": [
+      "পাক বা ভাঁজ",
+      "জটিলতা",
+      "জটিলভাবে প্যাঁচানো গঠন"
+    ],
+    "synonyms": [
+      {
+        "en": "twist",
+        "bn": "পাক"
+      },
+      {
+        "en": "fold",
+        "bn": "ভাঁজ"
+      },
+      {
+        "en": "complication",
+        "bn": "জটিলতা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "simplicity",
+        "bn": "সরলতা"
+      },
+      {
+        "en": "straightness",
+        "bn": "সোজাসুজি অবস্থা"
+      }
+    ],
+    "example": "The convolutions of the contract made it difficult to understand.",
+    "example_bn": "চুক্তির জটিলতাগুলো সেটি বোঝা কঠিন করে তুলেছিল.",
+    "examples": [
+      "The convolutions of the contract made it difficult to understand. — চুক্তির জটিলতাগুলো সেটি বোঝা কঠিন করে তুলেছিল.",
+      "At dinner, she explained that 'convolution' means 'a twist or complex fold', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘convolution’ শব্দটির অর্থ—পাক বা ভাঁজ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'convolution' as 'a twist or complex fold' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘convolution’ শব্দটি পাক বা ভাঁজ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "copious",
+    "pronunciation_bn": "কোপিয়াস",
+    "pronunciation": "/ˈkəʊpiəs/",
+    "no": 231,
+    "group": 10,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "abundant in quantity; plentiful",
+    "meaning_bn": [
+      "প্রচুর",
+      "প্রাচুর্যপূর্ণ",
+      "বিপুল পরিমাণে"
+    ],
+    "synonyms": [
+      {
+        "en": "abundant",
+        "bn": "প্রচুর"
+      },
+      {
+        "en": "plentiful",
+        "bn": "পর্যাপ্ত ও প্রচুর"
+      },
+      {
+        "en": "ample",
+        "bn": "প্রচুর"
+      },
+      {
+        "en": "profuse",
+        "bn": "অঢেল"
+      },
+      {
+        "en": "Lavish",
+        "bn": "প্রচুর"
+      },
+      {
+        "en": "Replete",
+        "bn": "পরিপূর্ণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "scarce",
+        "bn": "দুষ্প্রাপ্য"
+      },
+      {
+        "en": "sparse",
+        "bn": "বিরল"
+      },
+      {
+        "en": "meagre",
+        "bn": "অপ্রতুল"
+      },
+      {
+        "en": "scant",
+        "bn": "অপ্রতুল"
+      },
+      {
+        "en": "Paltry",
+        "bn": "নগণ্য"
+      }
+    ],
+    "example": "The researcher took copious notes during the interview.",
+    "example_bn": "গবেষক সাক্ষাৎকারের সময় প্রচুর নোট নিয়েছিলেন.",
+    "examples": [
+      "The researcher took copious notes during the interview. — গবেষক সাক্ষাৎকারের সময় প্রচুর নোট নিয়েছিলেন.",
+      "At dinner, she explained that 'copious' means 'abundant in quantity', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘copious’ শব্দটির অর্থ—প্রচুর—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'copious' as 'abundant in quantity' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘copious’ শব্দটি প্রচুর অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "cordial",
+    "pronunciation_bn": "করডিয়াল",
+    "pronunciation": "/ˈkɔːdiəl/",
+    "no": 232,
+    "group": 10,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "warm, friendly, and sincere; (noun) a sweet drink in some varieties of English",
+    "meaning_bn": [
+      "আন্তরিক",
+      "সৌহার্দ্যপূর্ণ",
+      "উষ্ণ ও বন্ধুত্বপূর্ণ"
+    ],
+    "synonyms": [
+      {
+        "en": "warm",
+        "bn": "আন্তরিক"
+      },
+      {
+        "en": "friendly",
+        "bn": "বন্ধুত্বপূর্ণ"
+      },
+      {
+        "en": "amiable",
+        "bn": "অমায়িক"
+      },
+      {
+        "en": "genial",
+        "bn": "প্রফুল্ল ও বন্ধুসুলভ"
+      },
+      {
+        "en": "Fraternal",
+        "bn": "ভ্রাতৃসুলভ"
+      },
+      {
+        "en": "Convivial",
+        "bn": "আনন্দময়"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "hostile",
+        "bn": "শত্রুভাবাপন্ন"
+      },
+      {
+        "en": "unfriendly",
+        "bn": "অবন্ধুসুলভ"
+      },
+      {
+        "en": "cold",
+        "bn": "শীতল; অনাত্মীয়"
+      },
+      {
+        "en": "Acrimonious",
+        "bn": "তিক্ততাপূর্ণ"
+      },
+      {
+        "en": "Belligerent",
+        "bn": "ঝগড়াটে"
+      },
+      {
+        "en": "Aloof",
+        "bn": "নির্লিপ্ত"
+      },
+      {
+        "en": "dour",
+        "bn": "গম্ভীর"
+      },
+      {
+        "en": "Inimical",
+        "bn": "ক্ষতিকর"
+      },
+      {
+        "en": "Austere",
+        "bn": "সাদাসিধে ও অনাড়ম্বর"
+      }
+    ],
+    "example": "The two leaders maintained cordial relations.",
+    "example_bn": "দুই নেতা আন্তরিক সম্পর্ক বজায় রেখেছিলেন.",
+    "examples": [
+      "The two leaders maintained cordial relations. — দুই নেতা আন্তরিক সম্পর্ক বজায় রেখেছিলেন.",
+      "At dinner, she explained that 'cordial' means 'warm, friendly, and sincere', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘cordial’ শব্দটির অর্থ—আন্তরিক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'cordial' as 'warm, friendly, and sincere' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘cordial’ শব্দটি আন্তরিক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "corollary",
+    "pronunciation_bn": "করোলারি",
+    "pronunciation": "/kəˈrɒləri/",
+    "no": 233,
+    "group": 10,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a result or consequence that follows naturally from something; a proposition that follows from a proved proposition",
+    "meaning_bn": [
+      "স্বাভাবিক পরিণতি",
+      "অনিবার্য ফল",
+      "প্রমাণিত বক্তব্য থেকে অনুসৃত উপপাদ্য"
+    ],
+    "synonyms": [
+      {
+        "en": "consequence",
+        "bn": "পরিণতি"
+      },
+      {
+        "en": "result",
+        "bn": "ফলাফল"
+      },
+      {
+        "en": "outcome",
+        "bn": "পরিণাম"
+      },
+      {
+        "en": "Aftermath",
+        "bn": "পরিণতি"
+      },
+      {
+        "en": "Implication",
+        "bn": "সম্ভাব্য পরিণতি"
+      },
+      {
+        "en": "Ramification",
+        "bn": "পরিণতি"
+      },
+      {
+        "en": "Repercussion",
+        "bn": "পরোক্ষ প্রভাব"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "cause",
+        "bn": "কারণ"
+      },
+      {
+        "en": "origin",
+        "bn": "উৎস"
+      },
+      {
+        "en": "Antecedent",
+        "bn": "পূর্বসূরি"
+      },
+      {
+        "en": "Premise",
+        "bn": "পূর্বধারণা"
+      },
+      {
+        "en": "Genesis",
+        "bn": "উৎপত্তি"
+      },
+      {
+        "en": "underpinning",
+        "bn": "ভিত্তি"
+      }
+    ],
+    "example": "Higher demand is often a corollary of rising incomes.",
+    "example_bn": "আয় বৃদ্ধির সঙ্গে প্রায়ই চাহিদা বৃদ্ধির স্বাভাবিক সম্পর্ক থাকে.",
+    "examples": [
+      "Higher demand is often a corollary of rising incomes. — আয় বৃদ্ধির সঙ্গে প্রায়ই চাহিদা বৃদ্ধির স্বাভাবিক সম্পর্ক থাকে.",
+      "At dinner, she explained that 'corollary' means 'a result or consequence that follows naturally from', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘corollary’ শব্দটির অর্থ—স্বাভাবিক পরিণতি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'corollary' as 'a result or consequence that follows naturally from' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘corollary’ শব্দটি স্বাভাবিক পরিণতি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "corporeal",
+    "pronunciation_bn": "করপোরিয়াল",
+    "pronunciation": "/kɔːˈpɔːriəl/",
+    "no": 234,
+    "group": 10,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "relating to the physical body rather than the mind or spirit; tangible",
+    "meaning_bn": [
+      "দৈহিক",
+      "শারীরিক",
+      "বস্তুগত; স্পর্শযোগ্য"
+    ],
+    "synonyms": [
+      {
+        "en": "physical",
+        "bn": "শারীরিক"
+      },
+      {
+        "en": "bodily",
+        "bn": "দেহসংক্রান্ত"
+      },
+      {
+        "en": "material",
+        "bn": "বস্তুগত"
+      },
+      {
+        "en": "tangible",
+        "bn": "স্পর্শযোগ্য"
+      },
+      {
+        "en": "Palpable",
+        "bn": "স্পর্শযোগ্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "spiritual",
+        "bn": "আধ্যাত্মিক"
+      },
+      {
+        "en": "immaterial",
+        "bn": "অবস্তুগত"
+      },
+      {
+        "en": "Abstract",
+        "bn": "বিমূর্ত"
+      },
+      {
+        "en": "platonic",
+        "bn": "যৌনসম্পর্কহীন"
+      },
+      {
+        "en": "Hypothetical",
+        "bn": "অনুমানভিত্তিক"
+      },
+      {
+        "en": "mystic",
+        "bn": "রহস্যময়"
+      }
+    ],
+    "example": "The philosopher distinguished corporeal needs from spiritual ones.",
+    "example_bn": "দার্শনিক দৈহিক চাহিদা ও আধ্যাত্মিক চাহিদার মধ্যে পার্থক্য করেছিলেন.",
+    "examples": [
+      "The philosopher distinguished corporeal needs from spiritual ones. — দার্শনিক দৈহিক চাহিদা ও আধ্যাত্মিক চাহিদার মধ্যে পার্থক্য করেছিলেন.",
+      "At dinner, she explained that 'corporeal' means 'relating to the physical body rather than', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘corporeal’ শব্দটির অর্থ—দৈহিক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'corporeal' as 'relating to the physical body rather than' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘corporeal’ শব্দটি দৈহিক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "correlation",
+    "pronunciation_bn": "করেলেইশন",
+    "pronunciation": "/ˌkɒrəˈleɪʃən/",
+    "no": 235,
+    "group": 10,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a connection between two things in which changes in one are associated with changes in the other",
+    "meaning_bn": [
+      "পারস্পরিক সম্পর্ক",
+      "সহসম্পর্ক",
+      "একটির পরিবর্তনের সঙ্গে অন্যটির পরিবর্তনের সম্পর্ক"
+    ],
+    "synonyms": [
+      {
+        "en": "relationship",
+        "bn": "সম্পর্ক"
+      },
+      {
+        "en": "connection",
+        "bn": "সংযোগ"
+      },
+      {
+        "en": "association",
+        "bn": "সম্পর্কযুক্ততা"
+      },
+      {
+        "en": "Junction",
+        "bn": "সংযোগস্থল"
+      },
+      {
+        "en": "Liaison",
+        "bn": "যোগাযোগ ও সমন্বয়"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "dissimilarity",
+        "bn": "অসাদৃশ্য"
+      },
+      {
+        "en": "independence",
+        "bn": "স্বাধীনতা; সম্পর্কহীনতা"
+      }
+    ],
+    "example": "The study found a correlation between sleep and concentration.",
+    "example_bn": "গবেষণায় ঘুম ও মনোযোগের মধ্যে একটি সম্পর্ক পাওয়া গেছে.",
+    "examples": [
+      "The study found a correlation between sleep and concentration. — গবেষণায় ঘুম ও মনোযোগের মধ্যে একটি সম্পর্ক পাওয়া গেছে.",
+      "At dinner, she explained that 'correlation' means 'a connection between two things in which changes', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘correlation’ শব্দটির অর্থ—পারস্পরিক সম্পর্ক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'correlation' as 'a connection between two things in which changes' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘correlation’ শব্দটি পারস্পরিক সম্পর্ক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "corrosive",
+    "pronunciation_bn": "করোসিভ",
+    "pronunciation": "/kəˈrəʊsɪv/",
+    "no": 236,
+    "group": 10,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "able to destroy or damage something gradually, especially by chemical action",
+    "meaning_bn": [
+      "ক্ষয়কারী",
+      "ধীরে ধীরে ধ্বংসকারী",
+      "রাসায়নিকভাবে ক্ষয় ঘটায় এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "caustic",
+        "bn": "ক্ষয়কারী"
+      },
+      {
+        "en": "destructive",
+        "bn": "ধ্বংসাত্মক"
+      },
+      {
+        "en": "damaging",
+        "bn": "ক্ষতিকর"
+      },
+      {
+        "en": "Pernicious",
+        "bn": "মারাত্মক ক্ষতিকর"
+      },
+      {
+        "en": "Acerbic",
+        "bn": "কটু"
+      },
+      {
+        "en": "Astringent",
+        "bn": "কঠোর"
+      },
+      {
+        "en": "Deleterious",
+        "bn": "ক্ষতিকর"
+      },
+      {
+        "en": "Vitriolic",
+        "bn": "তীব্র কটূক্তিপূর্ণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "protective",
+        "bn": "সুরক্ষামূলক"
+      },
+      {
+        "en": "harmless",
+        "bn": "ক্ষতিহীন"
+      },
+      {
+        "en": "Paternal",
+        "bn": "পিতৃসম্পর্কিত"
+      },
+      {
+        "en": "Benign",
+        "bn": "ক্ষতিকর নয় এমন"
+      },
+      {
+        "en": "Decadent",
+        "bn": "নৈতিকভাবে অধঃপতিত"
+      },
+      {
+        "en": "Innocuous",
+        "bn": "ক্ষতিহীন"
+      },
+      {
+        "en": "Opulent",
+        "bn": "বিলাসবহুল"
+      }
+    ],
+    "example": "Corrosive chemicals must be stored in suitable containers.",
+    "example_bn": "ক্ষয়কারী রাসায়নিক উপযুক্ত পাত্রে সংরক্ষণ করতে হয়.",
+    "examples": [
+      "Corrosive chemicals must be stored in suitable containers. — ক্ষয়কারী রাসায়নিক উপযুক্ত পাত্রে সংরক্ষণ করতে হয়.",
+      "At dinner, she explained that 'corrosive' means 'able to destroy or damage something gradually, especially', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘corrosive’ শব্দটির অর্থ—ক্ষয়কারী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'corrosive' as 'able to destroy or damage something gradually, especially' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘corrosive’ শব্দটি ক্ষয়কারী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "corrugated",
+    "pronunciation_bn": "করুগেইটিড",
+    "pronunciation": "/ˈkɒrəɡeɪtɪd/",
+    "no": 237,
+    "group": 10,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "having a surface formed into alternating ridges and grooves or folds",
+    "meaning_bn": [
+      "ঢেউখেলানো",
+      "খাঁজকাটা",
+      "ভাঁজযুক্ত"
+    ],
+    "synonyms": [
+      {
+        "en": "ridged",
+        "bn": "উঁচু-নিচু খাঁজযুক্ত"
+      },
+      {
+        "en": "fluted",
+        "bn": "খাঁজকাটা"
+      },
+      {
+        "en": "folded",
+        "bn": "ভাঁজ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "smooth",
+        "bn": "মসৃণ"
+      },
+      {
+        "en": "flat",
+        "bn": "সমতল"
+      },
+      {
+        "en": "seamless",
+        "bn": "জোড়বিহীন"
+      }
+    ],
+    "example": "The shed had a corrugated metal roof.",
+    "example_bn": "শেডটির ছাদ ঢেউখেলানো ধাতব পাত দিয়ে তৈরি ছিল.",
+    "examples": [
+      "The shed had a corrugated metal roof. — শেডটির ছাদ ঢেউখেলানো ধাতব পাত দিয়ে তৈরি ছিল.",
+      "At dinner, she explained that 'corrugated' means 'having a surface formed into alternating ridges', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘corrugated’ শব্দটির অর্থ—ঢেউখেলানো—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'corrugated' as 'having a surface formed into alternating ridges' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘corrugated’ শব্দটি ঢেউখেলানো অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "coterie",
+    "pronunciation_bn": "কোটারি",
+    "pronunciation": "/ˈkəʊtəri/",
+    "no": 238,
+    "group": 10,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a small, exclusive group of people with shared interests or relationships",
+    "meaning_bn": [
+      "ঘনিষ্ঠ ছোট গোষ্ঠী",
+      "বিশেষ স্বার্থসংশ্লিষ্ট সীমিত দল"
+    ],
+    "synonyms": [
+      {
+        "en": "clique",
+        "bn": "ঘনিষ্ঠ দল"
+      },
+      {
+        "en": "circle",
+        "bn": "পরিমণ্ডল"
+      },
+      {
+        "en": "set",
+        "bn": "গোষ্ঠী"
+      },
+      {
+        "en": "cabal",
+        "bn": "গোপন ষড়যন্ত্রকারী গোষ্ঠী"
+      },
+      {
+        "en": "Faction",
+        "bn": "বৃহত্তর দলের অভ্যন্তরীণ উপদল"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "outsiders",
+        "bn": "বহিরাগতরা"
+      },
+      {
+        "en": "crowd",
+        "bn": "বৃহৎ জনতা"
+      },
+      {
+        "en": "Consensus",
+        "bn": "সাধারণ ঐকমত্য"
+      }
+    ],
+    "example": "A coterie of artists met regularly at the café.",
+    "example_bn": "একটি ঘনিষ্ঠ শিল্পীগোষ্ঠী নিয়মিত ক্যাফেতে মিলিত হতো.",
+    "examples": [
+      "A coterie of artists met regularly at the café. — একটি ঘনিষ্ঠ শিল্পীগোষ্ঠী নিয়মিত ক্যাফেতে মিলিত হতো.",
+      "At dinner, she explained that 'coterie' means 'a small, exclusive group of people with shared', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘coterie’ শব্দটির অর্থ—ঘনিষ্ঠ ছোট গোষ্ঠী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'coterie' as 'a small, exclusive group of people with shared' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘coterie’ শব্দটি ঘনিষ্ঠ ছোট গোষ্ঠী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "cower",
+    "pronunciation_bn": "কাউয়ার",
+    "pronunciation": "/ˈkaʊə(r)/",
+    "no": 239,
+    "group": 10,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to crouch or move back in fear",
+    "meaning_bn": [
+      "ভয়ে কুঁকড়ে যাওয়া",
+      "ভয়ে পিছিয়ে যাওয়া",
+      "আতঙ্কে নত হয়ে থাকা"
+    ],
+    "synonyms": [
+      {
+        "en": "cringe",
+        "bn": "ভয়ে সরে যাওয়া"
+      },
+      {
+        "en": "shrink",
+        "bn": "সঙ্কুচিত হওয়া"
+      },
+      {
+        "en": "crouch",
+        "bn": "উবু হওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "confront",
+        "bn": "সাহসের সঙ্গে মোকাবিলা করা"
+      },
+      {
+        "en": "stand firm",
+        "bn": "দৃঢ়ভাবে দাঁড়ানো"
+      },
+      {
+        "en": "Accost",
+        "bn": "কারও কাছে গিয়ে কথা বলা"
+      },
+      {
+        "en": "Distend",
+        "bn": "ফুলে ওঠা"
+      },
+      {
+        "en": "dilate",
+        "bn": "প্রসারিত হওয়া"
+      }
+    ],
+    "example": "The frightened dog cowered beneath the table.",
+    "example_bn": "ভীত কুকুরটি টেবিলের নিচে ভয়ে কুঁকড়ে ছিল.",
+    "examples": [
+      "The frightened dog cowered beneath the table. — ভীত কুকুরটি টেবিলের নিচে ভয়ে কুঁকড়ে ছিল.",
+      "At dinner, she explained that 'cower' means 'to crouch or move back in fear', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘cower’ শব্দটির অর্থ—ভয়ে কুঁকড়ে যাওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'cower' as 'to crouch or move back in fear' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘cower’ শব্দটি ভয়ে কুঁকড়ে যাওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "crass",
+    "pronunciation_bn": "ক্র্যাস",
+    "pronunciation": "/kræs/",
+    "no": 240,
+    "group": 10,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "showing a lack of sensitivity, intelligence, or refinement; grossly stupid or insensitive",
+    "meaning_bn": [
+      "স্থূলবুদ্ধিসম্পন্ন",
+      "রুচিহীন",
+      "অসংবেদনশীল",
+      "অমার্জিত"
+    ],
+    "synonyms": [
+      {
+        "en": "vulgar",
+        "bn": "অশালীন"
+      },
+      {
+        "en": "insensitive",
+        "bn": "অসংবেদনশীল"
+      },
+      {
+        "en": "gross",
+        "bn": "স্থূল; রুচিহীন"
+      },
+      {
+        "en": "tactless",
+        "bn": "বিবেচনাহীন"
+      },
+      {
+        "en": "callous",
+        "bn": "নির্দয়"
+      },
+      {
+        "en": "Profane",
+        "bn": "ধর্মীয় বা পবিত্র বিষয়ের সঙ্গে সম্পর্কহীন"
+      },
+      {
+        "en": "ribald",
+        "bn": "অশ্লীল অথচ রসিকতাপূর্ণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "sensitive",
+        "bn": "সংবেদনশীল"
+      },
+      {
+        "en": "refined",
+        "bn": "রুচিশীল"
+      },
+      {
+        "en": "tactful",
+        "bn": "কৌশলী ও বিবেচক"
+      },
+      {
+        "en": "Discreet",
+        "bn": "বিচক্ষণ"
+      },
+      {
+        "en": "Genteel",
+        "bn": "মার্জিত"
+      },
+      {
+        "en": "Sensory",
+        "bn": "ইন্দ্রিয়সংক্রান্ত"
+      },
+      {
+        "en": "susceptible",
+        "bn": "সহজে প্রভাবিত হয় এমন"
+      }
+    ],
+    "example": "His crass remark upset everyone in the room.",
+    "example_bn": "তার রুচিহীন মন্তব্য ঘরের সবাইকে বিচলিত করেছিল.",
+    "examples": [
+      "His crass remark upset everyone in the room. — তার রুচিহীন মন্তব্য ঘরের সবাইকে বিচলিত করেছিল.",
+      "At dinner, she explained that 'crass' means 'showing a lack of sensitivity, intelligence, or refinement', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘crass’ শব্দটির অর্থ—স্থূলবুদ্ধিসম্পন্ন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'crass' as 'showing a lack of sensitivity, intelligence, or refinement' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘crass’ শব্দটি স্থূলবুদ্ধিসম্পন্ন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "craven",
+    "pronunciation_bn": "ক্রেইভেন",
+    "pronunciation": "/ˈkreɪvən/",
+    "no": 241,
+    "group": 10,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "cowardly; lacking courage",
+    "meaning_bn": [
+      "কাপুরুষ",
+      "ভীরু",
+      "সাহসহীন"
+    ],
+    "synonyms": [
+      {
+        "en": "cowardly",
+        "bn": "কাপুরুষোচিত"
+      },
+      {
+        "en": "timid",
+        "bn": "ভীরু"
+      },
+      {
+        "en": "spineless",
+        "bn": "মেরুদণ্ডহীন; সাহসহীন"
+      },
+      {
+        "en": "Diffident",
+        "bn": "আত্মবিশ্বাসহীন"
+      },
+      {
+        "en": "timorous",
+        "bn": "ভীতু"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "brave",
+        "bn": "সাহসী"
+      },
+      {
+        "en": "courageous",
+        "bn": "সাহসী"
+      },
+      {
+        "en": "valiant",
+        "bn": "বীর"
+      },
+      {
+        "en": "brazen",
+        "bn": "নির্লজ্জ"
+      }
+    ],
+    "example": "The officer condemned the craven attack on civilians.",
+    "example_bn": "কর্মকর্তা বেসামরিক মানুষের ওপর কাপুরুষোচিত হামলার নিন্দা করেছিলেন.",
+    "examples": [
+      "The officer condemned the craven attack on civilians. — কর্মকর্তা বেসামরিক মানুষের ওপর কাপুরুষোচিত হামলার নিন্দা করেছিলেন.",
+      "At dinner, she explained that 'craven' means 'cowardly', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘craven’ শব্দটির অর্থ—কাপুরুষ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'craven' as 'cowardly' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘craven’ শব্দটি কাপুরুষ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "crescendo",
+    "pronunciation_bn": "ক্রেশেন্ডো",
+    "pronunciation": "/krəˈʃendəʊ/",
+    "no": 242,
+    "group": 10,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a gradual increase in loudness or intensity; the point of greatest intensity",
+    "meaning_bn": [
+      "ক্রমশ শব্দ বা তীব্রতা বৃদ্ধি",
+      "তীব্রতার চূড়ান্ত পর্যায়"
+    ],
+    "synonyms": [
+      {
+        "en": "build-up",
+        "bn": "ক্রমবৃদ্ধি"
+      },
+      {
+        "en": "climax",
+        "bn": "চূড়ান্ত পর্যায়"
+      },
+      {
+        "en": "increase",
+        "bn": "বৃদ্ধি"
+      },
+      {
+        "en": "Increment",
+        "bn": "বৃদ্ধি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "diminuendo",
+        "bn": "ক্রমশ শব্দ কমানো"
+      },
+      {
+        "en": "decline",
+        "bn": "হ্রাস"
+      },
+      {
+        "en": "wane",
+        "bn": "কমে যাওয়া"
+      },
+      {
+        "en": "Degenerate",
+        "bn": "অবনতি হওয়া"
+      },
+      {
+        "en": "diminution",
+        "bn": "হ্রাস"
+      },
+      {
+        "en": "ebb",
+        "bn": "কমে যাওয়া"
+      }
+    ],
+    "example": "The music rose to a crescendo before the final chord.",
+    "example_bn": "শেষ সুরের আগে সংগীতের তীব্রতা ক্রমশ চূড়ায় উঠেছিল.",
+    "examples": [
+      "The music rose to a crescendo before the final chord. — শেষ সুরের আগে সংগীতের তীব্রতা ক্রমশ চূড়ায় উঠেছিল.",
+      "At dinner, she explained that 'crescendo' means 'a gradual increase in loudness or intensity', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘crescendo’ শব্দটির অর্থ—ক্রমশ শব্দ বা তীব্রতা বৃদ্ধি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'crescendo' as 'a gradual increase in loudness or intensity' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘crescendo’ শব্দটি ক্রমশ শব্দ বা তীব্রতা বৃদ্ধি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "crestfallen",
+    "pronunciation_bn": "ক্রেস্টফলন",
+    "pronunciation": "/ˈkrestfɔːlən/",
+    "no": 243,
+    "group": 10,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "disappointed and sad, especially because of a failure or unexpected setback",
+    "meaning_bn": [
+      "হতাশ",
+      "মনমরা",
+      "ব্যর্থতায় ভেঙে পড়া"
+    ],
+    "synonyms": [
+      {
+        "en": "dejected",
+        "bn": "হতাশ"
+      },
+      {
+        "en": "dispirited",
+        "bn": "উৎসাহহীন"
+      },
+      {
+        "en": "downcast",
+        "bn": "মনমরা"
+      },
+      {
+        "en": "disappointed",
+        "bn": "নিরাশ"
+      },
+      {
+        "en": "Despondent",
+        "bn": "অত্যন্ত হতাশ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "elated",
+        "bn": "উল্লসিত"
+      },
+      {
+        "en": "cheerful",
+        "bn": "প্রফুল্ল"
+      },
+      {
+        "en": "encouraged",
+        "bn": "উৎসাহিত"
+      },
+      {
+        "en": "Blithe",
+        "bn": "প্রফুল্ল ও নিশ্চিন্ত"
+      },
+      {
+        "en": "Ebullient",
+        "bn": "উচ্ছ্বসিত"
+      },
+      {
+        "en": "Sanguine",
+        "bn": "আশাবাদী"
+      },
+      {
+        "en": "exuberant",
+        "bn": "উচ্ছ্বসিত"
+      }
+    ],
+    "example": "He looked crestfallen after learning that he had not passed.",
+    "example_bn": "পাস করতে পারেনি জানতে পেরে তাকে হতাশ দেখাচ্ছিল.",
+    "examples": [
+      "He looked crestfallen after learning that he had not passed. — পাস করতে পারেনি জানতে পেরে তাকে হতাশ দেখাচ্ছিল.",
+      "At dinner, she explained that 'crestfallen' means 'disappointed and sad, especially because of a failure', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘crestfallen’ শব্দটির অর্থ—হতাশ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'crestfallen' as 'disappointed and sad, especially because of a failure' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘crestfallen’ শব্দটি হতাশ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "crevice",
+    "pronunciation_bn": "ক্রেভিস",
+    "pronunciation": "/ˈkrevɪs/",
+    "no": 244,
+    "group": 10,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a narrow crack or opening, especially in rock or another surface",
+    "meaning_bn": [
+      "সরু ফাটল",
+      "চিড়",
+      "পাথর বা পৃষ্ঠের সংকীর্ণ ফাঁক"
+    ],
+    "synonyms": [
+      {
+        "en": "crack",
+        "bn": "ফাটল"
+      },
+      {
+        "en": "fissure",
+        "bn": "দীর্ঘ সরু ফাটল"
+      },
+      {
+        "en": "cleft",
+        "bn": "চেরা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "solid surface",
+        "bn": "অখণ্ড পৃষ্ঠ"
+      },
+      {
+        "en": "closure",
+        "bn": "বন্ধ অবস্থা"
+      }
+    ],
+    "example": "A small plant grew in a crevice in the wall.",
+    "example_bn": "দেয়ালের একটি সরু ফাটলে ছোট গাছটি জন্মেছিল.",
+    "examples": [
+      "A small plant grew in a crevice in the wall. — দেয়ালের একটি সরু ফাটলে ছোট গাছটি জন্মেছিল.",
+      "At dinner, she explained that 'crevice' means 'a narrow crack or opening, especially in rock', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘crevice’ শব্দটির অর্থ—সরু ফাটল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'crevice' as 'a narrow crack or opening, especially in rock' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘crevice’ শব্দটি সরু ফাটল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "cringe",
+    "pronunciation_bn": "ক্রিঞ্জ",
+    "pronunciation": "/krɪndʒ/",
+    "no": 245,
+    "group": 10,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to move back or shrink because of fear or discomfort; to feel embarrassed",
+    "meaning_bn": [
+      "ভয়ে বা অস্বস্তিতে সঙ্কুচিত হওয়া",
+      "লজ্জায় কুঁকড়ে যাওয়া",
+      "বিব্রত বোধ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "cower",
+        "bn": "ভয়ে কুঁকড়ে যাওয়া"
+      },
+      {
+        "en": "flinch",
+        "bn": "চমকে সরে যাওয়া"
+      },
+      {
+        "en": "wince",
+        "bn": "ব্যথা বা অস্বস্তিতে মুখ কুঁচকানো"
+      },
+      {
+        "en": "Grimace",
+        "bn": "মুখ বিকৃতি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "confront",
+        "bn": "মুখোমুখি হওয়া"
+      },
+      {
+        "en": "face",
+        "bn": "সামনা করা"
+      },
+      {
+        "en": "Accost",
+        "bn": "কারও কাছে গিয়ে কথা বলা"
+      },
+      {
+        "en": "Distend",
+        "bn": "ফুলে ওঠা"
+      }
+    ],
+    "example": "I cringe whenever I remember my embarrassing mistake.",
+    "example_bn": "নিজের বিব্রতকর ভুলটির কথা মনে পড়লেই আমি অস্বস্তিতে কুঁকড়ে যাই.",
+    "examples": [
+      "I cringe whenever I remember my embarrassing mistake. — নিজের বিব্রতকর ভুলটির কথা মনে পড়লেই আমি অস্বস্তিতে কুঁকড়ে যাই.",
+      "At dinner, she explained that 'cringe' means 'to move back or shrink because of fear', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘cringe’ শব্দটির অর্থ—ভয়ে বা অস্বস্তিতে সঙ্কুচিত হওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'cringe' as 'to move back or shrink because of fear' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘cringe’ শব্দটি ভয়ে বা অস্বস্তিতে সঙ্কুচিত হওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "critique",
+    "pronunciation_bn": "ক্রিটিক",
+    "pronunciation": "/krɪˈtiːk/",
+    "no": 246,
+    "group": 10,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a detailed analysis and assessment of something, especially a literary, artistic, or scholarly work; also a verb",
+    "meaning_bn": [
+      "সমালোচনামূলক বিশ্লেষণ",
+      "মূল্যায়ন",
+      "সমালোচনা করা"
+    ],
+    "synonyms": [
+      {
+        "en": "analysis",
+        "bn": "বিশ্লেষণ"
+      },
+      {
+        "en": "review",
+        "bn": "পর্যালোচনা"
+      },
+      {
+        "en": "assessment",
+        "bn": "মূল্যায়ন"
+      },
+      {
+        "en": "evaluation",
+        "bn": "মূল্যায়ন"
+      },
+      {
+        "en": "retrospect",
+        "bn": "অতীতের দিকে ফিরে দেখা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "praise",
+        "bn": "প্রশংসা"
+      },
+      {
+        "en": "commendation",
+        "bn": "প্রশংসাসূচক স্বীকৃতি"
+      },
+      {
+        "en": "Approbation",
+        "bn": "অনুমোদন"
+      },
+      {
+        "en": "Synthesis",
+        "bn": "সংশ্লেষণ"
+      },
+      {
+        "en": "Acclaim",
+        "bn": "প্রকাশ্যে প্রশংসা করা"
+      },
+      {
+        "en": "Tout",
+        "bn": "প্রচার করা"
+      }
+    ],
+    "example": "The editor wrote a thoughtful critique of the manuscript.",
+    "example_bn": "সম্পাদক পাণ্ডুলিপিটির একটি চিন্তাশীল সমালোচনামূলক পর্যালোচনা লিখেছিলেন.",
+    "examples": [
+      "The editor wrote a thoughtful critique of the manuscript. — সম্পাদক পাণ্ডুলিপিটির একটি চিন্তাশীল সমালোচনামূলক পর্যালোচনা লিখেছিলেন.",
+      "At dinner, she explained that 'critique' means 'a detailed analysis and assessment of something, especially', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘critique’ শব্দটির অর্থ—সমালোচনামূলক বিশ্লেষণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'critique' as 'a detailed analysis and assessment of something, especially' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘critique’ শব্দটি সমালোচনামূলক বিশ্লেষণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "crux",
+    "pronunciation_bn": "ক্রাক্স",
+    "pronunciation": "/krʌks/",
+    "no": 247,
+    "group": 10,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the most important or difficult point of an issue, problem, or argument",
+    "meaning_bn": [
+      "মূল বিষয়",
+      "সবচেয়ে গুরুত্বপূর্ণ অংশ",
+      "সমস্যার জটিলতম দিক"
+    ],
+    "synonyms": [
+      {
+        "en": "core",
+        "bn": "মূল"
+      },
+      {
+        "en": "essence",
+        "bn": "সারমর্ম"
+      },
+      {
+        "en": "heart",
+        "bn": "মর্মকথা"
+      },
+      {
+        "en": "key point",
+        "bn": "মূল বিষয়"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "detail",
+        "bn": "খুঁটিনাটি"
+      },
+      {
+        "en": "periphery",
+        "bn": "প্রান্তভাগ"
+      },
+      {
+        "en": "Adjunct",
+        "bn": "সহায়ক বা অতিরিক্ত অংশ"
+      },
+      {
+        "en": "brink",
+        "bn": "প্রান্ত"
+      },
+      {
+        "en": "dross",
+        "bn": "আবর্জনা"
+      },
+      {
+        "en": "veneer",
+        "bn": "পাতলা আবরণ বা প্রলেপ"
+      }
+    ],
+    "example": "The crux of the debate is how to fund the project.",
+    "example_bn": "বিতর্কের মূল বিষয় হলো প্রকল্পটির অর্থায়ন কীভাবে করা হবে.",
+    "examples": [
+      "The crux of the debate is how to fund the project. — বিতর্কের মূল বিষয় হলো প্রকল্পটির অর্থায়ন কীভাবে করা হবে.",
+      "At dinner, she explained that 'crux' means 'the most important or difficult point', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘crux’ শব্দটির অর্থ—মূল বিষয়—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'crux' as 'the most important or difficult point' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘crux’ শব্দটি মূল বিষয় অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "cuisine",
+    "pronunciation_bn": "কুইজিন",
+    "pronunciation": "/kwɪˈziːn/",
+    "no": 248,
+    "group": 10,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a style or method of cooking, especially associated with a country or region",
+    "meaning_bn": [
+      "রন্ধনশৈলী",
+      "কোনো দেশ বা অঞ্চলের বিশেষ রান্নার ধরন"
+    ],
+    "synonyms": [
+      {
+        "en": "cookery",
+        "bn": "রন্ধনবিদ্যা"
+      },
+      {
+        "en": "cooking style",
+        "bn": "রান্নার ধরন"
+      },
+      {
+        "en": "culinary tradition",
+        "bn": "রন্ধন ঐতিহ্য"
+      },
+      {
+        "en": "Gastronomy",
+        "bn": "উন্নত খাদ্যরসনা"
+      }
+    ],
+    "antonyms": [],
+    "example": "Bangladeshi cuisine often features rice, fish, and spices.",
+    "example_bn": "বাংলাদেশি রন্ধনশৈলীতে প্রায়ই ভাত, মাছ ও মসলার ব্যবহার দেখা যায়.",
+    "examples": [
+      "Bangladeshi cuisine often features rice, fish, and spices. — বাংলাদেশি রন্ধনশৈলীতে প্রায়ই ভাত, মাছ ও মসলার ব্যবহার দেখা যায়.",
+      "At dinner, she explained that 'cuisine' means 'a style or method of cooking, especially associated', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘cuisine’ শব্দটির অর্থ—রন্ধনশৈলী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'cuisine' as 'a style or method of cooking, especially associated' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘cuisine’ শব্দটি রন্ধনশৈলী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "cull",
+    "pronunciation_bn": "কাল",
+    "pronunciation": "/kʌl/",
+    "no": 249,
+    "group": 10,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to select or gather the best or most suitable from a group; to reduce a population by selective killing",
+    "meaning_bn": [
+      "বেছে নেওয়া",
+      "সংগ্রহ থেকে নির্বাচিত করা",
+      "বাছাই করে সংখ্যা কমানো"
+    ],
+    "synonyms": [
+      {
+        "en": "select",
+        "bn": "নির্বাচন করা"
+      },
+      {
+        "en": "choose",
+        "bn": "বেছে নেওয়া"
+      },
+      {
+        "en": "pick",
+        "bn": "বাছাই করা"
+      },
+      {
+        "en": "collect",
+        "bn": "সংগ্রহ করা"
+      },
+      {
+        "en": "Amass",
+        "bn": "জমা করা"
+      },
+      {
+        "en": "compile",
+        "bn": "সংকলন করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "retain all",
+        "bn": "সব রেখে দেওয়া"
+      },
+      {
+        "en": "preserve",
+        "bn": "সংরক্ষণ করা"
+      },
+      {
+        "en": "Forgo",
+        "bn": "ত্যাগ করা"
+      },
+      {
+        "en": "perpetuate",
+        "bn": "চিরস্থায়ী করা"
+      }
+    ],
+    "example": "The editor culled the strongest essays for the collection.",
+    "example_bn": "সম্পাদক সংকলনের জন্য সেরা প্রবন্ধগুলো বেছে নিয়েছিলেন.",
+    "examples": [
+      "The editor culled the strongest essays for the collection. — সম্পাদক সংকলনের জন্য সেরা প্রবন্ধগুলো বেছে নিয়েছিলেন.",
+      "At dinner, she explained that 'cull' means 'to select or gather the best or most', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘cull’ শব্দটির অর্থ—বেছে নেওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'cull' as 'to select or gather the best or most' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘cull’ শব্দটি বেছে নেওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "curb",
+    "pronunciation_bn": "কার্ব",
+    "pronunciation": "/kɜːb/",
+    "no": 250,
+    "group": 10,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to control, limit, or restrain; also a noun meaning a limit or restraint",
+    "meaning_bn": [
+      "নিয়ন্ত্রণ করা",
+      "দমন করা",
+      "সীমিত করা",
+      "নিয়ন্ত্রণ বা বাধা"
+    ],
+    "synonyms": [
+      {
+        "en": "restrain",
+        "bn": "সংযত করা"
+      },
+      {
+        "en": "control",
+        "bn": "নিয়ন্ত্রণ করা"
+      },
+      {
+        "en": "check",
+        "bn": "রোধ করা"
+      },
+      {
+        "en": "limit",
+        "bn": "সীমাবদ্ধ করা"
+      },
+      {
+        "en": "throttle",
+        "bn": "শ্বাসরোধ করা"
+      },
+      {
+        "en": "Circumscribe",
+        "bn": "সীমাবদ্ধ করা"
+      },
+      {
+        "en": "Curtail",
+        "bn": "কমানো"
+      },
+      {
+        "en": "Fetter",
+        "bn": "শৃঙ্খলিত করা"
+      },
+      {
+        "en": "Qualify",
+        "bn": "কোনো বক্তব্যের অর্থ সীমিত বা শর্তযুক্ত করা"
+      },
+      {
+        "en": "repress",
+        "bn": "দমন করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "encourage",
+        "bn": "উৎসাহিত করা"
+      },
+      {
+        "en": "promote",
+        "bn": "উন্নীত করা"
+      },
+      {
+        "en": "release",
+        "bn": "মুক্ত করা"
+      },
+      {
+        "en": "Exhort",
+        "bn": "জোরালোভাবে অনুরোধ করা"
+      },
+      {
+        "en": "foster",
+        "bn": "লালন করা"
+      },
+      {
+        "en": "Abet",
+        "bn": "অন্যায় কাজে সহায়তা করা"
+      },
+      {
+        "en": "Advocate",
+        "bn": "সমর্থক"
+      },
+      {
+        "en": "emancipate",
+        "bn": "মুক্ত করা"
+      }
+    ],
+    "example": "The authorities introduced measures to curb pollution.",
+    "example_bn": "কর্তৃপক্ষ দূষণ নিয়ন্ত্রণে ব্যবস্থা চালু করেছিল.",
+    "examples": [
+      "The authorities introduced measures to curb pollution. — কর্তৃপক্ষ দূষণ নিয়ন্ত্রণে ব্যবস্থা চালু করেছিল.",
+      "At dinner, she explained that 'curb' means 'to control, limit, or restrain', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘curb’ শব্দটির অর্থ—নিয়ন্ত্রণ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'curb' as 'to control, limit, or restrain' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘curb’ শব্দটি নিয়ন্ত্রণ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

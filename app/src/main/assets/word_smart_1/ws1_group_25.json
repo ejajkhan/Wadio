@@ -1,0 +1,1625 @@
+[
+  {
+    "word": "Pejorative",
+    "pronunciation_bn": "পিজোরেটিভ",
+    "pronunciation": "/pɪˈdʒɒr.ə.tɪv/",
+    "no": 601,
+    "group": 25,
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "meaning_en": "expressing disapproval or contempt; a word or expression that has a negative or insulting meaning",
+    "meaning_bn": [
+      "অবজ্ঞাসূচক",
+      "নিন্দাসূচক",
+      "অপমানজনক শব্দ বা অভিব্যক্তি"
+    ],
+    "synonyms": [
+      {
+        "en": "derogatory",
+        "bn": "অবমাননাকর"
+      },
+      {
+        "en": "disparaging",
+        "bn": "তুচ্ছতাচ্ছিল্যপূর্ণ"
+      },
+      {
+        "en": "insulting",
+        "bn": "অপমানজনক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "complimentary",
+        "bn": "প্রশংসাসূচক"
+      },
+      {
+        "en": "laudatory",
+        "bn": "প্রশংসামূলক"
+      },
+      {
+        "en": "Gratis",
+        "bn": "বিনামূল্যে"
+      }
+    ],
+    "example": "His pejorative remarks angered the crowd.",
+    "example_bn": "তার অবজ্ঞাসূচক মন্তব্যগুলো জনতাকে ক্ষুব্ধ করেছিল.",
+    "examples": [
+      "His pejorative remarks angered the crowd. — তার অবজ্ঞাসূচক মন্তব্যগুলো জনতাকে ক্ষুব্ধ করেছিল.",
+      "At dinner, she explained that 'Pejorative' means 'expressing disapproval or contempt', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Pejorative’ শব্দটির অর্থ—অবজ্ঞাসূচক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Pejorative' as 'expressing disapproval or contempt' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Pejorative’ শব্দটি অবজ্ঞাসূচক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Penchant",
+    "pronunciation_bn": "পঁশঁ",
+    "pronunciation": "/ˈpɒ̃.ʃɒ̃/",
+    "no": 602,
+    "group": 25,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a strong liking for or tendency toward something",
+    "meaning_bn": [
+      "বিশেষ ঝোঁক",
+      "প্রবল পছন্দ",
+      "কোনো কিছুর প্রতি স্বাভাবিক আকর্ষণ"
+    ],
+    "synonyms": [
+      {
+        "en": "liking",
+        "bn": "পছন্দ"
+      },
+      {
+        "en": "inclination",
+        "bn": "ঝোঁক"
+      },
+      {
+        "en": "predilection",
+        "bn": "বিশেষ অনুরাগ"
+      },
+      {
+        "en": "disposition",
+        "bn": "স্বভাব"
+      },
+      {
+        "en": "Propensity",
+        "bn": "স্বাভাবিক প্রবণতা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "aversion",
+        "bn": "বিরাগ"
+      },
+      {
+        "en": "dislike",
+        "bn": "অপছন্দ"
+      },
+      {
+        "en": "Antipathy",
+        "bn": "তীব্র অপছন্দ"
+      }
+    ],
+    "example": "She has a penchant for collecting old books.",
+    "example_bn": "পুরোনো বই সংগ্রহের প্রতি তার বিশেষ ঝোঁক রয়েছে.",
+    "examples": [
+      "She has a penchant for collecting old books. — পুরোনো বই সংগ্রহের প্রতি তার বিশেষ ঝোঁক রয়েছে.",
+      "At dinner, she explained that 'Penchant' means 'a strong liking for or tendency toward something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Penchant’ শব্দটির অর্থ—বিশেষ ঝোঁক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Penchant' as 'a strong liking for or tendency toward something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Penchant’ শব্দটি বিশেষ ঝোঁক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Penitent",
+    "pronunciation_bn": "পেনিটেন্ট",
+    "pronunciation": "/ˈpen.ɪ.tənt/",
+    "no": 603,
+    "group": 25,
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "meaning_en": "feeling or showing sorrow and regret for having done something wrong; a person who repents",
+    "meaning_bn": [
+      "অনুতপ্ত",
+      "কৃতকর্মের জন্য অনুশোচনাকারী",
+      "অনুতপ্ত ব্যক্তি"
+    ],
+    "synonyms": [
+      {
+        "en": "repentant",
+        "bn": "অনুতপ্ত"
+      },
+      {
+        "en": "remorseful",
+        "bn": "অনুশোচনাপূর্ণ"
+      },
+      {
+        "en": "contrite",
+        "bn": "গভীরভাবে অনুতপ্ত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "unrepentant",
+        "bn": "অনুতাপহীন"
+      },
+      {
+        "en": "remorseless",
+        "bn": "অনুশোচনাহীন"
+      }
+    ],
+    "example": "The penitent man apologized for the harm he had caused.",
+    "example_bn": "অনুতপ্ত লোকটি তার করা ক্ষতির জন্য ক্ষমা চাইল.",
+    "examples": [
+      "The penitent man apologized for the harm he had caused. — অনুতপ্ত লোকটি তার করা ক্ষতির জন্য ক্ষমা চাইল.",
+      "At dinner, she explained that 'Penitent' means 'feeling or showing sorrow and regret for having', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Penitent’ শব্দটির অর্থ—অনুতপ্ত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Penitent' as 'feeling or showing sorrow and regret for having' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Penitent’ শব্দটি অনুতপ্ত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Pensive",
+    "pronunciation_bn": "পেনসিভ",
+    "pronunciation": "/ˈpen.sɪv/",
+    "no": 604,
+    "group": 25,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "thinking deeply, often with a slightly sad or serious expression",
+    "meaning_bn": [
+      "গভীর চিন্তামগ্ন",
+      "চিন্তিত ও বিষণ্ণ",
+      "ভাবুক"
+    ],
+    "synonyms": [
+      {
+        "en": "thoughtful",
+        "bn": "চিন্তাশীল"
+      },
+      {
+        "en": "reflective",
+        "bn": "মননশীল"
+      },
+      {
+        "en": "contemplative",
+        "bn": "গভীরভাবে চিন্তামগ্ন"
+      },
+      {
+        "en": "Introspective",
+        "bn": "আত্মবিশ্লেষণমূলক"
+      },
+      {
+        "en": "Cerebral",
+        "bn": "মস্তিষ্কসংক্রান্ত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "carefree",
+        "bn": "নিশ্চিন্ত"
+      },
+      {
+        "en": "unreflective",
+        "bn": "চিন্তাভাবনাহীন"
+      },
+      {
+        "en": "Blithe",
+        "bn": "প্রফুল্ল ও নিশ্চিন্ত"
+      },
+      {
+        "en": "Facile",
+        "bn": "অতি সহজে করা হলেও যথেষ্ট চিন্তাভাবনাহীন"
+      },
+      {
+        "en": "Insouciant",
+        "bn": "নিরুদ্বিগ্ন"
+      },
+      {
+        "en": "vacuous",
+        "bn": "বিষয়বস্তুহীন"
+      }
+    ],
+    "example": "She sat by the window, looking pensive.",
+    "example_bn": "সে জানালার পাশে বসে গভীর চিন্তামগ্ন হয়ে ছিল.",
+    "examples": [
+      "She sat by the window, looking pensive. — সে জানালার পাশে বসে গভীর চিন্তামগ্ন হয়ে ছিল.",
+      "At dinner, she explained that 'Pensive' means 'thinking deeply, often with a slightly sad', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Pensive’ শব্দটির অর্থ—গভীর চিন্তামগ্ন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Pensive' as 'thinking deeply, often with a slightly sad' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Pensive’ শব্দটি গভীর চিন্তামগ্ন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Peremptory",
+    "pronunciation_bn": "পেরেম্পটরি",
+    "pronunciation": "/pəˈremp.tər.i/",
+    "no": 605,
+    "group": 25,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "expecting immediate obedience and allowing no refusal or discussion",
+    "meaning_bn": [
+      "হুকুমমূলক",
+      "কর্তৃত্বপূর্ণ",
+      "আপত্তি বা আলোচনা না মেনে চাপিয়ে দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "imperious",
+        "bn": "দাপটপূর্ণ"
+      },
+      {
+        "en": "authoritative",
+        "bn": "কর্তৃত্বপূর্ণ"
+      },
+      {
+        "en": "dictatorial",
+        "bn": "স্বৈরাচারীসুলভ"
+      },
+      {
+        "en": "Autocratic",
+        "bn": "একনায়কতান্ত্রিক"
+      },
+      {
+        "en": "Definitive",
+        "bn": "চূড়ান্ত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "tentative",
+        "bn": "অনিশ্চিত বা প্রাথমিক"
+      },
+      {
+        "en": "suggestive",
+        "bn": "প্রস্তাবমূলক"
+      },
+      {
+        "en": "hesitant",
+        "bn": "দ্বিধাগ্রস্ত"
+      },
+      {
+        "en": "Ambivalent",
+        "bn": "দ্বিধাগ্রস্ত"
+      },
+      {
+        "en": "Contingent",
+        "bn": "নির্ভরশীল"
+      },
+      {
+        "en": "Dubious",
+        "bn": "সন্দেহজনক"
+      },
+      {
+        "en": "Provisional",
+        "bn": "অস্থায়ী"
+      }
+    ],
+    "example": "The manager issued a peremptory order to close the building.",
+    "example_bn": "ব্যবস্থাপক ভবনটি বন্ধ করার জন্য আপত্তির অবকাশহীন নির্দেশ দিলেন.",
+    "examples": [
+      "The manager issued a peremptory order to close the building. — ব্যবস্থাপক ভবনটি বন্ধ করার জন্য আপত্তির অবকাশহীন নির্দেশ দিলেন.",
+      "At dinner, she explained that 'Peremptory' means 'expecting immediate obedience and allowing no refusal', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Peremptory’ শব্দটির অর্থ—হুকুমমূলক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Peremptory' as 'expecting immediate obedience and allowing no refusal' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Peremptory’ শব্দটি হুকুমমূলক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Perennial",
+    "pronunciation_bn": "পেরেনিয়াল",
+    "pronunciation": "/pəˈren.i.əl/",
+    "no": 606,
+    "group": 25,
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "meaning_en": "lasting for a long time or recurring year after year; a plant that lives for several years",
+    "meaning_bn": [
+      "দীর্ঘস্থায়ী",
+      "বারবার ঘটে এমন",
+      "বহুবর্ষজীবী উদ্ভিদ"
+    ],
+    "synonyms": [
+      {
+        "en": "enduring",
+        "bn": "দীর্ঘস্থায়ী"
+      },
+      {
+        "en": "persistent",
+        "bn": "অবিরাম বা স্থায়ী"
+      },
+      {
+        "en": "recurring",
+        "bn": "বারবার ঘটে এমন"
+      },
+      {
+        "en": "Chronic",
+        "bn": "দীর্ঘস্থায়ী"
+      },
+      {
+        "en": "Relentless",
+        "bn": "অবিরাম"
+      },
+      {
+        "en": "Tenacious",
+        "bn": "অদম্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "temporary",
+        "bn": "সাময়িক"
+      },
+      {
+        "en": "short-lived",
+        "bn": "স্বল্পস্থায়ী"
+      },
+      {
+        "en": "Ephemeral",
+        "bn": "ক্ষণস্থায়ী"
+      },
+      {
+        "en": "Evanescent",
+        "bn": "ক্ষণস্থায়ী"
+      },
+      {
+        "en": "Transient",
+        "bn": "ক্ষণস্থায়ী"
+      },
+      {
+        "en": "Interim",
+        "bn": "অন্তর্বর্তীকালীন"
+      },
+      {
+        "en": "Provisional",
+        "bn": "অস্থায়ী"
+      }
+    ],
+    "example": "Flooding is a perennial problem in the region.",
+    "example_bn": "এ অঞ্চলে বন্যা একটি দীর্ঘস্থায়ী সমস্যা.",
+    "examples": [
+      "Flooding is a perennial problem in the region. — এ অঞ্চলে বন্যা একটি দীর্ঘস্থায়ী সমস্যা.",
+      "At dinner, she explained that 'Perennial' means 'lasting for a long time or recurring year', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Perennial’ শব্দটির অর্থ—দীর্ঘস্থায়ী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Perennial' as 'lasting for a long time or recurring year' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Perennial’ শব্দটি দীর্ঘস্থায়ী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Perfidy",
+    "pronunciation_bn": "পারফিডি",
+    "pronunciation": "/ˈpɜː.fɪ.di/",
+    "no": 607,
+    "group": 25,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the act of betraying someone or breaking faith; treachery",
+    "meaning_bn": [
+      "বিশ্বাসঘাতকতা",
+      "বিশ্বাসভঙ্গ",
+      "কপটতা"
+    ],
+    "synonyms": [
+      {
+        "en": "treachery",
+        "bn": "বিশ্বাসঘাতকতা"
+      },
+      {
+        "en": "betrayal",
+        "bn": "বিশ্বাসভঙ্গ"
+      },
+      {
+        "en": "duplicity",
+        "bn": "কপটতা"
+      },
+      {
+        "en": "Guile",
+        "bn": "ধূর্ততা"
+      },
+      {
+        "en": "Hypocrisy",
+        "bn": "ভণ্ডামি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "loyalty",
+        "bn": "আনুগত্য"
+      },
+      {
+        "en": "faithfulness",
+        "bn": "বিশ্বস্ততা"
+      },
+      {
+        "en": "Allegiance",
+        "bn": "আনুগত্য"
+      },
+      {
+        "en": "Fidelity",
+        "bn": "বিশ্বস্ততা"
+      },
+      {
+        "en": "Candor",
+        "bn": "আন্তরিক সততা"
+      }
+    ],
+    "example": "His perfidy was revealed when the letters were published.",
+    "example_bn": "চিঠিগুলো প্রকাশিত হলে তার বিশ্বাসঘাতকতা প্রকাশ পায়.",
+    "examples": [
+      "His perfidy was revealed when the letters were published. — চিঠিগুলো প্রকাশিত হলে তার বিশ্বাসঘাতকতা প্রকাশ পায়.",
+      "At dinner, she explained that 'Perfidy' means 'the act of betraying someone or breaking faith', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Perfidy’ শব্দটির অর্থ—বিশ্বাসঘাতকতা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Perfidy' as 'the act of betraying someone or breaking faith' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Perfidy’ শব্দটি বিশ্বাসঘাতকতা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Perfunctory",
+    "pronunciation_bn": "পারফাংক্টরি",
+    "pronunciation": "/pəˈfʌŋk.tər.i/",
+    "no": 608,
+    "group": 25,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "done quickly and routinely, with little care, interest, or effort",
+    "meaning_bn": [
+      "দায়সারা",
+      "যান্ত্রিক ও অনাগ্রহী",
+      "যথাযথ যত্ন ছাড়া করা"
+    ],
+    "synonyms": [
+      {
+        "en": "cursory",
+        "bn": "দ্রুত ও উপর উপর করা"
+      },
+      {
+        "en": "mechanical",
+        "bn": "যান্ত্রিক"
+      },
+      {
+        "en": "superficial",
+        "bn": "অগভীর বা উপর উপর"
+      },
+      {
+        "en": "Facile",
+        "bn": "অতি সহজে করা হলেও যথেষ্ট চিন্তাভাবনাহীন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "thorough",
+        "bn": "পুঙ্খানুপুঙ্খ"
+      },
+      {
+        "en": "careful",
+        "bn": "যত্নশীল"
+      },
+      {
+        "en": "meticulous",
+        "bn": "খুঁটিনাটিতে সতর্ক"
+      },
+      {
+        "en": "Comprehensive",
+        "bn": "সর্বাঙ্গীণ"
+      },
+      {
+        "en": "Exhaustive",
+        "bn": "পুঙ্খানুপুঙ্খ"
+      },
+      {
+        "en": "Painstaking",
+        "bn": "অত্যন্ত যত্নসহকারে করা"
+      },
+      {
+        "en": "Fastidious",
+        "bn": "খুঁতখুঁতে"
+      },
+      {
+        "en": "Incisive",
+        "bn": "তীক্ষ্ণ বিশ্লেষণী"
+      }
+    ],
+    "example": "He gave a perfunctory nod and continued walking.",
+    "example_bn": "সে দায়সারাভাবে মাথা নেড়ে হাঁটতে থাকল.",
+    "examples": [
+      "He gave a perfunctory nod and continued walking. — সে দায়সারাভাবে মাথা নেড়ে হাঁটতে থাকল.",
+      "At dinner, she explained that 'Perfunctory' means 'done quickly and routinely, with little care, interest', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Perfunctory’ শব্দটির অর্থ—দায়সারা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Perfunctory' as 'done quickly and routinely, with little care, interest' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Perfunctory’ শব্দটি দায়সারা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Peripatetic",
+    "pronunciation_bn": "পেরিপ্যাটেটিক",
+    "pronunciation": "/ˌper.ɪ.pəˈtet.ɪk/",
+    "no": 609,
+    "group": 25,
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "meaning_en": "travelling from place to place, especially for work; a person who does so",
+    "meaning_bn": [
+      "ভ্রাম্যমাণ",
+      "এক স্থান থেকে অন্য স্থানে ঘুরে বেড়ায় এমন",
+      "পরিব্রাজক"
+    ],
+    "synonyms": [
+      {
+        "en": "itinerant",
+        "bn": "ভ্রাম্যমাণ"
+      },
+      {
+        "en": "wandering",
+        "bn": "ঘুরে বেড়ানো"
+      },
+      {
+        "en": "nomadic",
+        "bn": "যাযাবরসুলভ"
+      },
+      {
+        "en": "discursive",
+        "bn": "প্রসঙ্গান্তরপ্রবণ"
+      },
+      {
+        "en": "peregrination",
+        "bn": "দীর্ঘ ভ্রমণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "settled",
+        "bn": "স্থায়ীভাবে বসবাসকারী"
+      },
+      {
+        "en": "stationary",
+        "bn": "স্থির"
+      },
+      {
+        "en": "sedentary",
+        "bn": "বেশিরভাগ সময় বসে থাকা"
+      },
+      {
+        "en": "Immutable",
+        "bn": "অপরিবর্তনীয়"
+      },
+      {
+        "en": "Static",
+        "bn": "স্থির"
+      }
+    ],
+    "example": "Her peripatetic job took her to a different city every month.",
+    "example_bn": "তার ভ্রাম্যমাণ চাকরির কারণে প্রতি মাসে তাকে অন্য একটি শহরে যেতে হতো.",
+    "examples": [
+      "Her peripatetic job took her to a different city every month. — তার ভ্রাম্যমাণ চাকরির কারণে প্রতি মাসে তাকে অন্য একটি শহরে যেতে হতো.",
+      "At dinner, she explained that 'Peripatetic' means 'travelling from place to place, especially for work', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Peripatetic’ শব্দটির অর্থ—ভ্রাম্যমাণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Peripatetic' as 'travelling from place to place, especially for work' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Peripatetic’ শব্দটি ভ্রাম্যমাণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Periphery",
+    "pronunciation_bn": "পেরিফেরি",
+    "pronunciation": "/pəˈrɪf.ər.i/",
+    "no": 610,
+    "group": 25,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the outer edge or boundary of an area, object, or group",
+    "meaning_bn": [
+      "পরিধি",
+      "বহিঃপ্রান্ত",
+      "প্রান্তবর্তী অংশ"
+    ],
+    "synonyms": [
+      {
+        "en": "edge",
+        "bn": "ধার"
+      },
+      {
+        "en": "margin",
+        "bn": "প্রান্ত"
+      },
+      {
+        "en": "boundary",
+        "bn": "সীমানা"
+      },
+      {
+        "en": "brink",
+        "bn": "প্রান্ত"
+      },
+      {
+        "en": "extremity",
+        "bn": "সর্বশেষ প্রান্ত"
+      },
+      {
+        "en": "verge",
+        "bn": "প্রান্ত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "center",
+        "bn": "কেন্দ্র"
+      },
+      {
+        "en": "core",
+        "bn": "মূল অংশ"
+      },
+      {
+        "en": "crux",
+        "bn": "মূল বিষয়"
+      }
+    ],
+    "example": "Small villages lie on the periphery of the city.",
+    "example_bn": "ছোট গ্রামগুলো শহরের প্রান্তে অবস্থিত.",
+    "examples": [
+      "Small villages lie on the periphery of the city. — ছোট গ্রামগুলো শহরের প্রান্তে অবস্থিত.",
+      "At dinner, she explained that 'Periphery' means 'the outer edge or boundary of an area', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Periphery’ শব্দটির অর্থ—পরিধি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Periphery' as 'the outer edge or boundary of an area' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Periphery’ শব্দটি পরিধি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Perjury",
+    "pronunciation_bn": "পারজারি",
+    "pronunciation": "/ˈpɜː.dʒər.i/",
+    "no": 611,
+    "group": 25,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the crime of deliberately telling a lie while under oath, especially in court",
+    "meaning_bn": [
+      "শপথের অধীনে মিথ্যা সাক্ষ্য দেওয়া",
+      "মিথ্যা শপথভিত্তিক সাক্ষ্য",
+      "শপথভঙ্গ করে মিথ্যা বলা"
+    ],
+    "synonyms": [
+      {
+        "en": "false testimony",
+        "bn": "মিথ্যা সাক্ষ্য"
+      },
+      {
+        "en": "false swearing",
+        "bn": "মিথ্যা শপথ"
+      },
+      {
+        "en": "lying under oath",
+        "bn": "শপথ নিয়ে মিথ্যা বলা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "truthful testimony",
+        "bn": "সত্য সাক্ষ্য"
+      },
+      {
+        "en": "honest statement",
+        "bn": "সৎ বক্তব্য"
+      }
+    ],
+    "example": "He was charged with perjury after lying in court.",
+    "example_bn": "আদালতে মিথ্যা বলার পর তার বিরুদ্ধে শপথ নিয়ে মিথ্যা সাক্ষ্য দেওয়ার অভিযোগ আনা হয়.",
+    "examples": [
+      "He was charged with perjury after lying in court. — আদালতে মিথ্যা বলার পর তার বিরুদ্ধে শপথ নিয়ে মিথ্যা সাক্ষ্য দেওয়ার অভিযোগ আনা হয়.",
+      "At dinner, she explained that 'Perjury' means 'the crime of deliberately telling a lie while', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Perjury’ শব্দটির অর্থ—শপথের অধীনে মিথ্যা সাক্ষ্য দেওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Perjury' as 'the crime of deliberately telling a lie while' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Perjury’ শব্দটি শপথের অধীনে মিথ্যা সাক্ষ্য দেওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Permeate",
+    "pronunciation_bn": "পারমিয়েইট",
+    "pronunciation": "/ˈpɜː.mi.eɪt/",
+    "no": 612,
+    "group": 25,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to spread through or penetrate every part of something",
+    "meaning_bn": [
+      "সর্বত্র ছড়িয়ে পড়া",
+      "ভেদ করে প্রবেশ করা",
+      "পরিপূর্ণভাবে পরিব্যাপ্ত হওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "pervade",
+        "bn": "সর্বত্র ছড়িয়ে পড়া"
+      },
+      {
+        "en": "penetrate",
+        "bn": "ভেদ করে প্রবেশ করা"
+      },
+      {
+        "en": "suffuse",
+        "bn": "সর্বত্র ছড়িয়ে দেওয়া"
+      },
+      {
+        "en": "Infuse",
+        "bn": "সঞ্চারিত করা"
+      },
+      {
+        "en": "Imbue",
+        "bn": "সঞ্চারিত করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "exclude",
+        "bn": "বাদ দেওয়া"
+      },
+      {
+        "en": "repel",
+        "bn": "প্রতিহত করা"
+      },
+      {
+        "en": "deplete",
+        "bn": "অনেকটা কমিয়ে ফেলা"
+      },
+      {
+        "en": "ostracize",
+        "bn": "একঘরে করা"
+      }
+    ],
+    "example": "The smell of fresh bread permeated the entire house.",
+    "example_bn": "তাজা রুটির গন্ধ পুরো বাড়িতে ছড়িয়ে পড়েছিল.",
+    "examples": [
+      "The smell of fresh bread permeated the entire house. — তাজা রুটির গন্ধ পুরো বাড়িতে ছড়িয়ে পড়েছিল.",
+      "At dinner, she explained that 'Permeate' means 'to spread through or penetrate every part', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Permeate’ শব্দটির অর্থ—সর্বত্র ছড়িয়ে পড়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Permeate' as 'to spread through or penetrate every part' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Permeate’ শব্দটি সর্বত্র ছড়িয়ে পড়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Pernicious",
+    "pronunciation_bn": "পারনিশাস",
+    "pronunciation": "/pəˈnɪʃ.əs/",
+    "no": 613,
+    "group": 25,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "having a very harmful effect, especially one that is gradual or not easily noticed",
+    "meaning_bn": [
+      "মারাত্মক ক্ষতিকর",
+      "ধ্বংসাত্মক",
+      "গোপনে ক্ষতি করে এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "harmful",
+        "bn": "ক্ষতিকর"
+      },
+      {
+        "en": "damaging",
+        "bn": "ক্ষতিসাধনকারী"
+      },
+      {
+        "en": "destructive",
+        "bn": "ধ্বংসাত্মক"
+      },
+      {
+        "en": "Deleterious",
+        "bn": "ক্ষতিকর"
+      },
+      {
+        "en": "Noxious",
+        "bn": "ক্ষতিকর"
+      },
+      {
+        "en": "corrosive",
+        "bn": "ক্ষয়কারী"
+      },
+      {
+        "en": "Inimical",
+        "bn": "ক্ষতিকর"
+      },
+      {
+        "en": "toxic",
+        "bn": "বিষাক্ত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "beneficial",
+        "bn": "উপকারী"
+      },
+      {
+        "en": "harmless",
+        "bn": "ক্ষতিহীন"
+      },
+      {
+        "en": "Innocuous",
+        "bn": "ক্ষতিহীন"
+      },
+      {
+        "en": "Benign",
+        "bn": "ক্ষতিকর নয় এমন"
+      },
+      {
+        "en": "Salutary",
+        "bn": "উপকারী"
+      },
+      {
+        "en": "Conducive",
+        "bn": "সহায়ক"
+      }
+    ],
+    "example": "Misinformation can have a pernicious effect on public trust.",
+    "example_bn": "ভুল তথ্য জনসাধারণের আস্থার ওপর মারাত্মক ক্ষতিকর প্রভাব ফেলতে পারে.",
+    "examples": [
+      "Misinformation can have a pernicious effect on public trust. — ভুল তথ্য জনসাধারণের আস্থার ওপর মারাত্মক ক্ষতিকর প্রভাব ফেলতে পারে.",
+      "At dinner, she explained that 'Pernicious' means 'having a very harmful effect, especially one that', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Pernicious’ শব্দটির অর্থ—মারাত্মক ক্ষতিকর—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Pernicious' as 'having a very harmful effect, especially one that' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Pernicious’ শব্দটি মারাত্মক ক্ষতিকর অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Perquisite",
+    "pronunciation_bn": "পারকুইজিট",
+    "pronunciation": "/ˈpɜː.kwɪ.zɪt/",
+    "no": 614,
+    "group": 25,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "an extra benefit or privilege received because of one's job or position",
+    "meaning_bn": [
+      "চাকরির অতিরিক্ত সুবিধা",
+      "পদসংশ্লিষ্ট বিশেষ সুযোগ-সুবিধা"
+    ],
+    "synonyms": [
+      {
+        "en": "perk",
+        "bn": "অতিরিক্ত সুবিধা"
+      },
+      {
+        "en": "benefit",
+        "bn": "সুবিধা"
+      },
+      {
+        "en": "privilege",
+        "bn": "বিশেষ অধিকার বা সুযোগ"
+      },
+      {
+        "en": "Avail",
+        "bn": "উপকারে আসা"
+      },
+      {
+        "en": "boon",
+        "bn": "আশীর্বাদস্বরূপ বিষয়"
+      },
+      {
+        "en": "Prerogative",
+        "bn": "বিশেষ অধিকার"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "obligation",
+        "bn": "বাধ্যবাধকতা"
+      },
+      {
+        "en": "burden",
+        "bn": "বোঝা"
+      },
+      {
+        "en": "Bane",
+        "bn": "সর্বনাশের কারণ"
+      },
+      {
+        "en": "disservice",
+        "bn": "অপকার"
+      }
+    ],
+    "example": "A company car is one of the perquisites of her senior position.",
+    "example_bn": "কোম্পানির গাড়ি তার উচ্চপদস্থ চাকরির একটি অতিরিক্ত সুবিধা.",
+    "examples": [
+      "A company car is one of the perquisites of her senior position. — কোম্পানির গাড়ি তার উচ্চপদস্থ চাকরির একটি অতিরিক্ত সুবিধা.",
+      "At dinner, she explained that 'Perquisite' means 'an extra benefit or privilege received because', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Perquisite’ শব্দটির অর্থ—চাকরির অতিরিক্ত সুবিধা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Perquisite' as 'an extra benefit or privilege received because' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Perquisite’ শব্দটি চাকরির অতিরিক্ত সুবিধা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Pertinent",
+    "pronunciation_bn": "পার্টিনেন্ট",
+    "pronunciation": "/ˈpɜː.tɪ.nənt/",
+    "no": 615,
+    "group": 25,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "relevant or directly related to the matter being considered",
+    "meaning_bn": [
+      "প্রাসঙ্গিক",
+      "সংশ্লিষ্ট",
+      "বিষয়ের সঙ্গে সরাসরি সম্পর্কিত"
+    ],
+    "synonyms": [
+      {
+        "en": "relevant",
+        "bn": "প্রাসঙ্গিক"
+      },
+      {
+        "en": "applicable",
+        "bn": "প্রযোজ্য"
+      },
+      {
+        "en": "germane",
+        "bn": "বিষয়সংশ্লিষ্ট"
+      },
+      {
+        "en": "Apposite",
+        "bn": "যথোপযুক্ত"
+      },
+      {
+        "en": "Apropos",
+        "bn": "প্রাসঙ্গিক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "irrelevant",
+        "bn": "অপ্রাসঙ্গিক"
+      },
+      {
+        "en": "unrelated",
+        "bn": "সম্পর্কহীন"
+      },
+      {
+        "en": "Tangential",
+        "bn": "মূল বিষয়ের সঙ্গে সরাসরি সম্পর্কহীন"
+      },
+      {
+        "en": "Extraneous",
+        "bn": "অপ্রাসঙ্গিক"
+      },
+      {
+        "en": "Circuitous",
+        "bn": "ঘুরপ্যাঁচযুক্ত"
+      },
+      {
+        "en": "Gratuitous",
+        "bn": "অপ্রয়োজনীয়"
+      },
+      {
+        "en": "Incongruous",
+        "bn": "বেমানান"
+      },
+      {
+        "en": "Oblique",
+        "bn": "পরোক্ষ"
+      }
+    ],
+    "example": "Please keep your comments pertinent to the topic.",
+    "example_bn": "অনুগ্রহ করে আপনার মন্তব্যগুলো আলোচ্য বিষয়ের সঙ্গে প্রাসঙ্গিক রাখুন.",
+    "examples": [
+      "Please keep your comments pertinent to the topic. — অনুগ্রহ করে আপনার মন্তব্যগুলো আলোচ্য বিষয়ের সঙ্গে প্রাসঙ্গিক রাখুন.",
+      "At dinner, she explained that 'Pertinent' means 'relevant or directly related to the matter being', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Pertinent’ শব্দটির অর্থ—প্রাসঙ্গিক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Pertinent' as 'relevant or directly related to the matter being' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Pertinent’ শব্দটি প্রাসঙ্গিক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Perturb",
+    "pronunciation_bn": "পারটার্ব",
+    "pronunciation": "/pəˈtɜːb/",
+    "no": 616,
+    "group": 25,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to make someone anxious, unsettled, or worried",
+    "meaning_bn": [
+      "উদ্বিগ্ন করা",
+      "অস্থির করা",
+      "বিচলিত করা"
+    ],
+    "synonyms": [
+      {
+        "en": "disturb",
+        "bn": "বিচলিত করা"
+      },
+      {
+        "en": "unsettle",
+        "bn": "অস্থির করে দেওয়া"
+      },
+      {
+        "en": "disconcert",
+        "bn": "হতবুদ্ধি বা অস্বস্তিতে ফেলা"
+      },
+      {
+        "en": "Abash",
+        "bn": "বিব্রত করা"
+      },
+      {
+        "en": "discomfit",
+        "bn": "বিব্রত করা"
+      },
+      {
+        "en": "disquiet",
+        "bn": "উদ্বিগ্ন করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "calm",
+        "bn": "শান্ত করা"
+      },
+      {
+        "en": "reassure",
+        "bn": "আশ্বস্ত করা"
+      },
+      {
+        "en": "Habituate",
+        "bn": "অভ্যস্ত করানো"
+      }
+    ],
+    "example": "The unexpected news perturbed her greatly.",
+    "example_bn": "অপ্রত্যাশিত খবরটি তাকে খুব বিচলিত করেছিল.",
+    "examples": [
+      "The unexpected news perturbed her greatly. — অপ্রত্যাশিত খবরটি তাকে খুব বিচলিত করেছিল.",
+      "At dinner, she explained that 'Perturb' means 'to make someone anxious, unsettled, or worried', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Perturb’ শব্দটির অর্থ—উদ্বিগ্ন করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Perturb' as 'to make someone anxious, unsettled, or worried' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Perturb’ শব্দটি উদ্বিগ্ন করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Peruse",
+    "pronunciation_bn": "পেরুজ",
+    "pronunciation": "/pəˈruːz/",
+    "no": 617,
+    "group": 25,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to read or examine something carefully",
+    "meaning_bn": [
+      "মনোযোগ দিয়ে পড়া",
+      "যত্নসহকারে পরীক্ষা করা",
+      "খুঁটিয়ে দেখা"
+    ],
+    "synonyms": [
+      {
+        "en": "examine",
+        "bn": "পরীক্ষা করা"
+      },
+      {
+        "en": "inspect",
+        "bn": "খুঁটিয়ে দেখা"
+      },
+      {
+        "en": "study",
+        "bn": "মনোযোগ দিয়ে অধ্যয়ন করা"
+      },
+      {
+        "en": "Scrutinize",
+        "bn": "খুঁটিয়ে পরীক্ষা করা"
+      },
+      {
+        "en": "delve",
+        "bn": "গভীরভাবে অনুসন্ধান করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "skim",
+        "bn": "দ্রুত উপর উপর পড়া"
+      },
+      {
+        "en": "glance at",
+        "bn": "একনজর দেখা"
+      }
+    ],
+    "example": "She perused the contract before signing it.",
+    "example_bn": "চুক্তিতে স্বাক্ষর করার আগে সে সেটি মনোযোগ দিয়ে পড়েছিল.",
+    "examples": [
+      "She perused the contract before signing it. — চুক্তিতে স্বাক্ষর করার আগে সে সেটি মনোযোগ দিয়ে পড়েছিল.",
+      "At dinner, she explained that 'Peruse' means 'to read or examine something carefully', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Peruse’ শব্দটির অর্থ—মনোযোগ দিয়ে পড়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Peruse' as 'to read or examine something carefully' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Peruse’ শব্দটি মনোযোগ দিয়ে পড়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Pervade",
+    "pronunciation_bn": "পারভেইড",
+    "pronunciation": "/pəˈveɪd/",
+    "no": 618,
+    "group": 25,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to spread through and be present throughout every part of something",
+    "meaning_bn": [
+      "সর্বত্র ছড়িয়ে পড়া",
+      "পরিব্যাপ্ত হওয়া",
+      "সব অংশে বিরাজ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "permeate",
+        "bn": "সর্বত্র ছড়িয়ে পড়া"
+      },
+      {
+        "en": "pervade",
+        "bn": "পরিব্যাপ্ত হওয়া"
+      },
+      {
+        "en": "infuse",
+        "bn": "সর্বত্র সঞ্চারিত করা"
+      },
+      {
+        "en": "suffuse",
+        "bn": "ছেয়ে ফেলা"
+      },
+      {
+        "en": "Imbue",
+        "bn": "সঞ্চারিত করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "exclude",
+        "bn": "বাদ দেওয়া"
+      },
+      {
+        "en": "confine",
+        "bn": "সীমাবদ্ধ রাখা"
+      },
+      {
+        "en": "Circumscribe",
+        "bn": "সীমাবদ্ধ করা"
+      },
+      {
+        "en": "cloister",
+        "bn": "মঠের আঙিনার চারপাশের ছাউনিযুক্ত চলাচলের পথ"
+      },
+      {
+        "en": "deplete",
+        "bn": "অনেকটা কমিয়ে ফেলা"
+      },
+      {
+        "en": "ostracize",
+        "bn": "একঘরে করা"
+      }
+    ],
+    "example": "A sense of optimism pervaded the conference.",
+    "example_bn": "সম্মেলনজুড়ে আশাবাদের অনুভূতি ছড়িয়ে ছিল.",
+    "examples": [
+      "A sense of optimism pervaded the conference. — সম্মেলনজুড়ে আশাবাদের অনুভূতি ছড়িয়ে ছিল.",
+      "At dinner, she explained that 'Pervade' means 'to spread through and be present throughout every', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Pervade’ শব্দটির অর্থ—সর্বত্র ছড়িয়ে পড়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Pervade' as 'to spread through and be present throughout every' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Pervade’ শব্দটি সর্বত্র ছড়িয়ে পড়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Petulant",
+    "pronunciation_bn": "পেচুল্যান্ট",
+    "pronunciation": "/ˈpetʃ.ə.lənt/",
+    "no": 619,
+    "group": 25,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "easily annoyed or irritated, especially in a childish way",
+    "meaning_bn": [
+      "খিটখিটে",
+      "অল্পতেই বিরক্ত হয় এমন",
+      "শিশুসুলভ অভিমানী"
+    ],
+    "synonyms": [
+      {
+        "en": "irritable",
+        "bn": "সহজে বিরক্ত হয় এমন"
+      },
+      {
+        "en": "peevish",
+        "bn": "খিটখিটে"
+      },
+      {
+        "en": "testy",
+        "bn": "অল্পতেই রেগে যায় এমন"
+      },
+      {
+        "en": "Choleric",
+        "bn": "বদমেজাজি"
+      },
+      {
+        "en": "Irascible",
+        "bn": "রগচটা"
+      },
+      {
+        "en": "bilious",
+        "bn": "খিটখিটে"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "patient",
+        "bn": "ধৈর্যশীল"
+      },
+      {
+        "en": "good-tempered",
+        "bn": "মেজাজ ভালো এমন"
+      }
+    ],
+    "example": "The petulant child threw a tantrum in the store.",
+    "example_bn": "খিটখিটে শিশুটি দোকানে জেদ করে চিৎকার-চেঁচামেচি শুরু করল.",
+    "examples": [
+      "The petulant child threw a tantrum in the store. — খিটখিটে শিশুটি দোকানে জেদ করে চিৎকার-চেঁচামেচি শুরু করল.",
+      "At dinner, she explained that 'Petulant' means 'easily annoyed or irritated, especially in a childish', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Petulant’ শব্দটির অর্থ—খিটখিটে—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Petulant' as 'easily annoyed or irritated, especially in a childish' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Petulant’ শব্দটি খিটখিটে অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Philanthropy",
+    "pronunciation_bn": "ফিল্যানথ্রপি",
+    "pronunciation": "/fɪˈlæn.θrə.pi/",
+    "no": 620,
+    "group": 25,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the practice of helping people, especially by donating money, time, or resources to promote their welfare",
+    "meaning_bn": [
+      "মানবহিতৈষী কাজ",
+      "জনকল্যাণে দান বা সহায়তা",
+      "পরোপকার"
+    ],
+    "synonyms": [
+      {
+        "en": "charity",
+        "bn": "দাতব্য কাজ"
+      },
+      {
+        "en": "benevolence",
+        "bn": "পরহিতৈষণা"
+      },
+      {
+        "en": "humanitarianism",
+        "bn": "মানবকল্যাণবাদ"
+      },
+      {
+        "en": "Altruism",
+        "bn": "পরার্থপরতা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "selfishness",
+        "bn": "স্বার্থপরতা"
+      },
+      {
+        "en": "misanthropy",
+        "bn": "মানববিদ্বেষ"
+      },
+      {
+        "en": "Avarice",
+        "bn": "অতিরিক্ত লোভ"
+      }
+    ],
+    "example": "The foundation is known for its philanthropy and support for education.",
+    "example_bn": "শিক্ষাক্ষেত্রে সহায়তা ও জনকল্যাণমূলক কাজের জন্য ফাউন্ডেশনটি পরিচিত.",
+    "examples": [
+      "The foundation is known for its philanthropy and support for education. — শিক্ষাক্ষেত্রে সহায়তা ও জনকল্যাণমূলক কাজের জন্য ফাউন্ডেশনটি পরিচিত.",
+      "At dinner, she explained that 'Philanthropy' means 'the practice of helping people, especially by donating', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Philanthropy’ শব্দটির অর্থ—মানবহিতৈষী কাজ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Philanthropy' as 'the practice of helping people, especially by donating' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Philanthropy’ শব্দটি মানবহিতৈষী কাজ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Philistine",
+    "pronunciation_bn": "ফিলিস্টিন",
+    "pronunciation": "/ˈfɪl.ɪ.staɪn/",
+    "no": 621,
+    "group": 25,
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "meaning_en": "a person who is indifferent or hostile to culture, art, or intellectual pursuits; lacking cultural appreciation",
+    "meaning_bn": [
+      "শিল্প-সাহিত্য বা বুদ্ধিবৃত্তিক চর্চায় অনাগ্রহী ব্যক্তি",
+      "সংস্কৃতিবিমুখ",
+      "রুচিহীন"
+    ],
+    "synonyms": [
+      {
+        "en": "uncultured person",
+        "bn": "সংস্কৃতিবোধহীন ব্যক্তি"
+      },
+      {
+        "en": "anti-intellectual",
+        "bn": "বুদ্ধিবৃত্তিক চর্চাবিরোধী"
+      },
+      {
+        "en": "unrefined",
+        "bn": "অপরিশীলিত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "cultured",
+        "bn": "সংস্কৃতিমনা"
+      },
+      {
+        "en": "intellectual",
+        "bn": "বুদ্ধিবৃত্তিক"
+      },
+      {
+        "en": "aesthete",
+        "bn": "নান্দনিক রুচিসম্পন্ন ব্যক্তি"
+      },
+      {
+        "en": "Cerebral",
+        "bn": "মস্তিষ্কসংক্রান্ত"
+      },
+      {
+        "en": "Cognitive",
+        "bn": "জ্ঞানীয়"
+      }
+    ],
+    "example": "Only a philistine would dismiss classical music without listening to it.",
+    "example_bn": "শাস্ত্রীয় সংগীত না শুনেই কেবল সংস্কৃতিবিমুখ ব্যক্তিই তা তুচ্ছ করতে পারে.",
+    "examples": [
+      "Only a philistine would dismiss classical music without listening to it. — শাস্ত্রীয় সংগীত না শুনেই কেবল সংস্কৃতিবিমুখ ব্যক্তিই তা তুচ্ছ করতে পারে.",
+      "At dinner, she explained that 'Philistine' means 'a person who is indifferent or hostile', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Philistine’ শব্দটির অর্থ—শিল্প-সাহিত্য বা বুদ্ধিবৃত্তিক চর্চায় অনাগ্রহী ব্যক্তি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Philistine' as 'a person who is indifferent or hostile' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Philistine’ শব্দটি শিল্প-সাহিত্য বা বুদ্ধিবৃত্তিক চর্চায় অনাগ্রহী ব্যক্তি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Pious",
+    "pronunciation_bn": "পায়াস",
+    "pronunciation": "/ˈpaɪ.əs/",
+    "no": 622,
+    "group": 25,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "devoutly religious; showing reverence for God or religious duties; sometimes used to mean falsely or self-righteously virtuous",
+    "meaning_bn": [
+      "ধর্মপরায়ণ",
+      "ভক্তিপূর্ণ",
+      "কখনো কপট ধার্মিকতার অর্থেও ব্যবহৃত"
+    ],
+    "synonyms": [
+      {
+        "en": "devout",
+        "bn": "ধর্মনিষ্ঠ"
+      },
+      {
+        "en": "religious",
+        "bn": "ধার্মিক"
+      },
+      {
+        "en": "reverent",
+        "bn": "শ্রদ্ধাশীল"
+      },
+      {
+        "en": "ecclesiastical",
+        "bn": "গির্জা-সম্পর্কিত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "impious",
+        "bn": "অধার্মিক"
+      },
+      {
+        "en": "irreligious",
+        "bn": "ধর্মে অবিশ্বাসী বা অনাগ্রহী"
+      },
+      {
+        "en": "Profane",
+        "bn": "ধর্মীয় বা পবিত্র বিষয়ের সঙ্গে সম্পর্কহীন"
+      },
+      {
+        "en": "Secular",
+        "bn": "ধর্মনিরপেক্ষ"
+      }
+    ],
+    "example": "She is pious and attends religious services every week.",
+    "example_bn": "সে ধর্মপরায়ণ এবং প্রতি সপ্তাহে ধর্মীয় উপাসনায় অংশ নেয়.",
+    "examples": [
+      "She is pious and attends religious services every week. — সে ধর্মপরায়ণ এবং প্রতি সপ্তাহে ধর্মীয় উপাসনায় অংশ নেয়.",
+      "At dinner, she explained that 'Pious' means 'devoutly religious', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Pious’ শব্দটির অর্থ—ধর্মপরায়ণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Pious' as 'devoutly religious' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Pious’ শব্দটি ধর্মপরায়ণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Pivotal",
+    "pronunciation_bn": "পিভটাল",
+    "pronunciation": "/ˈpɪv.ə.təl/",
+    "no": 623,
+    "group": 25,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "of crucial importance; central to the success or development of something",
+    "meaning_bn": [
+      "অত্যন্ত গুরুত্বপূর্ণ",
+      "নির্ণায়ক",
+      "কেন্দ্রীয় ভূমিকা পালনকারী"
+    ],
+    "synonyms": [
+      {
+        "en": "crucial",
+        "bn": "অত্যন্ত গুরুত্বপূর্ণ"
+      },
+      {
+        "en": "critical",
+        "bn": "নির্ণায়ক"
+      },
+      {
+        "en": "key",
+        "bn": "মূল বা প্রধান"
+      },
+      {
+        "en": "Imperative",
+        "bn": "অত্যাবশ্যক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "insignificant",
+        "bn": "গুরুত্বহীন"
+      },
+      {
+        "en": "minor",
+        "bn": "গৌণ"
+      },
+      {
+        "en": "Nominal",
+        "bn": "নামমাত্র"
+      },
+      {
+        "en": "Paltry",
+        "bn": "নগণ্য"
+      },
+      {
+        "en": "Marginal",
+        "bn": "প্রান্তিক"
+      }
+    ],
+    "example": "That meeting was pivotal in her career.",
+    "example_bn": "সেই বৈঠকটি তার কর্মজীবনে নির্ণায়ক ভূমিকা রেখেছিল.",
+    "examples": [
+      "That meeting was pivotal in her career. — সেই বৈঠকটি তার কর্মজীবনে নির্ণায়ক ভূমিকা রেখেছিল.",
+      "At dinner, she explained that 'Pivotal' means 'of crucial importance', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Pivotal’ শব্দটির অর্থ—অত্যন্ত গুরুত্বপূর্ণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Pivotal' as 'of crucial importance' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Pivotal’ শব্দটি অত্যন্ত গুরুত্বপূর্ণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Placate",
+    "pronunciation_bn": "প্লাকেইট",
+    "pronunciation": "/pləˈkeɪt/",
+    "no": 624,
+    "group": 25,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to make someone less angry or hostile by doing or saying something to please them",
+    "meaning_bn": [
+      "শান্ত করা",
+      "ক্ষোভ প্রশমিত করা",
+      "সন্তুষ্ট করে রাগ কমানো"
+    ],
+    "synonyms": [
+      {
+        "en": "appease",
+        "bn": "ক্ষোভ প্রশমিত করা"
+      },
+      {
+        "en": "pacify",
+        "bn": "শান্ত করা"
+      },
+      {
+        "en": "mollify",
+        "bn": "রাগ কমানো"
+      },
+      {
+        "en": "Assuage",
+        "bn": "প্রশমিত করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "provoke",
+        "bn": "উসকে দেওয়া"
+      },
+      {
+        "en": "antagonize",
+        "bn": "বিরূপ করে তোলা"
+      },
+      {
+        "en": "inflame",
+        "bn": "ক্ষোভ বাড়িয়ে দেওয়া"
+      },
+      {
+        "en": "Exasperate",
+        "bn": "ভীষণ বিরক্ত করা"
+      },
+      {
+        "en": "Incense",
+        "bn": "ক্রুদ্ধ করা"
+      },
+      {
+        "en": "Alienate",
+        "bn": "বিচ্ছিন্ন করে দেওয়া"
+      },
+      {
+        "en": "Instigate",
+        "bn": "উসকে দেওয়া"
+      },
+      {
+        "en": "Foment",
+        "bn": "উসকে দেওয়া"
+      },
+      {
+        "en": "Aggrieve",
+        "bn": "অন্যায় আচরণে কষ্ট দেওয়া"
+      }
+    ],
+    "example": "He tried to placate the angry customers by offering a refund.",
+    "example_bn": "টাকা ফেরত দেওয়ার প্রস্তাব দিয়ে সে রাগান্বিত গ্রাহকদের শান্ত করার চেষ্টা করল.",
+    "examples": [
+      "He tried to placate the angry customers by offering a refund. — টাকা ফেরত দেওয়ার প্রস্তাব দিয়ে সে রাগান্বিত গ্রাহকদের শান্ত করার চেষ্টা করল.",
+      "At dinner, she explained that 'Placate' means 'to make someone less angry or hostile', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Placate’ শব্দটির অর্থ—শান্ত করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Placate' as 'to make someone less angry or hostile' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Placate’ শব্দটি শান্ত করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Plaintive",
+    "pronunciation_bn": "প্লেইন্টিভ",
+    "pronunciation": "/ˈpleɪn.tɪv/",
+    "no": 625,
+    "group": 25,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "expressing sadness or suffering in a way that sounds mournful",
+    "meaning_bn": [
+      "করুণ",
+      "বিষণ্ণতা প্রকাশকারী",
+      "শোকাতুর শোনায় এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "mournful",
+        "bn": "শোকপূর্ণ"
+      },
+      {
+        "en": "sorrowful",
+        "bn": "দুঃখভারাক্রান্ত"
+      },
+      {
+        "en": "melancholy",
+        "bn": "বিষণ্ণ"
+      },
+      {
+        "en": "Lugubrious",
+        "bn": "অত্যন্ত বিষণ্ণ"
+      },
+      {
+        "en": "Morose",
+        "bn": "অসুখী, বিষণ্ণ ও খিটখিটে মেজাজের"
+      },
+      {
+        "en": "doleful",
+        "bn": "শোকাকুল"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "cheerful",
+        "bn": "প্রফুল্ল"
+      },
+      {
+        "en": "joyful",
+        "bn": "আনন্দিত"
+      },
+      {
+        "en": "Blithe",
+        "bn": "প্রফুল্ল ও নিশ্চিন্ত"
+      }
+    ],
+    "example": "The dog let out a plaintive howl in the night.",
+    "example_bn": "রাতে কুকুরটি করুণ সুরে ডাক ছেড়ে দিল.",
+    "examples": [
+      "The dog let out a plaintive howl in the night. — রাতে কুকুরটি করুণ সুরে ডাক ছেড়ে দিল.",
+      "At dinner, she explained that 'Plaintive' means 'expressing sadness or suffering in a way that', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Plaintive’ শব্দটির অর্থ—করুণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Plaintive' as 'expressing sadness or suffering in a way that' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Plaintive’ শব্দটি করুণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

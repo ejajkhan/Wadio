@@ -1,0 +1,1739 @@
+[
+  {
+    "word": "Bereaved",
+    "pronunciation_bn": "বিরিভড",
+    "pronunciation": "/bɪˈriːvd/",
+    "no": 151,
+    "group": 7,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "suffering from the death of a loved one; deprived by death",
+    "meaning_bn": [
+      "শোকসন্তপ্ত",
+      "স্বজন হারানোয় শোকার্ত"
+    ],
+    "synonyms": [
+      {
+        "en": "grieving",
+        "bn": "শোকাহত"
+      },
+      {
+        "en": "bereft",
+        "bn": "স্বজনহারা"
+      },
+      {
+        "en": "mourning",
+        "bn": "শোক পালনরত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "comforted",
+        "bn": "সান্ত্বনাপ্রাপ্ত"
+      },
+      {
+        "en": "consoled",
+        "bn": "সান্ত্বনা পাওয়া"
+      }
+    ],
+    "example": "The bereaved family needed support from friends.",
+    "example_bn": "শোকাহত পরিবারটির বন্ধুদের কাছ থেকে সহায়তা প্রয়োজন ছিল।",
+    "examples": [
+      "The bereaved family needed support from friends. — শোকাহত পরিবারটির বন্ধুদের কাছ থেকে সহায়তা প্রয়োজন ছিল।",
+      "At dinner, she explained that 'Bereaved' means 'suffering from the death of a loved one', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Bereaved’ শব্দটির অর্থ—শোকসন্তপ্ত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Bereaved' as 'suffering from the death of a loved one' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Bereaved’ শব্দটি শোকসন্তপ্ত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Beset",
+    "pronunciation_bn": "বিসেট",
+    "pronunciation": "/bɪˈset/",
+    "no": 152,
+    "group": 7,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to trouble or threaten persistently; to surround",
+    "meaning_bn": [
+      "ঘিরে ফেলা",
+      "সমস্যায় জর্জরিত করা",
+      "ক্রমাগত বিপাকে ফেলা"
+    ],
+    "synonyms": [
+      {
+        "en": "afflict",
+        "bn": "কষ্ট দেওয়া"
+      },
+      {
+        "en": "trouble",
+        "bn": "বিপদে ফেলা"
+      },
+      {
+        "en": "surround",
+        "bn": "ঘিরে ফেলা"
+      },
+      {
+        "en": "Beleaguer",
+        "bn": "অবরোধ করা"
+      },
+      {
+        "en": "disquiet",
+        "bn": "উদ্বিগ্ন করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "relieve",
+        "bn": "উপশম করা"
+      },
+      {
+        "en": "free",
+        "bn": "মুক্ত করা"
+      },
+      {
+        "en": "release",
+        "bn": "মুক্ত করে দেওয়া"
+      },
+      {
+        "en": "Alleviate",
+        "bn": "উপশম করা"
+      },
+      {
+        "en": "Assuage",
+        "bn": "প্রশমিত করা"
+      },
+      {
+        "en": "emancipate",
+        "bn": "মুক্ত করা"
+      },
+      {
+        "en": "Extricate",
+        "bn": "বিপদ বা জটিল অবস্থা থেকে মুক্ত করা"
+      },
+      {
+        "en": "Palliate",
+        "bn": "উপশম করা"
+      }
+    ],
+    "example": "The traveler was beset by difficulties throughout the journey.",
+    "example_bn": "ভ্রমণকারী পুরো যাত্রাজুড়েই নানা সমস্যায় জর্জরিত ছিল।",
+    "examples": [
+      "The traveler was beset by difficulties throughout the journey. — ভ্রমণকারী পুরো যাত্রাজুড়েই নানা সমস্যায় জর্জরিত ছিল।",
+      "At dinner, she explained that 'Beset' means 'to trouble or threaten persistently', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Beset’ শব্দটির অর্থ—ঘিরে ফেলা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Beset' as 'to trouble or threaten persistently' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Beset’ শব্দটি ঘিরে ফেলা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Blasphemy",
+    "pronunciation_bn": "ব্ল্যাসফেমি",
+    "pronunciation": "/ˈblæs.fə.mi/",
+    "no": 153,
+    "group": 7,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "speech or action that shows disrespect or contempt for God or something sacred",
+    "meaning_bn": [
+      "ঈশ্বর বা পবিত্র বিষয়ের অবমাননা",
+      "ধর্মনিন্দা"
+    ],
+    "synonyms": [
+      {
+        "en": "sacrilege",
+        "bn": "পবিত্রতার অবমাননা"
+      },
+      {
+        "en": "impiety",
+        "bn": "ধর্মীয় অশ্রদ্ধা"
+      },
+      {
+        "en": "profanation",
+        "bn": "পবিত্রতার অবমাননা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "reverence",
+        "bn": "শ্রদ্ধা"
+      },
+      {
+        "en": "piety",
+        "bn": "ধার্মিকতা"
+      },
+      {
+        "en": "devotion",
+        "bn": "ভক্তি"
+      },
+      {
+        "en": "Allegiance",
+        "bn": "আনুগত্য"
+      },
+      {
+        "en": "Fidelity",
+        "bn": "বিশ্বস্ততা"
+      },
+      {
+        "en": "Homage",
+        "bn": "শ্রদ্ধা"
+      },
+      {
+        "en": "obeisance",
+        "bn": "নতজানু হয়ে সম্মান প্রদর্শন"
+      }
+    ],
+    "example": "He was accused of blasphemy.",
+    "example_bn": "তার বিরুদ্ধে ধর্মনিন্দার অভিযোগ আনা হয়েছিল।",
+    "examples": [
+      "He was accused of blasphemy. — তার বিরুদ্ধে ধর্মনিন্দার অভিযোগ আনা হয়েছিল।",
+      "At dinner, she explained that 'Blasphemy' means 'speech or action that shows disrespect or contempt', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Blasphemy’ শব্দটির অর্থ—ঈশ্বর বা পবিত্র বিষয়ের অবমাননা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Blasphemy' as 'speech or action that shows disrespect or contempt' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Blasphemy’ শব্দটি ঈশ্বর বা পবিত্র বিষয়ের অবমাননা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Blatant",
+    "pronunciation_bn": "ব্লেইট্যান্ট",
+    "pronunciation": "/ˈbleɪ.tənt/",
+    "no": 154,
+    "group": 7,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "very obvious, especially in an offensive or unacceptable way",
+    "meaning_bn": [
+      "নির্লজ্জভাবে স্পষ্ট",
+      "প্রকাশ্য ও আপত্তিকর"
+    ],
+    "synonyms": [
+      {
+        "en": "obvious",
+        "bn": "স্পষ্ট"
+      },
+      {
+        "en": "flagrant",
+        "bn": "নির্লজ্জভাবে স্পষ্ট"
+      },
+      {
+        "en": "glaring",
+        "bn": "চোখে পড়ার মতো স্পষ্ট"
+      },
+      {
+        "en": "conspicuous",
+        "bn": "সহজে চোখে পড়ে এমন"
+      },
+      {
+        "en": "Egregious",
+        "bn": "চরম জঘন্য"
+      },
+      {
+        "en": "Manifest",
+        "bn": "স্পষ্ট"
+      },
+      {
+        "en": "Palpable",
+        "bn": "স্পর্শযোগ্য"
+      },
+      {
+        "en": "Patent",
+        "bn": "সুস্পষ্ট"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "subtle",
+        "bn": "সূক্ষ্ম"
+      },
+      {
+        "en": "inconspicuous",
+        "bn": "সহজে চোখে পড়ে না এমন"
+      },
+      {
+        "en": "discreet",
+        "bn": "বিচক্ষণ ও সংযত"
+      },
+      {
+        "en": "Circumspect",
+        "bn": "সতর্ক"
+      },
+      {
+        "en": "Elusive",
+        "bn": "অধরা"
+      },
+      {
+        "en": "Insidious",
+        "bn": "গোপনে ক্ষতিকর"
+      },
+      {
+        "en": "Obscure",
+        "bn": "অস্পষ্ট"
+      },
+      {
+        "en": "Prudent",
+        "bn": "বিচক্ষণ"
+      }
+    ],
+    "example": "His blatant lie was obvious to everyone.",
+    "example_bn": "তার নির্লজ্জ মিথ্যাটি সবার কাছেই স্পষ্ট ছিল।",
+    "examples": [
+      "His blatant lie was obvious to everyone. — তার নির্লজ্জ মিথ্যাটি সবার কাছেই স্পষ্ট ছিল।",
+      "At dinner, she explained that 'Blatant' means 'very obvious, especially in an offensive or unacceptable', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Blatant’ শব্দটির অর্থ—নির্লজ্জভাবে স্পষ্ট—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Blatant' as 'very obvious, especially in an offensive or unacceptable' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Blatant’ শব্দটি নির্লজ্জভাবে স্পষ্ট অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Blithe",
+    "pronunciation_bn": "ব্লাইদ",
+    "pronunciation": "/blaɪð/",
+    "no": 155,
+    "group": 7,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "cheerful and carefree; sometimes showing a lack of proper concern",
+    "meaning_bn": [
+      "প্রফুল্ল ও নিশ্চিন্ত",
+      "উদ্বেগহীন",
+      "কখনো কখনো দায়িত্বহীনভাবে উদাসীন"
+    ],
+    "synonyms": [
+      {
+        "en": "carefree",
+        "bn": "নিশ্চিন্ত"
+      },
+      {
+        "en": "cheerful",
+        "bn": "প্রফুল্ল"
+      },
+      {
+        "en": "lighthearted",
+        "bn": "ফুরফুরে মেজাজের"
+      },
+      {
+        "en": "Insouciant",
+        "bn": "নিরুদ্বিগ্ন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "worried",
+        "bn": "চিন্তিত"
+      },
+      {
+        "en": "somber",
+        "bn": "বিষণ্ন"
+      },
+      {
+        "en": "anxious",
+        "bn": "উদ্বিগ্ন"
+      },
+      {
+        "en": "Apprehensive",
+        "bn": "উদ্বিগ্ন"
+      },
+      {
+        "en": "Wistful",
+        "bn": "বিষণ্ণ আকুলতাপূর্ণ"
+      },
+      {
+        "en": "bilious",
+        "bn": "খিটখিটে"
+      },
+      {
+        "en": "crestfallen",
+        "bn": "হতাশ"
+      },
+      {
+        "en": "dejected",
+        "bn": "হতাশ"
+      }
+    ],
+    "example": "She walked through the park with a blithe smile.",
+    "example_bn": "সে নিশ্চিন্ত, প্রফুল্ল হাসি নিয়ে পার্কের মধ্য দিয়ে হাঁটছিল।",
+    "examples": [
+      "She walked through the park with a blithe smile. — সে নিশ্চিন্ত, প্রফুল্ল হাসি নিয়ে পার্কের মধ্য দিয়ে হাঁটছিল।",
+      "At dinner, she explained that 'Blithe' means 'cheerful and carefree', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Blithe’ শব্দটির অর্থ—প্রফুল্ল ও নিশ্চিন্ত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Blithe' as 'cheerful and carefree' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Blithe’ শব্দটি প্রফুল্ল ও নিশ্চিন্ত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Bourgeois",
+    "pronunciation_bn": "বুরঝোয়া",
+    "pronunciation": "/ˈbʊə.ʒwɑː/",
+    "no": 156,
+    "group": 7,
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "meaning_en": "relating to the middle class, often associated with conventional values and material comfort",
+    "meaning_bn": [
+      "মধ্যবিত্ত শ্রেণিসংক্রান্ত",
+      "গতানুগতিক মধ্যবিত্ত মূল্যবোধসম্পন্ন"
+    ],
+    "synonyms": [
+      {
+        "en": "middle-class",
+        "bn": "মধ্যবিত্ত"
+      },
+      {
+        "en": "conventional",
+        "bn": "গতানুগতিক"
+      },
+      {
+        "en": "materialistic",
+        "bn": "বস্তুবাদী"
+      },
+      {
+        "en": "Acquisitive",
+        "bn": "অর্জন করতে আগ্রহী"
+      },
+      {
+        "en": "Orthodox",
+        "bn": "প্রথাগত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "bohemian",
+        "bn": "প্রথাবিরোধী শিল্পীমনা"
+      },
+      {
+        "en": "unconventional",
+        "bn": "গতানুগতিকতাবিরোধী"
+      },
+      {
+        "en": "anti-bourgeois",
+        "bn": "বুর্জোয়া মূল্যবোধবিরোধী"
+      },
+      {
+        "en": "Eccentric",
+        "bn": "অদ্ভুত"
+      },
+      {
+        "en": "Novel",
+        "bn": "নতুন"
+      },
+      {
+        "en": "quaint",
+        "bn": "মনোরমভাবে সেকেলে"
+      }
+    ],
+    "example": "He rejected bourgeois values and lived as an artist.",
+    "example_bn": "সে প্রচলিত মধ্যবিত্ত মূল্যবোধ প্রত্যাখ্যান করে একজন শিল্পীর মতো জীবনযাপন করেছিল।",
+    "examples": [
+      "He rejected bourgeois values and lived as an artist. — সে প্রচলিত মধ্যবিত্ত মূল্যবোধ প্রত্যাখ্যান করে একজন শিল্পীর মতো জীবনযাপন করেছিল।",
+      "At dinner, she explained that 'Bourgeois' means 'relating to the middle class, often associated', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Bourgeois’ শব্দটির অর্থ—মধ্যবিত্ত শ্রেণিসংক্রান্ত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Bourgeois' as 'relating to the middle class, often associated' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Bourgeois’ শব্দটি মধ্যবিত্ত শ্রেণিসংক্রান্ত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Bovine",
+    "pronunciation_bn": "বোভাইন",
+    "pronunciation": "/ˈbəʊ.vaɪn/",
+    "no": 157,
+    "group": 7,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "relating to cattle; resembling a cow in appearance or behavior, sometimes suggesting dullness",
+    "meaning_bn": [
+      "গবাদি পশু বা গরুসংক্রান্ত",
+      "গরুর মতো",
+      "রূপক অর্থে ধীরবুদ্ধি বা নির্বিকার"
+    ],
+    "synonyms": [
+      {
+        "en": "cowlike",
+        "bn": "গরুর মতো"
+      },
+      {
+        "en": "dull",
+        "bn": "নির্বিকার বা ধীরবুদ্ধি"
+      },
+      {
+        "en": "sluggish",
+        "bn": "মন্থর"
+      },
+      {
+        "en": "bland",
+        "bn": "মৃদু"
+      },
+      {
+        "en": "Insipid",
+        "bn": "বিস্বাদ"
+      },
+      {
+        "en": "Listless",
+        "bn": "নিরুৎসাহ"
+      },
+      {
+        "en": "Obtuse",
+        "bn": "বুদ্ধিতে ধীর"
+      },
+      {
+        "en": "Prosaic",
+        "bn": "সাদামাটা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "alert",
+        "bn": "সতর্ক"
+      },
+      {
+        "en": "lively",
+        "bn": "প্রাণবন্ত"
+      },
+      {
+        "en": "nimble",
+        "bn": "চটপটে"
+      },
+      {
+        "en": "Acute",
+        "bn": "তীব্র"
+      },
+      {
+        "en": "vivacious",
+        "bn": "প্রাণবন্ত"
+      },
+      {
+        "en": "engaging",
+        "bn": "আকর্ষণীয়"
+      },
+      {
+        "en": "Incandescent",
+        "bn": "তাপে দীপ্তিমান"
+      },
+      {
+        "en": "Iridescent",
+        "bn": "আলোকের কোণ বদলালে রং বদলায় এমন"
+      }
+    ],
+    "example": "His bovine stare made her wonder if he had understood anything.",
+    "example_bn": "তার গরুর মতো নির্বিকার দৃষ্টি দেখে সে ভাবল, লোকটি আদৌ কিছু বুঝেছে কি না।",
+    "examples": [
+      "His bovine stare made her wonder if he had understood anything. — তার গরুর মতো নির্বিকার দৃষ্টি দেখে সে ভাবল, লোকটি আদৌ কিছু বুঝেছে কি না।",
+      "At dinner, she explained that 'Bovine' means 'relating to cattle', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Bovine’ শব্দটির অর্থ—গবাদি পশু বা গরুসংক্রান্ত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Bovine' as 'relating to cattle' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Bovine’ শব্দটি গবাদি পশু বা গরুসংক্রান্ত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Brevity",
+    "pronunciation_bn": "ব্রেভিটি",
+    "pronunciation": "/ˈbrev.ə.ti/",
+    "no": 158,
+    "group": 7,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the quality of being brief in speech or writing",
+    "meaning_bn": [
+      "সংক্ষিপ্ততা",
+      "অল্প কথায় বক্তব্য প্রকাশের গুণ"
+    ],
+    "synonyms": [
+      {
+        "en": "conciseness",
+        "bn": "সংক্ষিপ্ততা"
+      },
+      {
+        "en": "terseness",
+        "bn": "অল্প কথায় প্রকাশ"
+      },
+      {
+        "en": "shortness",
+        "bn": "স্বল্পতা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "verbosity",
+        "bn": "বাকবাহুল্য"
+      },
+      {
+        "en": "lengthiness",
+        "bn": "দীর্ঘতা"
+      },
+      {
+        "en": "wordiness",
+        "bn": "অতিরিক্ত শব্দপ্রয়োগ"
+      },
+      {
+        "en": "Litany",
+        "bn": "দীর্ঘ তালিকা"
+      },
+      {
+        "en": "Circumlocution",
+        "bn": "ঘুরিয়ে-পেঁচিয়ে বলা"
+      }
+    ],
+    "example": "Good writing requires brevity and clarity.",
+    "example_bn": "ভালো লেখার জন্য সংক্ষিপ্ততা ও স্পষ্টতা প্রয়োজন।",
+    "examples": [
+      "Good writing requires brevity and clarity. — ভালো লেখার জন্য সংক্ষিপ্ততা ও স্পষ্টতা প্রয়োজন।",
+      "At dinner, she explained that 'Brevity' means 'the quality of being brief in speech', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Brevity’ শব্দটির অর্থ—সংক্ষিপ্ততা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Brevity' as 'the quality of being brief in speech' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Brevity’ শব্দটি সংক্ষিপ্ততা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Broach",
+    "pronunciation_bn": "ব্রোচ",
+    "pronunciation": "/brəʊtʃ/",
+    "no": 159,
+    "group": 7,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to introduce a subject for discussion, especially a difficult or sensitive one",
+    "meaning_bn": [
+      "আলোচনার জন্য কোনো বিষয় উত্থাপন করা",
+      "সংবেদনশীল প্রসঙ্গ তোলা"
+    ],
+    "synonyms": [
+      {
+        "en": "raise",
+        "bn": "উত্থাপন করা"
+      },
+      {
+        "en": "introduce",
+        "bn": "আলোচনায় আনা"
+      },
+      {
+        "en": "bring up",
+        "bn": "বিষয়টি তোলা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "suppress",
+        "bn": "চেপে রাখা"
+      },
+      {
+        "en": "avoid",
+        "bn": "এড়িয়ে যাওয়া"
+      },
+      {
+        "en": "sidestep",
+        "bn": "প্রসঙ্গ এড়িয়ে যাওয়া"
+      },
+      {
+        "en": "Avert",
+        "bn": "প্রতিরোধ করা"
+      },
+      {
+        "en": "quell",
+        "bn": "দমন করা"
+      },
+      {
+        "en": "repress",
+        "bn": "দমন করা"
+      }
+    ],
+    "example": "It took courage for her to broach the topic of salary.",
+    "example_bn": "বেতনের বিষয়টি তুলতে তার সাহস সঞ্চয় করতে হয়েছিল।",
+    "examples": [
+      "It took courage for her to broach the topic of salary. — বেতনের বিষয়টি তুলতে তার সাহস সঞ্চয় করতে হয়েছিল।",
+      "At dinner, she explained that 'Broach' means 'to introduce a subject for discussion, especially', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Broach’ শব্দটির অর্থ—আলোচনার জন্য কোনো বিষয় উত্থাপন করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Broach' as 'to introduce a subject for discussion, especially' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Broach’ শব্দটি আলোচনার জন্য কোনো বিষয় উত্থাপন করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Bucolic",
+    "pronunciation_bn": "বিউকলিক",
+    "pronunciation": "/bjuːˈkɒl.ɪk/",
+    "no": 160,
+    "group": 7,
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "meaning_en": "relating to the pleasant aspects of the countryside and rural life",
+    "meaning_bn": [
+      "গ্রামীণ",
+      "পল্লিজীবনসংক্রান্ত",
+      "গ্রাম্য শান্ত পরিবেশের"
+    ],
+    "synonyms": [
+      {
+        "en": "rural",
+        "bn": "গ্রামীণ"
+      },
+      {
+        "en": "pastoral",
+        "bn": "পল্লিজীবনসংক্রান্ত"
+      },
+      {
+        "en": "rustic",
+        "bn": "গ্রাম্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "urban",
+        "bn": "শহুরে"
+      },
+      {
+        "en": "metropolitan",
+        "bn": "মহানগরকেন্দ্রিক"
+      },
+      {
+        "en": "municipal",
+        "bn": "পৌরসভা-সংক্রান্ত"
+      }
+    ],
+    "example": "He dreamed of retiring to a bucolic village.",
+    "example_bn": "সে শান্ত, মনোরম গ্রামীণ পরিবেশের একটি গ্রামে অবসর কাটানোর স্বপ্ন দেখত।",
+    "examples": [
+      "He dreamed of retiring to a bucolic village. — সে শান্ত, মনোরম গ্রামীণ পরিবেশের একটি গ্রামে অবসর কাটানোর স্বপ্ন দেখত।",
+      "At dinner, she explained that 'Bucolic' means 'relating to the pleasant aspects of the countryside', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Bucolic’ শব্দটির অর্থ—গ্রামীণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Bucolic' as 'relating to the pleasant aspects of the countryside' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Bucolic’ শব্দটি গ্রামীণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Bureaucracy",
+    "pronunciation_bn": "বিউরক্রেসি",
+    "pronunciation": "/ˌbjʊəˈrɒk.rə.si/",
+    "no": 161,
+    "group": 7,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a system of administration with many officials and complex procedures, often criticized for excessive rules and delays",
+    "meaning_bn": [
+      "আমলাতন্ত্র",
+      "জটিল নিয়ম ও দীর্ঘসূত্রতাপূর্ণ প্রশাসনিক ব্যবস্থা"
+    ],
+    "synonyms": [
+      {
+        "en": "administration",
+        "bn": "প্রশাসন"
+      },
+      {
+        "en": "officialdom",
+        "bn": "আমলাতন্ত্র"
+      },
+      {
+        "en": "civil service",
+        "bn": "সরকারি প্রশাসন"
+      },
+      {
+        "en": "regime",
+        "bn": "শাসনব্যবস্থা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "streamlined administration",
+        "bn": "সহজ ও কার্যকর প্রশাসন"
+      },
+      {
+        "en": "flexibility",
+        "bn": "নমনীয়তা"
+      }
+    ],
+    "example": "The bureaucracy made it difficult to get a simple permit.",
+    "example_bn": "আমলাতান্ত্রিক জটিলতার কারণে একটি সাধারণ অনুমতিপত্র পাওয়াও কঠিন হয়ে পড়েছিল।",
+    "examples": [
+      "The bureaucracy made it difficult to get a simple permit. — আমলাতান্ত্রিক জটিলতার কারণে একটি সাধারণ অনুমতিপত্র পাওয়াও কঠিন হয়ে পড়েছিল।",
+      "At dinner, she explained that 'Bureaucracy' means 'a system of administration with many officials', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Bureaucracy’ শব্দটির অর্থ—আমলাতন্ত্র—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Bureaucracy' as 'a system of administration with many officials' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Bureaucracy’ শব্দটি আমলাতন্ত্র অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Burgeon",
+    "pronunciation_bn": "বার্জন",
+    "pronunciation": "/ˈbɜː.dʒən/",
+    "no": 162,
+    "group": 7,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to begin to grow or develop rapidly",
+    "meaning_bn": [
+      "দ্রুত বৃদ্ধি পাওয়া",
+      "দ্রুত বিকশিত হওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "flourish",
+        "bn": "বিকশিত হওয়া"
+      },
+      {
+        "en": "expand",
+        "bn": "বৃদ্ধি পাওয়া"
+      },
+      {
+        "en": "thrive",
+        "bn": "সমৃদ্ধ হওয়া"
+      },
+      {
+        "en": "Abound",
+        "bn": "প্রচুর পরিমাণে থাকা"
+      },
+      {
+        "en": "brandish",
+        "bn": "হুমকিসূচকভাবে নাড়ানো"
+      },
+      {
+        "en": "dilate",
+        "bn": "প্রসারিত হওয়া"
+      },
+      {
+        "en": "Distend",
+        "bn": "ফুলে ওঠা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "decline",
+        "bn": "হ্রাস পাওয়া"
+      },
+      {
+        "en": "wither",
+        "bn": "শুকিয়ে যাওয়া"
+      },
+      {
+        "en": "dwindle",
+        "bn": "ক্রমে কমে যাওয়া"
+      },
+      {
+        "en": "Abridge",
+        "bn": "সংক্ষিপ্ত করা"
+      },
+      {
+        "en": "Languish",
+        "bn": "নিস্তেজ হয়ে পড়া"
+      },
+      {
+        "en": "Atrophy",
+        "bn": "ক্ষয় হয়ে যাওয়া"
+      },
+      {
+        "en": "Circumscribe",
+        "bn": "সীমাবদ্ধ করা"
+      },
+      {
+        "en": "Curtail",
+        "bn": "কমানো"
+      }
+    ],
+    "example": "The city's population has burgeoned in recent years.",
+    "example_bn": "সাম্প্রতিক বছরগুলোতে শহরটির জনসংখ্যা দ্রুত বেড়েছে।",
+    "examples": [
+      "The city's population has burgeoned in recent years. — সাম্প্রতিক বছরগুলোতে শহরটির জনসংখ্যা দ্রুত বেড়েছে।",
+      "At dinner, she explained that 'Burgeon' means 'to begin to grow or develop rapidly', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Burgeon’ শব্দটির অর্থ—দ্রুত বৃদ্ধি পাওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Burgeon' as 'to begin to grow or develop rapidly' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Burgeon’ শব্দটি দ্রুত বৃদ্ধি পাওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Burlesque",
+    "pronunciation_bn": "বারলেস্ক",
+    "pronunciation": "/bɜːˈlesk/",
+    "no": 163,
+    "group": 7,
+    "pos": [
+      "noun",
+      "verb",
+      "adjective"
+    ],
+    "meaning_en": "a comic or exaggerated imitation that makes its subject look ridiculous",
+    "meaning_bn": [
+      "উপহাসমূলক অনুকরণ",
+      "ব্যঙ্গাত্মক প্রহসন"
+    ],
+    "synonyms": [
+      {
+        "en": "parody",
+        "bn": "ব্যঙ্গাত্মক অনুকরণ"
+      },
+      {
+        "en": "satire",
+        "bn": "ব্যঙ্গ"
+      },
+      {
+        "en": "caricature",
+        "bn": "অতিরঞ্জিত ব্যঙ্গচিত্র"
+      },
+      {
+        "en": "travesty",
+        "bn": "বিকৃত বা হাস্যকর অনুকরণ"
+      },
+      {
+        "en": "Lampoon",
+        "bn": "ব্যঙ্গ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "praise",
+        "bn": "প্রশংসা"
+      },
+      {
+        "en": "eulogy",
+        "bn": "প্রশস্তি"
+      },
+      {
+        "en": "Accolade",
+        "bn": "সম্মাননা"
+      },
+      {
+        "en": "Acclaim",
+        "bn": "প্রকাশ্যে প্রশংসা করা"
+      },
+      {
+        "en": "Exalt",
+        "bn": "উচ্চ প্রশংসা করা"
+      },
+      {
+        "en": "Extol",
+        "bn": "ভূয়সী প্রশংসা করা"
+      },
+      {
+        "en": "Laud",
+        "bn": "প্রশংসা করা"
+      }
+    ],
+    "example": "The show was a burlesque of political life.",
+    "example_bn": "অনুষ্ঠানটি ছিল রাজনৈতিক জীবনের একটি ব্যঙ্গাত্মক অনুকরণ।",
+    "examples": [
+      "The show was a burlesque of political life. — অনুষ্ঠানটি ছিল রাজনৈতিক জীবনের একটি ব্যঙ্গাত্মক অনুকরণ।",
+      "At dinner, she explained that 'Burlesque' means 'a comic or exaggerated imitation that makes its', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Burlesque’ শব্দটির অর্থ—উপহাসমূলক অনুকরণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Burlesque' as 'a comic or exaggerated imitation that makes its' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Burlesque’ শব্দটি উপহাসমূলক অনুকরণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Cacophony",
+    "pronunciation_bn": "ক্যাকফনি",
+    "pronunciation": "/kəˈkɒf.ə.ni/",
+    "no": 164,
+    "group": 7,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a harsh, unpleasant mixture of sounds",
+    "meaning_bn": [
+      "কর্কশ শব্দমিশ্রণ",
+      "বেসুরো কোলাহল"
+    ],
+    "synonyms": [
+      {
+        "en": "din",
+        "bn": "কোলাহল"
+      },
+      {
+        "en": "discord",
+        "bn": "বেসুরো শব্দ"
+      },
+      {
+        "en": "clamor",
+        "bn": "শোরগোল"
+      },
+      {
+        "en": "Strife",
+        "bn": "দ্বন্দ্ব"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "harmony",
+        "bn": "সুরেলা সামঞ্জস্য"
+      },
+      {
+        "en": "melody",
+        "bn": "সুর"
+      },
+      {
+        "en": "euphony",
+        "bn": "শ্রুতিমধুর ধ্বনি"
+      },
+      {
+        "en": "Accord",
+        "bn": "চুক্তি"
+      },
+      {
+        "en": "concert",
+        "bn": "সম্মিলিত উদ্যোগ"
+      },
+      {
+        "en": "Concord",
+        "bn": "সম্প্রীতি"
+      },
+      {
+        "en": "Consensus",
+        "bn": "সাধারণ ঐকমত্য"
+      },
+      {
+        "en": "solidarity",
+        "bn": "সংহতি"
+      }
+    ],
+    "example": "The cacophony of the market made it hard to think.",
+    "example_bn": "বাজারের কর্কশ কোলাহলে চিন্তা করা কঠিন হয়ে পড়েছিল।",
+    "examples": [
+      "The cacophony of the market made it hard to think. — বাজারের কর্কশ কোলাহলে চিন্তা করা কঠিন হয়ে পড়েছিল।",
+      "At dinner, she explained that 'Cacophony' means 'a harsh, unpleasant mixture of sounds', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Cacophony’ শব্দটির অর্থ—কর্কশ শব্দমিশ্রণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Cacophony' as 'a harsh, unpleasant mixture of sounds' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Cacophony’ শব্দটি কর্কশ শব্দমিশ্রণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Cadence",
+    "pronunciation_bn": "কেইডেন্স",
+    "pronunciation": "/ˈkeɪ.dəns/",
+    "no": 165,
+    "group": 7,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a rhythmic sequence or the rise and fall of sounds in speech or music",
+    "meaning_bn": [
+      "স্বরের ওঠানামা",
+      "ছন্দময় ধ্বনিপ্রবাহ",
+      "ছন্দ"
+    ],
+    "synonyms": [
+      {
+        "en": "rhythm",
+        "bn": "ছন্দ"
+      },
+      {
+        "en": "inflection",
+        "bn": "স্বরের ওঠানামা"
+      },
+      {
+        "en": "modulation",
+        "bn": "স্বরের পরিবর্তন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "monotony",
+        "bn": "একঘেয়েমি"
+      },
+      {
+        "en": "flatness",
+        "bn": "স্বরের ওঠানামাহীনতা"
+      },
+      {
+        "en": "tedium",
+        "bn": "একঘেয়েমি"
+      }
+    ],
+    "example": "Her voice had a pleasant cadence that kept the audience engaged.",
+    "example_bn": "তার কণ্ঠের মনোরম ওঠানামা শ্রোতাদের মনোযোগ ধরে রেখেছিল।",
+    "examples": [
+      "Her voice had a pleasant cadence that kept the audience engaged. — তার কণ্ঠের মনোরম ওঠানামা শ্রোতাদের মনোযোগ ধরে রেখেছিল।",
+      "At dinner, she explained that 'Cadence' means 'a rhythmic sequence or the rise and fall', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Cadence’ শব্দটির অর্থ—স্বরের ওঠানামা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Cadence' as 'a rhythmic sequence or the rise and fall' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Cadence’ শব্দটি স্বরের ওঠানামা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Cajole",
+    "pronunciation_bn": "কাজোল",
+    "pronunciation": "/kəˈdʒəʊl/",
+    "no": 166,
+    "group": 7,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to persuade someone to do something by talking gently, flattering, or coaxing",
+    "meaning_bn": [
+      "তোষামোদ করে রাজি করানো",
+      "মিষ্টি কথায় প্রভাবিত করা"
+    ],
+    "synonyms": [
+      {
+        "en": "coax",
+        "bn": "আদর করে রাজি করানো"
+      },
+      {
+        "en": "persuade",
+        "bn": "রাজি করানো"
+      },
+      {
+        "en": "wheedle",
+        "bn": "মিষ্টি কথায় প্রভাবিত করা"
+      },
+      {
+        "en": "Induce",
+        "bn": "প্ররোচিত করা"
+      },
+      {
+        "en": "Proselytize",
+        "bn": "কাউকে অন্য ধর্ম, রাজনৈতিক বিশ্বাস বা জীবনধারা গ্রহণে প্রভাবিত বা রাজি করানোর চেষ্টা করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "dissuade",
+        "bn": "নিরুৎসাহিত করা"
+      },
+      {
+        "en": "deter",
+        "bn": "বিরত রাখা"
+      },
+      {
+        "en": "discourage",
+        "bn": "মনোবল কমানো"
+      },
+      {
+        "en": "Coerce",
+        "bn": "জোর করে বাধ্য করা"
+      },
+      {
+        "en": "Daunt",
+        "bn": "ভীত করা"
+      },
+      {
+        "en": "dismay",
+        "bn": "হতাশা"
+      },
+      {
+        "en": "dispirit",
+        "bn": "হতাশ করা"
+      }
+    ],
+    "example": "He cajoled his friend into lending him money.",
+    "example_bn": "সে তোষামোদ করে বন্ধুকে তাকে টাকা ধার দিতে রাজি করিয়েছিল।",
+    "examples": [
+      "He cajoled his friend into lending him money. — সে তোষামোদ করে বন্ধুকে তাকে টাকা ধার দিতে রাজি করিয়েছিল।",
+      "At dinner, she explained that 'Cajole' means 'to persuade someone to do something by talking', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Cajole’ শব্দটির অর্থ—তোষামোদ করে রাজি করানো—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Cajole' as 'to persuade someone to do something by talking' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Cajole’ শব্দটি তোষামোদ করে রাজি করানো অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Callow",
+    "pronunciation_bn": "ক্যালো",
+    "pronunciation": "/ˈkæl.əʊ/",
+    "no": 167,
+    "group": 7,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "young and inexperienced; immature",
+    "meaning_bn": [
+      "অপরিপক্ব",
+      "অনভিজ্ঞ",
+      "অপরিণত"
+    ],
+    "synonyms": [
+      {
+        "en": "immature",
+        "bn": "অপরিপক্ব"
+      },
+      {
+        "en": "inexperienced",
+        "bn": "অনভিজ্ঞ"
+      },
+      {
+        "en": "juvenile",
+        "bn": "অপরিণত"
+      },
+      {
+        "en": "sophomoric",
+        "bn": "অপরিণত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "mature",
+        "bn": "পরিণত"
+      },
+      {
+        "en": "seasoned",
+        "bn": "অভিজ্ঞ"
+      },
+      {
+        "en": "experienced",
+        "bn": "অভিজ্ঞতাসম্পন্ন"
+      },
+      {
+        "en": "precocious",
+        "bn": "অকালপক্ব"
+      },
+      {
+        "en": "Inveterate",
+        "bn": "দীর্ঘদিনের অভ্যাসে অভ্যস্ত"
+      }
+    ],
+    "example": "The callow intern made several avoidable mistakes.",
+    "example_bn": "অনভিজ্ঞ ইন্টার্নটি কয়েকটি এড়ানো সম্ভব এমন ভুল করেছিল।",
+    "examples": [
+      "The callow intern made several avoidable mistakes. — অনভিজ্ঞ ইন্টার্নটি কয়েকটি এড়ানো সম্ভব এমন ভুল করেছিল।",
+      "At dinner, she explained that 'Callow' means 'young and inexperienced', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Callow’ শব্দটির অর্থ—অপরিপক্ব—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Callow' as 'young and inexperienced' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Callow’ শব্দটি অপরিপক্ব অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Candor",
+    "pronunciation_bn": "ক্যান্ডর",
+    "pronunciation": "/ˈkæn.dər/",
+    "no": 168,
+    "group": 7,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "honesty and openness, especially in expressing one's thoughts",
+    "meaning_bn": [
+      "আন্তরিক সততা",
+      "খোলামেলা ভাব",
+      "স্পষ্টবাদিতা"
+    ],
+    "synonyms": [
+      {
+        "en": "honesty",
+        "bn": "সততা"
+      },
+      {
+        "en": "frankness",
+        "bn": "খোলামেলা ভাব"
+      },
+      {
+        "en": "sincerity",
+        "bn": "আন্তরিকতা"
+      },
+      {
+        "en": "Veracity",
+        "bn": "সত্যতা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "deceit",
+        "bn": "প্রতারণা"
+      },
+      {
+        "en": "duplicity",
+        "bn": "কপটতা"
+      },
+      {
+        "en": "dishonesty",
+        "bn": "অসততা"
+      },
+      {
+        "en": "subterfuge",
+        "bn": "ছলচাতুরি"
+      },
+      {
+        "en": "Artifice",
+        "bn": "কূটকৌশল"
+      },
+      {
+        "en": "stratagem",
+        "bn": "সুনিপুণভাবে পরিকল্পিত কৌশল"
+      },
+      {
+        "en": "Guile",
+        "bn": "ধূর্ততা"
+      },
+      {
+        "en": "Chicanery",
+        "bn": "কূটচাল"
+      },
+      {
+        "en": "Hypocrisy",
+        "bn": "ভণ্ডামি"
+      },
+      {
+        "en": "Machination",
+        "bn": "ষড়যন্ত্র"
+      },
+      {
+        "en": "cant",
+        "bn": "কপট বা ভণ্ডামিপূর্ণ কথা"
+      },
+      {
+        "en": "Collusion",
+        "bn": "গোপন আঁতাত"
+      },
+      {
+        "en": "Gambit",
+        "bn": "সুবিধা আদায়ের কৌশল"
+      }
+    ],
+    "example": "His candor was refreshing in a world full of pretense.",
+    "example_bn": "ভানভরা পৃথিবীতে তার খোলামেলা সততা স্বস্তিদায়ক ছিল।",
+    "examples": [
+      "His candor was refreshing in a world full of pretense. — ভানভরা পৃথিবীতে তার খোলামেলা সততা স্বস্তিদায়ক ছিল।",
+      "At dinner, she explained that 'Candor' means 'honesty and openness, especially in expressing one's thoughts', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Candor’ শব্দটির অর্থ—আন্তরিক সততা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Candor' as 'honesty and openness, especially in expressing one's thoughts' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Candor’ শব্দটি আন্তরিক সততা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Capitalism",
+    "pronunciation_bn": "ক্যাপিটালিজম",
+    "pronunciation": "/ˈkæp.ɪ.təl.ɪ.zəm/",
+    "no": 169,
+    "group": 7,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "an economic system in which businesses and property are largely privately owned and operated for profit",
+    "meaning_bn": [
+      "পুঁজিবাদ",
+      "ব্যক্তিমালিকানা ও মুনাফাভিত্তিক অর্থনৈতিক ব্যবস্থা"
+    ],
+    "synonyms": [
+      {
+        "en": "free enterprise",
+        "bn": "মুক্ত উদ্যোগভিত্তিক ব্যবস্থা"
+      },
+      {
+        "en": "private ownership",
+        "bn": "ব্যক্তিমালিকানা"
+      },
+      {
+        "en": "market economy",
+        "bn": "বাজার অর্থনীতি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "communism",
+        "bn": "সাম্যবাদ"
+      },
+      {
+        "en": "state socialism",
+        "bn": "রাষ্ট্রীয় সমাজতন্ত্র"
+      }
+    ],
+    "example": "The debate focused on the strengths and weaknesses of capitalism.",
+    "example_bn": "আলোচনাটি পুঁজিবাদের শক্তি ও দুর্বলতার ওপর কেন্দ্রীভূত ছিল।",
+    "examples": [
+      "The debate focused on the strengths and weaknesses of capitalism. — আলোচনাটি পুঁজিবাদের শক্তি ও দুর্বলতার ওপর কেন্দ্রীভূত ছিল।",
+      "At dinner, she explained that 'Capitalism' means 'an economic system in which businesses and property', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Capitalism’ শব্দটির অর্থ—পুঁজিবাদ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Capitalism' as 'an economic system in which businesses and property' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Capitalism’ শব্দটি পুঁজিবাদ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Capitulate",
+    "pronunciation_bn": "ক্যাপিচুলেইট",
+    "pronunciation": "/kəˈpɪtʃ.ə.leɪt/",
+    "no": 170,
+    "group": 7,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to surrender or stop resisting; to give in to a demand",
+    "meaning_bn": [
+      "আত্মসমর্পণ করা",
+      "নতিস্বীকার করা"
+    ],
+    "synonyms": [
+      {
+        "en": "surrender",
+        "bn": "আত্মসমর্পণ করা"
+      },
+      {
+        "en": "yield",
+        "bn": "নতিস্বীকার করা"
+      },
+      {
+        "en": "submit",
+        "bn": "বশ্যতা স্বীকার করা"
+      },
+      {
+        "en": "Relinquish",
+        "bn": "ত্যাগ করা"
+      },
+      {
+        "en": "Succumb",
+        "bn": "নতিস্বীকার করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "resist",
+        "bn": "প্রতিরোধ করা"
+      },
+      {
+        "en": "withstand",
+        "bn": "প্রতিরোধ করে টিকে থাকা"
+      },
+      {
+        "en": "hold out",
+        "bn": "শেষ পর্যন্ত প্রতিরোধ করা"
+      },
+      {
+        "en": "rout",
+        "bn": "সম্পূর্ণভাবে পরাজিত করা"
+      }
+    ],
+    "example": "After weeks of fighting, the army capitulated.",
+    "example_bn": "কয়েক সপ্তাহের লড়াইয়ের পর সেনাবাহিনী আত্মসমর্পণ করেছিল।",
+    "examples": [
+      "After weeks of fighting, the army capitulated. — কয়েক সপ্তাহের লড়াইয়ের পর সেনাবাহিনী আত্মসমর্পণ করেছিল।",
+      "At dinner, she explained that 'Capitulate' means 'to surrender or stop resisting', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Capitulate’ শব্দটির অর্থ—আত্মসমর্পণ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Capitulate' as 'to surrender or stop resisting' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Capitulate’ শব্দটি আত্মসমর্পণ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Capricious",
+    "pronunciation_bn": "ক্যাপ্রিশাস",
+    "pronunciation": "/kəˈprɪʃ.əs/",
+    "no": 171,
+    "group": 7,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "changing suddenly and unpredictably, often according to a whim",
+    "meaning_bn": [
+      "খামখেয়ালি",
+      "অস্থির",
+      "অনুমান করা কঠিন এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "fickle",
+        "bn": "খামখেয়ালি"
+      },
+      {
+        "en": "unpredictable",
+        "bn": "অনুমান করা যায় না এমন"
+      },
+      {
+        "en": "whimsical",
+        "bn": "খেয়ালখুশিমতো চলে এমন"
+      },
+      {
+        "en": "Arbitrary",
+        "bn": "খেয়ালখুশিমতো"
+      },
+      {
+        "en": "droll",
+        "bn": "অদ্ভুতভাবে মজার"
+      },
+      {
+        "en": "Mercurial",
+        "bn": "হঠাৎ ও অনিশ্চিতভাবে মেজাজ বা আচরণ বদলায় এমন"
+      },
+      {
+        "en": "Volatile",
+        "bn": "অস্থিতিশীল"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "consistent",
+        "bn": "স্থিতিশীল"
+      },
+      {
+        "en": "predictable",
+        "bn": "অনুমানযোগ্য"
+      },
+      {
+        "en": "steady",
+        "bn": "স্থির"
+      },
+      {
+        "en": "Coherent",
+        "bn": "সুসংগত"
+      },
+      {
+        "en": "compatible",
+        "bn": "সামঞ্জস্যপূর্ণ"
+      },
+      {
+        "en": "Consonant",
+        "bn": "সামঞ্জস্যপূর্ণ"
+      },
+      {
+        "en": "Homogeneous",
+        "bn": "সমজাতীয়"
+      },
+      {
+        "en": "stalwart",
+        "bn": "অবিচল ও বিশ্বস্ত"
+      }
+    ],
+    "example": "Her capricious decisions made planning impossible.",
+    "example_bn": "তার খামখেয়ালি সিদ্ধান্তগুলোর কারণে পরিকল্পনা করা অসম্ভব হয়ে পড়েছিল।",
+    "examples": [
+      "Her capricious decisions made planning impossible. — তার খামখেয়ালি সিদ্ধান্তগুলোর কারণে পরিকল্পনা করা অসম্ভব হয়ে পড়েছিল।",
+      "At dinner, she explained that 'Capricious' means 'changing suddenly and unpredictably, often according', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Capricious’ শব্দটির অর্থ—খামখেয়ালি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Capricious' as 'changing suddenly and unpredictably, often according' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Capricious’ শব্দটি খামখেয়ালি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Caricature",
+    "pronunciation_bn": "ক্যারিকেচার",
+    "pronunciation": "/ˈkær.ɪ.kə.tʃʊər/",
+    "no": 172,
+    "group": 7,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "a representation that exaggerates distinctive features to create a comic or distorted effect",
+    "meaning_bn": [
+      "ব্যঙ্গচিত্র",
+      "অতিরঞ্জিত ব্যঙ্গাত্মক বর্ণনা"
+    ],
+    "synonyms": [
+      {
+        "en": "parody",
+        "bn": "ব্যঙ্গাত্মক অনুকরণ"
+      },
+      {
+        "en": "lampoon",
+        "bn": "বিদ্রূপমূলক চিত্র বা বর্ণনা"
+      },
+      {
+        "en": "exaggeration",
+        "bn": "অতিরঞ্জন"
+      },
+      {
+        "en": "travesty",
+        "bn": "বিকৃত বা হাস্যকর অনুকরণ"
+      },
+      {
+        "en": "Burlesque",
+        "bn": "উপহাসমূলক অনুকরণ"
+      },
+      {
+        "en": "Hyperbole",
+        "bn": "অতিশয়োক্তি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "realistic portrait",
+        "bn": "বাস্তবধর্মী প্রতিকৃতি"
+      },
+      {
+        "en": "accurate depiction",
+        "bn": "নির্ভুল চিত্রায়ণ"
+      },
+      {
+        "en": "Accolade",
+        "bn": "সম্মাননা"
+      },
+      {
+        "en": "eulogy",
+        "bn": "প্রশস্তিমূলক ভাষণ"
+      }
+    ],
+    "example": "The political cartoonist drew a caricature of the president.",
+    "example_bn": "রাজনৈতিক কার্টুনিস্ট রাষ্ট্রপতির একটি ব্যঙ্গচিত্র এঁকেছিলেন।",
+    "examples": [
+      "The political cartoonist drew a caricature of the president. — রাজনৈতিক কার্টুনিস্ট রাষ্ট্রপতির একটি ব্যঙ্গচিত্র এঁকেছিলেন।",
+      "At dinner, she explained that 'Caricature' means 'a representation that exaggerates distinctive features to create', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Caricature’ শব্দটির অর্থ—ব্যঙ্গচিত্র—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Caricature' as 'a representation that exaggerates distinctive features to create' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Caricature’ শব্দটি ব্যঙ্গচিত্র অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Castigate",
+    "pronunciation_bn": "ক্যাসটিগেইট",
+    "pronunciation": "/ˈkæs.tɪ.ɡeɪt/",
+    "no": 173,
+    "group": 7,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to criticize or reprimand someone severely",
+    "meaning_bn": [
+      "কঠোরভাবে সমালোচনা করা",
+      "তিরস্কার করা",
+      "ভর্ৎসনা করা"
+    ],
+    "synonyms": [
+      {
+        "en": "reprimand",
+        "bn": "তিরস্কার করা"
+      },
+      {
+        "en": "rebuke",
+        "bn": "ভর্ৎসনা করা"
+      },
+      {
+        "en": "berate",
+        "bn": "কঠোরভাবে ধমক দেওয়া"
+      },
+      {
+        "en": "Admonish",
+        "bn": "সতর্ক করা"
+      },
+      {
+        "en": "Censure",
+        "bn": "কঠোর নিন্দা করা"
+      },
+      {
+        "en": "Chastise",
+        "bn": "কঠোরভাবে তিরস্কার করা"
+      },
+      {
+        "en": "Reproach",
+        "bn": "তিরস্কার করা"
+      },
+      {
+        "en": "Reprove",
+        "bn": "তিরস্কার করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "praise",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "commend",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "approve",
+        "bn": "অনুমোদন করা"
+      },
+      {
+        "en": "Acclaim",
+        "bn": "প্রকাশ্যে প্রশংসা করা"
+      },
+      {
+        "en": "Laud",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "Countenance",
+        "bn": "মুখমণ্ডল"
+      },
+      {
+        "en": "Exalt",
+        "bn": "উচ্চ প্রশংসা করা"
+      },
+      {
+        "en": "Extol",
+        "bn": "ভূয়সী প্রশংসা করা"
+      }
+    ],
+    "example": "The editor castigated the journalist for plagiarism.",
+    "example_bn": "লেখা চৌর্যবৃত্তির জন্য সম্পাদক সাংবাদিকটিকে কঠোরভাবে তিরস্কার করেছিলেন।",
+    "examples": [
+      "The editor castigated the journalist for plagiarism. — লেখা চৌর্যবৃত্তির জন্য সম্পাদক সাংবাদিকটিকে কঠোরভাবে তিরস্কার করেছিলেন।",
+      "At dinner, she explained that 'Castigate' means 'to criticize or reprimand someone severely', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Castigate’ শব্দটির অর্থ—কঠোরভাবে সমালোচনা করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Castigate' as 'to criticize or reprimand someone severely' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Castigate’ শব্দটি কঠোরভাবে সমালোচনা করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Catalyst",
+    "pronunciation_bn": "ক্যাটালিস্ট",
+    "pronunciation": "/ˈkæt.əl.ɪst/",
+    "no": 174,
+    "group": 7,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a person or thing that causes or accelerates change or an event without being consumed by it",
+    "meaning_bn": [
+      "অনুঘটক",
+      "পরিবর্তন বা ঘটনা ঘটানোর প্রভাবক"
+    ],
+    "synonyms": [
+      {
+        "en": "trigger",
+        "bn": "সূচনা ঘটানো উপাদান"
+      },
+      {
+        "en": "stimulus",
+        "bn": "উদ্দীপক"
+      },
+      {
+        "en": "impetus",
+        "bn": "গতি সৃষ্টিকারী কারণ"
+      },
+      {
+        "en": "Momentum",
+        "bn": "গতিবেগ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "hindrance",
+        "bn": "বাধা"
+      },
+      {
+        "en": "deterrent",
+        "bn": "নিরুৎসাহিতকারী উপাদান"
+      },
+      {
+        "en": "obstacle",
+        "bn": "প্রতিবন্ধকতা"
+      }
+    ],
+    "example": "His speech was the catalyst for the protest movement.",
+    "example_bn": "তার ভাষণটি প্রতিবাদ আন্দোলনের অনুঘটক হয়েছিল।",
+    "examples": [
+      "His speech was the catalyst for the protest movement. — তার ভাষণটি প্রতিবাদ আন্দোলনের অনুঘটক হয়েছিল।",
+      "At dinner, she explained that 'Catalyst' means 'a person or thing that causes or accelerates', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Catalyst’ শব্দটির অর্থ—অনুঘটক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Catalyst' as 'a person or thing that causes or accelerates' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Catalyst’ শব্দটি অনুঘটক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Categorical",
+    "pronunciation_bn": "ক্যাটাগরিক্যাল",
+    "pronunciation": "/ˌkæt.əˈɡɒr.ɪ.kəl/",
+    "no": 175,
+    "group": 7,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "absolute, clear, and unqualified; expressed without doubt or exception",
+    "meaning_bn": [
+      "নিঃশর্ত",
+      "দ্ব্যর্থহীন",
+      "সুস্পষ্ট ও চূড়ান্ত"
+    ],
+    "synonyms": [
+      {
+        "en": "absolute",
+        "bn": "সম্পূর্ণ বা নিঃশর্ত"
+      },
+      {
+        "en": "unequivocal",
+        "bn": "দ্ব্যর্থহীন"
+      },
+      {
+        "en": "definite",
+        "bn": "সুনির্দিষ্ট"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "qualified",
+        "bn": "শর্তসাপেক্ষ"
+      },
+      {
+        "en": "tentative",
+        "bn": "অনিশ্চিত"
+      },
+      {
+        "en": "ambiguous",
+        "bn": "দ্ব্যর্থক"
+      },
+      {
+        "en": "Equivocal",
+        "bn": "দ্ব্যর্থক"
+      },
+      {
+        "en": "Ambivalent",
+        "bn": "দ্বিধাগ্রস্ত"
+      },
+      {
+        "en": "Arcane",
+        "bn": "অল্প কয়েকজনের জানা"
+      },
+      {
+        "en": "competent",
+        "bn": "দক্ষ"
+      },
+      {
+        "en": "Elliptical",
+        "bn": "ইঙ্গিতপূর্ণ ও পরোক্ষ"
+      }
+    ],
+    "example": "She gave a categorical denial of the allegations.",
+    "example_bn": "সে অভিযোগগুলো দ্ব্যর্থহীনভাবে অস্বীকার করেছিল।",
+    "examples": [
+      "She gave a categorical denial of the allegations. — সে অভিযোগগুলো দ্ব্যর্থহীনভাবে অস্বীকার করেছিল।",
+      "At dinner, she explained that 'Categorical' means 'absolute, clear, and unqualified', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Categorical’ শব্দটির অর্থ—নিঃশর্ত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Categorical' as 'absolute, clear, and unqualified' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Categorical’ শব্দটি নিঃশর্ত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

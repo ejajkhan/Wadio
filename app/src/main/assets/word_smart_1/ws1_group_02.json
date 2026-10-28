@@ -1,0 +1,1513 @@
+[
+  {
+    "word": "Access",
+    "pronunciation_bn": "অ্যাকসেস",
+    "pronunciation": "/ˈæk.ses/",
+    "no": 26,
+    "group": 2,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the right or opportunity to enter, use, or approach something",
+    "meaning_bn": [
+      "প্রবেশাধিকার",
+      "ব্যবহার বা প্রবেশের সুযোগ"
+    ],
+    "synonyms": [
+      {
+        "en": "entry",
+        "bn": "প্রবেশ"
+      },
+      {
+        "en": "admission",
+        "bn": "প্রবেশের অনুমতি"
+      },
+      {
+        "en": "availability",
+        "bn": "প্রাপ্যতা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "denial",
+        "bn": "প্রবেশে বাধা"
+      },
+      {
+        "en": "exclusion",
+        "bn": "বর্জন"
+      }
+    ],
+    "example": "Only authorized staff have access to the restricted area.",
+    "example_bn": "সীমাবদ্ধ এলাকায় প্রবেশাধিকার কেবল অনুমোদিত কর্মীদের রয়েছে।",
+    "examples": [
+      "Only authorized staff have access to the restricted area. — সীমাবদ্ধ এলাকায় প্রবেশাধিকার কেবল অনুমোদিত কর্মীদের রয়েছে।",
+      "At dinner, she explained that 'Access' means 'the right or opportunity to enter, use', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Access’ শব্দটির অর্থ—প্রবেশাধিকার—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Access' as 'the right or opportunity to enter, use' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Access’ শব্দটি প্রবেশাধিকার অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Acclaim",
+    "pronunciation_bn": "অ্যাক্লেইম",
+    "pronunciation": "/əˈkleɪm/",
+    "no": 27,
+    "group": 2,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "public praise and approval; to praise or approve publicly",
+    "meaning_bn": [
+      "জনসমক্ষে প্রশংসা ও স্বীকৃতি",
+      "উচ্ছ্বসিত প্রশংসা"
+    ],
+    "synonyms": [
+      {
+        "en": "praise",
+        "bn": "প্রশংসা"
+      },
+      {
+        "en": "acclamation",
+        "bn": "উচ্ছ্বসিত প্রশংসা"
+      },
+      {
+        "en": "commendation",
+        "bn": "প্রশংসা"
+      },
+      {
+        "en": "Approbation",
+        "bn": "অনুমোদন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "criticism",
+        "bn": "সমালোচনা"
+      },
+      {
+        "en": "condemnation",
+        "bn": "নিন্দা"
+      }
+    ],
+    "example": "The film received widespread acclaim from critics.",
+    "example_bn": "চলচ্চিত্রটি সমালোচকদের কাছ থেকে ব্যাপক প্রশংসা পেয়েছিল।",
+    "examples": [
+      "The film received widespread acclaim from critics. — চলচ্চিত্রটি সমালোচকদের কাছ থেকে ব্যাপক প্রশংসা পেয়েছিল।",
+      "At dinner, she explained that 'Acclaim' means 'public praise and approval', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Acclaim’ শব্দটির অর্থ—জনসমক্ষে প্রশংসা ও স্বীকৃতি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Acclaim' as 'public praise and approval' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Acclaim’ শব্দটি জনসমক্ষে প্রশংসা ও স্বীকৃতি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Accolade",
+    "pronunciation_bn": "অ্যাকোলেইড",
+    "pronunciation": "/ˈæk.ə.leɪd/",
+    "no": 28,
+    "group": 2,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "an award or expression of praise and respect",
+    "meaning_bn": [
+      "সম্মাননা",
+      "পুরস্কার",
+      "প্রশংসাসূচক স্বীকৃতি"
+    ],
+    "synonyms": [
+      {
+        "en": "honor",
+        "bn": "সম্মাননা"
+      },
+      {
+        "en": "award",
+        "bn": "পুরস্কার"
+      },
+      {
+        "en": "tribute",
+        "bn": "শ্রদ্ধার্ঘ্য"
+      },
+      {
+        "en": "eulogy",
+        "bn": "প্রশস্তিমূলক ভাষণ"
+      },
+      {
+        "en": "Homage",
+        "bn": "শ্রদ্ধা"
+      },
+      {
+        "en": "panegyric",
+        "bn": "আড়ম্বরপূর্ণ প্রশংসাবাণী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "insult",
+        "bn": "অপমান"
+      },
+      {
+        "en": "disgrace",
+        "bn": "অসম্মান"
+      },
+      {
+        "en": "Abomination",
+        "bn": "ঘৃণ্য বস্তু বা কাজ"
+      },
+      {
+        "en": "Affront",
+        "bn": "অপমান"
+      },
+      {
+        "en": "contumely",
+        "bn": "অপমানজনক কথা বা আচরণ"
+      },
+      {
+        "en": "Ignominy",
+        "bn": "চরম অসম্মান"
+      },
+      {
+        "en": "Parody",
+        "bn": "ব্যঙ্গাত্মক অনুকরণ"
+      }
+    ],
+    "example": "Winning the award was a major accolade for the scientist.",
+    "example_bn": "পুরস্কারটি জয় করা বিজ্ঞানীর জন্য বড় সম্মাননা ছিল।",
+    "examples": [
+      "Winning the award was a major accolade for the scientist. — পুরস্কারটি জয় করা বিজ্ঞানীর জন্য বড় সম্মাননা ছিল।",
+      "At dinner, she explained that 'Accolade' means 'an award or expression of praise and respect', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Accolade’ শব্দটির অর্থ—সম্মাননা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Accolade' as 'an award or expression of praise and respect' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Accolade’ শব্দটি সম্মাননা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Accord",
+    "pronunciation_bn": "অ্যাকর্ড",
+    "pronunciation": "/əˈkɔːrd/",
+    "no": 29,
+    "group": 2,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "an agreement; to give or grant something",
+    "meaning_bn": [
+      "চুক্তি",
+      "সমঝোতা",
+      "মতৈক্য"
+    ],
+    "synonyms": [
+      {
+        "en": "agreement",
+        "bn": "চুক্তি"
+      },
+      {
+        "en": "harmony",
+        "bn": "সম্প্রীতি"
+      },
+      {
+        "en": "concord",
+        "bn": "মতৈক্য"
+      },
+      {
+        "en": "concert",
+        "bn": "সম্মিলিত উদ্যোগ"
+      },
+      {
+        "en": "Consensus",
+        "bn": "সাধারণ ঐকমত্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "disagreement",
+        "bn": "মতবিরোধ"
+      },
+      {
+        "en": "discord",
+        "bn": "বিরোধ"
+      },
+      {
+        "en": "Strife",
+        "bn": "দ্বন্দ্ব"
+      },
+      {
+        "en": "discrepancy",
+        "bn": "অমিল"
+      }
+    ],
+    "example": "The two countries reached an accord on trade.",
+    "example_bn": "দুই দেশ বাণিজ্য বিষয়ে একটি চুক্তিতে পৌঁছেছিল।",
+    "examples": [
+      "The two countries reached an accord on trade. — দুই দেশ বাণিজ্য বিষয়ে একটি চুক্তিতে পৌঁছেছিল।",
+      "At dinner, she explained that 'Accord' means 'an agreement', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Accord’ শব্দটির অর্থ—চুক্তি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Accord' as 'an agreement' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Accord’ শব্দটি চুক্তি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Accost",
+    "pronunciation_bn": "অ্যাকস্ট",
+    "pronunciation": "/əˈkɔːst/",
+    "no": 30,
+    "group": 2,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to approach and speak to someone, often in an unwelcome or challenging way",
+    "meaning_bn": [
+      "কারও কাছে গিয়ে কথা বলা",
+      "আকস্মিকভাবে বা অনাহূতভাবে কাউকে সম্বোধন করা"
+    ],
+    "synonyms": [
+      {
+        "en": "approach",
+        "bn": "কাছে যাওয়া"
+      },
+      {
+        "en": "address",
+        "bn": "সম্বোধন করা"
+      },
+      {
+        "en": "confront",
+        "bn": "সামনাসামনি হওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "avoid",
+        "bn": "এড়িয়ে চলা"
+      },
+      {
+        "en": "ignore",
+        "bn": "উপেক্ষা করা"
+      },
+      {
+        "en": "Avert",
+        "bn": "প্রতিরোধ করা"
+      },
+      {
+        "en": "Circumvent",
+        "bn": "কৌশলে এড়িয়ে যাওয়া"
+      },
+      {
+        "en": "cower",
+        "bn": "ভয়ে কুঁকড়ে যাওয়া"
+      },
+      {
+        "en": "cringe",
+        "bn": "ভয়ে বা অস্বস্তিতে সঙ্কুচিত হওয়া"
+      }
+    ],
+    "example": "A stranger accosted him in the street and asked for money.",
+    "example_bn": "রাস্তায় এক অপরিচিত ব্যক্তি তার কাছে এসে টাকা চাইল।",
+    "examples": [
+      "A stranger accosted him in the street and asked for money. — রাস্তায় এক অপরিচিত ব্যক্তি তার কাছে এসে টাকা চাইল।",
+      "At dinner, she explained that 'Accost' means 'to approach and speak to someone, often', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Accost’ শব্দটির অর্থ—কারও কাছে গিয়ে কথা বলা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Accost' as 'to approach and speak to someone, often' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Accost’ শব্দটি কারও কাছে গিয়ে কথা বলা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Accouterments",
+    "pronunciation_bn": "অ্যাকুটারমেন্টস",
+    "pronunciation": "/əˈkuː.t̬ɚ.mənts/",
+    "no": 31,
+    "group": 2,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "clothing, accessories, or equipment associated with a particular activity or role",
+    "meaning_bn": [
+      "পোশাক-পরিচ্ছদ",
+      "আনুষঙ্গিক সামগ্রী",
+      "ব্যক্তিগত সরঞ্জাম"
+    ],
+    "synonyms": [
+      {
+        "en": "equipment",
+        "bn": "সরঞ্জাম"
+      },
+      {
+        "en": "gear",
+        "bn": "সাজসরঞ্জাম"
+      },
+      {
+        "en": "accessories",
+        "bn": "আনুষঙ্গিক সামগ্রী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "—",
+        "bn": "প্রচলিত সরাসরি বিপরীতার্থক শব্দ নেই"
+      }
+    ],
+    "example": "The officer checked that all his accouterments were ready.",
+    "example_bn": "কর্মকর্তা তাঁর সব আনুষঙ্গিক সরঞ্জাম প্রস্তুত আছে কি না পরীক্ষা করলেন।",
+    "examples": [
+      "The officer checked that all his accouterments were ready. — কর্মকর্তা তাঁর সব আনুষঙ্গিক সরঞ্জাম প্রস্তুত আছে কি না পরীক্ষা করলেন।",
+      "At dinner, she explained that 'Accouterments' means 'clothing, accessories, or equipment associated with a particular', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Accouterments’ শব্দটির অর্থ—পোশাক-পরিচ্ছদ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Accouterments' as 'clothing, accessories, or equipment associated with a particular' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Accouterments’ শব্দটি পোশাক-পরিচ্ছদ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Accrue",
+    "pronunciation_bn": "অ্যাক্রু",
+    "pronunciation": "/əˈkruː/",
+    "no": 32,
+    "group": 2,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to accumulate or be added over time",
+    "meaning_bn": [
+      "ক্রমে জমা হওয়া",
+      "সময়ের সঙ্গে সঞ্চিত হওয়া",
+      "ক্রমে বৃদ্ধি পাওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "accumulate",
+        "bn": "জমা হওয়া"
+      },
+      {
+        "en": "build up",
+        "bn": "ক্রমে বৃদ্ধি পাওয়া"
+      },
+      {
+        "en": "amass",
+        "bn": "পুঞ্জীভূত করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "diminish",
+        "bn": "কমে যাওয়া"
+      },
+      {
+        "en": "decrease",
+        "bn": "হ্রাস পাওয়া"
+      }
+    ],
+    "example": "Interest accrues on the account each month.",
+    "example_bn": "হিসাবটিতে প্রতি মাসে সুদ জমা হয়।",
+    "examples": [
+      "Interest accrues on the account each month. — হিসাবটিতে প্রতি মাসে সুদ জমা হয়।",
+      "At dinner, she explained that 'Accrue' means 'to accumulate or be added over time', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Accrue’ শব্দটির অর্থ—ক্রমে জমা হওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Accrue' as 'to accumulate or be added over time' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Accrue’ শব্দটি ক্রমে জমা হওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Acerbic",
+    "pronunciation_bn": "অ্যাসার্বিক",
+    "pronunciation": "/əˈsɝː.bɪk/",
+    "no": 33,
+    "group": 2,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "sharp, bitter, or critical in tone",
+    "meaning_bn": [
+      "কটু",
+      "তিক্ত",
+      "তীক্ষ্ণ ও বিদ্রূপাত্মক"
+    ],
+    "synonyms": [
+      {
+        "en": "biting",
+        "bn": "কটাক্ষপূর্ণ"
+      },
+      {
+        "en": "caustic",
+        "bn": "কটুবাক্যপূর্ণ"
+      },
+      {
+        "en": "sarcastic",
+        "bn": "ব্যঙ্গাত্মক"
+      },
+      {
+        "en": "Acrid",
+        "bn": "ঝাঁঝালো"
+      },
+      {
+        "en": "Astringent",
+        "bn": "কঠোর"
+      },
+      {
+        "en": "corrosive",
+        "bn": "ক্ষয়কারী"
+      },
+      {
+        "en": "Ironic",
+        "bn": "পরিহাসমূলক"
+      },
+      {
+        "en": "pungent",
+        "bn": "ঝাঁঝালো"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "mild",
+        "bn": "মৃদু"
+      },
+      {
+        "en": "gentle",
+        "bn": "নম্র"
+      },
+      {
+        "en": "Benign",
+        "bn": "ক্ষতিকর নয় এমন"
+      },
+      {
+        "en": "bland",
+        "bn": "মৃদু"
+      },
+      {
+        "en": "Temperate",
+        "bn": "সংযমী"
+      }
+    ],
+    "example": "Her acerbic comments made the discussion uncomfortable.",
+    "example_bn": "তার কটূক্তিগুলো আলোচনাটিকে অস্বস্তিকর করে তুলেছিল।",
+    "examples": [
+      "Her acerbic comments made the discussion uncomfortable. — তার কটূক্তিগুলো আলোচনাটিকে অস্বস্তিকর করে তুলেছিল।",
+      "At dinner, she explained that 'Acerbic' means 'sharp, bitter, or critical in tone', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Acerbic’ শব্দটির অর্থ—কটু—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Acerbic' as 'sharp, bitter, or critical in tone' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Acerbic’ শব্দটি কটু অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Acquiesce",
+    "pronunciation_bn": "অ্যাকুইয়েস",
+    "pronunciation": "/ˌæk.wiˈes/",
+    "no": 34,
+    "group": 2,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to accept or agree to something without arguing or protesting",
+    "meaning_bn": [
+      "নীরবে মেনে নেওয়া",
+      "আপত্তি না করে সম্মত হওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "comply",
+        "bn": "মেনে চলা"
+      },
+      {
+        "en": "consent",
+        "bn": "সম্মতি দেওয়া"
+      },
+      {
+        "en": "yield",
+        "bn": "নতিস্বীকার করা"
+      },
+      {
+        "en": "Accede",
+        "bn": "সম্মত হওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "resist",
+        "bn": "প্রতিরোধ করা"
+      },
+      {
+        "en": "refuse",
+        "bn": "প্রত্যাখ্যান করা"
+      },
+      {
+        "en": "demur",
+        "bn": "আপত্তি তোলা"
+      },
+      {
+        "en": "expostulate",
+        "bn": "যুক্তি দিয়ে আপত্তি জানানো"
+      },
+      {
+        "en": "balk",
+        "bn": "ইতস্তত করা"
+      },
+      {
+        "en": "Remonstrate",
+        "bn": "প্রতিবাদ করা"
+      },
+      {
+        "en": "Transgress",
+        "bn": "সীমালঙ্ঘন করা"
+      }
+    ],
+    "example": "She reluctantly acquiesced in the decision.",
+    "example_bn": "সে অনিচ্ছাসত্ত্বেও সিদ্ধান্তটি মেনে নিয়েছিল।",
+    "examples": [
+      "She reluctantly acquiesced in the decision. — সে অনিচ্ছাসত্ত্বেও সিদ্ধান্তটি মেনে নিয়েছিল।",
+      "At dinner, she explained that 'Acquiesce' means 'to accept or agree to something without arguing', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Acquiesce’ শব্দটির অর্থ—নীরবে মেনে নেওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Acquiesce' as 'to accept or agree to something without arguing' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Acquiesce’ শব্দটি নীরবে মেনে নেওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Acquisitive",
+    "pronunciation_bn": "অ্যাকুইজিটিভ",
+    "pronunciation": "/əˈkwɪz.ə.t̬ɪv/",
+    "no": 35,
+    "group": 2,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "eager to acquire possessions, wealth, or things",
+    "meaning_bn": [
+      "অর্জনপ্রবণ",
+      "সম্পদ অর্জনে আগ্রহী",
+      "লোভী"
+    ],
+    "synonyms": [
+      {
+        "en": "greedy",
+        "bn": "লোভী"
+      },
+      {
+        "en": "grasping",
+        "bn": "অর্থলোভী"
+      },
+      {
+        "en": "covetous",
+        "bn": "পরের সম্পদের প্রতি লোভী"
+      },
+      {
+        "en": "Materialistic",
+        "bn": "বস্তুবাদী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "generous",
+        "bn": "উদার"
+      },
+      {
+        "en": "unselfish",
+        "bn": "নিঃস্বার্থ"
+      }
+    ],
+    "example": "His acquisitive nature made him eager to own the latest gadgets.",
+    "example_bn": "তার অর্জনপ্রবণ স্বভাবের কারণে সে সর্বশেষ প্রযুক্তিপণ্যগুলো নিজের করে নিতে চাইত।",
+    "examples": [
+      "His acquisitive nature made him eager to own the latest gadgets. — তার অর্জনপ্রবণ স্বভাবের কারণে সে সর্বশেষ প্রযুক্তিপণ্যগুলো নিজের করে নিতে চাইত।",
+      "At dinner, she explained that 'Acquisitive' means 'eager to acquire possessions, wealth, or things', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Acquisitive’ শব্দটির অর্থ—অর্জনপ্রবণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Acquisitive' as 'eager to acquire possessions, wealth, or things' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Acquisitive’ শব্দটি অর্জনপ্রবণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Acquit",
+    "pronunciation_bn": "অ্যাকুইট",
+    "pronunciation": "/əˈkwɪt/",
+    "no": 36,
+    "group": 2,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to decide in a court of law that someone is not guilty",
+    "meaning_bn": [
+      "খালাস দেওয়া",
+      "দোষমুক্ত ঘোষণা করা"
+    ],
+    "synonyms": [
+      {
+        "en": "exonerate",
+        "bn": "দোষমুক্ত করা"
+      },
+      {
+        "en": "absolve",
+        "bn": "দায়মুক্ত করা"
+      },
+      {
+        "en": "clear",
+        "bn": "নির্দোষ ঘোষণা করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "convict",
+        "bn": "দোষী সাব্যস্ত করা"
+      },
+      {
+        "en": "find guilty",
+        "bn": "দোষী ঘোষণা করা"
+      },
+      {
+        "en": "Arraign",
+        "bn": "অভিযোগের জবাব দিতে আদালতে হাজির করা"
+      },
+      {
+        "en": "Indict",
+        "bn": "অপরাধের আনুষ্ঠানিক অভিযোগ আনা"
+      }
+    ],
+    "example": "The jury acquitted him after reviewing the evidence.",
+    "example_bn": "প্রমাণ পর্যালোচনা করার পর জুরি তাকে খালাস দিয়েছিল।",
+    "examples": [
+      "The jury acquitted him after reviewing the evidence. — প্রমাণ পর্যালোচনা করার পর জুরি তাকে খালাস দিয়েছিল।",
+      "At dinner, she explained that 'Acquit' means 'to decide in a court of law that', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Acquit’ শব্দটির অর্থ—খালাস দেওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Acquit' as 'to decide in a court of law that' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Acquit’ শব্দটি খালাস দেওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Acrid",
+    "pronunciation_bn": "অ্যাক্রিড",
+    "pronunciation": "/ˈæk.rɪd/",
+    "no": 37,
+    "group": 2,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "having a strong, unpleasant, bitter smell or taste; harsh in tone",
+    "meaning_bn": [
+      "ঝাঁঝালো",
+      "তীব্র ও অস্বস্তিকর",
+      "কটু"
+    ],
+    "synonyms": [
+      {
+        "en": "pungent",
+        "bn": "ঝাঁঝালো"
+      },
+      {
+        "en": "sharp",
+        "bn": "তীব্র"
+      },
+      {
+        "en": "biting",
+        "bn": "কটু"
+      },
+      {
+        "en": "Acerbic",
+        "bn": "কটু"
+      },
+      {
+        "en": "Acute",
+        "bn": "তীব্র"
+      },
+      {
+        "en": "trenchant",
+        "bn": "তীক্ষ্ণ ও জোরালো"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "mild",
+        "bn": "মৃদু"
+      },
+      {
+        "en": "sweet",
+        "bn": "মিষ্টি"
+      },
+      {
+        "en": "bland",
+        "bn": "মৃদু"
+      },
+      {
+        "en": "Benign",
+        "bn": "ক্ষতিকর নয় এমন"
+      },
+      {
+        "en": "Obtuse",
+        "bn": "বুদ্ধিতে ধীর"
+      },
+      {
+        "en": "Temperate",
+        "bn": "সংযমী"
+      }
+    ],
+    "example": "The acrid smell of smoke filled the building.",
+    "example_bn": "ধোঁয়ার ঝাঁঝালো গন্ধে ভবনটি ভরে গিয়েছিল।",
+    "examples": [
+      "The acrid smell of smoke filled the building. — ধোঁয়ার ঝাঁঝালো গন্ধে ভবনটি ভরে গিয়েছিল।",
+      "At dinner, she explained that 'Acrid' means 'having a strong, unpleasant, bitter smell or taste', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Acrid’ শব্দটির অর্থ—ঝাঁঝালো—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Acrid' as 'having a strong, unpleasant, bitter smell or taste' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Acrid’ শব্দটি ঝাঁঝালো অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Acrimonious",
+    "pronunciation_bn": "অ্যাক্রিমোনিয়াস",
+    "pronunciation": "/ˌæk.rəˈmoʊ.ni.əs/",
+    "no": 38,
+    "group": 2,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "angry and bitter, especially in an argument or dispute",
+    "meaning_bn": [
+      "তিক্ততাপূর্ণ",
+      "কটুতাপূর্ণ",
+      "বিদ্বেষপূর্ণ"
+    ],
+    "synonyms": [
+      {
+        "en": "bitter",
+        "bn": "তিক্ত"
+      },
+      {
+        "en": "hostile",
+        "bn": "শত্রুতাপূর্ণ"
+      },
+      {
+        "en": "rancorous",
+        "bn": "বিদ্বেষপূর্ণ"
+      },
+      {
+        "en": "Belligerent",
+        "bn": "ঝগড়াটে"
+      },
+      {
+        "en": "Inimical",
+        "bn": "ক্ষতিকর"
+      },
+      {
+        "en": "Vitriolic",
+        "bn": "তীব্র কটূক্তিপূর্ণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "amicable",
+        "bn": "বন্ধুত্বপূর্ণ"
+      },
+      {
+        "en": "cordial",
+        "bn": "সৌহার্দ্যপূর্ণ"
+      },
+      {
+        "en": "Amiable",
+        "bn": "বন্ধুত্বপূর্ণ"
+      },
+      {
+        "en": "Avuncular",
+        "bn": "মামা বা চাচার মতো স্নেহশীল"
+      },
+      {
+        "en": "Conciliatory",
+        "bn": "মীমাংসামূলক"
+      },
+      {
+        "en": "Fraternal",
+        "bn": "ভ্রাতৃসুলভ"
+      }
+    ],
+    "example": "Their negotiations became acrimonious.",
+    "example_bn": "তাদের আলোচনা তিক্ততাপূর্ণ হয়ে উঠেছিল।",
+    "examples": [
+      "Their negotiations became acrimonious. — তাদের আলোচনা তিক্ততাপূর্ণ হয়ে উঠেছিল।",
+      "At dinner, she explained that 'Acrimonious' means 'angry and bitter, especially in an argument', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Acrimonious’ শব্দটির অর্থ—তিক্ততাপূর্ণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Acrimonious' as 'angry and bitter, especially in an argument' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Acrimonious’ শব্দটি তিক্ততাপূর্ণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Acronym",
+    "pronunciation_bn": "অ্যাক্রোনিম",
+    "pronunciation": "/ˈæk.rə.nɪm/",
+    "no": 39,
+    "group": 2,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a word formed from the initial letters of other words and pronounced as a word",
+    "meaning_bn": [
+      "আদ্যক্ষর দিয়ে গঠিত শব্দ",
+      "শব্দসংক্ষিপ্ত রূপ"
+    ],
+    "synonyms": [
+      {
+        "en": "abbreviation",
+        "bn": "সংক্ষিপ্ত রূপ"
+      },
+      {
+        "en": "initial-letter word",
+        "bn": "আদ্যক্ষর দিয়ে গঠিত শব্দ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "—",
+        "bn": "প্রচলিত সরাসরি বিপরীতার্থক শব্দ নেই"
+      }
+    ],
+    "example": "NASA is an acronym for National Aeronautics and Space Administration.",
+    "example_bn": "NASA হলো National Aeronautics and Space Administration নামটির আদ্যক্ষর দিয়ে গঠিত একটি শব্দ।",
+    "examples": [
+      "NASA is an acronym for National Aeronautics and Space Administration. — NASA হলো National Aeronautics and Space Administration নামটির আদ্যক্ষর দিয়ে গঠিত একটি শব্দ।",
+      "At dinner, she explained that 'Acronym' means 'a word formed from the initial letters', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Acronym’ শব্দটির অর্থ—আদ্যক্ষর দিয়ে গঠিত শব্দ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Acronym' as 'a word formed from the initial letters' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Acronym’ শব্দটি আদ্যক্ষর দিয়ে গঠিত শব্দ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Acumen",
+    "pronunciation_bn": "অ্যাকিউমেন",
+    "pronunciation": "/əˈkjuː.mən/",
+    "no": 40,
+    "group": 2,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the ability to make good judgments and quick decisions",
+    "meaning_bn": [
+      "তীক্ষ্ণ বিচারবুদ্ধি",
+      "বিচক্ষণতা",
+      "ব্যবসায়িক দূরদর্শিতা"
+    ],
+    "synonyms": [
+      {
+        "en": "insight",
+        "bn": "অন্তর্দৃষ্টি"
+      },
+      {
+        "en": "shrewdness",
+        "bn": "তীক্ষ্ণ বিচারবুদ্ধি"
+      },
+      {
+        "en": "discernment",
+        "bn": "বিচক্ষণতা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "ignorance",
+        "bn": "অজ্ঞতা"
+      },
+      {
+        "en": "obtuseness",
+        "bn": "বুদ্ধির স্থূলতা"
+      },
+      {
+        "en": "Platitude",
+        "bn": "গতানুগতিক ও মামুলি কথা"
+      }
+    ],
+    "example": "Her business acumen helped the company grow.",
+    "example_bn": "তার ব্যবসায়িক বিচক্ষণতা কোম্পানিটির উন্নতিতে সাহায্য করেছিল।",
+    "examples": [
+      "Her business acumen helped the company grow. — তার ব্যবসায়িক বিচক্ষণতা কোম্পানিটির উন্নতিতে সাহায্য করেছিল।",
+      "At dinner, she explained that 'Acumen' means 'the ability to make good judgments and quick', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Acumen’ শব্দটির অর্থ—তীক্ষ্ণ বিচারবুদ্ধি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Acumen' as 'the ability to make good judgments and quick' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Acumen’ শব্দটি তীক্ষ্ণ বিচারবুদ্ধি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Acute",
+    "pronunciation_bn": "অ্যাকিউট",
+    "pronunciation": "/əˈkjuːt/",
+    "no": 41,
+    "group": 2,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "very severe or intense; sharp or perceptive",
+    "meaning_bn": [
+      "তীব্র",
+      "তীক্ষ্ণ",
+      "প্রখর"
+    ],
+    "synonyms": [
+      {
+        "en": "sharp",
+        "bn": "তীক্ষ্ণ"
+      },
+      {
+        "en": "keen",
+        "bn": "প্রখর"
+      },
+      {
+        "en": "intense",
+        "bn": "তীব্র"
+      },
+      {
+        "en": "Acrid",
+        "bn": "ঝাঁঝালো"
+      },
+      {
+        "en": "avid",
+        "bn": "অত্যন্ত আগ্রহী"
+      },
+      {
+        "en": "Profound",
+        "bn": "গভীর"
+      },
+      {
+        "en": "pungent",
+        "bn": "ঝাঁঝালো"
+      },
+      {
+        "en": "trenchant",
+        "bn": "তীক্ষ্ণ ও জোরালো"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "dull",
+        "bn": "ভোঁতা"
+      },
+      {
+        "en": "mild",
+        "bn": "মৃদু"
+      },
+      {
+        "en": "Chronic",
+        "bn": "দীর্ঘস্থায়ী"
+      },
+      {
+        "en": "bland",
+        "bn": "মৃদু"
+      },
+      {
+        "en": "Obtuse",
+        "bn": "বুদ্ধিতে ধীর"
+      },
+      {
+        "en": "Benign",
+        "bn": "ক্ষতিকর নয় এমন"
+      },
+      {
+        "en": "Bovine",
+        "bn": "গবাদি পশু বা গরুসংক্রান্ত"
+      },
+      {
+        "en": "Insipid",
+        "bn": "বিস্বাদ"
+      }
+    ],
+    "example": "He has an acute sense of hearing.",
+    "example_bn": "তার শ্রবণশক্তি অত্যন্ত প্রখর।",
+    "examples": [
+      "He has an acute sense of hearing. — তার শ্রবণশক্তি অত্যন্ত প্রখর।",
+      "At dinner, she explained that 'Acute' means 'very severe or intense', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Acute’ শব্দটির অর্থ—তীব্র—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Acute' as 'very severe or intense' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Acute’ শব্দটি তীব্র অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Ad-lib",
+    "pronunciation_bn": "অ্যাড-লিব",
+    "pronunciation": "/ˈæd.lɪb/",
+    "no": 42,
+    "group": 2,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to say or perform something without preparing it beforehand",
+    "meaning_bn": [
+      "তাৎক্ষণিকভাবে বলা বা করা",
+      "আগে থেকে প্রস্তুতি ছাড়া বলা"
+    ],
+    "synonyms": [
+      {
+        "en": "improvise",
+        "bn": "তাৎক্ষণিকভাবে বলা বা করা"
+      },
+      {
+        "en": "extemporize",
+        "bn": "প্রস্তুতি ছাড়া বলা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "rehearse",
+        "bn": "মহড়া দেওয়া"
+      },
+      {
+        "en": "script",
+        "bn": "আগে থেকে লিখে রাখা"
+      }
+    ],
+    "example": "When he forgot his lines, he ad-libbed confidently.",
+    "example_bn": "সংলাপ ভুলে গেলেও সে আত্মবিশ্বাসের সঙ্গে তাৎক্ষণিকভাবে কথা বলে গেল।",
+    "examples": [
+      "When he forgot his lines, he ad-libbed confidently. — সংলাপ ভুলে গেলেও সে আত্মবিশ্বাসের সঙ্গে তাৎক্ষণিকভাবে কথা বলে গেল।",
+      "At dinner, she explained that 'Ad-lib' means 'to say or perform something without preparing it', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Ad-lib’ শব্দটির অর্থ—তাৎক্ষণিকভাবে বলা বা করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Ad-lib' as 'to say or perform something without preparing it' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Ad-lib’ শব্দটি তাৎক্ষণিকভাবে বলা বা করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Adage",
+    "pronunciation_bn": "অ্যাডিজ",
+    "pronunciation": "/ˈæd.ɪdʒ/",
+    "no": 43,
+    "group": 2,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a traditional saying that expresses a general truth",
+    "meaning_bn": [
+      "প্রবাদ",
+      "প্রচলিত জ্ঞানগর্ভ উক্তি"
+    ],
+    "synonyms": [
+      {
+        "en": "proverb",
+        "bn": "প্রবাদ"
+      },
+      {
+        "en": "saying",
+        "bn": "প্রচলিত উক্তি"
+      },
+      {
+        "en": "maxim",
+        "bn": "নীতিবাক্য"
+      },
+      {
+        "en": "Aphorism",
+        "bn": "সংক্ষিপ্ত জ্ঞানগর্ভ উক্তি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "—",
+        "bn": "প্রচলিত সরাসরি বিপরীতার্থক শব্দ নেই"
+      }
+    ],
+    "example": "The familiar adage reminds us that time is money.",
+    "example_bn": "পরিচিত প্রবাদটি আমাদের মনে করিয়ে দেয় যে সময়ই অর্থ।",
+    "examples": [
+      "The familiar adage reminds us that time is money. — পরিচিত প্রবাদটি আমাদের মনে করিয়ে দেয় যে সময়ই অর্থ।",
+      "At dinner, she explained that 'Adage' means 'a traditional saying that expresses a general truth', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Adage’ শব্দটির অর্থ—প্রবাদ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Adage' as 'a traditional saying that expresses a general truth' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Adage’ শব্দটি প্রবাদ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Adamant",
+    "pronunciation_bn": "অ্যাডাম্যান্ট",
+    "pronunciation": "/ˈæd.ə.mənt/",
+    "no": 44,
+    "group": 2,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "refusing to change an opinion or decision; unyielding",
+    "meaning_bn": [
+      "অনড়",
+      "দৃঢ়প্রতিজ্ঞ",
+      "অটল"
+    ],
+    "synonyms": [
+      {
+        "en": "unyielding",
+        "bn": "অনমনীয়"
+      },
+      {
+        "en": "resolute",
+        "bn": "দৃঢ়প্রতিজ্ঞ"
+      },
+      {
+        "en": "inflexible",
+        "bn": "অনমনীয়"
+      },
+      {
+        "en": "Intransigent",
+        "bn": "অনমনীয়"
+      },
+      {
+        "en": "Obdurate",
+        "bn": "একগুঁয়ে"
+      },
+      {
+        "en": "Dogmatic",
+        "bn": "মতান্ধ"
+      },
+      {
+        "en": "Inexorable",
+        "bn": "অনিবার্য"
+      },
+      {
+        "en": "Relentless",
+        "bn": "অবিরাম"
+      },
+      {
+        "en": "Steadfast",
+        "bn": "অবিচল"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "flexible",
+        "bn": "নমনীয়"
+      },
+      {
+        "en": "wavering",
+        "bn": "দোদুল্যমান"
+      },
+      {
+        "en": "Malleable",
+        "bn": "নমনীয়"
+      },
+      {
+        "en": "pliable",
+        "bn": "নমনীয়"
+      },
+      {
+        "en": "Amenable",
+        "bn": "রাজি"
+      }
+    ],
+    "example": "She was adamant about not changing her decision.",
+    "example_bn": "নিজের সিদ্ধান্ত পরিবর্তন না করার ব্যাপারে সে অনড় ছিল।",
+    "examples": [
+      "She was adamant about not changing her decision. — নিজের সিদ্ধান্ত পরিবর্তন না করার ব্যাপারে সে অনড় ছিল।",
+      "At dinner, she explained that 'Adamant' means 'refusing to change an opinion or decision', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Adamant’ শব্দটির অর্থ—অনড়—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Adamant' as 'refusing to change an opinion or decision' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Adamant’ শব্দটি অনড় অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Address",
+    "pronunciation_bn": "অ্যাড্রেস",
+    "pronunciation": "/əˈdres/",
+    "no": 45,
+    "group": 2,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to speak to someone or direct attention to a subject or problem",
+    "meaning_bn": [
+      "সম্বোধন করা",
+      "ভাষণ দেওয়া",
+      "কোনো বিষয় বা সমস্যার মোকাবিলা করা"
+    ],
+    "synonyms": [
+      {
+        "en": "speak to",
+        "bn": "সম্বোধন করা"
+      },
+      {
+        "en": "deliver a speech",
+        "bn": "ভাষণ দেওয়া"
+      },
+      {
+        "en": "deal with",
+        "bn": "মোকাবিলা করা"
+      },
+      {
+        "en": "Accost",
+        "bn": "কারও কাছে গিয়ে কথা বলা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "ignore",
+        "bn": "উপেক্ষা করা"
+      },
+      {
+        "en": "neglect",
+        "bn": "অবহেলা করা"
+      }
+    ],
+    "example": "The president addressed the nation on television.",
+    "example_bn": "রাষ্ট্রপতি টেলিভিশনে জাতির উদ্দেশে ভাষণ দিয়েছিলেন।",
+    "examples": [
+      "The president addressed the nation on television. — রাষ্ট্রপতি টেলিভিশনে জাতির উদ্দেশে ভাষণ দিয়েছিলেন।",
+      "At dinner, she explained that 'Address' means 'to speak to someone or direct attention', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Address’ শব্দটির অর্থ—সম্বোধন করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Address' as 'to speak to someone or direct attention' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Address’ শব্দটি সম্বোধন করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Adduce",
+    "pronunciation_bn": "অ্যাডিউস",
+    "pronunciation": "/əˈduːs/",
+    "no": 46,
+    "group": 2,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to give facts, reasons, or examples as evidence or support",
+    "meaning_bn": [
+      "প্রমাণ বা উদাহরণ হিসেবে উপস্থাপন করা",
+      "যুক্তির সমর্থনে তথ্য পেশ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "cite",
+        "bn": "উদ্ধৃত করা"
+      },
+      {
+        "en": "present",
+        "bn": "উপস্থাপন করা"
+      },
+      {
+        "en": "produce",
+        "bn": "পেশ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "withhold",
+        "bn": "গোপন রাখা"
+      },
+      {
+        "en": "suppress",
+        "bn": "চেপে রাখা"
+      }
+    ],
+    "example": "He adduced several facts to support his argument.",
+    "example_bn": "নিজের যুক্তির সমর্থনে সে কয়েকটি তথ্য উপস্থাপন করেছিল।",
+    "examples": [
+      "He adduced several facts to support his argument. — নিজের যুক্তির সমর্থনে সে কয়েকটি তথ্য উপস্থাপন করেছিল।",
+      "At dinner, she explained that 'Adduce' means 'to give facts, reasons, or examples as evidence', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Adduce’ শব্দটির অর্থ—প্রমাণ বা উদাহরণ হিসেবে উপস্থাপন করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Adduce' as 'to give facts, reasons, or examples as evidence' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Adduce’ শব্দটি প্রমাণ বা উদাহরণ হিসেবে উপস্থাপন করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Adherent",
+    "pronunciation_bn": "অ্যাডহিরেন্ট",
+    "pronunciation": "/ədˈhɪr.ənt/",
+    "no": 47,
+    "group": 2,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a person who supports or follows a particular belief, cause, or leader",
+    "meaning_bn": [
+      "অনুসারী",
+      "সমর্থক",
+      "অনুগত ব্যক্তি"
+    ],
+    "synonyms": [
+      {
+        "en": "follower",
+        "bn": "অনুসারী"
+      },
+      {
+        "en": "supporter",
+        "bn": "সমর্থক"
+      },
+      {
+        "en": "devotee",
+        "bn": "একনিষ্ঠ ভক্ত"
+      },
+      {
+        "en": "Advocate",
+        "bn": "সমর্থক"
+      },
+      {
+        "en": "Benefactor",
+        "bn": "দাতা"
+      },
+      {
+        "en": "Partisan",
+        "bn": "কোনো পক্ষ বা দলের একনিষ্ঠ সমর্থক"
+      },
+      {
+        "en": "Proponent",
+        "bn": "কোনো ধারণা, পরিকল্পনা বা উদ্দেশ্যের সমর্থক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "opponent",
+        "bn": "বিরোধী"
+      },
+      {
+        "en": "adversary",
+        "bn": "প্রতিপক্ষ"
+      },
+      {
+        "en": "dissident",
+        "bn": "ভিন্নমতাবলম্বী ব্যক্তি"
+      },
+      {
+        "en": "Insurgent",
+        "bn": "বিদ্রোহী"
+      },
+      {
+        "en": "Maverick",
+        "bn": "যিনি প্রচলিত নিয়ম বা দলের মত অনুসরণ না করে স্বাধীনভাবে চিন্তা বা কাজ করেন"
+      },
+      {
+        "en": "nemesis",
+        "bn": "প্রবল প্রতিদ্বন্দ্বী"
+      },
+      {
+        "en": "predecessor",
+        "bn": "পূর্বসূরি"
+      }
+    ],
+    "example": "She is a committed adherent of environmental protection.",
+    "example_bn": "সে পরিবেশ সংরক্ষণের একজন একনিষ্ঠ সমর্থক।",
+    "examples": [
+      "She is a committed adherent of environmental protection. — সে পরিবেশ সংরক্ষণের একজন একনিষ্ঠ সমর্থক।",
+      "At dinner, she explained that 'Adherent' means 'a person who supports or follows a particular', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Adherent’ শব্দটির অর্থ—অনুসারী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Adherent' as 'a person who supports or follows a particular' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Adherent’ শব্দটি অনুসারী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Adjourn",
+    "pronunciation_bn": "অ্যাডজার্ন",
+    "pronunciation": "/əˈdʒɝːn/",
+    "no": 48,
+    "group": 2,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to suspend a meeting or court session until a later time",
+    "meaning_bn": [
+      "মুলতবি করা",
+      "পরবর্তী সময় পর্যন্ত স্থগিত রাখা"
+    ],
+    "synonyms": [
+      {
+        "en": "postpone",
+        "bn": "স্থগিত করা"
+      },
+      {
+        "en": "defer",
+        "bn": "পিছিয়ে দেওয়া"
+      },
+      {
+        "en": "suspend",
+        "bn": "সাময়িকভাবে স্থগিত করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "convene",
+        "bn": "সভা আহ্বান করা"
+      },
+      {
+        "en": "resume",
+        "bn": "পুনরায় শুরু করা"
+      }
+    ],
+    "example": "The meeting was adjourned until the following Monday.",
+    "example_bn": "সভাটি পরবর্তী সোমবার পর্যন্ত মুলতবি করা হয়েছিল।",
+    "examples": [
+      "The meeting was adjourned until the following Monday. — সভাটি পরবর্তী সোমবার পর্যন্ত মুলতবি করা হয়েছিল।",
+      "At dinner, she explained that 'Adjourn' means 'to suspend a meeting or court session until', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Adjourn’ শব্দটির অর্থ—মুলতবি করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Adjourn' as 'to suspend a meeting or court session until' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Adjourn’ শব্দটি মুলতবি করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Adjunct",
+    "pronunciation_bn": "অ্যাজাঙ্ক্ট",
+    "pronunciation": "/ˈædʒ.ʌŋkt/",
+    "no": 49,
+    "group": 2,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "something added to or connected with something else, often as a supplementary part",
+    "meaning_bn": [
+      "সহায়ক সংযোজন",
+      "অতিরিক্ত অংশ",
+      "পরিপূরক উপাদান"
+    ],
+    "synonyms": [
+      {
+        "en": "addition",
+        "bn": "সংযোজন"
+      },
+      {
+        "en": "supplement",
+        "bn": "পরিপূরক"
+      },
+      {
+        "en": "appendage",
+        "bn": "সংযুক্ত অংশ"
+      },
+      {
+        "en": "Appurtenance",
+        "bn": "আনুষঙ্গিক বস্তু"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "core",
+        "bn": "মূল অংশ"
+      },
+      {
+        "en": "essential part",
+        "bn": "অপরিহার্য অংশ"
+      }
+    ],
+    "example": "Exercise is a useful adjunct to a healthy diet.",
+    "example_bn": "স্বাস্থ্যকর খাদ্যাভ্যাসের পরিপূরক হিসেবে ব্যায়াম উপকারী।",
+    "examples": [
+      "Exercise is a useful adjunct to a healthy diet. — স্বাস্থ্যকর খাদ্যাভ্যাসের পরিপূরক হিসেবে ব্যায়াম উপকারী।",
+      "At dinner, she explained that 'Adjunct' means 'something added to or connected with something else', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Adjunct’ শব্দটির অর্থ—সহায়ক সংযোজন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Adjunct' as 'something added to or connected with something else' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Adjunct’ শব্দটি সহায়ক সংযোজন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Admonish",
+    "pronunciation_bn": "অ্যাডমনিশ",
+    "pronunciation": "/ədˈmɑː.nɪʃ/",
+    "no": 50,
+    "group": 2,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to warn or reprimand someone firmly, often gently",
+    "meaning_bn": [
+      "সতর্ক করা",
+      "তিরস্কার করা",
+      "কড়া উপদেশ দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "reprimand",
+        "bn": "তিরস্কার করা"
+      },
+      {
+        "en": "warn",
+        "bn": "সতর্ক করা"
+      },
+      {
+        "en": "rebuke",
+        "bn": "ভর্ৎসনা করা"
+      },
+      {
+        "en": "Reprove",
+        "bn": "তিরস্কার করা"
+      },
+      {
+        "en": "Castigate",
+        "bn": "কঠোরভাবে সমালোচনা করা"
+      },
+      {
+        "en": "Censure",
+        "bn": "কঠোর নিন্দা করা"
+      },
+      {
+        "en": "Chastise",
+        "bn": "কঠোরভাবে তিরস্কার করা"
+      },
+      {
+        "en": "Reproach",
+        "bn": "তিরস্কার করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "praise",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "commend",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "Acclaim",
+        "bn": "প্রকাশ্যে প্রশংসা করা"
+      },
+      {
+        "en": "Laud",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "Exalt",
+        "bn": "উচ্চ প্রশংসা করা"
+      },
+      {
+        "en": "Extol",
+        "bn": "ভূয়সী প্রশংসা করা"
+      },
+      {
+        "en": "Tout",
+        "bn": "প্রচার করা"
+      }
+    ],
+    "example": "The teacher admonished the students for arriving late.",
+    "example_bn": "দেরিতে আসার জন্য শিক্ষক শিক্ষার্থীদের সতর্ক করেছিলেন।",
+    "examples": [
+      "The teacher admonished the students for arriving late. — দেরিতে আসার জন্য শিক্ষক শিক্ষার্থীদের সতর্ক করেছিলেন।",
+      "At dinner, she explained that 'Admonish' means 'to warn or reprimand someone firmly, often gently', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Admonish’ শব্দটির অর্থ—সতর্ক করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Admonish' as 'to warn or reprimand someone firmly, often gently' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Admonish’ শব্দটি সতর্ক করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

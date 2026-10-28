@@ -1,0 +1,1686 @@
+[
+  {
+    "word": "Intersperse",
+    "pronunciation_bn": "ইন্টারস্পার্স",
+    "pronunciation": "/ˌɪn.təˈspɜːs/",
+    "no": 501,
+    "group": 21,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to distribute or place things among or between other things at intervals",
+    "meaning_bn": [
+      "মাঝে মাঝে ছড়িয়ে দেওয়া",
+      "বিভিন্ন জিনিসের মধ্যে অন্য কিছু সন্নিবেশ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "scatter",
+        "bn": "ছড়িয়ে দেওয়া"
+      },
+      {
+        "en": "distribute",
+        "bn": "বণ্টন করা"
+      },
+      {
+        "en": "intermix",
+        "bn": "মিশিয়ে দেওয়া"
+      },
+      {
+        "en": "Allocate",
+        "bn": "বরাদ্দ করা"
+      },
+      {
+        "en": "Apportion",
+        "bn": "অনুপাতে বণ্টন করা"
+      },
+      {
+        "en": "diffuse",
+        "bn": "ছড়িয়ে পড়া"
+      },
+      {
+        "en": "disperse",
+        "bn": "ছড়িয়ে পড়া"
+      },
+      {
+        "en": "Disseminate",
+        "bn": "ছড়িয়ে দেওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "concentrate",
+        "bn": "এক জায়গায় কেন্দ্রীভূত করা"
+      },
+      {
+        "en": "group",
+        "bn": "একত্র করা"
+      },
+      {
+        "en": "compile",
+        "bn": "সংকলন করা"
+      },
+      {
+        "en": "Marshal",
+        "bn": "সুশৃঙ্খলভাবে সাজানো"
+      },
+      {
+        "en": "muster",
+        "bn": "সমবেত করা"
+      },
+      {
+        "en": "queue",
+        "bn": "সারি"
+      }
+    ],
+    "example": "The editor interspersed short exercises throughout the chapter.",
+    "example_bn": "সম্পাদক অধ্যায়জুড়ে ছোট ছোট অনুশীলনী ছড়িয়ে দিয়েছিলেন।",
+    "examples": [
+      "The editor interspersed short exercises throughout the chapter. — সম্পাদক অধ্যায়জুড়ে ছোট ছোট অনুশীলনী ছড়িয়ে দিয়েছিলেন।",
+      "At dinner, she explained that 'Intersperse' means 'to distribute or place things among or between', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Intersperse’ শব্দটির অর্থ—মাঝে মাঝে ছড়িয়ে দেওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Intersperse' as 'to distribute or place things among or between' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Intersperse’ শব্দটি মাঝে মাঝে ছড়িয়ে দেওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Intervene",
+    "pronunciation_bn": "ইন্টারভিন",
+    "pronunciation": "/ˌɪn.təˈviːn/",
+    "no": 502,
+    "group": 21,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to become involved in a situation to help, improve it, or prevent it from getting worse; to occur between events",
+    "meaning_bn": [
+      "হস্তক্ষেপ করা",
+      "মধ্যস্থতা করা",
+      "দুটি ঘটনার মাঝখানে সংঘটিত হওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "intercede",
+        "bn": "মধ্যস্থতা করা"
+      },
+      {
+        "en": "mediate",
+        "bn": "মীমাংসা করা"
+      },
+      {
+        "en": "step in",
+        "bn": "হস্তক্ষেপ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "withdraw",
+        "bn": "সরে দাঁড়ানো"
+      },
+      {
+        "en": "refrain",
+        "bn": "বিরত থাকা"
+      },
+      {
+        "en": "desist",
+        "bn": "বিরত থাকা"
+      },
+      {
+        "en": "Forbear",
+        "bn": "বিরত থাকা"
+      },
+      {
+        "en": "Litigate",
+        "bn": "আদালতে মামলা করা"
+      },
+      {
+        "en": "Aggrieve",
+        "bn": "অন্যায় আচরণে কষ্ট দেওয়া"
+      },
+      {
+        "en": "Alienate",
+        "bn": "বিচ্ছিন্ন করে দেওয়া"
+      }
+    ],
+    "example": "A teacher intervened when the argument became heated.",
+    "example_bn": "বিতর্ক তীব্র হয়ে উঠলে একজন শিক্ষক হস্তক্ষেপ করেছিলেন।",
+    "examples": [
+      "A teacher intervened when the argument became heated. — বিতর্ক তীব্র হয়ে উঠলে একজন শিক্ষক হস্তক্ষেপ করেছিলেন।",
+      "At dinner, she explained that 'Intervene' means 'to become involved in a situation to help', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Intervene’ শব্দটির অর্থ—হস্তক্ষেপ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Intervene' as 'to become involved in a situation to help' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Intervene’ শব্দটি হস্তক্ষেপ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Intimate",
+    "pronunciation_bn": "ইন্টিমেট / ইন্টিমেইট",
+    "pronunciation": "/ˈɪn.tɪ.mət/; /ˈɪn.tɪ.meɪt/",
+    "no": 503,
+    "group": 21,
+    "pos": [
+      "adjective",
+      "verb"
+    ],
+    "meaning_en": "as an adjective, very close or personal; as a verb, to hint or make something known indirectly",
+    "meaning_bn": [
+      "ঘনিষ্ঠ",
+      "ব্যক্তিগত",
+      "ইঙ্গিত করা",
+      "পরোক্ষভাবে জানানো"
+    ],
+    "synonyms": [
+      {
+        "en": "close",
+        "bn": "ঘনিষ্ঠ"
+      },
+      {
+        "en": "personal",
+        "bn": "ব্যক্তিগত"
+      },
+      {
+        "en": "hint",
+        "bn": "ইঙ্গিত করা"
+      },
+      {
+        "en": "imply",
+        "bn": "পরোক্ষভাবে বোঝানো"
+      },
+      {
+        "en": "Insinuate",
+        "bn": "পরোক্ষভাবে ইঙ্গিত করা"
+      },
+      {
+        "en": "presuppose",
+        "bn": "আগে থেকেই ধরে নেওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "distant",
+        "bn": "দূরবর্তী"
+      },
+      {
+        "en": "impersonal",
+        "bn": "ব্যক্তিগত সম্পর্কহীন"
+      },
+      {
+        "en": "state explicitly",
+        "bn": "স্পষ্টভাবে বলা"
+      },
+      {
+        "en": "Inaugurate",
+        "bn": "আনুষ্ঠানিকভাবে উদ্বোধন করা"
+      },
+      {
+        "en": "Aloof",
+        "bn": "নির্লিপ্ত"
+      }
+    ],
+    "example": "She intimated that she might leave the company.",
+    "example_bn": "সে ইঙ্গিত দিয়েছিল যে সে কোম্পানি ছেড়ে যেতে পারে।",
+    "examples": [
+      "She intimated that she might leave the company. — সে ইঙ্গিত দিয়েছিল যে সে কোম্পানি ছেড়ে যেতে পারে।",
+      "At dinner, she explained that 'Intimate' means 'as an adjective, very close or personal', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Intimate’ শব্দটির অর্থ—ঘনিষ্ঠ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Intimate' as 'as an adjective, very close or personal' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Intimate’ শব্দটি ঘনিষ্ঠ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Intricate",
+    "pronunciation_bn": "ইন্ট্রিকেট",
+    "pronunciation": "/ˈɪn.trɪ.kət/",
+    "no": 504,
+    "group": 21,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "having many small parts or details that fit together in a complicated way",
+    "meaning_bn": [
+      "জটিল",
+      "সূক্ষ্ম বিবরণসমৃদ্ধ",
+      "প্যাঁচালো"
+    ],
+    "synonyms": [
+      {
+        "en": "complex",
+        "bn": "জটিল"
+      },
+      {
+        "en": "complicated",
+        "bn": "দুরূহ"
+      },
+      {
+        "en": "elaborate",
+        "bn": "বিস্তারিত ও জটিল"
+      },
+      {
+        "en": "baroque",
+        "bn": "অতিমাত্রায় অলংকৃত"
+      },
+      {
+        "en": "florid",
+        "bn": "লালচে মুখমণ্ডলবিশিষ্ট"
+      },
+      {
+        "en": "thorny",
+        "bn": "কাঁটাযুক্ত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "simple",
+        "bn": "সরল"
+      },
+      {
+        "en": "straightforward",
+        "bn": "সহজবোধ্য"
+      },
+      {
+        "en": "Rustic",
+        "bn": "গ্রামীণ"
+      }
+    ],
+    "example": "The artisan created an intricate pattern on the wooden box.",
+    "example_bn": "কারিগর কাঠের বাক্সে একটি জটিল নকশা তৈরি করেছিলেন।",
+    "examples": [
+      "The artisan created an intricate pattern on the wooden box. — কারিগর কাঠের বাক্সে একটি জটিল নকশা তৈরি করেছিলেন।",
+      "At dinner, she explained that 'Intricate' means 'having many small parts or details that fit', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Intricate’ শব্দটির অর্থ—জটিল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Intricate' as 'having many small parts or details that fit' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Intricate’ শব্দটি জটিল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Intrigue",
+    "pronunciation_bn": "ইনট্রিগ / ইন্ট্রিগ",
+    "pronunciation": "/ɪnˈtriːɡ/; /ˈɪn.triːɡ/",
+    "no": 505,
+    "group": 21,
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "meaning_en": "as a verb, to arouse curiosity or interest; as a noun, a secret plan or plot",
+    "meaning_bn": [
+      "কৌতূহলী করে তোলা",
+      "গভীর আগ্রহ সৃষ্টি করা",
+      "গোপন ষড়যন্ত্র",
+      "চক্রান্ত"
+    ],
+    "synonyms": [
+      {
+        "en": "fascinate",
+        "bn": "মুগ্ধ করা"
+      },
+      {
+        "en": "captivate",
+        "bn": "আকর্ষণ করা"
+      },
+      {
+        "en": "plot",
+        "bn": "চক্রান্ত করা"
+      },
+      {
+        "en": "Machination",
+        "bn": "ষড়যন্ত্র"
+      },
+      {
+        "en": "rivet",
+        "bn": "মনোযোগ সম্পূর্ণভাবে ধরে রাখা"
+      },
+      {
+        "en": "endear",
+        "bn": "প্রিয় করে তোলা"
+      },
+      {
+        "en": "Gambit",
+        "bn": "সুবিধা আদায়ের কৌশল"
+      },
+      {
+        "en": "Ingratiate",
+        "bn": "মন জয় করার চেষ্টা করা"
+      },
+      {
+        "en": "transfix",
+        "bn": "বিস্ময় বা ভয়ে স্থির করে দেওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "bore",
+        "bn": "বিরক্ত করা"
+      },
+      {
+        "en": "repel",
+        "bn": "বিমুখ করা"
+      },
+      {
+        "en": "Candor",
+        "bn": "আন্তরিক সততা"
+      }
+    ],
+    "example": "The mystery surrounding the old house intrigued the children.",
+    "example_bn": "পুরোনো বাড়িটিকে ঘিরে থাকা রহস্য শিশুদের কৌতূহলী করে তুলেছিল।",
+    "examples": [
+      "The mystery surrounding the old house intrigued the children. — পুরোনো বাড়িটিকে ঘিরে থাকা রহস্য শিশুদের কৌতূহলী করে তুলেছিল।",
+      "At dinner, she explained that 'Intrigue' means 'as a verb, to arouse curiosity or interest', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Intrigue’ শব্দটির অর্থ—কৌতূহলী করে তোলা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Intrigue' as 'as a verb, to arouse curiosity or interest' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Intrigue’ শব্দটি কৌতূহলী করে তোলা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Invidious",
+    "pronunciation_bn": "ইনভিডিয়াস",
+    "pronunciation": "/ɪnˈvɪd.i.əs/",
+    "no": 506,
+    "group": 21,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "likely to cause resentment or anger because it is unfair or discriminatory",
+    "meaning_bn": [
+      "ক্ষোভ সৃষ্টিকারী",
+      "অন্যায্য",
+      "বৈষম্যমূলক"
+    ],
+    "synonyms": [
+      {
+        "en": "unfair",
+        "bn": "অন্যায্য"
+      },
+      {
+        "en": "discriminatory",
+        "bn": "বৈষম্যমূলক"
+      },
+      {
+        "en": "resentment-provoking",
+        "bn": "ক্ষোভ সৃষ্টিকারী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "fair",
+        "bn": "ন্যায্য"
+      },
+      {
+        "en": "impartial",
+        "bn": "নিরপেক্ষ"
+      },
+      {
+        "en": "Equitable",
+        "bn": "ন্যায়সংগত"
+      },
+      {
+        "en": "Egalitarian",
+        "bn": "সাম্যবাদী"
+      },
+      {
+        "en": "Disinterested",
+        "bn": "নিরপেক্ষ"
+      },
+      {
+        "en": "dispassionate",
+        "bn": "আবেগমুক্ত"
+      },
+      {
+        "en": "Indifferent",
+        "bn": "উদাসীন"
+      }
+    ],
+    "example": "The manager avoided making invidious comparisons between colleagues.",
+    "example_bn": "ম্যানেজার সহকর্মীদের মধ্যে ক্ষোভ সৃষ্টিকারী তুলনা করা এড়িয়ে গেলেন।",
+    "examples": [
+      "The manager avoided making invidious comparisons between colleagues. — ম্যানেজার সহকর্মীদের মধ্যে ক্ষোভ সৃষ্টিকারী তুলনা করা এড়িয়ে গেলেন।",
+      "At dinner, she explained that 'Invidious' means 'likely to cause resentment or anger because it', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Invidious’ শব্দটির অর্থ—ক্ষোভ সৃষ্টিকারী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Invidious' as 'likely to cause resentment or anger because it' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Invidious’ শব্দটি ক্ষোভ সৃষ্টিকারী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Inviolate",
+    "pronunciation_bn": "ইনভাইওলেট",
+    "pronunciation": "/ɪnˈvaɪ.ə.lət/",
+    "no": 507,
+    "group": 21,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "not harmed, violated, or treated with disrespect; kept sacred or intact",
+    "meaning_bn": [
+      "অক্ষত",
+      "অলঙ্ঘিত",
+      "পবিত্র ও অক্ষুণ্ণ"
+    ],
+    "synonyms": [
+      {
+        "en": "untouched",
+        "bn": "অস্পর্শিত"
+      },
+      {
+        "en": "unviolated",
+        "bn": "অলঙ্ঘিত"
+      },
+      {
+        "en": "sacrosanct",
+        "bn": "অতি পবিত্র"
+      },
+      {
+        "en": "pristine",
+        "bn": "আদি অবস্থায় অক্ষত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "violated",
+        "bn": "লঙ্ঘিত"
+      },
+      {
+        "en": "damaged",
+        "bn": "ক্ষতিগ্রস্ত"
+      },
+      {
+        "en": "Profane",
+        "bn": "ধর্মীয় বা পবিত্র বিষয়ের সঙ্গে সম্পর্কহীন"
+      },
+      {
+        "en": "Secular",
+        "bn": "ধর্মনিরপেক্ষ"
+      }
+    ],
+    "example": "The sanctuary was regarded as inviolate.",
+    "example_bn": "উপাসনালয়টিকে অলঙ্ঘনীয় পবিত্র স্থান হিসেবে গণ্য করা হতো।",
+    "examples": [
+      "The sanctuary was regarded as inviolate. — উপাসনালয়টিকে অলঙ্ঘনীয় পবিত্র স্থান হিসেবে গণ্য করা হতো।",
+      "At dinner, she explained that 'Inviolate' means 'not harmed, violated, or treated with disrespect', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Inviolate’ শব্দটির অর্থ—অক্ষত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Inviolate' as 'not harmed, violated, or treated with disrespect' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Inviolate’ শব্দটি অক্ষত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Invoke",
+    "pronunciation_bn": "ইনভোক",
+    "pronunciation": "/ɪnˈvəʊk/",
+    "no": 508,
+    "group": 21,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to mention or use a law, right, authority, or principle; to call on for help",
+    "meaning_bn": [
+      "উল্লেখ করে প্রয়োগ করা",
+      "আহ্বান করা",
+      "সাহায্য প্রার্থনা করা"
+    ],
+    "synonyms": [
+      {
+        "en": "cite",
+        "bn": "উদ্ধৃত করা"
+      },
+      {
+        "en": "appeal to",
+        "bn": "আশ্রয় নেওয়া"
+      },
+      {
+        "en": "call upon",
+        "bn": "আহ্বান করা"
+      },
+      {
+        "en": "Adduce",
+        "bn": "সমর্থনে প্রমাণ উপস্থাপন করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "waive",
+        "bn": "অধিকার ত্যাগ করা"
+      },
+      {
+        "en": "ignore",
+        "bn": "উপেক্ষা করা"
+      },
+      {
+        "en": "Forgo",
+        "bn": "ত্যাগ করা"
+      },
+      {
+        "en": "Relinquish",
+        "bn": "ত্যাগ করা"
+      }
+    ],
+    "example": "She invoked her right to remain silent.",
+    "example_bn": "তিনি নীরব থাকার অধিকার প্রয়োগ করেছিলেন।",
+    "examples": [
+      "She invoked her right to remain silent. — তিনি নীরব থাকার অধিকার প্রয়োগ করেছিলেন।",
+      "At dinner, she explained that 'Invoke' means 'to mention or use a law, right, authority', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Invoke’ শব্দটির অর্থ—উল্লেখ করে প্রয়োগ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Invoke' as 'to mention or use a law, right, authority' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Invoke’ শব্দটি উল্লেখ করে প্রয়োগ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Iridescent",
+    "pronunciation_bn": "ইরিডেসেন্ট",
+    "pronunciation": "/ˌɪr.ɪˈdes.ənt/",
+    "no": 509,
+    "group": 21,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "showing changing colours as the angle of light changes",
+    "meaning_bn": [
+      "আলোকের কোণ বদলালে রং বদলায় এমন",
+      "বর্ণচ্ছটাময়"
+    ],
+    "synonyms": [
+      {
+        "en": "shimmering",
+        "bn": "ঝলমলে"
+      },
+      {
+        "en": "opalescent",
+        "bn": "ওপালের মতো বর্ণচ্ছটাময়"
+      },
+      {
+        "en": "lustrous",
+        "bn": "দীপ্তিময়"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "dull",
+        "bn": "নিস্তেজ"
+      },
+      {
+        "en": "matte",
+        "bn": "অনুজ্জ্বল"
+      },
+      {
+        "en": "Bovine",
+        "bn": "গবাদি পশু বা গরুসংক্রান্ত"
+      },
+      {
+        "en": "bland",
+        "bn": "মৃদু"
+      },
+      {
+        "en": "Insipid",
+        "bn": "বিস্বাদ"
+      },
+      {
+        "en": "Obtuse",
+        "bn": "বুদ্ধিতে ধীর"
+      },
+      {
+        "en": "Prosaic",
+        "bn": "সাদামাটা"
+      }
+    ],
+    "example": "The beetle's iridescent shell shimmered in the sunlight.",
+    "example_bn": "সূর্যের আলোয় গুবরে পোকার বর্ণচ্ছটাময় খোলস ঝলমল করছিল।",
+    "examples": [
+      "The beetle's iridescent shell shimmered in the sunlight. — সূর্যের আলোয় গুবরে পোকার বর্ণচ্ছটাময় খোলস ঝলমল করছিল।",
+      "At dinner, she explained that 'Iridescent' means 'showing changing colours as the angle of light', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Iridescent’ শব্দটির অর্থ—আলোকের কোণ বদলালে রং বদলায় এমন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Iridescent' as 'showing changing colours as the angle of light' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Iridescent’ শব্দটি আলোকের কোণ বদলালে রং বদলায় এমন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Jaunt",
+    "pronunciation_bn": "জন্ট",
+    "pronunciation": "/dʒɔːnt/",
+    "no": 510,
+    "group": 21,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "a short journey taken for pleasure; to go on such a journey",
+    "meaning_bn": [
+      "আনন্দভ্রমণ",
+      "স্বল্পকালীন বেড়ানো"
+    ],
+    "synonyms": [
+      {
+        "en": "outing",
+        "bn": "বেড়ানো"
+      },
+      {
+        "en": "excursion",
+        "bn": "ছোট ভ্রমণ"
+      },
+      {
+        "en": "trip",
+        "bn": "সফর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "long stay",
+        "bn": "দীর্ঘ অবস্থান"
+      },
+      {
+        "en": "commute",
+        "bn": "নিয়মিত যাতায়াত"
+      }
+    ],
+    "example": "We took a weekend jaunt to the coast.",
+    "example_bn": "আমরা সপ্তাহান্তে সমুদ্রতীরে একটি ছোট আনন্দভ্রমণে গিয়েছিলাম।",
+    "examples": [
+      "We took a weekend jaunt to the coast. — আমরা সপ্তাহান্তে সমুদ্রতীরে একটি ছোট আনন্দভ্রমণে গিয়েছিলাম।",
+      "At dinner, she explained that 'Jaunt' means 'a short journey taken for pleasure', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Jaunt’ শব্দটির অর্থ—আনন্দভ্রমণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Jaunt' as 'a short journey taken for pleasure' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Jaunt’ শব্দটি আনন্দভ্রমণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Jingoism",
+    "pronunciation_bn": "জিঙ্গোইজম",
+    "pronunciation": "/ˈdʒɪŋ.ɡəʊ.ɪ.zəm/",
+    "no": 511,
+    "group": 21,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "extreme and aggressive patriotism, especially when it supports war",
+    "meaning_bn": [
+      "আগ্রাসী উগ্র জাতীয়তাবাদ",
+      "যুদ্ধবাদী দেশপ্রেম"
+    ],
+    "synonyms": [
+      {
+        "en": "chauvinism",
+        "bn": "উগ্র জাতীয়তাবাদ"
+      },
+      {
+        "en": "militant nationalism",
+        "bn": "আগ্রাসী জাতীয়তাবাদ"
+      },
+      {
+        "en": "belligerent patriotism",
+        "bn": "যুদ্ধংদেহী দেশপ্রেম"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "internationalism",
+        "bn": "আন্তর্জাতিকতাবাদ"
+      },
+      {
+        "en": "pacifism",
+        "bn": "শান্তিবাদ"
+      }
+    ],
+    "example": "The editorial warned that jingoism could fuel conflict.",
+    "example_bn": "সম্পাদকীয়তে সতর্ক করা হয়েছিল যে উগ্র জাতীয়তাবাদ সংঘাত বাড়াতে পারে।",
+    "examples": [
+      "The editorial warned that jingoism could fuel conflict. — সম্পাদকীয়তে সতর্ক করা হয়েছিল যে উগ্র জাতীয়তাবাদ সংঘাত বাড়াতে পারে।",
+      "At dinner, she explained that 'Jingoism' means 'extreme and aggressive patriotism, especially when it supports', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Jingoism’ শব্দটির অর্থ—আগ্রাসী উগ্র জাতীয়তাবাদ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Jingoism' as 'extreme and aggressive patriotism, especially when it supports' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Jingoism’ শব্দটি আগ্রাসী উগ্র জাতীয়তাবাদ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Jocular",
+    "pronunciation_bn": "জকিউলার",
+    "pronunciation": "/ˈdʒɒk.jə.lə(r)/",
+    "no": 512,
+    "group": 21,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "humorous or fond of joking",
+    "meaning_bn": [
+      "রসিক",
+      "হাস্যরসাত্মক",
+      "কৌতুকপ্রিয়"
+    ],
+    "synonyms": [
+      {
+        "en": "humorous",
+        "bn": "রসাত্মক"
+      },
+      {
+        "en": "playful",
+        "bn": "কৌতুকপূর্ণ"
+      },
+      {
+        "en": "witty",
+        "bn": "বুদ্ধিদীপ্ত রসিকতাপূর্ণ"
+      },
+      {
+        "en": "Facetious",
+        "bn": "গুরুতর বিষয় নিয়ে অনুপযুক্ত রসিকতাপূর্ণ"
+      },
+      {
+        "en": "droll",
+        "bn": "অদ্ভুতভাবে মজার"
+      },
+      {
+        "en": "flippant",
+        "bn": "তুচ্ছতাচ্ছিল্যপূর্ণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "serious",
+        "bn": "গম্ভীর"
+      },
+      {
+        "en": "solemn",
+        "bn": "গুরুগম্ভীর"
+      },
+      {
+        "en": "Grievous",
+        "bn": "গুরুতর"
+      }
+    ],
+    "example": "His jocular remarks eased the tension in the room.",
+    "example_bn": "তার রসিক মন্তব্য ঘরের উত্তেজনা কমিয়ে দিয়েছিল।",
+    "examples": [
+      "His jocular remarks eased the tension in the room. — তার রসিক মন্তব্য ঘরের উত্তেজনা কমিয়ে দিয়েছিল।",
+      "At dinner, she explained that 'Jocular' means 'humorous or fond of joking', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Jocular’ শব্দটির অর্থ—রসিক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Jocular' as 'humorous or fond of joking' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Jocular’ শব্দটি রসিক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Jubilation",
+    "pronunciation_bn": "জুবিলেইশন",
+    "pronunciation": "/ˌdʒuː.bɪˈleɪ.ʃən/",
+    "no": 513,
+    "group": 21,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a feeling or expression of great happiness, especially after success",
+    "meaning_bn": [
+      "উল্লাস",
+      "বিজয়োল্লাস",
+      "প্রবল আনন্দ"
+    ],
+    "synonyms": [
+      {
+        "en": "elation",
+        "bn": "উচ্ছ্বাস"
+      },
+      {
+        "en": "exultation",
+        "bn": "বিজয়ানন্দ"
+      },
+      {
+        "en": "rejoicing",
+        "bn": "আনন্দোৎসব"
+      },
+      {
+        "en": "bliss",
+        "bn": "পরম সুখ"
+      },
+      {
+        "en": "Felicity",
+        "bn": "পরম সুখ"
+      },
+      {
+        "en": "rapture",
+        "bn": "পরম আনন্দ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "despair",
+        "bn": "হতাশা"
+      },
+      {
+        "en": "dejection",
+        "bn": "মনমরা ভাব"
+      },
+      {
+        "en": "dirge",
+        "bn": "শোকগীতি"
+      },
+      {
+        "en": "elegy",
+        "bn": "শোকগাথা"
+      },
+      {
+        "en": "Lament",
+        "bn": "শোক প্রকাশ করা"
+      }
+    ],
+    "example": "The final whistle was followed by jubilation among the fans.",
+    "example_bn": "শেষ বাঁশির পর সমর্থকদের মধ্যে উল্লাস ছড়িয়ে পড়েছিল।",
+    "examples": [
+      "The final whistle was followed by jubilation among the fans. — শেষ বাঁশির পর সমর্থকদের মধ্যে উল্লাস ছড়িয়ে পড়েছিল।",
+      "At dinner, she explained that 'Jubilation' means 'a feeling or expression of great happiness, especially', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Jubilation’ শব্দটির অর্থ—উল্লাস—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Jubilation' as 'a feeling or expression of great happiness, especially' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Jubilation’ শব্দটি উল্লাস অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Junction",
+    "pronunciation_bn": "জাংশন",
+    "pronunciation": "/ˈdʒʌŋk.ʃən/",
+    "no": 514,
+    "group": 21,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a place where roads, lines, or things meet or join",
+    "meaning_bn": [
+      "সংযোগস্থল",
+      "মোড়",
+      "মিলনবিন্দু"
+    ],
+    "synonyms": [
+      {
+        "en": "intersection",
+        "bn": "ছেদবিন্দু"
+      },
+      {
+        "en": "crossroads",
+        "bn": "চৌরাস্তা"
+      },
+      {
+        "en": "connection",
+        "bn": "সংযোগ"
+      },
+      {
+        "en": "Confluence",
+        "bn": "দুই বা ততোধিক নদীর মিলনস্থল"
+      },
+      {
+        "en": "correlation",
+        "bn": "পারস্পরিক সম্পর্ক"
+      },
+      {
+        "en": "Liaison",
+        "bn": "যোগাযোগ ও সমন্বয়"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "separation",
+        "bn": "বিচ্ছেদ"
+      },
+      {
+        "en": "division",
+        "bn": "বিভাজন"
+      },
+      {
+        "en": "partition",
+        "bn": "বিভাজন"
+      },
+      {
+        "en": "dichotomy",
+        "bn": "দ্বিবিভাজন"
+      },
+      {
+        "en": "schism",
+        "bn": "বিভক্তি"
+      }
+    ],
+    "example": "Turn left at the next junction.",
+    "example_bn": "পরের মোড়ে বাম দিকে ঘুরুন।",
+    "examples": [
+      "Turn left at the next junction. — পরের মোড়ে বাম দিকে ঘুরুন।",
+      "At dinner, she explained that 'Junction' means 'a place where roads, lines, or things meet', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Junction’ শব্দটির অর্থ—সংযোগস্থল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Junction' as 'a place where roads, lines, or things meet' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Junction’ শব্দটি সংযোগস্থল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Junta",
+    "pronunciation_bn": "হুন্টা",
+    "pronunciation": "/ˈdʒʊn.tə/",
+    "no": 515,
+    "group": 21,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a military or political group that takes control of a country, usually by force",
+    "meaning_bn": [
+      "সামরিক জান্তা",
+      "বলপ্রয়োগে ক্ষমতা দখলকারী গোষ্ঠী"
+    ],
+    "synonyms": [
+      {
+        "en": "military regime",
+        "bn": "সামরিক শাসনব্যবস্থা"
+      },
+      {
+        "en": "ruling council",
+        "bn": "শাসক পরিষদ"
+      },
+      {
+        "en": "military government",
+        "bn": "সামরিক সরকার"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "democratically elected government",
+        "bn": "গণতান্ত্রিকভাবে নির্বাচিত সরকার"
+      }
+    ],
+    "example": "The junta imposed a curfew after taking power.",
+    "example_bn": "ক্ষমতা দখলের পর জান্তা কারফিউ জারি করেছিল।",
+    "examples": [
+      "The junta imposed a curfew after taking power. — ক্ষমতা দখলের পর জান্তা কারফিউ জারি করেছিল।",
+      "At dinner, she explained that 'Junta' means 'a military or political group that takes control', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Junta’ শব্দটির অর্থ—সামরিক জান্তা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Junta' as 'a military or political group that takes control' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Junta’ শব্দটি সামরিক জান্তা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Larceny",
+    "pronunciation_bn": "লার্সেনি",
+    "pronunciation": "/ˈlɑː.sən.i/",
+    "no": 516,
+    "group": 21,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the crime of stealing another person's property",
+    "meaning_bn": [
+      "চুরি",
+      "অন্যের সম্পত্তি চুরির অপরাধ"
+    ],
+    "synonyms": [
+      {
+        "en": "theft",
+        "bn": "চুরি"
+      },
+      {
+        "en": "stealing",
+        "bn": "চুরি করা"
+      },
+      {
+        "en": "larceny offence",
+        "bn": "চুরির অপরাধ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "restitution",
+        "bn": "ক্ষতিপূরণ"
+      },
+      {
+        "en": "return of property",
+        "bn": "সম্পত্তি ফেরত"
+      }
+    ],
+    "example": "He was charged with larceny after the store reported missing goods.",
+    "example_bn": "দোকান থেকে পণ্য হারানোর খবর দেওয়ার পর তার বিরুদ্ধে চুরির অভিযোগ আনা হয়েছিল।",
+    "examples": [
+      "He was charged with larceny after the store reported missing goods. — দোকান থেকে পণ্য হারানোর খবর দেওয়ার পর তার বিরুদ্ধে চুরির অভিযোগ আনা হয়েছিল।",
+      "At dinner, she explained that 'Larceny' means 'the crime of stealing another person's property', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Larceny’ শব্দটির অর্থ—চুরি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Larceny' as 'the crime of stealing another person's property' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Larceny’ শব্দটি চুরি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Lascivious",
+    "pronunciation_bn": "ল্যাসিভিয়াস",
+    "pronunciation": "/ləˈsɪv.i.əs/",
+    "no": 517,
+    "group": 21,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "showing or expressing strong sexual desire in an offensive way",
+    "meaning_bn": [
+      "কামুক",
+      "লালসাপূর্ণ",
+      "অশ্লীল"
+    ],
+    "synonyms": [
+      {
+        "en": "lewd",
+        "bn": "অশ্লীল"
+      },
+      {
+        "en": "lustful",
+        "bn": "কামনাপূর্ণ"
+      },
+      {
+        "en": "salacious",
+        "bn": "যৌন উত্তেজক"
+      },
+      {
+        "en": "prurient",
+        "bn": "কামুক কৌতূহলপূর্ণ"
+      },
+      {
+        "en": "Licentious",
+        "bn": "নীতিবিবর্জিত"
+      },
+      {
+        "en": "ribald",
+        "bn": "অশ্লীল অথচ রসিকতাপূর্ণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "chaste",
+        "bn": "সংযমী"
+      },
+      {
+        "en": "modest",
+        "bn": "শালীন"
+      },
+      {
+        "en": "demure",
+        "bn": "লাজুক ও সংযত"
+      }
+    ],
+    "example": "The court found the remarks lascivious and inappropriate.",
+    "example_bn": "আদালত মন্তব্যগুলোকে কামুক ও অনুপযুক্ত বলে বিবেচনা করেছিল।",
+    "examples": [
+      "The court found the remarks lascivious and inappropriate. — আদালত মন্তব্যগুলোকে কামুক ও অনুপযুক্ত বলে বিবেচনা করেছিল।",
+      "At dinner, she explained that 'Lascivious' means 'showing or expressing strong sexual desire', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Lascivious’ শব্দটির অর্থ—কামুক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Lascivious' as 'showing or expressing strong sexual desire' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Lascivious’ শব্দটি কামুক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Lavish",
+    "pronunciation_bn": "ল্যাভিশ",
+    "pronunciation": "/ˈlæv.ɪʃ/",
+    "no": 518,
+    "group": 21,
+    "pos": [
+      "adjective",
+      "verb"
+    ],
+    "meaning_en": "very generous or elaborate; to give or spend something generously",
+    "meaning_bn": [
+      "প্রচুর",
+      "জাঁকজমকপূর্ণ",
+      "উদারভাবে ব্যয় করা",
+      "ঢেলে দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "extravagant",
+        "bn": "অমিতব্যয়ী"
+      },
+      {
+        "en": "abundant",
+        "bn": "প্রচুর"
+      },
+      {
+        "en": "bestow generously",
+        "bn": "উদারভাবে দান করা"
+      },
+      {
+        "en": "sumptuous",
+        "bn": "বিলাসবহুল"
+      },
+      {
+        "en": "Opulent",
+        "bn": "বিলাসবহুল"
+      },
+      {
+        "en": "Munificent",
+        "bn": "বিশেষত অর্থ বা উপহার দেওয়ার ক্ষেত্রে অত্যন্ত উদার"
+      },
+      {
+        "en": "Profuse",
+        "bn": "প্রচুর"
+      },
+      {
+        "en": "copious",
+        "bn": "প্রচুর"
+      },
+      {
+        "en": "Magnanimous",
+        "bn": "মহানুভব"
+      },
+      {
+        "en": "Prodigal",
+        "bn": "অপচয়ী"
+      },
+      {
+        "en": "Profligate",
+        "bn": "অপচয়ী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "sparing",
+        "bn": "মিতব্যয়ী"
+      },
+      {
+        "en": "meagre",
+        "bn": "অপর্যাপ্ত"
+      },
+      {
+        "en": "withhold",
+        "bn": "আটকে রাখা"
+      },
+      {
+        "en": "Austere",
+        "bn": "সাদাসিধে ও অনাড়ম্বর"
+      },
+      {
+        "en": "Parsimonious",
+        "bn": "অত্যন্ত কৃপণ"
+      },
+      {
+        "en": "stint",
+        "bn": "নির্দিষ্ট কাজের সময়কাল"
+      },
+      {
+        "en": "Frugal",
+        "bn": "মিতব্যয়ী"
+      },
+      {
+        "en": "Ascetic",
+        "bn": "কৃচ্ছ্রসাধনকারী"
+      },
+      {
+        "en": "Paltry",
+        "bn": "নগণ্য"
+      },
+      {
+        "en": "scant",
+        "bn": "অপ্রতুল"
+      },
+      {
+        "en": "Vindictive",
+        "bn": "প্রতিশোধপরায়ণ"
+      },
+      {
+        "en": "Acquisitive",
+        "bn": "অর্জন করতে আগ্রহী"
+      }
+    ],
+    "example": "They lavished praise on the volunteers.",
+    "example_bn": "তারা স্বেচ্ছাসেবকদের ভূয়সী প্রশংসা করেছিল।",
+    "examples": [
+      "They lavished praise on the volunteers. — তারা স্বেচ্ছাসেবকদের ভূয়সী প্রশংসা করেছিল।",
+      "At dinner, she explained that 'Lavish' means 'very generous or elaborate', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Lavish’ শব্দটির অর্থ—প্রচুর—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Lavish' as 'very generous or elaborate' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Lavish’ শব্দটি প্রচুর অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Lax",
+    "pronunciation_bn": "ল্যাক্স",
+    "pronunciation": "/læks/",
+    "no": 519,
+    "group": 21,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "not strict, careful, or sufficiently controlled",
+    "meaning_bn": [
+      "শিথিল",
+      "অবহেলাপূর্ণ",
+      "কড়াকড়ির অভাব রয়েছে এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "careless",
+        "bn": "অসতর্ক"
+      },
+      {
+        "en": "negligent",
+        "bn": "অবহেলাকারী"
+      },
+      {
+        "en": "lenient",
+        "bn": "শিথিল"
+      },
+      {
+        "en": "delinquent",
+        "bn": "দায়িত্ব পালনে অবহেলাকারী"
+      },
+      {
+        "en": "Indulgent",
+        "bn": "প্রশ্রয়দাতা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "strict",
+        "bn": "কঠোর"
+      },
+      {
+        "en": "rigorous",
+        "bn": "কঠোর ও নিয়মনিষ্ঠ"
+      },
+      {
+        "en": "Stringent",
+        "bn": "কঠোর"
+      },
+      {
+        "en": "Exacting",
+        "bn": "অত্যন্ত পরিশ্রমসাপেক্ষ"
+      },
+      {
+        "en": "draconian",
+        "bn": "অত্যন্ত কঠোর"
+      },
+      {
+        "en": "Painstaking",
+        "bn": "অত্যন্ত যত্নসহকারে করা"
+      },
+      {
+        "en": "Assiduous",
+        "bn": "অধ্যবসায়ী"
+      },
+      {
+        "en": "Circumspect",
+        "bn": "সতর্ক"
+      }
+    ],
+    "example": "Lax security allowed the documents to be stolen.",
+    "example_bn": "নিরাপত্তার শিথিলতার কারণে নথিগুলো চুরি হয়েছিল।",
+    "examples": [
+      "Lax security allowed the documents to be stolen. — নিরাপত্তার শিথিলতার কারণে নথিগুলো চুরি হয়েছিল।",
+      "At dinner, she explained that 'Lax' means 'not strict, careful, or sufficiently controlled', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Lax’ শব্দটির অর্থ—শিথিল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Lax' as 'not strict, careful, or sufficiently controlled' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Lax’ শব্দটি শিথিল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Layman",
+    "pronunciation_bn": "লেইম্যান",
+    "pronunciation": "/ˈleɪ.mən/",
+    "no": 520,
+    "group": 21,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a person without specialist knowledge of a subject; also, a person who is not clergy",
+    "meaning_bn": [
+      "অবিশেষজ্ঞ ব্যক্তি",
+      "সাধারণ মানুষ",
+      "ধর্মযাজক নন এমন ব্যক্তি"
+    ],
+    "synonyms": [
+      {
+        "en": "non-specialist",
+        "bn": "অবিশেষজ্ঞ"
+      },
+      {
+        "en": "amateur",
+        "bn": "অপেশাদার"
+      },
+      {
+        "en": "ordinary person",
+        "bn": "সাধারণ ব্যক্তি"
+      },
+      {
+        "en": "Dilettante",
+        "bn": "শখের শিল্পরসিক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "expert",
+        "bn": "বিশেষজ্ঞ"
+      },
+      {
+        "en": "specialist",
+        "bn": "বিশেষজ্ঞ ব্যক্তি"
+      },
+      {
+        "en": "Virtuoso",
+        "bn": "অসাধারণ দক্ষ ব্যক্তি"
+      },
+      {
+        "en": "Artisan",
+        "bn": "কারুশিল্পী"
+      },
+      {
+        "en": "Connoisseur",
+        "bn": "রসজ্ঞ"
+      },
+      {
+        "en": "Prodigy",
+        "bn": "অসাধারণ প্রতিভাধর ব্যক্তি, বিশেষত অল্পবয়সে"
+      },
+      {
+        "en": "pundit",
+        "bn": "বিশেষজ্ঞ"
+      }
+    ],
+    "example": "The guide explains the process in language a layman can understand.",
+    "example_bn": "নির্দেশিকাটি এমন ভাষায় প্রক্রিয়াটি ব্যাখ্যা করে, যা একজন সাধারণ মানুষ বুঝতে পারেন।",
+    "examples": [
+      "The guide explains the process in language a layman can understand. — নির্দেশিকাটি এমন ভাষায় প্রক্রিয়াটি ব্যাখ্যা করে, যা একজন সাধারণ মানুষ বুঝতে পারেন।",
+      "At dinner, she explained that 'Layman' means 'a person without specialist knowledge of a subject', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Layman’ শব্দটির অর্থ—অবিশেষজ্ঞ ব্যক্তি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Layman' as 'a person without specialist knowledge of a subject' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Layman’ শব্দটি অবিশেষজ্ঞ ব্যক্তি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Liaison",
+    "pronunciation_bn": "লিয়েইজন",
+    "pronunciation": "/liˈeɪ.zɒn/",
+    "no": 521,
+    "group": 21,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "communication or cooperation between groups; a person who maintains such contact",
+    "meaning_bn": [
+      "যোগাযোগ ও সমন্বয়",
+      "সংযোগরক্ষাকারী ব্যক্তি",
+      "মেলবন্ধন"
+    ],
+    "synonyms": [
+      {
+        "en": "connection",
+        "bn": "সংযোগ"
+      },
+      {
+        "en": "coordination",
+        "bn": "সমন্বয়"
+      },
+      {
+        "en": "link",
+        "bn": "যোগসূত্র"
+      },
+      {
+        "en": "correlation",
+        "bn": "পারস্পরিক সম্পর্ক"
+      },
+      {
+        "en": "Junction",
+        "bn": "সংযোগস্থল"
+      },
+      {
+        "en": "concert",
+        "bn": "সম্মিলিত উদ্যোগ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "separation",
+        "bn": "বিচ্ছিন্নতা"
+      },
+      {
+        "en": "disconnection",
+        "bn": "সংযোগহীনতা"
+      },
+      {
+        "en": "partition",
+        "bn": "বিভাজন"
+      }
+    ],
+    "example": "She acted as a liaison between the school and the parents.",
+    "example_bn": "তিনি স্কুল ও অভিভাবকদের মধ্যে যোগাযোগের সমন্বয়কারী হিসেবে কাজ করেছিলেন।",
+    "examples": [
+      "She acted as a liaison between the school and the parents. — তিনি স্কুল ও অভিভাবকদের মধ্যে যোগাযোগের সমন্বয়কারী হিসেবে কাজ করেছিলেন।",
+      "At dinner, she explained that 'Liaison' means 'communication or cooperation between groups', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Liaison’ শব্দটির অর্থ—যোগাযোগ ও সমন্বয়—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Liaison' as 'communication or cooperation between groups' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Liaison’ শব্দটি যোগাযোগ ও সমন্বয় অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Licentious",
+    "pronunciation_bn": "লাইসেনশাস",
+    "pronunciation": "/laɪˈsen.ʃəs/",
+    "no": 522,
+    "group": 21,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "showing disregard for accepted moral rules, especially in sexual behaviour",
+    "meaning_bn": [
+      "নীতিবিবর্জিত",
+      "লাম্পট্যপূর্ণ",
+      "যৌনাচারে সংযমহীন"
+    ],
+    "synonyms": [
+      {
+        "en": "promiscuous",
+        "bn": "যৌনাচারে অবাধ"
+      },
+      {
+        "en": "lewd",
+        "bn": "অশ্লীল"
+      },
+      {
+        "en": "dissolute",
+        "bn": "চরিত্রহীন"
+      },
+      {
+        "en": "Decadent",
+        "bn": "নৈতিকভাবে অধঃপতিত"
+      },
+      {
+        "en": "Lascivious",
+        "bn": "কামুক"
+      },
+      {
+        "en": "prurient",
+        "bn": "কামুক কৌতূহলপূর্ণ"
+      },
+      {
+        "en": "ribald",
+        "bn": "অশ্লীল অথচ রসিকতাপূর্ণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "chaste",
+        "bn": "সংযমী"
+      },
+      {
+        "en": "virtuous",
+        "bn": "নীতিবান"
+      },
+      {
+        "en": "restrained",
+        "bn": "সংযত"
+      },
+      {
+        "en": "Abstinent",
+        "bn": "বিরত থাকা"
+      },
+      {
+        "en": "Temperate",
+        "bn": "সংযমী"
+      }
+    ],
+    "example": "The novel depicts a licentious aristocrat whose behaviour scandalizes the town.",
+    "example_bn": "উপন্যাসটিতে এমন এক নীতিবিবর্জিত অভিজাতের চিত্র তুলে ধরা হয়েছে, যার আচরণ শহরকে কলঙ্কিত করে।",
+    "examples": [
+      "The novel depicts a licentious aristocrat whose behaviour scandalizes the town. — উপন্যাসটিতে এমন এক নীতিবিবর্জিত অভিজাতের চিত্র তুলে ধরা হয়েছে, যার আচরণ শহরকে কলঙ্কিত করে।",
+      "At dinner, she explained that 'Licentious' means 'showing disregard for accepted moral rules, especially', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Licentious’ শব্দটির অর্থ—নীতিবিবর্জিত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Licentious' as 'showing disregard for accepted moral rules, especially' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Licentious’ শব্দটি নীতিবিবর্জিত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Limpid",
+    "pronunciation_bn": "লিম্পিড",
+    "pronunciation": "/ˈlɪm.pɪd/",
+    "no": 523,
+    "group": 21,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "clear and transparent; easy to understand or expressed clearly",
+    "meaning_bn": [
+      "স্বচ্ছ",
+      "নির্মল",
+      "সুস্পষ্ট ও সহজবোধ্য"
+    ],
+    "synonyms": [
+      {
+        "en": "clear",
+        "bn": "স্বচ্ছ; স্পষ্ট"
+      },
+      {
+        "en": "transparent",
+        "bn": "স্বচ্ছ"
+      },
+      {
+        "en": "lucid",
+        "bn": "সহজবোধ্য"
+      },
+      {
+        "en": "Coherent",
+        "bn": "সুসংগত"
+      },
+      {
+        "en": "compatible",
+        "bn": "সামঞ্জস্যপূর্ণ"
+      },
+      {
+        "en": "Uniform",
+        "bn": "একরূপ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "cloudy",
+        "bn": "ঘোলাটে"
+      },
+      {
+        "en": "opaque",
+        "bn": "অস্বচ্ছ"
+      },
+      {
+        "en": "obscure",
+        "bn": "অস্পষ্ট"
+      },
+      {
+        "en": "Abstruse",
+        "bn": "দুর্বোধ্য"
+      },
+      {
+        "en": "Arcane",
+        "bn": "অল্প কয়েকজনের জানা"
+      },
+      {
+        "en": "Cryptic",
+        "bn": "রহস্যময়"
+      },
+      {
+        "en": "Esoteric",
+        "bn": "দুর্বোধ্য"
+      },
+      {
+        "en": "turbid",
+        "bn": "ঘোলা"
+      }
+    ],
+    "example": "The stream flowed over limpid pools of water.",
+    "example_bn": "স্বচ্ছ জলভরা ছোট ছোট জলাধারের ওপর দিয়ে ঝরনাটি বয়ে চলেছিল।",
+    "examples": [
+      "The stream flowed over limpid pools of water. — স্বচ্ছ জলভরা ছোট ছোট জলাধারের ওপর দিয়ে ঝরনাটি বয়ে চলেছিল।",
+      "At dinner, she explained that 'Limpid' means 'clear and transparent', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Limpid’ শব্দটির অর্থ—স্বচ্ছ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Limpid' as 'clear and transparent' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Limpid’ শব্দটি স্বচ্ছ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Listless",
+    "pronunciation_bn": "লিস্টলেস",
+    "pronunciation": "/ˈlɪst.ləs/",
+    "no": 524,
+    "group": 21,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "having little energy, interest, or enthusiasm",
+    "meaning_bn": [
+      "নিরুৎসাহ",
+      "অলস ও শক্তিহীন",
+      "উদ্যমহীন"
+    ],
+    "synonyms": [
+      {
+        "en": "lethargic",
+        "bn": "অবসন্ন"
+      },
+      {
+        "en": "sluggish",
+        "bn": "মন্থর"
+      },
+      {
+        "en": "apathetic",
+        "bn": "উদাসীন"
+      },
+      {
+        "en": "Bovine",
+        "bn": "গবাদি পশু বা গরুসংক্রান্ত"
+      },
+      {
+        "en": "Indifferent",
+        "bn": "উদাসীন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "energetic",
+        "bn": "উদ্যমী"
+      },
+      {
+        "en": "lively",
+        "bn": "প্রাণবন্ত"
+      },
+      {
+        "en": "enthusiastic",
+        "bn": "উৎসাহী"
+      },
+      {
+        "en": "avid",
+        "bn": "অত্যন্ত আগ্রহী"
+      },
+      {
+        "en": "Zealous",
+        "bn": "অত্যন্ত উৎসাহী"
+      },
+      {
+        "en": "Ardent",
+        "bn": "প্রগাঢ় আবেগপূর্ণ"
+      },
+      {
+        "en": "vivacious",
+        "bn": "প্রাণবন্ত"
+      },
+      {
+        "en": "Ebullient",
+        "bn": "উচ্ছ্বসিত"
+      }
+    ],
+    "example": "After the long journey, the children felt listless.",
+    "example_bn": "দীর্ঘ যাত্রার পর শিশুরা অবসন্ন বোধ করছিল।",
+    "examples": [
+      "After the long journey, the children felt listless. — দীর্ঘ যাত্রার পর শিশুরা অবসন্ন বোধ করছিল।",
+      "At dinner, she explained that 'Listless' means 'having little energy, interest, or enthusiasm', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Listless’ শব্দটির অর্থ—নিরুৎসাহ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Listless' as 'having little energy, interest, or enthusiasm' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Listless’ শব্দটি নিরুৎসাহ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Litany",
+    "pronunciation_bn": "লিটানি",
+    "pronunciation": "/ˈlɪt.ən.i/",
+    "no": 525,
+    "group": 21,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a long list or series, especially of complaints or repeated statements",
+    "meaning_bn": [
+      "দীর্ঘ তালিকা",
+      "একটানা অভিযোগের বিবরণ",
+      "ধর্মীয় প্রার্থনার ধারাবাহিক পাঠ"
+    ],
+    "synonyms": [
+      {
+        "en": "catalogue",
+        "bn": "তালিকা"
+      },
+      {
+        "en": "recital",
+        "bn": "আবৃত্তি বা ধারাবিবরণী"
+      },
+      {
+        "en": "series",
+        "bn": "ধারাবাহিকতা"
+      },
+      {
+        "en": "cascade",
+        "bn": "ছোট জলপ্রপাত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "brevity",
+        "bn": "সংক্ষিপ্ততা"
+      },
+      {
+        "en": "concise summary",
+        "bn": "সংক্ষিপ্তসার"
+      }
+    ],
+    "example": "The report contained a litany of complaints about poor service.",
+    "example_bn": "প্রতিবেদনটিতে নিম্নমানের পরিষেবা নিয়ে একের পর এক অভিযোগের দীর্ঘ তালিকা ছিল।",
+    "examples": [
+      "The report contained a litany of complaints about poor service. — প্রতিবেদনটিতে নিম্নমানের পরিষেবা নিয়ে একের পর এক অভিযোগের দীর্ঘ তালিকা ছিল।",
+      "At dinner, she explained that 'Litany' means 'a long list or series, especially of complaints', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Litany’ শব্দটির অর্থ—দীর্ঘ তালিকা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Litany' as 'a long list or series, especially of complaints' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Litany’ শব্দটি দীর্ঘ তালিকা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

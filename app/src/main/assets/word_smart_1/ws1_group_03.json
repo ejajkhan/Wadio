@@ -1,0 +1,1363 @@
+[
+  {
+    "word": "Adroit",
+    "pronunciation_bn": "অ্যাড্রয়েট",
+    "pronunciation": "/əˈdrɔɪt/",
+    "no": 51,
+    "group": 3,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "skillful and clever in using the hands or mind",
+    "meaning_bn": [
+      "দক্ষ",
+      "নিপুণ",
+      "কৌশলী"
+    ],
+    "synonyms": [
+      {
+        "en": "skillful",
+        "bn": "দক্ষ"
+      },
+      {
+        "en": "dexterous",
+        "bn": "নিপুণ"
+      },
+      {
+        "en": "clever",
+        "bn": "চতুর"
+      },
+      {
+        "en": "deft",
+        "bn": "দক্ষ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "maladroit",
+        "bn": "অদক্ষ"
+      },
+      {
+        "en": "clumsy",
+        "bn": "আনাড়ি"
+      },
+      {
+        "en": "inept",
+        "bn": "অপটু"
+      },
+      {
+        "en": "Ponderous",
+        "bn": "অত্যন্ত ভারী ও নড়াচড়ায় কষ্টকর"
+      }
+    ],
+    "example": "She was adroit at handling difficult customers.",
+    "example_bn": "সে কঠিন গ্রাহকদের সামলাতে দক্ষ ছিল।",
+    "examples": [
+      "She was adroit at handling difficult customers. — সে কঠিন গ্রাহকদের সামলাতে দক্ষ ছিল।",
+      "At dinner, she explained that 'Adroit' means 'skillful and clever in using the hands', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Adroit’ শব্দটির অর্থ—দক্ষ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Adroit' as 'skillful and clever in using the hands' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Adroit’ শব্দটি দক্ষ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Advent",
+    "pronunciation_bn": "অ্যাডভেন্ট",
+    "pronunciation": "/ˈæd.vent/",
+    "no": 52,
+    "group": 3,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the arrival or beginning of something important",
+    "meaning_bn": [
+      "আগমন",
+      "আবির্ভাব",
+      "সূচনা"
+    ],
+    "synonyms": [
+      {
+        "en": "arrival",
+        "bn": "আগমন"
+      },
+      {
+        "en": "appearance",
+        "bn": "আবির্ভাব"
+      },
+      {
+        "en": "onset",
+        "bn": "সূচনা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "departure",
+        "bn": "প্রস্থান"
+      }
+    ],
+    "example": "The advent of smartphones changed communication.",
+    "example_bn": "স্মার্টফোনের আবির্ভাব যোগাযোগব্যবস্থাকে বদলে দিয়েছে।",
+    "examples": [
+      "The advent of smartphones changed communication. — স্মার্টফোনের আবির্ভাব যোগাযোগব্যবস্থাকে বদলে দিয়েছে।",
+      "At dinner, she explained that 'Advent' means 'the arrival or beginning of something important', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Advent’ শব্দটির অর্থ—আগমন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Advent' as 'the arrival or beginning of something important' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Advent’ শব্দটি আগমন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Adventitious",
+    "pronunciation_bn": "অ্যাডভেনটিশাস",
+    "pronunciation": "/ˌæd.venˈtɪʃ.əs/",
+    "no": 53,
+    "group": 3,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "happening by chance or coming from an external source rather than being inherent",
+    "meaning_bn": [
+      "আকস্মিক",
+      "ঘটনাক্রমে ঘটা",
+      "বাহ্যিক উৎসজাত"
+    ],
+    "synonyms": [
+      {
+        "en": "accidental",
+        "bn": "আকস্মিক"
+      },
+      {
+        "en": "incidental",
+        "bn": "ঘটনাক্রমে ঘটা"
+      },
+      {
+        "en": "fortuitous",
+        "bn": "আকস্মিক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "intentional",
+        "bn": "ইচ্ছাকৃত"
+      },
+      {
+        "en": "deliberate",
+        "bn": "সজ্ঞানে করা"
+      }
+    ],
+    "example": "The plant developed adventitious roots along its stem.",
+    "example_bn": "গাছটির কাণ্ড বরাবর অস্থানিক শিকড় গজিয়েছিল।",
+    "examples": [
+      "The plant developed adventitious roots along its stem. — গাছটির কাণ্ড বরাবর অস্থানিক শিকড় গজিয়েছিল।",
+      "At dinner, she explained that 'Adventitious' means 'happening by chance or coming from an external', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Adventitious’ শব্দটির অর্থ—আকস্মিক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Adventitious' as 'happening by chance or coming from an external' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Adventitious’ শব্দটি আকস্মিক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Advocate",
+    "pronunciation_bn": "অ্যাডভোকেট (noun); অ্যাডভোকেইট (verb)",
+    "pronunciation": "/ˈæd.və.kət/ (noun); /ˈæd.və.keɪt/ (verb)",
+    "no": 54,
+    "group": 3,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "a person who publicly supports a cause; to publicly support or recommend something",
+    "meaning_bn": [
+      "সমর্থক",
+      "পক্ষে যুক্তি প্রদানকারী",
+      "সমর্থন করা"
+    ],
+    "synonyms": [
+      {
+        "en": "supporter",
+        "bn": "সমর্থক"
+      },
+      {
+        "en": "proponent",
+        "bn": "পক্ষসমর্থক"
+      },
+      {
+        "en": "champion",
+        "bn": "সমর্থনকারী"
+      },
+      {
+        "en": "Espouse",
+        "bn": "সমর্থন করা"
+      },
+      {
+        "en": "Partisan",
+        "bn": "কোনো পক্ষ বা দলের একনিষ্ঠ সমর্থক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "opponent",
+        "bn": "বিরোধী"
+      },
+      {
+        "en": "critic",
+        "bn": "সমালোচক"
+      }
+    ],
+    "example": "She is a strong advocate for children's rights.",
+    "example_bn": "সে শিশুদের অধিকারের একজন দৃঢ় সমর্থক।",
+    "examples": [
+      "She is a strong advocate for children's rights. — সে শিশুদের অধিকারের একজন দৃঢ় সমর্থক।",
+      "At dinner, she explained that 'Advocate' means 'a person who publicly supports a cause', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Advocate’ শব্দটির অর্থ—সমর্থক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Advocate' as 'a person who publicly supports a cause' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Advocate’ শব্দটি সমর্থক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Affidavit",
+    "pronunciation_bn": "অ্যাফিডেভিট",
+    "pronunciation": "/ˌæf.əˈdeɪ.vɪt/",
+    "no": 55,
+    "group": 3,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a written statement confirmed by oath or affirmation for use as evidence",
+    "meaning_bn": [
+      "হলফনামা",
+      "শপথপূর্বক লিখিত বিবৃতি"
+    ],
+    "synonyms": [
+      {
+        "en": "sworn statement",
+        "bn": "শপথপূর্বক বিবৃতি"
+      },
+      {
+        "en": "declaration",
+        "bn": "ঘোষণাপত্র"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "—",
+        "bn": "প্রচলিত সরাসরি বিপরীতার্থক শব্দ নেই"
+      }
+    ],
+    "example": "He signed an affidavit confirming his address.",
+    "example_bn": "নিজের ঠিকানা নিশ্চিত করে সে একটি হলফনামায় স্বাক্ষর করেছিল।",
+    "examples": [
+      "He signed an affidavit confirming his address. — নিজের ঠিকানা নিশ্চিত করে সে একটি হলফনামায় স্বাক্ষর করেছিল।",
+      "At dinner, she explained that 'Affidavit' means 'a written statement confirmed by oath or affirmation', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Affidavit’ শব্দটির অর্থ—হলফনামা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Affidavit' as 'a written statement confirmed by oath or affirmation' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Affidavit’ শব্দটি হলফনামা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Affiliate",
+    "pronunciation_bn": "অ্যাফিলিয়েইট",
+    "pronunciation": "/əˈfɪl.i.eɪt/",
+    "no": 56,
+    "group": 3,
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "meaning_en": "to officially connect or associate with an organization; an associated person or organization",
+    "meaning_bn": [
+      "যুক্ত করা",
+      "সম্পৃক্ত করা",
+      "সহযোগী প্রতিষ্ঠান"
+    ],
+    "synonyms": [
+      {
+        "en": "associate",
+        "bn": "সম্পৃক্ত করা"
+      },
+      {
+        "en": "connect",
+        "bn": "সংযুক্ত করা"
+      },
+      {
+        "en": "ally",
+        "bn": "মিত্রতা স্থাপন করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "disaffiliate",
+        "bn": "সম্পর্ক ছিন্ন করা"
+      },
+      {
+        "en": "separate",
+        "bn": "আলাদা করা"
+      }
+    ],
+    "example": "The small hospital affiliated itself with a larger medical center.",
+    "example_bn": "ছোট হাসপাতালটি একটি বড় চিকিৎসাকেন্দ্রের সঙ্গে যুক্ত হয়েছিল।",
+    "examples": [
+      "The small hospital affiliated itself with a larger medical center. — ছোট হাসপাতালটি একটি বড় চিকিৎসাকেন্দ্রের সঙ্গে যুক্ত হয়েছিল।",
+      "At dinner, she explained that 'Affiliate' means 'to officially connect or associate with an organization', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Affiliate’ শব্দটির অর্থ—যুক্ত করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Affiliate' as 'to officially connect or associate with an organization' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Affiliate’ শব্দটি যুক্ত করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Affliction",
+    "pronunciation_bn": "অ্যাফ্লিকশন",
+    "pronunciation": "/əˈflɪk.ʃən/",
+    "no": 57,
+    "group": 3,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "something that causes pain, suffering, or distress",
+    "meaning_bn": [
+      "দুঃখ-কষ্ট",
+      "যন্ত্রণা",
+      "দুর্দশা"
+    ],
+    "synonyms": [
+      {
+        "en": "suffering",
+        "bn": "দুঃখ-কষ্ট"
+      },
+      {
+        "en": "distress",
+        "bn": "দুর্দশা"
+      },
+      {
+        "en": "misery",
+        "bn": "যন্ত্রণা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "comfort",
+        "bn": "স্বস্তি"
+      },
+      {
+        "en": "relief",
+        "bn": "উপশম"
+      }
+    ],
+    "example": "Poverty is an affliction that affects millions worldwide.",
+    "example_bn": "দারিদ্র্য এমন এক দুর্দশা, যা বিশ্বজুড়ে কোটি কোটি মানুষকে প্রভাবিত করে।",
+    "examples": [
+      "Poverty is an affliction that affects millions worldwide. — দারিদ্র্য এমন এক দুর্দশা, যা বিশ্বজুড়ে কোটি কোটি মানুষকে প্রভাবিত করে।",
+      "At dinner, she explained that 'Affliction' means 'something that causes pain, suffering, or distress', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Affliction’ শব্দটির অর্থ—দুঃখ-কষ্ট—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Affliction' as 'something that causes pain, suffering, or distress' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Affliction’ শব্দটি দুঃখ-কষ্ট অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Afford",
+    "pronunciation_bn": "অ্যাফোর্ড",
+    "pronunciation": "/əˈfɔːrd/",
+    "no": 58,
+    "group": 3,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to be able to pay for something; to provide or make available",
+    "meaning_bn": [
+      "কেনার সামর্থ্য থাকা",
+      "প্রদান করা",
+      "সুযোগ করে দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "provide",
+        "bn": "প্রদান করা"
+      },
+      {
+        "en": "offer",
+        "bn": "দেওয়া"
+      },
+      {
+        "en": "yield",
+        "bn": "ফল বা সুযোগ দেওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "withhold",
+        "bn": "আটকে রাখা"
+      },
+      {
+        "en": "deny",
+        "bn": "বঞ্চিত করা"
+      }
+    ],
+    "example": "The hilltop affords a beautiful view of the city.",
+    "example_bn": "পাহাড়ের চূড়া থেকে শহরের সুন্দর দৃশ্য দেখা যায়।",
+    "examples": [
+      "The hilltop affords a beautiful view of the city. — পাহাড়ের চূড়া থেকে শহরের সুন্দর দৃশ্য দেখা যায়।",
+      "At dinner, she explained that 'Afford' means 'to be able to pay for something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Afford’ শব্দটির অর্থ—কেনার সামর্থ্য থাকা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Afford' as 'to be able to pay for something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Afford’ শব্দটি কেনার সামর্থ্য থাকা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Affront",
+    "pronunciation_bn": "অ্যাফ্রান্ট",
+    "pronunciation": "/əˈfrʌnt/",
+    "no": 59,
+    "group": 3,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "an act or remark that causes offence or disrespect; to insult openly",
+    "meaning_bn": [
+      "অপমান",
+      "অবমাননা",
+      "অপমান করা"
+    ],
+    "synonyms": [
+      {
+        "en": "insult",
+        "bn": "অপমান"
+      },
+      {
+        "en": "offense",
+        "bn": "অবমাননা"
+      },
+      {
+        "en": "indignity",
+        "bn": "অসম্মান"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "compliment",
+        "bn": "প্রশংসা"
+      },
+      {
+        "en": "respect",
+        "bn": "সম্মান"
+      }
+    ],
+    "example": "His rude comment was an affront to everyone present.",
+    "example_bn": "তার অভদ্র মন্তব্যটি উপস্থিত সবার প্রতি অপমানজনক ছিল।",
+    "examples": [
+      "His rude comment was an affront to everyone present. — তার অভদ্র মন্তব্যটি উপস্থিত সবার প্রতি অপমানজনক ছিল।",
+      "At dinner, she explained that 'Affront' means 'an act or remark that causes offence', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Affront’ শব্দটির অর্থ—অপমান—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Affront' as 'an act or remark that causes offence' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Affront’ শব্দটি অপমান অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Aftermath",
+    "pronunciation_bn": "অ্যাফটারম্যাথ",
+    "pronunciation": "/ˈæf.tɚ.mæθ/",
+    "no": 60,
+    "group": 3,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the consequences or effects of a significant unpleasant event",
+    "meaning_bn": [
+      "পরিণতি",
+      "পরবর্তী প্রভাব"
+    ],
+    "synonyms": [
+      {
+        "en": "consequence",
+        "bn": "পরিণতি"
+      },
+      {
+        "en": "repercussion",
+        "bn": "প্রতিক্রিয়া"
+      },
+      {
+        "en": "result",
+        "bn": "ফলাফল"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "cause",
+        "bn": "কারণ"
+      },
+      {
+        "en": "origin",
+        "bn": "উৎস"
+      },
+      {
+        "en": "Harbinger",
+        "bn": "পূর্বাভাস"
+      },
+      {
+        "en": "Precursor",
+        "bn": "পূর্বসূরি"
+      },
+      {
+        "en": "Portent",
+        "bn": "পূর্বলক্ষণ"
+      },
+      {
+        "en": "prelude",
+        "bn": "ভূমিকা"
+      }
+    ],
+    "example": "The aftermath of the flood lasted for months.",
+    "example_bn": "বন্যার পরবর্তী প্রভাব কয়েক মাস ধরে স্থায়ী হয়েছিল।",
+    "examples": [
+      "The aftermath of the flood lasted for months. — বন্যার পরবর্তী প্রভাব কয়েক মাস ধরে স্থায়ী হয়েছিল।",
+      "At dinner, she explained that 'Aftermath' means 'the consequences or effects of a significant unpleasant', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Aftermath’ শব্দটির অর্থ—পরিণতি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Aftermath' as 'the consequences or effects of a significant unpleasant' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Aftermath’ শব্দটি পরিণতি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Aggrandize",
+    "pronunciation_bn": "অ্যাগ্র্যান্ডাইজ",
+    "pronunciation": "/əˈɡræn.daɪz/",
+    "no": 61,
+    "group": 3,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to increase the power, status, or importance of someone or something, sometimes exaggeratedly",
+    "meaning_bn": [
+      "মহিমান্বিত করা",
+      "ক্ষমতা বা মর্যাদা বাড়ানো",
+      "নিজের কৃতিত্ব বাড়িয়ে দেখানো"
+    ],
+    "synonyms": [
+      {
+        "en": "magnify",
+        "bn": "বাড়িয়ে দেখানো"
+      },
+      {
+        "en": "exalt",
+        "bn": "মর্যাদা বাড়ানো"
+      },
+      {
+        "en": "inflate",
+        "bn": "অতিরঞ্জিত করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "diminish",
+        "bn": "কমিয়ে দেওয়া"
+      },
+      {
+        "en": "belittle",
+        "bn": "তুচ্ছ করা"
+      }
+    ],
+    "example": "He tends to aggrandize his own achievements.",
+    "example_bn": "সে নিজের অর্জনগুলো বাড়িয়ে দেখানোর প্রবণতা রাখে।",
+    "examples": [
+      "He tends to aggrandize his own achievements. — সে নিজের অর্জনগুলো বাড়িয়ে দেখানোর প্রবণতা রাখে।",
+      "At dinner, she explained that 'Aggrandize' means 'to increase the power, status, or importance', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Aggrandize’ শব্দটির অর্থ—মহিমান্বিত করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Aggrandize' as 'to increase the power, status, or importance' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Aggrandize’ শব্দটি মহিমান্বিত করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Aggrieve",
+    "pronunciation_bn": "অ্যাগ্রিভ",
+    "pronunciation": "/əˈɡriːv/",
+    "no": 62,
+    "group": 3,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to cause someone to feel resentment or injustice",
+    "meaning_bn": [
+      "অন্যায় করা",
+      "ক্ষুব্ধ করা",
+      "মনে আঘাত দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "wrong",
+        "bn": "অন্যায় করা"
+      },
+      {
+        "en": "offend",
+        "bn": "মনে আঘাত দেওয়া"
+      },
+      {
+        "en": "upset",
+        "bn": "বিচলিত করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "appease",
+        "bn": "শান্ত করা"
+      },
+      {
+        "en": "console",
+        "bn": "সান্ত্বনা দেওয়া"
+      }
+    ],
+    "example": "The workers felt aggrieved by the unfair pay cuts.",
+    "example_bn": "অন্যায্য বেতন কাটার কারণে কর্মীরা নিজেদের প্রতি অবিচার হয়েছে বলে মনে করেছিলেন।",
+    "examples": [
+      "The workers felt aggrieved by the unfair pay cuts. — অন্যায্য বেতন কাটার কারণে কর্মীরা নিজেদের প্রতি অবিচার হয়েছে বলে মনে করেছিলেন।",
+      "At dinner, she explained that 'Aggrieve' means 'to cause someone to feel resentment or injustice', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Aggrieve’ শব্দটির অর্থ—অন্যায় করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Aggrieve' as 'to cause someone to feel resentment or injustice' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Aggrieve’ শব্দটি অন্যায় করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Aghast",
+    "pronunciation_bn": "অ্যাগ্যাস্ট",
+    "pronunciation": "/əˈɡæst/",
+    "no": 63,
+    "group": 3,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "filled with shock, horror, or amazement",
+    "meaning_bn": [
+      "হতবাক",
+      "স্তম্ভিত",
+      "আতঙ্কিত"
+    ],
+    "synonyms": [
+      {
+        "en": "appalled",
+        "bn": "হতবাক"
+      },
+      {
+        "en": "horrified",
+        "bn": "আতঙ্কিত"
+      },
+      {
+        "en": "dismayed",
+        "bn": "বিচলিত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "unperturbed",
+        "bn": "অবিচল"
+      },
+      {
+        "en": "unconcerned",
+        "bn": "উদ্বিগ্ন নয় এমন"
+      }
+    ],
+    "example": "She was aghast at the news of the accident.",
+    "example_bn": "দুর্ঘটনার খবর শুনে সে হতবাক হয়ে গিয়েছিল।",
+    "examples": [
+      "She was aghast at the news of the accident. — দুর্ঘটনার খবর শুনে সে হতবাক হয়ে গিয়েছিল।",
+      "At dinner, she explained that 'Aghast' means 'filled with shock, horror, or amazement', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Aghast’ শব্দটির অর্থ—হতবাক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Aghast' as 'filled with shock, horror, or amazement' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Aghast’ শব্দটি হতবাক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Alacrity",
+    "pronunciation_bn": "অ্যাল্যাক্রিটি",
+    "pronunciation": "/əˈlæk.rə.t̬i/",
+    "no": 64,
+    "group": 3,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "speed and cheerful eagerness",
+    "meaning_bn": [
+      "উৎসাহী তৎপরতা",
+      "সানন্দে দ্রুত সাড়া দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "eagerness",
+        "bn": "আগ্রহ"
+      },
+      {
+        "en": "readiness",
+        "bn": "তৎপরতা"
+      },
+      {
+        "en": "promptness",
+        "bn": "দ্রুত সাড়া দেওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "reluctance",
+        "bn": "অনিচ্ছা"
+      },
+      {
+        "en": "apathy",
+        "bn": "উদাসীনতা"
+      }
+    ],
+    "example": "He accepted the challenge with alacrity.",
+    "example_bn": "সে অত্যন্ত উৎসাহের সঙ্গে চ্যালেঞ্জটি গ্রহণ করেছিল।",
+    "examples": [
+      "He accepted the challenge with alacrity. — সে অত্যন্ত উৎসাহের সঙ্গে চ্যালেঞ্জটি গ্রহণ করেছিল।",
+      "At dinner, she explained that 'Alacrity' means 'speed and cheerful eagerness', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Alacrity’ শব্দটির অর্থ—উৎসাহী তৎপরতা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Alacrity' as 'speed and cheerful eagerness' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Alacrity’ শব্দটি উৎসাহী তৎপরতা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Alchemy",
+    "pronunciation_bn": "অ্যালকেমি",
+    "pronunciation": "/ˈæl.kə.mi/",
+    "no": 65,
+    "group": 3,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a medieval practice concerned with transforming substances, and more generally a seemingly magical transformation",
+    "meaning_bn": [
+      "রসায়নবিদ্যার প্রাচীন রূপ",
+      "রহস্যময় রূপান্তর"
+    ],
+    "synonyms": [
+      {
+        "en": "transformation",
+        "bn": "রূপান্তর"
+      },
+      {
+        "en": "transmutation",
+        "bn": "রূপান্তরপ্রক্রিয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "—",
+        "bn": "প্রচলিত সরাসরি বিপরীতার্থক শব্দ নেই"
+      }
+    ],
+    "example": "Good cooking can seem like an alchemy that transforms raw ingredients.",
+    "example_bn": "ভালো রান্না এমন এক রহস্যময় রূপান্তর বলে মনে হতে পারে, যা কাঁচা উপকরণকে বদলে দেয়।",
+    "examples": [
+      "Good cooking can seem like an alchemy that transforms raw ingredients. — ভালো রান্না এমন এক রহস্যময় রূপান্তর বলে মনে হতে পারে, যা কাঁচা উপকরণকে বদলে দেয়।",
+      "At dinner, she explained that 'Alchemy' means 'a medieval practice concerned with transforming substances', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Alchemy’ শব্দটির অর্থ—রসায়নবিদ্যার প্রাচীন রূপ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Alchemy' as 'a medieval practice concerned with transforming substances' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Alchemy’ শব্দটি রসায়নবিদ্যার প্রাচীন রূপ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Alienate",
+    "pronunciation_bn": "এইলিয়েনেইট",
+    "pronunciation": "/ˈeɪ.li.ə.neɪt/",
+    "no": 66,
+    "group": 3,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to make someone feel isolated or unfriendly toward others; to estrange",
+    "meaning_bn": [
+      "বিচ্ছিন্ন করা",
+      "দূরে সরিয়ে দেওয়া",
+      "সম্পর্কে দূরত্ব সৃষ্টি করা"
+    ],
+    "synonyms": [
+      {
+        "en": "estrange",
+        "bn": "সম্পর্কে দূরত্ব সৃষ্টি করা"
+      },
+      {
+        "en": "isolate",
+        "bn": "বিচ্ছিন্ন করা"
+      },
+      {
+        "en": "antagonize",
+        "bn": "বিরূপ করে তোলা"
+      },
+      {
+        "en": "disaffect",
+        "bn": "অসন্তুষ্ট করে তোলা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "reconcile",
+        "bn": "মিল করিয়ে দেওয়া"
+      },
+      {
+        "en": "unite",
+        "bn": "একত্র করা"
+      },
+      {
+        "en": "endear",
+        "bn": "প্রিয় করে তোলা"
+      },
+      {
+        "en": "Ingratiate",
+        "bn": "মন জয় করার চেষ্টা করা"
+      },
+      {
+        "en": "Prepossess",
+        "bn": "আগেই অনুকূল ধারণা সৃষ্টি করা"
+      }
+    ],
+    "example": "His arrogance alienated all his friends.",
+    "example_bn": "তার ঔদ্ধত্য তার সব বন্ধুকে তার কাছ থেকে দূরে সরিয়ে দিয়েছিল।",
+    "examples": [
+      "His arrogance alienated all his friends. — তার ঔদ্ধত্য তার সব বন্ধুকে তার কাছ থেকে দূরে সরিয়ে দিয়েছিল।",
+      "At dinner, she explained that 'Alienate' means 'to make someone feel isolated or unfriendly toward', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Alienate’ শব্দটির অর্থ—বিচ্ছিন্ন করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Alienate' as 'to make someone feel isolated or unfriendly toward' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Alienate’ শব্দটি বিচ্ছিন্ন করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Allege",
+    "pronunciation_bn": "অ্যালেজ",
+    "pronunciation": "/əˈledʒ/",
+    "no": 67,
+    "group": 3,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to claim that something is true, especially without proof",
+    "meaning_bn": [
+      "প্রমাণ ছাড়া দাবি করা",
+      "অভিযোগ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "assert",
+        "bn": "দাবি করা"
+      },
+      {
+        "en": "claim",
+        "bn": "দাবি করা"
+      },
+      {
+        "en": "charge",
+        "bn": "অভিযোগ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "prove",
+        "bn": "প্রমাণ করা"
+      },
+      {
+        "en": "verify",
+        "bn": "যাচাই করে সত্যতা নিশ্চিত করা"
+      },
+      {
+        "en": "Abjure",
+        "bn": "আনুষ্ঠানিকভাবে ত্যাগ করা"
+      },
+      {
+        "en": "Ascertain",
+        "bn": "নিশ্চিতভাবে নির্ধারণ করা"
+      },
+      {
+        "en": "Attest",
+        "bn": "প্রমাণ দেওয়া"
+      },
+      {
+        "en": "Corroborate",
+        "bn": "প্রমাণ দিয়ে সমর্থন করা"
+      },
+      {
+        "en": "Insinuate",
+        "bn": "পরোক্ষভাবে ইঙ্গিত করা"
+      }
+    ],
+    "example": "The newspaper alleged that the minister had taken bribes.",
+    "example_bn": "সংবাদপত্রটি অভিযোগ করেছিল যে মন্ত্রী ঘুষ নিয়েছেন।",
+    "examples": [
+      "The newspaper alleged that the minister had taken bribes. — সংবাদপত্রটি অভিযোগ করেছিল যে মন্ত্রী ঘুষ নিয়েছেন।",
+      "At dinner, she explained that 'Allege' means 'to claim that something is true, especially without', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Allege’ শব্দটির অর্থ—প্রমাণ ছাড়া দাবি করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Allege' as 'to claim that something is true, especially without' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Allege’ শব্দটি প্রমাণ ছাড়া দাবি করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Allegiance",
+    "pronunciation_bn": "অ্যালিজিয়ান্স",
+    "pronunciation": "/əˈliː.dʒəns/",
+    "no": 68,
+    "group": 3,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "loyalty or commitment to a person, group, or cause",
+    "meaning_bn": [
+      "আনুগত্য",
+      "বিশ্বস্ততা",
+      "নিষ্ঠা"
+    ],
+    "synonyms": [
+      {
+        "en": "loyalty",
+        "bn": "আনুগত্য"
+      },
+      {
+        "en": "devotion",
+        "bn": "নিষ্ঠা"
+      },
+      {
+        "en": "faithfulness",
+        "bn": "বিশ্বস্ততা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "disloyalty",
+        "bn": "বিশ্বাসঘাতকতা"
+      },
+      {
+        "en": "treachery",
+        "bn": "বিশ্বাসঘাতকতা"
+      },
+      {
+        "en": "Sedition",
+        "bn": "রাষ্ট্রদ্রোহমূলক উসকানি"
+      },
+      {
+        "en": "Apostasy",
+        "bn": "ধর্মবিশ্বাস বা আনুগত্য ত্যাগ"
+      }
+    ],
+    "example": "Soldiers swear allegiance to their country.",
+    "example_bn": "সৈন্যরা তাদের দেশের প্রতি আনুগত্যের শপথ নেয়।",
+    "examples": [
+      "Soldiers swear allegiance to their country. — সৈন্যরা তাদের দেশের প্রতি আনুগত্যের শপথ নেয়।",
+      "At dinner, she explained that 'Allegiance' means 'loyalty or commitment to a person, group', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Allegiance’ শব্দটির অর্থ—আনুগত্য—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Allegiance' as 'loyalty or commitment to a person, group' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Allegiance’ শব্দটি আনুগত্য অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Allegory",
+    "pronunciation_bn": "অ্যালিগরি",
+    "pronunciation": "/ˈæl.ə.ɡɔːr.i/",
+    "no": 69,
+    "group": 3,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a story, poem, or picture in which characters or events represent deeper meanings",
+    "meaning_bn": [
+      "রূপকধর্মী রচনা",
+      "নীতিকথা",
+      "প্রতীকী কাহিনি"
+    ],
+    "synonyms": [
+      {
+        "en": "parable",
+        "bn": "নীতিকথা"
+      },
+      {
+        "en": "fable",
+        "bn": "রূপকধর্মী গল্প"
+      },
+      {
+        "en": "symbolic narrative",
+        "bn": "প্রতীকী কাহিনি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "—",
+        "bn": "প্রচলিত সরাসরি বিপরীতার্থক শব্দ নেই"
+      }
+    ],
+    "example": "Animal Farm is an allegory about political corruption.",
+    "example_bn": "Animal Farm রাজনৈতিক দুর্নীতি নিয়ে একটি রূপকধর্মী রচনা।",
+    "examples": [
+      "Animal Farm is an allegory about political corruption. — Animal Farm রাজনৈতিক দুর্নীতি নিয়ে একটি রূপকধর্মী রচনা।",
+      "At dinner, she explained that 'Allegory' means 'a story, poem, or picture in which characters', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Allegory’ শব্দটির অর্থ—রূপকধর্মী রচনা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Allegory' as 'a story, poem, or picture in which characters' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Allegory’ শব্দটি রূপকধর্মী রচনা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Alleviate",
+    "pronunciation_bn": "অ্যালিভিয়েইট",
+    "pronunciation": "/əˈliː.vi.eɪt/",
+    "no": 70,
+    "group": 3,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to make pain, suffering, or a problem less severe",
+    "meaning_bn": [
+      "উপশম করা",
+      "লাঘব করা",
+      "কষ্ট কমানো"
+    ],
+    "synonyms": [
+      {
+        "en": "ease",
+        "bn": "লাঘব করা"
+      },
+      {
+        "en": "relieve",
+        "bn": "উপশম করা"
+      },
+      {
+        "en": "mitigate",
+        "bn": "প্রশমিত করা"
+      },
+      {
+        "en": "Assuage",
+        "bn": "প্রশমিত করা"
+      },
+      {
+        "en": "Ameliorate",
+        "bn": "উন্নত করা"
+      },
+      {
+        "en": "Palliate",
+        "bn": "উপশম করা"
+      },
+      {
+        "en": "Abate",
+        "bn": "কমে যাওয়া"
+      },
+      {
+        "en": "slake",
+        "bn": "তৃষ্ণা মেটানো"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "aggravate",
+        "bn": "বাড়িয়ে দেওয়া"
+      },
+      {
+        "en": "worsen",
+        "bn": "আরও খারাপ করা"
+      },
+      {
+        "en": "Exacerbate",
+        "bn": "আরও খারাপ করে তোলা"
+      },
+      {
+        "en": "Beleaguer",
+        "bn": "অবরোধ করা"
+      },
+      {
+        "en": "Beset",
+        "bn": "ঘিরে ফেলা"
+      },
+      {
+        "en": "Degenerate",
+        "bn": "অবনতি হওয়া"
+      },
+      {
+        "en": "fester",
+        "bn": "ক্ষতে পুঁজ জমা"
+      },
+      {
+        "en": "Inundate",
+        "bn": "প্লাবিত করা"
+      }
+    ],
+    "example": "The medicine helped alleviate his pain.",
+    "example_bn": "ওষুধটি তার ব্যথা উপশম করতে সাহায্য করেছিল।",
+    "examples": [
+      "The medicine helped alleviate his pain. — ওষুধটি তার ব্যথা উপশম করতে সাহায্য করেছিল।",
+      "At dinner, she explained that 'Alleviate' means 'to make pain, suffering, or a problem', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Alleviate’ শব্দটির অর্থ—উপশম করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Alleviate' as 'to make pain, suffering, or a problem' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Alleviate’ শব্দটি উপশম করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Allocate",
+    "pronunciation_bn": "অ্যালোকেইট",
+    "pronunciation": "/ˈæl.ə.keɪt/",
+    "no": 71,
+    "group": 3,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to distribute or assign resources or duties for a particular purpose",
+    "meaning_bn": [
+      "বরাদ্দ করা",
+      "বণ্টন করা",
+      "নির্দিষ্ট করে দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "assign",
+        "bn": "বরাদ্দ করা"
+      },
+      {
+        "en": "allot",
+        "bn": "ভাগ করে দেওয়া"
+      },
+      {
+        "en": "distribute",
+        "bn": "বণ্টন করা"
+      },
+      {
+        "en": "Appropriate",
+        "bn": "নিজের কাজে নেওয়া"
+      },
+      {
+        "en": "Apportion",
+        "bn": "অনুপাতে বণ্টন করা"
+      },
+      {
+        "en": "Ascribe",
+        "bn": "কারণ হিসেবে গণ্য করা"
+      },
+      {
+        "en": "Attribute",
+        "bn": "কারণ হিসেবে আরোপ করা"
+      },
+      {
+        "en": "consign",
+        "bn": "হস্তান্তর করা"
+      },
+      {
+        "en": "Disseminate",
+        "bn": "ছড়িয়ে দেওয়া"
+      },
+      {
+        "en": "Intersperse",
+        "bn": "মাঝে মাঝে ছড়িয়ে দেওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "withhold",
+        "bn": "আটকে রাখা"
+      },
+      {
+        "en": "retain",
+        "bn": "নিজের কাছে রাখা"
+      },
+      {
+        "en": "Abdicate",
+        "bn": "সিংহাসন ত্যাগ করা"
+      },
+      {
+        "en": "Relinquish",
+        "bn": "ত্যাগ করা"
+      }
+    ],
+    "example": "The government allocated funds for disaster relief.",
+    "example_bn": "সরকার দুর্যোগ মোকাবিলার জন্য তহবিল বরাদ্দ করেছিল।",
+    "examples": [
+      "The government allocated funds for disaster relief. — সরকার দুর্যোগ মোকাবিলার জন্য তহবিল বরাদ্দ করেছিল।",
+      "At dinner, she explained that 'Allocate' means 'to distribute or assign resources or duties', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Allocate’ শব্দটির অর্থ—বরাদ্দ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Allocate' as 'to distribute or assign resources or duties' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Allocate’ শব্দটি বরাদ্দ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Alloy",
+    "pronunciation_bn": "অ্যালয়",
+    "pronunciation": "/ˈæl.ɔɪ/",
+    "no": 72,
+    "group": 3,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "a metal made by combining two or more elements, at least one of them a metal; to mix or reduce in purity",
+    "meaning_bn": [
+      "মিশ্রধাতু",
+      "মিশ্রিত করা"
+    ],
+    "synonyms": [
+      {
+        "en": "mixture",
+        "bn": "মিশ্রণ"
+      },
+      {
+        "en": "blend",
+        "bn": "সংমিশ্রণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "pure metal",
+        "bn": "বিশুদ্ধ ধাতু"
+      },
+      {
+        "en": "element",
+        "bn": "মৌল"
+      }
+    ],
+    "example": "Bronze is an alloy of copper and tin.",
+    "example_bn": "ব্রোঞ্জ হলো তামা ও টিনের একটি মিশ্রধাতু।",
+    "examples": [
+      "Bronze is an alloy of copper and tin. — ব্রোঞ্জ হলো তামা ও টিনের একটি মিশ্রধাতু।",
+      "At dinner, she explained that 'Alloy' means 'a metal made by combining two', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Alloy’ শব্দটির অর্থ—মিশ্রধাতু—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Alloy' as 'a metal made by combining two' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Alloy’ শব্দটি মিশ্রধাতু অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Allusion",
+    "pronunciation_bn": "অ্যালিউশন",
+    "pronunciation": "/əˈluː.ʒən/",
+    "no": 73,
+    "group": 3,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "an indirect reference to a person, event, or work",
+    "meaning_bn": [
+      "পরোক্ষ উল্লেখ",
+      "ইঙ্গিত"
+    ],
+    "synonyms": [
+      {
+        "en": "reference",
+        "bn": "উল্লেখ"
+      },
+      {
+        "en": "hint",
+        "bn": "ইঙ্গিত"
+      },
+      {
+        "en": "indirect mention",
+        "bn": "পরোক্ষ উল্লেখ"
+      },
+      {
+        "en": "Innuendo",
+        "bn": "পরোক্ষ ইঙ্গিত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "explicit statement",
+        "bn": "স্পষ্ট বক্তব্য"
+      },
+      {
+        "en": "direct reference",
+        "bn": "সরাসরি উল্লেখ"
+      }
+    ],
+    "example": "His speech was full of allusions to Shakespeare.",
+    "example_bn": "তার বক্তৃতায় শেক্‌সপিয়ারের প্রতি অনেক পরোক্ষ ইঙ্গিত ছিল।",
+    "examples": [
+      "His speech was full of allusions to Shakespeare. — তার বক্তৃতায় শেক্‌সপিয়ারের প্রতি অনেক পরোক্ষ ইঙ্গিত ছিল।",
+      "At dinner, she explained that 'Allusion' means 'an indirect reference to a person, event', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Allusion’ শব্দটির অর্থ—পরোক্ষ উল্লেখ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Allusion' as 'an indirect reference to a person, event' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Allusion’ শব্দটি পরোক্ষ উল্লেখ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Aloof",
+    "pronunciation_bn": "অ্যালুফ",
+    "pronunciation": "/əˈluːf/",
+    "no": 74,
+    "group": 3,
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "meaning_en": "not friendly or involved; at a distance",
+    "meaning_bn": [
+      "নির্লিপ্ত",
+      "দূরত্ব বজায় রাখা",
+      "অমিশুক"
+    ],
+    "synonyms": [
+      {
+        "en": "detached",
+        "bn": "নির্লিপ্ত"
+      },
+      {
+        "en": "distant",
+        "bn": "দূরত্ব বজায় রাখা"
+      },
+      {
+        "en": "reserved",
+        "bn": "সংযত"
+      },
+      {
+        "en": "demure",
+        "bn": "লাজুক ও সংযত"
+      },
+      {
+        "en": "Reticent",
+        "bn": "স্বল্পভাষী"
+      },
+      {
+        "en": "Taciturn",
+        "bn": "স্বল্পভাষী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "friendly",
+        "bn": "বন্ধুসুলভ"
+      },
+      {
+        "en": "sociable",
+        "bn": "মিশুক"
+      },
+      {
+        "en": "involved",
+        "bn": "সম্পৃক্ত"
+      },
+      {
+        "en": "Amiable",
+        "bn": "বন্ধুত্বপূর্ণ"
+      },
+      {
+        "en": "Avuncular",
+        "bn": "মামা বা চাচার মতো স্নেহশীল"
+      },
+      {
+        "en": "Contiguous",
+        "bn": "সংলগ্ন"
+      },
+      {
+        "en": "Convivial",
+        "bn": "আনন্দময়"
+      },
+      {
+        "en": "cordial",
+        "bn": "আন্তরিক"
+      }
+    ],
+    "example": "She remained aloof during the argument.",
+    "example_bn": "বিতর্ক চলাকালে সে সবার থেকে দূরে দূরে ছিল।",
+    "examples": [
+      "She remained aloof during the argument. — বিতর্ক চলাকালে সে সবার থেকে দূরে দূরে ছিল।",
+      "At dinner, she explained that 'Aloof' means 'not friendly or involved', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Aloof’ শব্দটির অর্থ—নির্লিপ্ত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Aloof' as 'not friendly or involved' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Aloof’ শব্দটি নির্লিপ্ত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Altruism",
+    "pronunciation_bn": "অ্যালট্রুইজম",
+    "pronunciation": "/ˈæl.truː.ɪ.zəm/",
+    "no": 75,
+    "group": 3,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "unselfish concern for the well-being of others",
+    "meaning_bn": [
+      "পরার্থপরতা",
+      "নিঃস্বার্থপরতা",
+      "পরোপকারিতা"
+    ],
+    "synonyms": [
+      {
+        "en": "selflessness",
+        "bn": "নিঃস্বার্থতা"
+      },
+      {
+        "en": "benevolence",
+        "bn": "পরোপকারিতা"
+      },
+      {
+        "en": "generosity",
+        "bn": "উদারতা"
+      },
+      {
+        "en": "Largess",
+        "bn": "উদার দান"
+      },
+      {
+        "en": "Philanthropy",
+        "bn": "মানবহিতৈষী কাজ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "selfishness",
+        "bn": "স্বার্থপরতা"
+      },
+      {
+        "en": "egoism",
+        "bn": "আত্মকেন্দ্রিকতা"
+      },
+      {
+        "en": "Avarice",
+        "bn": "অতিরিক্ত লোভ"
+      },
+      {
+        "en": "Narcissism",
+        "bn": "আত্মমুগ্ধতা"
+      }
+    ],
+    "example": "His altruism was evident in his years of volunteer work.",
+    "example_bn": "বছরের পর বছর স্বেচ্ছাসেবামূলক কাজের মাধ্যমে তার পরার্থপরতা স্পষ্ট হয়েছিল।",
+    "examples": [
+      "His altruism was evident in his years of volunteer work. — বছরের পর বছর স্বেচ্ছাসেবামূলক কাজের মাধ্যমে তার পরার্থপরতা স্পষ্ট হয়েছিল।",
+      "At dinner, she explained that 'Altruism' means 'unselfish concern for the well-being of others', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Altruism’ শব্দটির অর্থ—পরার্থপরতা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Altruism' as 'unselfish concern for the well-being of others' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Altruism’ শব্দটি পরার্থপরতা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

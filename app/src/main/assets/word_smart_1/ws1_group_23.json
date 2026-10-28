@@ -1,0 +1,1741 @@
+[
+  {
+    "word": "Myopia",
+    "pronunciation_bn": "মাইওপিয়া",
+    "pronunciation": "/maɪˈoʊ.pi.ə/",
+    "no": 551,
+    "group": 23,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a lack of foresight; figuratively, an inability to see the wider or long-term consequences of something",
+    "meaning_bn": [
+      "ক্ষীণদৃষ্টি",
+      "দূরদর্শিতার অভাব",
+      "সংকীর্ণ দৃষ্টিভঙ্গি"
+    ],
+    "synonyms": [
+      {
+        "en": "shortsightedness",
+        "bn": "ক্ষীণদৃষ্টি; দূরদর্শিতার অভাব"
+      },
+      {
+        "en": "narrow-mindedness",
+        "bn": "সংকীর্ণ মানসিকতা"
+      },
+      {
+        "en": "lack of foresight",
+        "bn": "দূরদর্শিতার অভাব"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "foresight",
+        "bn": "দূরদর্শিতা"
+      },
+      {
+        "en": "vision",
+        "bn": "দূরদৃষ্টি"
+      },
+      {
+        "en": "perspective",
+        "bn": "বিস্তৃত দৃষ্টিভঙ্গি"
+      }
+    ],
+    "example": "The candidate's political myopia cost him the election.",
+    "example_bn": "প্রার্থীর রাজনৈতিক দূরদর্শিতার অভাবের কারণে তিনি নির্বাচনে হেরে যান।",
+    "examples": [
+      "The candidate's political myopia cost him the election. — প্রার্থীর রাজনৈতিক দূরদর্শিতার অভাবের কারণে তিনি নির্বাচনে হেরে যান।",
+      "At dinner, she explained that 'Myopia' means 'a lack of foresight', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Myopia’ শব্দটির অর্থ—ক্ষীণদৃষ্টি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Myopia' as 'a lack of foresight' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Myopia’ শব্দটি ক্ষীণদৃষ্টি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Myriad",
+    "pronunciation_bn": "মিরিয়াড",
+    "pronunciation": "/ˈmɪr.i.əd/",
+    "no": 552,
+    "group": 23,
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "meaning_en": "a very large number of people or things; countless",
+    "meaning_bn": [
+      "অসংখ্য",
+      "অগণিত",
+      "অগণন"
+    ],
+    "synonyms": [
+      {
+        "en": "countless",
+        "bn": "অগণিত"
+      },
+      {
+        "en": "innumerable",
+        "bn": "অসংখ্য"
+      },
+      {
+        "en": "multitude",
+        "bn": "বিপুল সংখ্যক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "few",
+        "bn": "অল্প কয়েকটি"
+      },
+      {
+        "en": "handful",
+        "bn": "মুষ্টিমেয়"
+      },
+      {
+        "en": "scarcity",
+        "bn": "স্বল্পতা"
+      },
+      {
+        "en": "Dearth",
+        "bn": "অভাব"
+      },
+      {
+        "en": "Paucity",
+        "bn": "স্বল্পতা"
+      }
+    ],
+    "example": "The internet offers a myriad of learning resources.",
+    "example_bn": "ইন্টারনেটে শেখার অসংখ্য উপকরণ রয়েছে।",
+    "examples": [
+      "The internet offers a myriad of learning resources. — ইন্টারনেটে শেখার অসংখ্য উপকরণ রয়েছে।",
+      "At dinner, she explained that 'Myriad' means 'a very large number of people or things', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Myriad’ শব্দটির অর্থ—অসংখ্য—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Myriad' as 'a very large number of people or things' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Myriad’ শব্দটি অসংখ্য অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Narcissism",
+    "pronunciation_bn": "নার্সিসিজম",
+    "pronunciation": "/ˈnɑːr.sə.sɪ.zəm/",
+    "no": 553,
+    "group": 23,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "excessive admiration of or interest in oneself, especially one's appearance or abilities",
+    "meaning_bn": [
+      "আত্মমুগ্ধতা",
+      "অতিরিক্ত আত্মপ্রেম",
+      "আত্মকেন্দ্রিকতা"
+    ],
+    "synonyms": [
+      {
+        "en": "self-absorption",
+        "bn": "আত্মমগ্নতা"
+      },
+      {
+        "en": "vanity",
+        "bn": "আত্মগরিমা"
+      },
+      {
+        "en": "egotism",
+        "bn": "অহমিকা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "humility",
+        "bn": "বিনয়"
+      },
+      {
+        "en": "selflessness",
+        "bn": "নিঃস্বার্থপরতা"
+      },
+      {
+        "en": "modesty",
+        "bn": "নম্রতা"
+      },
+      {
+        "en": "Altruism",
+        "bn": "পরার্থপরতা"
+      }
+    ],
+    "example": "His narcissism made it difficult for him to admit his mistakes.",
+    "example_bn": "অতিরিক্ত আত্মমুগ্ধতার কারণে তার পক্ষে নিজের ভুল স্বীকার করা কঠিন হয়ে পড়েছিল।",
+    "examples": [
+      "His narcissism made it difficult for him to admit his mistakes. — অতিরিক্ত আত্মমুগ্ধতার কারণে তার পক্ষে নিজের ভুল স্বীকার করা কঠিন হয়ে পড়েছিল।",
+      "At dinner, she explained that 'Narcissism' means 'excessive admiration of or interest in oneself, especially', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Narcissism’ শব্দটির অর্থ—আত্মমুগ্ধতা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Narcissism' as 'excessive admiration of or interest in oneself, especially' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Narcissism’ শব্দটি আত্মমুগ্ধতা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Nebulous",
+    "pronunciation_bn": "নেবিউলাস",
+    "pronunciation": "/ˈneb.jə.ləs/",
+    "no": 554,
+    "group": 23,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "unclear, vague, or not well defined",
+    "meaning_bn": [
+      "অস্পষ্ট",
+      "ধোঁয়াশাপূর্ণ",
+      "সুনির্দিষ্ট নয় এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "vague",
+        "bn": "অস্পষ্ট"
+      },
+      {
+        "en": "ambiguous",
+        "bn": "দ্ব্যর্থক"
+      },
+      {
+        "en": "ill-defined",
+        "bn": "অস্পষ্টভাবে নির্ধারিত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "clear",
+        "bn": "স্পষ্ট"
+      },
+      {
+        "en": "definite",
+        "bn": "সুনির্দিষ্ট"
+      },
+      {
+        "en": "explicit",
+        "bn": "সুস্পষ্ট"
+      }
+    ],
+    "example": "His plans for the future remained nebulous.",
+    "example_bn": "ভবিষ্যৎ নিয়ে তার পরিকল্পনাগুলো অস্পষ্টই রয়ে গেল।",
+    "examples": [
+      "His plans for the future remained nebulous. — ভবিষ্যৎ নিয়ে তার পরিকল্পনাগুলো অস্পষ্টই রয়ে গেল।",
+      "At dinner, she explained that 'Nebulous' means 'unclear, vague, or not well defined', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Nebulous’ শব্দটির অর্থ—অস্পষ্ট—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Nebulous' as 'unclear, vague, or not well defined' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Nebulous’ শব্দটি অস্পষ্ট অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Nefarious",
+    "pronunciation_bn": "নিফেয়ারিয়াস",
+    "pronunciation": "/nɪˈfer.i.əs/",
+    "no": 555,
+    "group": 23,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "extremely wicked or criminal",
+    "meaning_bn": [
+      "জঘন্য",
+      "দুষ্কর্মপূর্ণ",
+      "অত্যন্ত অনৈতিক"
+    ],
+    "synonyms": [
+      {
+        "en": "wicked",
+        "bn": "দুষ্ট; পাপিষ্ঠ"
+      },
+      {
+        "en": "evil",
+        "bn": "অশুভ; মন্দ"
+      },
+      {
+        "en": "villainous",
+        "bn": "দুর্বৃত্তসুলভ"
+      },
+      {
+        "en": "Heinous",
+        "bn": "জঘন্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "virtuous",
+        "bn": "সৎ ও নীতিবান"
+      },
+      {
+        "en": "honorable",
+        "bn": "সম্মানজনক; নীতিবান"
+      },
+      {
+        "en": "upright",
+        "bn": "সৎ"
+      }
+    ],
+    "example": "The police uncovered a nefarious scheme to defraud investors.",
+    "example_bn": "পুলিশ বিনিয়োগকারীদের প্রতারণা করার একটি জঘন্য ষড়যন্ত্র উদ্ঘাটন করে।",
+    "examples": [
+      "The police uncovered a nefarious scheme to defraud investors. — পুলিশ বিনিয়োগকারীদের প্রতারণা করার একটি জঘন্য ষড়যন্ত্র উদ্ঘাটন করে।",
+      "At dinner, she explained that 'Nefarious' means 'extremely wicked or criminal', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Nefarious’ শব্দটির অর্থ—জঘন্য—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Nefarious' as 'extremely wicked or criminal' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Nefarious’ শব্দটি জঘন্য অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Neologism",
+    "pronunciation_bn": "নিওলজিজম",
+    "pronunciation": "/niˈɑː.lə.dʒɪ.zəm/",
+    "no": 556,
+    "group": 23,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a newly coined word or expression, or a new meaning or use of an existing word",
+    "meaning_bn": [
+      "নবগঠিত শব্দ",
+      "নতুন শব্দপ্রয়োগ",
+      "প্রচলিত শব্দের নতুন অর্থ"
+    ],
+    "synonyms": [
+      {
+        "en": "coinage",
+        "bn": "নতুন শব্দ গঠন"
+      },
+      {
+        "en": "newly coined word",
+        "bn": "নবগঠিত শব্দ"
+      },
+      {
+        "en": "neologism",
+        "bn": "নবশব্দ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "archaism",
+        "bn": "প্রাচীন শব্দ বা প্রাচীন শব্দপ্রয়োগ"
+      },
+      {
+        "en": "obsolete term",
+        "bn": "অপ্রচলিত শব্দ"
+      },
+      {
+        "en": "archaic expression",
+        "bn": "সেকেলে অভিব্যক্তি"
+      }
+    ],
+    "example": "'Selfie' is a relatively recent neologism.",
+    "example_bn": "‘সেলফি’ তুলনামূলকভাবে সাম্প্রতিক সময়ে গঠিত একটি নতুন শব্দ।",
+    "examples": [
+      "'Selfie' is a relatively recent neologism. — ‘সেলফি’ তুলনামূলকভাবে সাম্প্রতিক সময়ে গঠিত একটি নতুন শব্দ।",
+      "At dinner, she explained that 'Neologism' means 'a newly coined word or expression', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Neologism’ শব্দটির অর্থ—নবগঠিত শব্দ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Neologism' as 'a newly coined word or expression' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Neologism’ শব্দটি নবগঠিত শব্দ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Nepotism",
+    "pronunciation_bn": "নেপোটিজম",
+    "pronunciation": "/ˈnep.ə.tɪ.zəm/",
+    "no": 557,
+    "group": 23,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the practice of giving jobs or unfair advantages to family members, especially by someone in power",
+    "meaning_bn": [
+      "স্বজনপ্রীতি",
+      "আত্মীয়পক্ষপাত"
+    ],
+    "synonyms": [
+      {
+        "en": "favoritism",
+        "bn": "পক্ষপাতিত্ব"
+      },
+      {
+        "en": "family favoritism",
+        "bn": "আত্মীয়দের প্রতি পক্ষপাত"
+      },
+      {
+        "en": "cronyism",
+        "bn": "ঘনিষ্ঠজনপ্রীতি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "impartiality",
+        "bn": "নিরপেক্ষতা"
+      },
+      {
+        "en": "fairness",
+        "bn": "ন্যায্যতা"
+      },
+      {
+        "en": "meritocracy",
+        "bn": "যোগ্যতাভিত্তিক ব্যবস্থা"
+      }
+    ],
+    "example": "He was accused of nepotism after hiring his cousin.",
+    "example_bn": "নিজের চাচাতো ভাইকে চাকরি দেওয়ার পর তার বিরুদ্ধে স্বজনপ্রীতির অভিযোগ ওঠে।",
+    "examples": [
+      "He was accused of nepotism after hiring his cousin. — নিজের চাচাতো ভাইকে চাকরি দেওয়ার পর তার বিরুদ্ধে স্বজনপ্রীতির অভিযোগ ওঠে।",
+      "At dinner, she explained that 'Nepotism' means 'the practice of giving jobs or unfair advantages', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Nepotism’ শব্দটির অর্থ—স্বজনপ্রীতি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Nepotism' as 'the practice of giving jobs or unfair advantages' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Nepotism’ শব্দটি স্বজনপ্রীতি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Nihilism",
+    "pronunciation_bn": "নাইহিলিজম",
+    "pronunciation": "/ˈnaɪ.ə.lɪ.zəm/",
+    "no": 558,
+    "group": 23,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the belief that life, values, or moral principles have no inherent meaning or validity",
+    "meaning_bn": [
+      "শূন্যবাদ",
+      "জীবন বা মূল্যবোধের অন্তর্নিহিত অর্থ অস্বীকারের মতবাদ",
+      "নৈতিক মূল্যবোধের অস্বীকৃতি"
+    ],
+    "synonyms": [
+      {
+        "en": "skepticism",
+        "bn": "সংশয়বাদ"
+      },
+      {
+        "en": "negativism",
+        "bn": "নেতিবাচকতাবাদ"
+      },
+      {
+        "en": "rejection of established values",
+        "bn": "প্রতিষ্ঠিত মূল্যবোধের প্রত্যাখ্যান"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "idealism",
+        "bn": "আদর্শবাদ"
+      },
+      {
+        "en": "affirmation of values",
+        "bn": "মূল্যবোধের স্বীকৃতি"
+      },
+      {
+        "en": "belief",
+        "bn": "বিশ্বাস"
+      },
+      {
+        "en": "conviction",
+        "bn": "দৃঢ় বিশ্বাস"
+      }
+    ],
+    "example": "His nihilism led him to question the meaning of every social convention.",
+    "example_bn": "শূন্যবাদী দৃষ্টিভঙ্গির কারণে সে প্রতিটি সামাজিক প্রথার অর্থ নিয়ে প্রশ্ন তুলত।",
+    "examples": [
+      "His nihilism led him to question the meaning of every social convention. — শূন্যবাদী দৃষ্টিভঙ্গির কারণে সে প্রতিটি সামাজিক প্রথার অর্থ নিয়ে প্রশ্ন তুলত।",
+      "At dinner, she explained that 'Nihilism' means 'the belief that life, values, or moral principles', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Nihilism’ শব্দটির অর্থ—শূন্যবাদ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Nihilism' as 'the belief that life, values, or moral principles' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Nihilism’ শব্দটি শূন্যবাদ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Nominal",
+    "pronunciation_bn": "নমিনাল",
+    "pronunciation": "/ˈnɑː.mɪ.nəl/",
+    "no": 559,
+    "group": 23,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "existing in name only, or very small in amount or value",
+    "meaning_bn": [
+      "নামমাত্র",
+      "নামকাওয়াস্তে",
+      "নগণ্য"
+    ],
+    "synonyms": [
+      {
+        "en": "token",
+        "bn": "নামমাত্র"
+      },
+      {
+        "en": "minimal",
+        "bn": "অতি সামান্য"
+      },
+      {
+        "en": "insignificant",
+        "bn": "নগণ্য"
+      },
+      {
+        "en": "titular",
+        "bn": "নামমাত্র পদে থাকা"
+      },
+      {
+        "en": "Paltry",
+        "bn": "নগণ্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "substantial",
+        "bn": "উল্লেখযোগ্য"
+      },
+      {
+        "en": "considerable",
+        "bn": "বেশ বড়; উল্লেখযোগ্য"
+      },
+      {
+        "en": "significant",
+        "bn": "তাৎপর্যপূর্ণ"
+      },
+      {
+        "en": "Substantive",
+        "bn": "মৌলিক"
+      },
+      {
+        "en": "pregnant",
+        "bn": "গর্ভবতী"
+      },
+      {
+        "en": "Pivotal",
+        "bn": "অত্যন্ত গুরুত্বপূর্ণ"
+      },
+      {
+        "en": "Prodigious",
+        "bn": "অসাধারণ"
+      },
+      {
+        "en": "Salient",
+        "bn": "বিশিষ্ট"
+      }
+    ],
+    "example": "He charged only a nominal fee for the service.",
+    "example_bn": "সেবাটির জন্য তিনি নামমাত্র ফি নিয়েছিলেন।",
+    "examples": [
+      "He charged only a nominal fee for the service. — সেবাটির জন্য তিনি নামমাত্র ফি নিয়েছিলেন।",
+      "At dinner, she explained that 'Nominal' means 'existing in name only, or very small', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Nominal’ শব্দটির অর্থ—নামমাত্র—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Nominal' as 'existing in name only, or very small' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Nominal’ শব্দটি নামমাত্র অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Nostalgia",
+    "pronunciation_bn": "নস্ট্যালজিয়া",
+    "pronunciation": "/nɑːˈstæl.dʒə/",
+    "no": 560,
+    "group": 23,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a sentimental longing for or affection for the past",
+    "meaning_bn": [
+      "অতীতের জন্য আকুলতা",
+      "স্মৃতিকাতরতা",
+      "অতীতস্মৃতিজনিত আবেগ"
+    ],
+    "synonyms": [
+      {
+        "en": "homesickness",
+        "bn": "ঘর বা স্বদেশের জন্য মনকেমন"
+      },
+      {
+        "en": "yearning for the past",
+        "bn": "অতীতের জন্য আকুলতা"
+      },
+      {
+        "en": "sentimentality",
+        "bn": "আবেগপ্রবণতা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "forgetfulness",
+        "bn": "বিস্মৃতি"
+      },
+      {
+        "en": "forward-looking attitude",
+        "bn": "ভবিষ্যৎমুখী মনোভাব"
+      },
+      {
+        "en": "detachment",
+        "bn": "আবেগহীন দূরত্ব"
+      },
+      {
+        "en": "Oblivion",
+        "bn": "বিস্মৃতি"
+      }
+    ],
+    "example": "Listening to old songs fills me with nostalgia.",
+    "example_bn": "পুরোনো গান শুনলে আমি অতীতের স্মৃতিকাতরতায় ভরে উঠি।",
+    "examples": [
+      "Listening to old songs fills me with nostalgia. — পুরোনো গান শুনলে আমি অতীতের স্মৃতিকাতরতায় ভরে উঠি।",
+      "At dinner, she explained that 'Nostalgia' means 'a sentimental longing for or affection', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Nostalgia’ শব্দটির অর্থ—অতীতের জন্য আকুলতা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Nostalgia' as 'a sentimental longing for or affection' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Nostalgia’ শব্দটি অতীতের জন্য আকুলতা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Notorious",
+    "pronunciation_bn": "নোটোরিয়াস",
+    "pronunciation": "/noʊˈtɔːr.i.əs/",
+    "no": 561,
+    "group": 23,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "well known for something bad or unpleasant",
+    "meaning_bn": [
+      "কুখ্যাত",
+      "মন্দ কাজের জন্য সুপরিচিত"
+    ],
+    "synonyms": [
+      {
+        "en": "infamous",
+        "bn": "কুখ্যাত"
+      },
+      {
+        "en": "ill-famed",
+        "bn": "দুর্নামখ্যাত"
+      },
+      {
+        "en": "disreputable",
+        "bn": "বদনাম আছে এমন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "reputable",
+        "bn": "সুনামধন্য"
+      },
+      {
+        "en": "honorable",
+        "bn": "সম্মানিত"
+      },
+      {
+        "en": "respected",
+        "bn": "শ্রদ্ধেয়"
+      },
+      {
+        "en": "estimable",
+        "bn": "সম্মানের যোগ্য"
+      }
+    ],
+    "example": "He was notorious for his violent temper.",
+    "example_bn": "হিংস্র মেজাজের জন্য সে কুখ্যাত ছিল।",
+    "examples": [
+      "He was notorious for his violent temper. — হিংস্র মেজাজের জন্য সে কুখ্যাত ছিল।",
+      "At dinner, she explained that 'Notorious' means 'well known for something bad or unpleasant', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Notorious’ শব্দটির অর্থ—কুখ্যাত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Notorious' as 'well known for something bad or unpleasant' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Notorious’ শব্দটি কুখ্যাত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Novel",
+    "pronunciation_bn": "নভেল",
+    "pronunciation": "/ˈnɑː.vəl/",
+    "no": 562,
+    "group": 23,
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "meaning_en": "new, original, or unusual; also, a long fictional prose narrative",
+    "meaning_bn": [
+      "নতুন",
+      "অভিনব",
+      "উপন্যাস"
+    ],
+    "synonyms": [
+      {
+        "en": "new",
+        "bn": "নতুন"
+      },
+      {
+        "en": "original",
+        "bn": "মৌলিক"
+      },
+      {
+        "en": "innovative",
+        "bn": "উদ্ভাবনী"
+      },
+      {
+        "en": "Aboriginal",
+        "bn": "আদিবাসী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "old",
+        "bn": "পুরোনো"
+      },
+      {
+        "en": "traditional",
+        "bn": "প্রচলিত"
+      },
+      {
+        "en": "conventional",
+        "bn": "গতানুগতিক"
+      },
+      {
+        "en": "Hoary",
+        "bn": "বয়সের কারণে ধূসর বা সাদা"
+      },
+      {
+        "en": "Banal",
+        "bn": "গতানুগতিক"
+      },
+      {
+        "en": "Hackneyed",
+        "bn": "বহুল ব্যবহারে মামুলি হয়ে যাওয়া"
+      },
+      {
+        "en": "Bourgeois",
+        "bn": "মধ্যবিত্ত শ্রেণিসংক্রান্ত"
+      },
+      {
+        "en": "Orthodox",
+        "bn": "প্রথাগত"
+      },
+      {
+        "en": "Archaic",
+        "bn": "প্রাচীন"
+      },
+      {
+        "en": "clone",
+        "bn": "জিনগতভাবে অভিন্ন জীব"
+      }
+    ],
+    "example": "She presented a novel approach to the old problem.",
+    "example_bn": "পুরোনো সমস্যাটির সমাধানে তিনি একটি অভিনব পদ্ধতি উপস্থাপন করলেন।",
+    "examples": [
+      "She presented a novel approach to the old problem. — পুরোনো সমস্যাটির সমাধানে তিনি একটি অভিনব পদ্ধতি উপস্থাপন করলেন।",
+      "At dinner, she explained that 'Novel' means 'new, original, or unusual', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Novel’ শব্দটির অর্থ—নতুন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Novel' as 'new, original, or unusual' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Novel’ শব্দটি নতুন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Noxious",
+    "pronunciation_bn": "নকশাস",
+    "pronunciation": "/ˈnɑːk.ʃəs/",
+    "no": 563,
+    "group": 23,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "harmful, poisonous, or injurious to living things",
+    "meaning_bn": [
+      "ক্ষতিকর",
+      "বিষাক্ত",
+      "স্বাস্থ্যের জন্য অনিষ্টকর"
+    ],
+    "synonyms": [
+      {
+        "en": "harmful",
+        "bn": "ক্ষতিকর"
+      },
+      {
+        "en": "toxic",
+        "bn": "বিষাক্ত"
+      },
+      {
+        "en": "deleterious",
+        "bn": "অনিষ্টকর"
+      },
+      {
+        "en": "noisome",
+        "bn": "দুর্গন্ধযুক্ত"
+      },
+      {
+        "en": "Inimical",
+        "bn": "ক্ষতিকর"
+      },
+      {
+        "en": "Pernicious",
+        "bn": "মারাত্মক ক্ষতিকর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "harmless",
+        "bn": "ক্ষতিহীন"
+      },
+      {
+        "en": "safe",
+        "bn": "নিরাপদ"
+      },
+      {
+        "en": "beneficial",
+        "bn": "উপকারী"
+      },
+      {
+        "en": "Innocuous",
+        "bn": "ক্ষতিহীন"
+      },
+      {
+        "en": "Conducive",
+        "bn": "সহায়ক"
+      },
+      {
+        "en": "Benign",
+        "bn": "ক্ষতিকর নয় এমন"
+      },
+      {
+        "en": "Salutary",
+        "bn": "উপকারী"
+      },
+      {
+        "en": "Congenial",
+        "bn": "মনোরম"
+      }
+    ],
+    "example": "The factory released noxious gases into the air.",
+    "example_bn": "কারখানাটি বাতাসে ক্ষতিকর গ্যাস ছেড়ে দিয়েছিল।",
+    "examples": [
+      "The factory released noxious gases into the air. — কারখানাটি বাতাসে ক্ষতিকর গ্যাস ছেড়ে দিয়েছিল।",
+      "At dinner, she explained that 'Noxious' means 'harmful, poisonous, or injurious to living things', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Noxious’ শব্দটির অর্থ—ক্ষতিকর—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Noxious' as 'harmful, poisonous, or injurious to living things' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Noxious’ শব্দটি ক্ষতিকর অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Nuance",
+    "pronunciation_bn": "নুয়ান্স",
+    "pronunciation": "/ˈnuː.ɑːns/",
+    "no": 564,
+    "group": 23,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a subtle difference in meaning, feeling, tone, or expression",
+    "meaning_bn": [
+      "সূক্ষ্ম পার্থক্য",
+      "অর্থের সূক্ষ্মতা",
+      "ভাবের সূক্ষ্ম ভিন্নতা"
+    ],
+    "synonyms": [
+      {
+        "en": "subtlety",
+        "bn": "সূক্ষ্মতা"
+      },
+      {
+        "en": "distinction",
+        "bn": "পার্থক্য"
+      },
+      {
+        "en": "shade of meaning",
+        "bn": "অর্থের সূক্ষ্ম ভিন্নতা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "sameness",
+        "bn": "একই রকম হওয়া"
+      },
+      {
+        "en": "uniformity",
+        "bn": "একরূপতা"
+      },
+      {
+        "en": "bluntness",
+        "bn": "সূক্ষ্মতার অভাব"
+      },
+      {
+        "en": "Ignominy",
+        "bn": "চরম অসম্মান"
+      }
+    ],
+    "example": "He appreciated the nuance of her argument.",
+    "example_bn": "তিনি তার যুক্তির সূক্ষ্ম তাৎপর্যটি বুঝতে পেরেছিলেন।",
+    "examples": [
+      "He appreciated the nuance of her argument. — তিনি তার যুক্তির সূক্ষ্ম তাৎপর্যটি বুঝতে পেরেছিলেন।",
+      "At dinner, she explained that 'Nuance' means 'a subtle difference in meaning, feeling, tone', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Nuance’ শব্দটির অর্থ—সূক্ষ্ম পার্থক্য—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Nuance' as 'a subtle difference in meaning, feeling, tone' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Nuance’ শব্দটি সূক্ষ্ম পার্থক্য অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Obdurate",
+    "pronunciation_bn": "অবডুরেট",
+    "pronunciation": "/ˈɑːb.djʊr.ət/",
+    "no": 565,
+    "group": 23,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "stubbornly refusing to change one's opinion or course of action",
+    "meaning_bn": [
+      "একগুঁয়ে",
+      "অনমনীয়",
+      "মত পরিবর্তনে অনিচ্ছুক"
+    ],
+    "synonyms": [
+      {
+        "en": "stubborn",
+        "bn": "একগুঁয়ে"
+      },
+      {
+        "en": "unyielding",
+        "bn": "অনমনীয়"
+      },
+      {
+        "en": "inflexible",
+        "bn": "নমনীয়তাহীন"
+      },
+      {
+        "en": "Adamant",
+        "bn": "অনড়"
+      },
+      {
+        "en": "Intransigent",
+        "bn": "অনমনীয়"
+      },
+      {
+        "en": "Dogmatic",
+        "bn": "মতান্ধ"
+      },
+      {
+        "en": "Inexorable",
+        "bn": "অনিবার্য"
+      },
+      {
+        "en": "Recalcitrant",
+        "bn": "অবাধ্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "compliant",
+        "bn": "সহজে মেনে চলে এমন"
+      },
+      {
+        "en": "flexible",
+        "bn": "নমনীয়"
+      },
+      {
+        "en": "yielding",
+        "bn": "নতি স্বীকার করে এমন"
+      },
+      {
+        "en": "Amenable",
+        "bn": "রাজি"
+      },
+      {
+        "en": "Docile",
+        "bn": "শান্তশিষ্ট"
+      },
+      {
+        "en": "pliable",
+        "bn": "নমনীয়"
+      },
+      {
+        "en": "Malleable",
+        "bn": "নমনীয়"
+      }
+    ],
+    "example": "The obdurate official refused to listen to the villagers' concerns.",
+    "example_bn": "একগুঁয়ে কর্মকর্তা গ্রামবাসীদের উদ্বেগের কথা শুনতে অস্বীকার করলেন।",
+    "examples": [
+      "The obdurate official refused to listen to the villagers' concerns. — একগুঁয়ে কর্মকর্তা গ্রামবাসীদের উদ্বেগের কথা শুনতে অস্বীকার করলেন।",
+      "At dinner, she explained that 'Obdurate' means 'stubbornly refusing to change one's opinion or course', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Obdurate’ শব্দটির অর্থ—একগুঁয়ে—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Obdurate' as 'stubbornly refusing to change one's opinion or course' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Obdurate’ শব্দটি একগুঁয়ে অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Obfuscate",
+    "pronunciation_bn": "অবফাসকেইট",
+    "pronunciation": "/ˈɑːb.fə.skeɪt/",
+    "no": 566,
+    "group": 23,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to make something unclear or difficult to understand, often deliberately",
+    "meaning_bn": [
+      "অস্পষ্ট করা",
+      "বিভ্রান্ত করা",
+      "বোঝা কঠিন করে তোলা"
+    ],
+    "synonyms": [
+      {
+        "en": "obscure",
+        "bn": "অস্পষ্ট করা"
+      },
+      {
+        "en": "confuse",
+        "bn": "বিভ্রান্ত করা"
+      },
+      {
+        "en": "bewilder",
+        "bn": "হতবুদ্ধি করে দেওয়া"
+      },
+      {
+        "en": "confound",
+        "bn": "বিভ্রান্ত করা"
+      },
+      {
+        "en": "eclipse",
+        "bn": "আলো আড়াল করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "clarify",
+        "bn": "স্পষ্ট করা"
+      },
+      {
+        "en": "elucidate",
+        "bn": "ব্যাখ্যা করে পরিষ্কার করা"
+      },
+      {
+        "en": "simplify",
+        "bn": "সহজ করা"
+      },
+      {
+        "en": "Delineate",
+        "bn": "সুনির্দিষ্টভাবে বর্ণনা করা"
+      },
+      {
+        "en": "Accentuate",
+        "bn": "বিশেষভাবে তুলে ধরা"
+      },
+      {
+        "en": "Distinguish",
+        "bn": "পার্থক্য নির্ণয় করা"
+      },
+      {
+        "en": "explicate",
+        "bn": "বিস্তারিত ব্যাখ্যা করা"
+      },
+      {
+        "en": "Manifest",
+        "bn": "স্পষ্ট"
+      }
+    ],
+    "example": "His lengthy explanation only obfuscated the issue.",
+    "example_bn": "তার দীর্ঘ ব্যাখ্যা সমস্যাটিকে আরও জটিল ও অস্পষ্ট করে তুলল।",
+    "examples": [
+      "His lengthy explanation only obfuscated the issue. — তার দীর্ঘ ব্যাখ্যা সমস্যাটিকে আরও জটিল ও অস্পষ্ট করে তুলল।",
+      "At dinner, she explained that 'Obfuscate' means 'to make something unclear or difficult to understand', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Obfuscate’ শব্দটির অর্থ—অস্পষ্ট করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Obfuscate' as 'to make something unclear or difficult to understand' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Obfuscate’ শব্দটি অস্পষ্ট করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Oblique",
+    "pronunciation_bn": "অব্লীক",
+    "pronunciation": "/əˈbliːk/",
+    "no": 567,
+    "group": 23,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "indirect or not expressed in a straightforward way; also, slanting",
+    "meaning_bn": [
+      "পরোক্ষ",
+      "ঘুরিয়ে বলা",
+      "তির্যক"
+    ],
+    "synonyms": [
+      {
+        "en": "indirect",
+        "bn": "পরোক্ষ"
+      },
+      {
+        "en": "roundabout",
+        "bn": "ঘুরপথে বলা"
+      },
+      {
+        "en": "slanting",
+        "bn": "তির্যক"
+      },
+      {
+        "en": "Elliptical",
+        "bn": "ইঙ্গিতপূর্ণ ও পরোক্ষ"
+      },
+      {
+        "en": "Circuitous",
+        "bn": "ঘুরপ্যাঁচযুক্ত"
+      },
+      {
+        "en": "Ambiguous",
+        "bn": "দ্ব্যর্থক"
+      },
+      {
+        "en": "Equivocal",
+        "bn": "দ্ব্যর্থক"
+      },
+      {
+        "en": "Tangential",
+        "bn": "মূল বিষয়ের সঙ্গে সরাসরি সম্পর্কহীন"
+      },
+      {
+        "en": "Vicarious",
+        "bn": "পরোক্ষভাবে অনুভূত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "direct",
+        "bn": "সরাসরি"
+      },
+      {
+        "en": "straightforward",
+        "bn": "সোজাসাপ্টা"
+      },
+      {
+        "en": "explicit",
+        "bn": "স্পষ্ট"
+      },
+      {
+        "en": "Categorical",
+        "bn": "নিঃশর্ত"
+      }
+    ],
+    "example": "He made an oblique reference to the incident.",
+    "example_bn": "তিনি ঘটনাটির প্রতি পরোক্ষভাবে ইঙ্গিত করেছিলেন।",
+    "examples": [
+      "He made an oblique reference to the incident. — তিনি ঘটনাটির প্রতি পরোক্ষভাবে ইঙ্গিত করেছিলেন।",
+      "At dinner, she explained that 'Oblique' means 'indirect or not expressed in a straightforward way', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Oblique’ শব্দটির অর্থ—পরোক্ষ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Oblique' as 'indirect or not expressed in a straightforward way' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Oblique’ শব্দটি পরোক্ষ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Oblivion",
+    "pronunciation_bn": "অবলিভিয়ন",
+    "pronunciation": "/əˈblɪv.i.ən/",
+    "no": 568,
+    "group": 23,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the state of being forgotten or completely unaware of something",
+    "meaning_bn": [
+      "বিস্মৃতি",
+      "লোকচক্ষুর আড়ালে হারিয়ে যাওয়া",
+      "সম্পূর্ণ অজ্ঞতা"
+    ],
+    "synonyms": [
+      {
+        "en": "forgetfulness",
+        "bn": "ভুলে যাওয়া"
+      },
+      {
+        "en": "obscurity",
+        "bn": "অখ্যাতি; বিস্মৃতির আড়াল"
+      },
+      {
+        "en": "unawareness",
+        "bn": "অবগত না থাকা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "remembrance",
+        "bn": "স্মরণ"
+      },
+      {
+        "en": "awareness",
+        "bn": "সচেতনতা"
+      },
+      {
+        "en": "recognition",
+        "bn": "স্বীকৃতি"
+      },
+      {
+        "en": "Nostalgia",
+        "bn": "অতীতের জন্য আকুলতা"
+      },
+      {
+        "en": "exposition",
+        "bn": "বিস্তারিত ব্যাখ্যা"
+      }
+    ],
+    "example": "The once-famous actor faded into oblivion.",
+    "example_bn": "একসময়ের বিখ্যাত অভিনেতা ধীরে ধীরে বিস্মৃতির আড়ালে হারিয়ে গেলেন।",
+    "examples": [
+      "The once-famous actor faded into oblivion. — একসময়ের বিখ্যাত অভিনেতা ধীরে ধীরে বিস্মৃতির আড়ালে হারিয়ে গেলেন।",
+      "At dinner, she explained that 'Oblivion' means 'the state of being forgotten or completely unaware', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Oblivion’ শব্দটির অর্থ—বিস্মৃতি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Oblivion' as 'the state of being forgotten or completely unaware' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Oblivion’ শব্দটি বিস্মৃতি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Obscure",
+    "pronunciation_bn": "অবস্কিউর",
+    "pronunciation": "/əbˈskjʊr/",
+    "no": 569,
+    "group": 23,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "not clear or easily understood; not well known",
+    "meaning_bn": [
+      "অস্পষ্ট",
+      "দুর্বোধ্য",
+      "অখ্যাত"
+    ],
+    "synonyms": [
+      {
+        "en": "unclear",
+        "bn": "অস্পষ্ট"
+      },
+      {
+        "en": "vague",
+        "bn": "ধোঁয়াশাপূর্ণ"
+      },
+      {
+        "en": "enigmatic",
+        "bn": "রহস্যময়; দুর্বোধ্য"
+      },
+      {
+        "en": "Recondite",
+        "bn": "দুর্বোধ্য"
+      },
+      {
+        "en": "Arcane",
+        "bn": "অল্প কয়েকজনের জানা"
+      },
+      {
+        "en": "Esoteric",
+        "bn": "দুর্বোধ্য"
+      },
+      {
+        "en": "Obfuscate",
+        "bn": "অস্পষ্ট করা (pos change)"
+      },
+      {
+        "en": "Abstruse",
+        "bn": "দুর্বোধ্য"
+      },
+      {
+        "en": "eclipse",
+        "bn": "আলো আড়াল করা (pos change)"
+      },
+      {
+        "en": "Cryptic",
+        "bn": "রহস্যময়"
+      },
+      {
+        "en": "Equivocal",
+        "bn": "দ্ব্যর্থক"
+      },
+      {
+        "en": "Ambiguous",
+        "bn": "দ্ব্যর্থক"
+      },
+      {
+        "en": "nebulous",
+        "bn": "অস্পষ্ট"
+      },
+      {
+        "en": "Elliptical",
+        "bn": "ইঙ্গিতপূর্ণ ও পরোক্ষ"
+      },
+      {
+        "en": "occult",
+        "bn": "অতিপ্রাকৃত বা গুপ্তবিদ্যা-সম্পর্কিত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "clear",
+        "bn": "স্পষ্ট"
+      },
+      {
+        "en": "obvious",
+        "bn": "সুস্পষ্ট"
+      },
+      {
+        "en": "well-known",
+        "bn": "সুপরিচিত"
+      },
+      {
+        "en": "Accentuate",
+        "bn": "বিশেষভাবে তুলে ধরা (pos change)"
+      },
+      {
+        "en": "Patent",
+        "bn": "সুস্পষ্ট"
+      },
+      {
+        "en": "explicate",
+        "bn": "বিস্তারিত ব্যাখ্যা করা (pos change)"
+      },
+      {
+        "en": "Limpid",
+        "bn": "স্বচ্ছ"
+      },
+      {
+        "en": "Delineate",
+        "bn": "সুনির্দিষ্টভাবে বর্ণনা করা (pos change)"
+      },
+      {
+        "en": "conspicuous",
+        "bn": "সহজে চোখে পড়ে এমন"
+      },
+      {
+        "en": "Manifest",
+        "bn": "স্পষ্ট"
+      },
+      {
+        "en": "Blatant",
+        "bn": "নির্লজ্জভাবে স্পষ্ট"
+      },
+      {
+        "en": "Explicit",
+        "bn": "সুস্পষ্ট"
+      },
+      {
+        "en": "Lucid",
+        "bn": "স্পষ্ট"
+      },
+      {
+        "en": "Flagrant",
+        "bn": "প্রকাশ্য ও গুরুতর"
+      },
+      {
+        "en": "Banal",
+        "bn": "গতানুগতিক"
+      }
+    ],
+    "example": "The poem's meaning was obscure even to experts.",
+    "example_bn": "কবিতাটির অর্থ বিশেষজ্ঞদের কাছেও দুর্বোধ্য ছিল।",
+    "examples": [
+      "The poem's meaning was obscure even to experts. — কবিতাটির অর্থ বিশেষজ্ঞদের কাছেও দুর্বোধ্য ছিল।",
+      "At dinner, she explained that 'Obscure' means 'not clear or easily understood', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Obscure’ শব্দটির অর্থ—অস্পষ্ট—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Obscure' as 'not clear or easily understood' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Obscure’ শব্দটি অস্পষ্ট অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Obsequious",
+    "pronunciation_bn": "অবসীকুইয়াস",
+    "pronunciation": "/əbˈsiː.kwi.əs/",
+    "no": 570,
+    "group": 23,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "trying too hard to please someone important, in a way that seems insincere",
+    "meaning_bn": [
+      "অতিরিক্ত তোষামোদকারী",
+      "চাটুকার",
+      "অতি অনুগত"
+    ],
+    "synonyms": [
+      {
+        "en": "servile",
+        "bn": "দাসসুলভ অনুগত"
+      },
+      {
+        "en": "fawning",
+        "bn": "তোষামোদপূর্ণ"
+      },
+      {
+        "en": "sycophantic",
+        "bn": "চাটুকারিতাপূর্ণ"
+      },
+      {
+        "en": "Unctuous",
+        "bn": "কৃত্রিমভাবে তোষামোদপূর্ণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "assertive",
+        "bn": "আত্মবিশ্বাসের সঙ্গে নিজের মত প্রকাশ করে এমন"
+      },
+      {
+        "en": "independent",
+        "bn": "স্বাধীনচেতা"
+      },
+      {
+        "en": "unobsequious",
+        "bn": "তোষামোদহীন"
+      },
+      {
+        "en": "Autonomous",
+        "bn": "স্বায়ত্তশাসিত"
+      },
+      {
+        "en": "self-made",
+        "bn": "নিজের চেষ্টায় সফল"
+      }
+    ],
+    "example": "His obsequious behavior disgusted his colleagues.",
+    "example_bn": "তার অতিরিক্ত তোষামোদপূর্ণ আচরণ সহকর্মীদের বিরক্ত করেছিল।",
+    "examples": [
+      "His obsequious behavior disgusted his colleagues. — তার অতিরিক্ত তোষামোদপূর্ণ আচরণ সহকর্মীদের বিরক্ত করেছিল।",
+      "At dinner, she explained that 'Obsequious' means 'trying too hard to please someone important', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Obsequious’ শব্দটির অর্থ—অতিরিক্ত তোষামোদকারী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Obsequious' as 'trying too hard to please someone important' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Obsequious’ শব্দটি অতিরিক্ত তোষামোদকারী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Obtuse",
+    "pronunciation_bn": "অবটুস",
+    "pronunciation": "/əbˈtuːs/",
+    "no": 571,
+    "group": 23,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "slow to understand; not quick to grasp ideas or feelings; also, not sharp-pointed",
+    "meaning_bn": [
+      "বুদ্ধিতে ধীর",
+      "সহজে বুঝতে অক্ষম",
+      "ভোঁতা"
+    ],
+    "synonyms": [
+      {
+        "en": "dull",
+        "bn": "বুদ্ধিতে ধীর"
+      },
+      {
+        "en": "slow-witted",
+        "bn": "বুদ্ধিতে ধীর"
+      },
+      {
+        "en": "unperceptive",
+        "bn": "অনুধাবনে অক্ষম"
+      },
+      {
+        "en": "purblind",
+        "bn": "ক্ষীণদৃষ্টিসম্পন্ন"
+      },
+      {
+        "en": "Bovine",
+        "bn": "গবাদি পশু বা গরুসংক্রান্ত"
+      },
+      {
+        "en": "Insipid",
+        "bn": "বিস্বাদ"
+      },
+      {
+        "en": "bland",
+        "bn": "মৃদু"
+      },
+      {
+        "en": "Prosaic",
+        "bn": "সাদামাটা"
+      },
+      {
+        "en": "Vapid",
+        "bn": "নীরস"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "perceptive",
+        "bn": "তীক্ষ্ণবুদ্ধিসম্পন্ন"
+      },
+      {
+        "en": "astute",
+        "bn": "বিচক্ষণ"
+      },
+      {
+        "en": "sharp",
+        "bn": "তীক্ষ্ণবুদ্ধির; ধারালো"
+      },
+      {
+        "en": "Acute",
+        "bn": "তীব্র"
+      },
+      {
+        "en": "Acrid",
+        "bn": "ঝাঁঝালো"
+      },
+      {
+        "en": "Incandescent",
+        "bn": "তাপে দীপ্তিমান"
+      },
+      {
+        "en": "Incisive",
+        "bn": "তীক্ষ্ণ বিশ্লেষণী"
+      },
+      {
+        "en": "shrewd",
+        "bn": "বিচক্ষণ"
+      }
+    ],
+    "example": "He was too obtuse to sense the awkward atmosphere.",
+    "example_bn": "পরিস্থিতির অস্বস্তিকর আবহ বুঝতে সে এতটাই অক্ষম ছিল যে তা ধরতেই পারেনি।",
+    "examples": [
+      "He was too obtuse to sense the awkward atmosphere. — পরিস্থিতির অস্বস্তিকর আবহ বুঝতে সে এতটাই অক্ষম ছিল যে তা ধরতেই পারেনি।",
+      "At dinner, she explained that 'Obtuse' means 'slow to understand', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Obtuse’ শব্দটির অর্থ—বুদ্ধিতে ধীর—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Obtuse' as 'slow to understand' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Obtuse’ শব্দটি বুদ্ধিতে ধীর অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Officious",
+    "pronunciation_bn": "অফিশাস",
+    "pronunciation": "/əˈfɪʃ.əs/",
+    "no": 572,
+    "group": 23,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "too eager to give unwanted help or advice, especially by interfering in others' affairs",
+    "meaning_bn": [
+      "অনধিকারচর্চাকারী",
+      "অযাচিত উপদেশ দিতে উৎসুক",
+      "অপ্রয়োজনীয় হস্তক্ষেপকারী"
+    ],
+    "synonyms": [
+      {
+        "en": "meddlesome",
+        "bn": "অন্যের কাজে নাক গলায় এমন"
+      },
+      {
+        "en": "intrusive",
+        "bn": "অনধিকার প্রবেশকারী"
+      },
+      {
+        "en": "interfering",
+        "bn": "অযাচিত হস্তক্ষেপকারী"
+      },
+      {
+        "en": "obtrusive",
+        "bn": "অনধিকারভাবে চোখে পড়ে এমন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "unobtrusive",
+        "bn": "অনধিকারচর্চা করে না এমন"
+      },
+      {
+        "en": "discreet",
+        "bn": "বিবেচক ও সংযত"
+      },
+      {
+        "en": "tactful",
+        "bn": "কৌশলী ও মার্জিত"
+      },
+      {
+        "en": "Circumspect",
+        "bn": "সতর্ক"
+      },
+      {
+        "en": "Judicious",
+        "bn": "বিচক্ষণ"
+      },
+      {
+        "en": "Prudent",
+        "bn": "বিচক্ষণ"
+      }
+    ],
+    "example": "The officious clerk kept interrupting our conversation.",
+    "example_bn": "অনধিকারচর্চাকারী কেরানিটি বারবার আমাদের কথোপকথনে বাধা দিচ্ছিলেন।",
+    "examples": [
+      "The officious clerk kept interrupting our conversation. — অনধিকারচর্চাকারী কেরানিটি বারবার আমাদের কথোপকথনে বাধা দিচ্ছিলেন।",
+      "At dinner, she explained that 'Officious' means 'too eager to give unwanted help or advice', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Officious’ শব্দটির অর্থ—অনধিকারচর্চাকারী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Officious' as 'too eager to give unwanted help or advice' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Officious’ শব্দটি অনধিকারচর্চাকারী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Onerous",
+    "pronunciation_bn": "ওনারাস",
+    "pronunciation": "/ˈɑː.nər.əs/",
+    "no": 573,
+    "group": 23,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "involving a great deal of effort, responsibility, or difficulty; burdensome",
+    "meaning_bn": [
+      "দুরূহ",
+      "কষ্টসাধ্য",
+      "বোঝাস্বরূপ"
+    ],
+    "synonyms": [
+      {
+        "en": "burdensome",
+        "bn": "বোঝাস্বরূপ"
+      },
+      {
+        "en": "demanding",
+        "bn": "বেশ পরিশ্রমসাধ্য"
+      },
+      {
+        "en": "arduous",
+        "bn": "কষ্টসাধ্য"
+      },
+      {
+        "en": "Exacting",
+        "bn": "অত্যন্ত পরিশ্রমসাপেক্ষ"
+      },
+      {
+        "en": "Rigorous",
+        "bn": "কঠোর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "easy",
+        "bn": "সহজ"
+      },
+      {
+        "en": "manageable",
+        "bn": "সামলানো যায় এমন"
+      },
+      {
+        "en": "light",
+        "bn": "হালকা"
+      },
+      {
+        "en": "Docile",
+        "bn": "শান্তশিষ্ট"
+      },
+      {
+        "en": "Facile",
+        "bn": "অতি সহজে করা হলেও যথেষ্ট চিন্তাভাবনাহীন"
+      }
+    ],
+    "example": "The onerous workload left him exhausted.",
+    "example_bn": "কষ্টসাধ্য কাজের অতিরিক্ত চাপ তাকে ক্লান্ত করে ফেলেছিল।",
+    "examples": [
+      "The onerous workload left him exhausted. — কষ্টসাধ্য কাজের অতিরিক্ত চাপ তাকে ক্লান্ত করে ফেলেছিল।",
+      "At dinner, she explained that 'Onerous' means 'involving a great deal of effort, responsibility', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Onerous’ শব্দটির অর্থ—দুরূহ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Onerous' as 'involving a great deal of effort, responsibility' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Onerous’ শব্দটি দুরূহ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Opaque",
+    "pronunciation_bn": "ওপেইক",
+    "pronunciation": "/oʊˈpeɪk/",
+    "no": 574,
+    "group": 23,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "not allowing light to pass through; difficult to understand or explain",
+    "meaning_bn": [
+      "অস্বচ্ছ",
+      "আলো ভেদ করতে পারে না এমন",
+      "দুর্বোধ্য"
+    ],
+    "synonyms": [
+      {
+        "en": "nontransparent",
+        "bn": "অস্বচ্ছ"
+      },
+      {
+        "en": "cloudy",
+        "bn": "ঘোলাটে"
+      },
+      {
+        "en": "incomprehensible",
+        "bn": "দুর্বোধ্য"
+      },
+      {
+        "en": "turbid",
+        "bn": "ঘোলা"
+      },
+      {
+        "en": "Impenetrable",
+        "bn": "দুর্ভেদ্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "transparent",
+        "bn": "স্বচ্ছ"
+      },
+      {
+        "en": "clear",
+        "bn": "স্পষ্ট"
+      },
+      {
+        "en": "intelligible",
+        "bn": "সহজে বোধগম্য"
+      },
+      {
+        "en": "Limpid",
+        "bn": "স্বচ্ছ"
+      },
+      {
+        "en": "Lucid",
+        "bn": "স্পষ্ট"
+      },
+      {
+        "en": "Coherent",
+        "bn": "সুসংগত"
+      }
+    ],
+    "example": "The manager's opaque instructions confused everyone.",
+    "example_bn": "ব্যবস্থাপকের দুর্বোধ্য নির্দেশনা সবাইকে বিভ্রান্ত করেছিল।",
+    "examples": [
+      "The manager's opaque instructions confused everyone. — ব্যবস্থাপকের দুর্বোধ্য নির্দেশনা সবাইকে বিভ্রান্ত করেছিল।",
+      "At dinner, she explained that 'Opaque' means 'not allowing light to pass through', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Opaque’ শব্দটির অর্থ—অস্বচ্ছ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Opaque' as 'not allowing light to pass through' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Opaque’ শব্দটি অস্বচ্ছ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Opulent",
+    "pronunciation_bn": "অপিউলান্ট",
+    "pronunciation": "/ˈɑː.pjə.lənt/",
+    "no": 575,
+    "group": 23,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "very rich, luxurious, or showing great wealth",
+    "meaning_bn": [
+      "বিলাসবহুল",
+      "ঐশ্বর্যশালী",
+      "জাঁকজমকপূর্ণ"
+    ],
+    "synonyms": [
+      {
+        "en": "luxurious",
+        "bn": "বিলাসবহুল"
+      },
+      {
+        "en": "lavish",
+        "bn": "জাঁকজমকপূর্ণ"
+      },
+      {
+        "en": "sumptuous",
+        "bn": "আড়ম্বরপূর্ণ"
+      },
+      {
+        "en": "Munificent",
+        "bn": "বিশেষত অর্থ বা উপহার দেওয়ার ক্ষেত্রে অত্যন্ত উদার"
+      },
+      {
+        "en": "copious",
+        "bn": "প্রচুর"
+      },
+      {
+        "en": "Magnanimous",
+        "bn": "মহানুভব"
+      },
+      {
+        "en": "voluptuous",
+        "bn": "ইন্দ্রিয়সুখকর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "modest",
+        "bn": "অনাড়ম্বর"
+      },
+      {
+        "en": "austere",
+        "bn": "সাদামাটা"
+      },
+      {
+        "en": "spartan",
+        "bn": "অতি সাধারণ"
+      },
+      {
+        "en": "Ascetic",
+        "bn": "কৃচ্ছ্রসাধনকারী"
+      },
+      {
+        "en": "Frugal",
+        "bn": "মিতব্যয়ী"
+      },
+      {
+        "en": "Caustic",
+        "bn": "ক্ষয়কারী"
+      },
+      {
+        "en": "demure",
+        "bn": "লাজুক ও সংযত"
+      },
+      {
+        "en": "dour",
+        "bn": "গম্ভীর"
+      }
+    ],
+    "example": "The opulent mansion was decorated with gold furniture.",
+    "example_bn": "ঐশ্বর্যশালী প্রাসাদটি সোনার আসবাব দিয়ে সাজানো ছিল।",
+    "examples": [
+      "The opulent mansion was decorated with gold furniture. — ঐশ্বর্যশালী প্রাসাদটি সোনার আসবাব দিয়ে সাজানো ছিল।",
+      "At dinner, she explained that 'Opulent' means 'very rich, luxurious, or showing great wealth', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Opulent’ শব্দটির অর্থ—বিলাসবহুল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Opulent' as 'very rich, luxurious, or showing great wealth' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Opulent’ শব্দটি বিলাসবহুল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

@@ -1,0 +1,1234 @@
+[
+  {
+    "word": "Antipodal",
+    "pronunciation_bn": "অ্যান্টিপোডাল",
+    "pronunciation": "/ænˈtɪpədəl/",
+    "no": 51,
+    "group": 3,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "Situated on opposite sides of the earth; exactly opposite",
+    "meaning_bn": [
+      "পৃথিবীর বিপরীত প্রান্তে অবস্থিত",
+      "সম্পূর্ণ বিপরীত"
+    ],
+    "synonyms": [
+      {
+        "en": "opposite",
+        "bn": "বিপরীত"
+      },
+      {
+        "en": "diametrical",
+        "bn": "সম্পূর্ণ বিপরীত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "similar",
+        "bn": "অনুরূপ"
+      },
+      {
+        "en": "adjacent",
+        "bn": "সংলগ্ন"
+      },
+      {
+        "en": "Contiguous",
+        "bn": "সংলগ্ন"
+      },
+      {
+        "en": "Homogeneous",
+        "bn": "সমজাতীয়"
+      },
+      {
+        "en": "Tantamount",
+        "bn": "সমতুল্য"
+      },
+      {
+        "en": "parallel",
+        "bn": "সমান্তরাল"
+      }
+    ],
+    "example": "Their views on politics were antipodal.",
+    "example_bn": "রাজনীতি সম্পর্কে তাদের মতামত ছিল সম্পূর্ণ বিপরীত।",
+    "examples": [
+      "Their views on politics were antipodal. — রাজনীতি সম্পর্কে তাদের মতামত ছিল সম্পূর্ণ বিপরীত।",
+      "At dinner, she explained that 'Antipodal' means 'Situated on opposite sides of the earth', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Antipodal’ শব্দটির অর্থ—পৃথিবীর বিপরীত প্রান্তে অবস্থিত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Antipodal' as 'Situated on opposite sides of the earth' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Antipodal’ শব্দটি পৃথিবীর বিপরীত প্রান্তে অবস্থিত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Antiquity",
+    "pronunciation_bn": "অ্যান্টিকুইটি",
+    "pronunciation": "/ænˈtɪkwəti/",
+    "no": 52,
+    "group": 3,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "Ancientness; ancient times",
+    "meaning_bn": [
+      "প্রাচীনত্ব",
+      "প্রাচীন যুগ"
+    ],
+    "synonyms": [
+      {
+        "en": "ancient times",
+        "bn": "প্রাচীন যুগ"
+      },
+      {
+        "en": "ancientness",
+        "bn": "প্রাচীনত্ব"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "modernity",
+        "bn": "আধুনিকতা"
+      }
+    ],
+    "example": "Scholars study the art and culture of antiquity.",
+    "example_bn": "পণ্ডিতেরা প্রাচীন যুগের শিল্প ও সংস্কৃতি নিয়ে গবেষণা করেন।",
+    "examples": [
+      "Scholars study the art and culture of antiquity. — পণ্ডিতেরা প্রাচীন যুগের শিল্প ও সংস্কৃতি নিয়ে গবেষণা করেন।",
+      "At dinner, she explained that 'Antiquity' means 'Ancientness', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Antiquity’ শব্দটির অর্থ—প্রাচীনত্ব—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Antiquity' as 'Ancientness' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Antiquity’ শব্দটি প্রাচীনত্ব অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Aperture",
+    "pronunciation_bn": "অ্যাপারচার",
+    "pronunciation": "/ˈæpərtʃər/",
+    "no": 53,
+    "group": 3,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "An opening; chasm",
+    "meaning_bn": [
+      "খোলা অংশ",
+      "ছিদ্র",
+      "প্রবেশপথ"
+    ],
+    "synonyms": [
+      {
+        "en": "opening",
+        "bn": "ছিদ্র"
+      },
+      {
+        "en": "orifice",
+        "bn": "মুখ বা ছিদ্র"
+      },
+      {
+        "en": "overture",
+        "bn": "প্রাথমিক প্রস্তাব"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "closure",
+        "bn": "বন্ধ অবস্থা"
+      }
+    ],
+    "example": "Light entered through a small aperture in the wall.",
+    "example_bn": "দেয়ালের একটি ছোট ছিদ্র দিয়ে আলো প্রবেশ করেছিল।",
+    "examples": [
+      "Light entered through a small aperture in the wall. — দেয়ালের একটি ছোট ছিদ্র দিয়ে আলো প্রবেশ করেছিল।",
+      "At dinner, she explained that 'Aperture' means 'An opening', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Aperture’ শব্দটির অর্থ—খোলা অংশ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Aperture' as 'An opening' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Aperture’ শব্দটি খোলা অংশ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Apex",
+    "pronunciation_bn": "এপেক্স",
+    "pronunciation": "/ˈeɪpeks/",
+    "no": 54,
+    "group": 3,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "Highest point",
+    "meaning_bn": [
+      "সর্বোচ্চ বিন্দু",
+      "চূড়া"
+    ],
+    "synonyms": [
+      {
+        "en": "peak",
+        "bn": "চূড়া"
+      },
+      {
+        "en": "summit",
+        "bn": "শীর্ষ"
+      },
+      {
+        "en": "zenith",
+        "bn": "সর্বোচ্চ বিন্দু"
+      },
+      {
+        "en": "Heyday",
+        "bn": "সোনালি সময়"
+      },
+      {
+        "en": "Apogee",
+        "bn": "পৃথিবী থেকে কক্ষপথের সর্বাধিক দূরবর্তী বিন্দু"
+      },
+      {
+        "en": "Apotheosis",
+        "bn": "চূড়ান্ত উৎকর্ষ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "base",
+        "bn": "ভিত্তি"
+      },
+      {
+        "en": "nadir",
+        "bn": "সর্বনিম্ন বিন্দু"
+      }
+    ],
+    "example": "Reaching the apex of his career took decades.",
+    "example_bn": "কর্মজীবনের শিখরে পৌঁছাতে তাঁর কয়েক দশক লেগেছিল।",
+    "examples": [
+      "Reaching the apex of his career took decades. — কর্মজীবনের শিখরে পৌঁছাতে তাঁর কয়েক দশক লেগেছিল।",
+      "At dinner, she explained that 'Apex' means 'Highest point', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Apex’ শব্দটির অর্থ—সর্বোচ্চ বিন্দু—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Apex' as 'Highest point' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Apex’ শব্দটি সর্বোচ্চ বিন্দু অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Apogee",
+    "pronunciation_bn": "অ্যাপোজি",
+    "pronunciation": "/ˈæpədʒi/",
+    "no": 55,
+    "group": 3,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the point in an Earth orbit farthest from Earth; figuratively the highest point",
+    "meaning_bn": [
+      "পৃথিবী থেকে কক্ষপথের সর্বাধিক দূরবর্তী বিন্দু",
+      "চূড়ান্ত শিখর"
+    ],
+    "synonyms": [
+      {
+        "en": "culmination",
+        "bn": "চূড়ান্ত পর্যায়"
+      },
+      {
+        "en": "peak",
+        "bn": "শীর্ষ"
+      },
+      {
+        "en": "Apex",
+        "bn": "সর্বোচ্চ বিন্দু"
+      },
+      {
+        "en": "Heyday",
+        "bn": "সোনালি সময়"
+      },
+      {
+        "en": "zenith",
+        "bn": "সর্বোচ্চ বিন্দু"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "perigee",
+        "bn": "পৃথিবীর নিকটতম কক্ষপথবিন্দু"
+      },
+      {
+        "en": "nadir",
+        "bn": "সর্বনিম্ন অবস্থা"
+      }
+    ],
+    "example": "The satellite reached its apogee far above the atmosphere.",
+    "example_bn": "উপগ্রহটি বায়ুমণ্ডলের অনেক ওপরে তার কক্ষপথের সর্বোচ্চ দূরবর্তী বিন্দুতে পৌঁছেছিল।",
+    "examples": [
+      "The satellite reached its apogee far above the atmosphere. — উপগ্রহটি বায়ুমণ্ডলের অনেক ওপরে তার কক্ষপথের সর্বোচ্চ দূরবর্তী বিন্দুতে পৌঁছেছিল।",
+      "At dinner, she explained that 'Apogee' means 'the point in an Earth orbit farthest from', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Apogee’ শব্দটির অর্থ—পৃথিবী থেকে কক্ষপথের সর্বাধিক দূরবর্তী বিন্দু—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Apogee' as 'the point in an Earth orbit farthest from' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Apogee’ শব্দটি পৃথিবী থেকে কক্ষপথের সর্বাধিক দূরবর্তী বিন্দু অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Apoplexy",
+    "pronunciation_bn": "অ্যাপোপ্লেক্সি",
+    "pronunciation": "/ˈæpəpleksi/",
+    "no": 56,
+    "group": 3,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "an old-fashioned medical term for a stroke or sudden loss of consciousness, sometimes used figuratively for extreme anger",
+    "meaning_bn": [
+      "স্ট্রোকের পুরোনো চিকিৎসাবিষয়ক নাম",
+      "আকস্মিক অচেতনতা",
+      "প্রচণ্ড ক্রোধ (রূপকার্থে)"
+    ],
+    "synonyms": [
+      {
+        "en": "stroke",
+        "bn": "স্ট্রোক"
+      },
+      {
+        "en": "cerebrovascular accident",
+        "bn": "মস্তিষ্কের রক্তনালিজনিত আকস্মিক সমস্যা"
+      }
+    ],
+    "antonyms": [],
+    "example": "The old medical record described his sudden stroke as apoplexy.",
+    "example_bn": "পুরোনো চিকিৎসা নথিতে তাঁর আকস্মিক স্ট্রোককে অ্যাপোপ্লেক্সি বলা হয়েছে।",
+    "examples": [
+      "The old medical record described his sudden stroke as apoplexy. — পুরোনো চিকিৎসা নথিতে তাঁর আকস্মিক স্ট্রোককে অ্যাপোপ্লেক্সি বলা হয়েছে।",
+      "At dinner, she explained that 'Apoplexy' means 'an old-fashioned medical term for a stroke', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Apoplexy’ শব্দটির অর্থ—স্ট্রোকের পুরোনো চিকিৎসাবিষয়ক নাম—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Apoplexy' as 'an old-fashioned medical term for a stroke' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Apoplexy’ শব্দটি স্ট্রোকের পুরোনো চিকিৎসাবিষয়ক নাম অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Apostasy",
+    "pronunciation_bn": "অ্যাপোস্ট্যাসি",
+    "pronunciation": "/əˈpɑːstəsi/",
+    "no": 57,
+    "group": 3,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "Abandonment or rejection of faith or loyalty",
+    "meaning_bn": [
+      "ধর্মবিশ্বাস বা আনুগত্য ত্যাগ",
+      "ধর্মত্যাগ"
+    ],
+    "synonyms": [
+      {
+        "en": "renunciation",
+        "bn": "ত্যাগ"
+      },
+      {
+        "en": "defection",
+        "bn": "দলত্যাগ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "allegiance",
+        "bn": "আনুগত্য"
+      },
+      {
+        "en": "adherence",
+        "bn": "অনুগমন"
+      },
+      {
+        "en": "Fidelity",
+        "bn": "বিশ্বস্ততা"
+      }
+    ],
+    "example": "His apostasy shocked the religious community.",
+    "example_bn": "তাঁর ধর্মত্যাগ ধর্মীয় সম্প্রদায়কে হতবাক করেছিল।",
+    "examples": [
+      "His apostasy shocked the religious community. — তাঁর ধর্মত্যাগ ধর্মীয় সম্প্রদায়কে হতবাক করেছিল।",
+      "At dinner, she explained that 'Apostasy' means 'Abandonment or rejection of faith or loyalty', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Apostasy’ শব্দটির অর্থ—ধর্মবিশ্বাস বা আনুগত্য ত্যাগ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Apostasy' as 'Abandonment or rejection of faith or loyalty' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Apostasy’ শব্দটি ধর্মবিশ্বাস বা আনুগত্য ত্যাগ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Appalling",
+    "pronunciation_bn": "অ্যাপলিং",
+    "pronunciation": "/əˈpɔːlɪŋ/",
+    "no": 58,
+    "group": 3,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "Causing horror or consternation",
+    "meaning_bn": [
+      "ভয়াবহ",
+      "আতঙ্কজনক"
+    ],
+    "synonyms": [
+      {
+        "en": "horrifying",
+        "bn": "ভয়াবহ"
+      },
+      {
+        "en": "shocking",
+        "bn": "স্তম্ভিতকর"
+      },
+      {
+        "en": "Ghastly",
+        "bn": "ভয়াবহ"
+      },
+      {
+        "en": "Egregious",
+        "bn": "চরম জঘন্য"
+      },
+      {
+        "en": "Unconscionable",
+        "bn": "বিবেকবর্জিত"
+      },
+      {
+        "en": "Abysmal",
+        "bn": "অত্যন্ত খারাপ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "reassuring",
+        "bn": "আশ্বস্তকর"
+      },
+      {
+        "en": "pleasant",
+        "bn": "মনোরম"
+      },
+      {
+        "en": "Congenial",
+        "bn": "মনোরম"
+      }
+    ],
+    "example": "The conditions in the prison were absolutely appalling.",
+    "example_bn": "কারাগারের পরিস্থিতি ছিল একেবারেই ভয়াবহ।",
+    "examples": [
+      "The conditions in the prison were absolutely appalling. — কারাগারের পরিস্থিতি ছিল একেবারেই ভয়াবহ।",
+      "At dinner, she explained that 'Appalling' means 'Causing horror or consternation', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Appalling’ শব্দটির অর্থ—ভয়াবহ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Appalling' as 'Causing horror or consternation' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Appalling’ শব্দটি ভয়াবহ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Apparition",
+    "pronunciation_bn": "অ্যাপারিশন",
+    "pronunciation": "/ˌæpəˈrɪʃən/",
+    "no": 59,
+    "group": 3,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "A ghost or ghostly object",
+    "meaning_bn": [
+      "প্রেতমূর্তি",
+      "ভূতুড়ে অবয়ব"
+    ],
+    "synonyms": [
+      {
+        "en": "ghost",
+        "bn": "ভূত"
+      },
+      {
+        "en": "specter",
+        "bn": "প্রেতাত্মা"
+      },
+      {
+        "en": "phantasm",
+        "bn": "ভ্রমদৃশ্য"
+      },
+      {
+        "en": "Chimera",
+        "bn": "অলীক কল্পনা"
+      }
+    ],
+    "antonyms": [],
+    "example": "He claimed to have seen an apparition in the old house.",
+    "example_bn": "সে দাবি করেছিল যে পুরোনো বাড়িটিতে সে একটি প্রেতমূর্তি দেখেছে।",
+    "examples": [
+      "He claimed to have seen an apparition in the old house. — সে দাবি করেছিল যে পুরোনো বাড়িটিতে সে একটি প্রেতমূর্তি দেখেছে।",
+      "At dinner, she explained that 'Apparition' means 'A ghost or ghostly object', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Apparition’ শব্দটির অর্থ—প্রেতমূর্তি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Apparition' as 'A ghost or ghostly object' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Apparition’ শব্দটি প্রেতমূর্তি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Appellation",
+    "pronunciation_bn": "অ্যাপেলেশন",
+    "pronunciation": "/ˌæpəˈleɪʃən/",
+    "no": 60,
+    "group": 3,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "A name",
+    "meaning_bn": [
+      "নাম",
+      "উপাধি"
+    ],
+    "synonyms": [
+      {
+        "en": "name",
+        "bn": "নাম"
+      },
+      {
+        "en": "title",
+        "bn": "উপাধি"
+      },
+      {
+        "en": "designation",
+        "bn": "পদবি"
+      }
+    ],
+    "antonyms": [],
+    "example": "The town earned the appellation 'City of Gardens'.",
+    "example_bn": "শহরটি ‘উদ্যানের শহর’ উপাধি পেয়েছিল।",
+    "examples": [
+      "The town earned the appellation 'City of Gardens'. — শহরটি ‘উদ্যানের শহর’ উপাধি পেয়েছিল।",
+      "At dinner, she explained that 'Appellation' means 'A name', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Appellation’ শব্দটির অর্থ—নাম—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Appellation' as 'A name' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Appellation’ শব্দটি নাম অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Appendage",
+    "pronunciation_bn": "অ্যাপেন্ডেজ",
+    "pronunciation": "/əˈpendɪdʒ/",
+    "no": 61,
+    "group": 3,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "Something added on to something else; a supplement",
+    "meaning_bn": [
+      "সংযুক্ত অংশ",
+      "অতিরিক্ত অংশ",
+      "পরিশিষ্ট"
+    ],
+    "synonyms": [
+      {
+        "en": "attachment",
+        "bn": "সংযুক্ত অংশ"
+      },
+      {
+        "en": "extension",
+        "bn": "বর্ধিত অংশ"
+      },
+      {
+        "en": "Adjunct",
+        "bn": "সহায়ক সংযোজন"
+      },
+      {
+        "en": "Annex",
+        "bn": "ভবনের অতিরিক্ত অংশ"
+      },
+      {
+        "en": "Appurtenance",
+        "bn": "আনুষঙ্গিক বস্তু"
+      },
+      {
+        "en": "Complement",
+        "bn": "পরিপূরক হওয়া বা করা"
+      },
+      {
+        "en": "Increment",
+        "bn": "বৃদ্ধি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "main body",
+        "bn": "মূল অংশ"
+      },
+      {
+        "en": "Integral",
+        "bn": "অবিচ্ছেদ্য অংশ"
+      },
+      {
+        "en": "Requisite",
+        "bn": "প্রয়োজনীয়"
+      }
+    ],
+    "example": "The insect has a small appendage near its head.",
+    "example_bn": "পোকাটির মাথার কাছে একটি ছোট সংযুক্ত অঙ্গ রয়েছে।",
+    "examples": [
+      "The insect has a small appendage near its head. — পোকাটির মাথার কাছে একটি ছোট সংযুক্ত অঙ্গ রয়েছে।",
+      "At dinner, she explained that 'Appendage' means 'Something added on to something else', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Appendage’ শব্দটির অর্থ—সংযুক্ত অংশ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Appendage' as 'Something added on to something else' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Appendage’ শব্দটি সংযুক্ত অংশ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Apportion",
+    "pronunciation_bn": "অ্যাপোরশন",
+    "pronunciation": "/əˈpɔːrʃən/",
+    "no": 62,
+    "group": 3,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "To distribute proportionally; to divide into portions",
+    "meaning_bn": [
+      "অনুপাতে বণ্টন করা",
+      "ভাগ করে দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "allocate",
+        "bn": "বরাদ্দ করা"
+      },
+      {
+        "en": "distribute",
+        "bn": "বণ্টন করা"
+      },
+      {
+        "en": "Allot",
+        "bn": "বরাদ্দ করা"
+      },
+      {
+        "en": "Appropriate",
+        "bn": "নিজের কাজে নেওয়া"
+      },
+      {
+        "en": "Disseminate",
+        "bn": "ছড়িয়ে দেওয়া"
+      },
+      {
+        "en": "Relegate",
+        "bn": "নিম্নতর অবস্থানে নামিয়ে দেওয়া"
+      },
+      {
+        "en": "Intersperse",
+        "bn": "মাঝে মাঝে ছড়িয়ে দেওয়া"
+      },
+      {
+        "en": "Usurp",
+        "bn": "জবরদখল করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "withhold",
+        "bn": "আটকে রাখা"
+      },
+      {
+        "en": "retain",
+        "bn": "নিজের কাছে রাখা"
+      },
+      {
+        "en": "Forgo",
+        "bn": "ত্যাগ করা"
+      },
+      {
+        "en": "Relinquish",
+        "bn": "ত্যাগ করা"
+      }
+    ],
+    "example": "Resources were apportioned fairly among all departments.",
+    "example_bn": "সব বিভাগের মধ্যে সম্পদ ন্যায্যভাবে বণ্টন করা হয়েছিল।",
+    "examples": [
+      "Resources were apportioned fairly among all departments. — সব বিভাগের মধ্যে সম্পদ ন্যায্যভাবে বণ্টন করা হয়েছিল।",
+      "At dinner, she explained that 'Apportion' means 'To distribute proportionally', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Apportion’ শব্দটির অর্থ—অনুপাতে বণ্টন করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Apportion' as 'To distribute proportionally' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Apportion’ শব্দটি অনুপাতে বণ্টন করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Apposite",
+    "pronunciation_bn": "অ্যাপোজিট",
+    "pronunciation": "/ˈæpəzɪt/",
+    "no": 63,
+    "group": 3,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "Distinctly suitable; pertinent",
+    "meaning_bn": [
+      "যথোপযুক্ত",
+      "প্রাসঙ্গিক"
+    ],
+    "synonyms": [
+      {
+        "en": "pertinent",
+        "bn": "প্রাসঙ্গিক"
+      },
+      {
+        "en": "relevant",
+        "bn": "সম্পর্কিত"
+      },
+      {
+        "en": "Germane",
+        "bn": "প্রাসঙ্গিক"
+      },
+      {
+        "en": "Apropos",
+        "bn": "প্রাসঙ্গিক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "irrelevant",
+        "bn": "অপ্রাসঙ্গিক"
+      },
+      {
+        "en": "inappropriate",
+        "bn": "অনুপযুক্ত"
+      },
+      {
+        "en": "Extraneous",
+        "bn": "অপ্রাসঙ্গিক"
+      },
+      {
+        "en": "Tangential",
+        "bn": "মূল বিষয়ের সঙ্গে সরাসরি সম্পর্কহীন"
+      },
+      {
+        "en": "Incongruous",
+        "bn": "বেমানান"
+      }
+    ],
+    "example": "His apposite remarks drew applause from the audience.",
+    "example_bn": "তাঁর প্রাসঙ্গিক মন্তব্যগুলো শ্রোতাদের করতালি কুড়িয়েছিল।",
+    "examples": [
+      "His apposite remarks drew applause from the audience. — তাঁর প্রাসঙ্গিক মন্তব্যগুলো শ্রোতাদের করতালি কুড়িয়েছিল।",
+      "At dinner, she explained that 'Apposite' means 'Distinctly suitable', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Apposite’ শব্দটির অর্থ—যথোপযুক্ত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Apposite' as 'Distinctly suitable' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Apposite’ শব্দটি যথোপযুক্ত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Appraise",
+    "pronunciation_bn": "অ্যাপ্রেইজ",
+    "pronunciation": "/əˈpreɪz/",
+    "no": 64,
+    "group": 3,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "To estimate the value or quality of; to judge",
+    "meaning_bn": [
+      "মূল্য বা গুণমান নির্ধারণ করা",
+      "মূল্যায়ন করা"
+    ],
+    "synonyms": [
+      {
+        "en": "evaluate",
+        "bn": "মূল্যায়ন করা"
+      },
+      {
+        "en": "assess",
+        "bn": "বিচার করে মূল্য নির্ধারণ করা"
+      }
+    ],
+    "antonyms": [],
+    "example": "The jeweler appraised the diamond ring at a high price.",
+    "example_bn": "জহুরি হীরার আংটিটির উচ্চ মূল্য নির্ধারণ করেছিলেন।",
+    "examples": [
+      "The jeweler appraised the diamond ring at a high price. — জহুরি হীরার আংটিটির উচ্চ মূল্য নির্ধারণ করেছিলেন।",
+      "At dinner, she explained that 'Appraise' means 'To estimate the value or quality', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Appraise’ শব্দটির অর্থ—মূল্য বা গুণমান নির্ধারণ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Appraise' as 'To estimate the value or quality' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Appraise’ শব্দটি মূল্য বা গুণমান নির্ধারণ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Apprise",
+    "pronunciation_bn": "অ্যাপ্রাইজ",
+    "pronunciation": "/əˈpraɪz/",
+    "no": 65,
+    "group": 3,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "To give notice to; to inform",
+    "meaning_bn": [
+      "অবহিত করা",
+      "জানানো"
+    ],
+    "synonyms": [
+      {
+        "en": "inform",
+        "bn": "অবহিত করা"
+      },
+      {
+        "en": "notify",
+        "bn": "জানিয়ে দেওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "conceal",
+        "bn": "গোপন করা"
+      },
+      {
+        "en": "withhold information",
+        "bn": "তথ্য গোপন রাখা"
+      },
+      {
+        "en": "Delude",
+        "bn": "প্রতারণা করা"
+      }
+    ],
+    "example": "Please apprise me of any changes to the schedule.",
+    "example_bn": "সময়সূচিতে কোনো পরিবর্তন হলে অনুগ্রহ করে আমাকে জানাবেন।",
+    "examples": [
+      "Please apprise me of any changes to the schedule. — সময়সূচিতে কোনো পরিবর্তন হলে অনুগ্রহ করে আমাকে জানাবেন।",
+      "At dinner, she explained that 'Apprise' means 'To give notice', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Apprise’ শব্দটির অর্থ—অবহিত করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Apprise' as 'To give notice' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Apprise’ শব্দটি অবহিত করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Appurtenance",
+    "pronunciation_bn": "অ্যাপার্টেন্যান্স",
+    "pronunciation": "/əˈpɜːrtənəns/",
+    "no": 66,
+    "group": 3,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "Something extra; an appendage; an accessory",
+    "meaning_bn": [
+      "আনুষঙ্গিক বস্তু",
+      "সংযুক্ত উপকরণ"
+    ],
+    "synonyms": [
+      {
+        "en": "accessory",
+        "bn": "আনুষঙ্গিক বস্তু"
+      },
+      {
+        "en": "adjunct",
+        "bn": "সহায়ক সংযুক্ত অংশ"
+      },
+      {
+        "en": "Appendage",
+        "bn": "সংযুক্ত অংশ"
+      },
+      {
+        "en": "Annex",
+        "bn": "ভবনের অতিরিক্ত অংশ"
+      },
+      {
+        "en": "Complement",
+        "bn": "পরিপূরক হওয়া বা করা"
+      },
+      {
+        "en": "Increment",
+        "bn": "বৃদ্ধি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "Integral",
+        "bn": "অবিচ্ছেদ্য অংশ"
+      },
+      {
+        "en": "Requisite",
+        "bn": "প্রয়োজনীয়"
+      }
+    ],
+    "example": "The garage is an appurtenance of the main house.",
+    "example_bn": "গ্যারেজটি মূল বাড়ির একটি আনুষঙ্গিক অংশ।",
+    "examples": [
+      "The garage is an appurtenance of the main house. — গ্যারেজটি মূল বাড়ির একটি আনুষঙ্গিক অংশ।",
+      "At dinner, she explained that 'Appurtenance' means 'Something extra', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Appurtenance’ শব্দটির অর্থ—আনুষঙ্গিক বস্তু—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Appurtenance' as 'Something extra' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Appurtenance’ শব্দটি আনুষঙ্গিক বস্তু অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Apropos",
+    "pronunciation_bn": "অ্যাপ্রোপো",
+    "pronunciation": "/ˌæprəˈpoʊ/",
+    "no": 67,
+    "group": 3,
+    "pos": [
+      "adjective",
+      "adverb",
+      "preposition"
+    ],
+    "meaning_en": "appropriate or relevant; with reference to (as a preposition)",
+    "meaning_bn": [
+      "প্রাসঙ্গিক",
+      "যথোপযুক্ত",
+      "প্রসঙ্গে (preposition হিসেবে)"
+    ],
+    "synonyms": [
+      {
+        "en": "relevant",
+        "bn": "প্রাসঙ্গিক"
+      },
+      {
+        "en": "appropriate",
+        "bn": "যথোপযুক্ত"
+      },
+      {
+        "en": "Apposite",
+        "bn": "যথোপযুক্ত"
+      },
+      {
+        "en": "Pertinent",
+        "bn": "প্রাসঙ্গিক"
+      },
+      {
+        "en": "Germane",
+        "bn": "প্রাসঙ্গিক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "irrelevant",
+        "bn": "অপ্রাসঙ্গিক"
+      },
+      {
+        "en": "inappropriate",
+        "bn": "অনুপযুক্ত"
+      },
+      {
+        "en": "Extraneous",
+        "bn": "অপ্রাসঙ্গিক"
+      },
+      {
+        "en": "Incongruous",
+        "bn": "বেমানান"
+      },
+      {
+        "en": "Tangential",
+        "bn": "মূল বিষয়ের সঙ্গে সরাসরি সম্পর্কহীন"
+      }
+    ],
+    "example": "Her comment was apropos given the situation.",
+    "example_bn": "পরিস্থিতি বিবেচনায় তাঁর মন্তব্যটি যথোপযুক্ত ছিল।",
+    "examples": [
+      "Her comment was apropos given the situation. — পরিস্থিতি বিবেচনায় তাঁর মন্তব্যটি যথোপযুক্ত ছিল।",
+      "At dinner, she explained that 'Apropos' means 'appropriate or relevant', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Apropos’ শব্দটির অর্থ—প্রাসঙ্গিক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Apropos' as 'appropriate or relevant' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Apropos’ শব্দটি প্রাসঙ্গিক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Apt",
+    "pronunciation_bn": "অ্যাপ্ট",
+    "pronunciation": "/æpt/",
+    "no": 68,
+    "group": 3,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "Appropriate; having a tendency to; likely",
+    "meaning_bn": [
+      "উপযুক্ত",
+      "প্রবণ",
+      "সম্ভবত এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "suitable",
+        "bn": "উপযুক্ত"
+      },
+      {
+        "en": "likely",
+        "bn": "সম্ভাব্য"
+      },
+      {
+        "en": "prone",
+        "bn": "প্রবণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "unsuitable",
+        "bn": "অনুপযুক্ত"
+      },
+      {
+        "en": "unlikely",
+        "bn": "অসম্ভাব্য"
+      }
+    ],
+    "example": "He is apt to forget things when he is busy.",
+    "example_bn": "ব্যস্ত থাকলে তাঁর জিনিসপত্র ভুলে যাওয়ার প্রবণতা রয়েছে।",
+    "examples": [
+      "He is apt to forget things when he is busy. — ব্যস্ত থাকলে তাঁর জিনিসপত্র ভুলে যাওয়ার প্রবণতা রয়েছে।",
+      "At dinner, she explained that 'Apt' means 'Appropriate', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Apt’ শব্দটির অর্থ—উপযুক্ত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Apt' as 'Appropriate' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Apt’ শব্দটি উপযুক্ত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Archipelago",
+    "pronunciation_bn": "আর্কিপেলাগো",
+    "pronunciation": "/ˌɑːrkəˈpeləɡoʊ/",
+    "no": 69,
+    "group": 3,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "A large group of islands",
+    "meaning_bn": [
+      "দ্বীপপুঞ্জ",
+      "অনেক দ্বীপের সমষ্টি"
+    ],
+    "synonyms": [
+      {
+        "en": "island group",
+        "bn": "দ্বীপসমষ্টি"
+      },
+      {
+        "en": "island chain",
+        "bn": "দ্বীপশ্রেণি"
+      }
+    ],
+    "antonyms": [],
+    "example": "The Philippines is an archipelago of over 7,000 islands.",
+    "example_bn": "ফিলিপাইনস ৭,০০০-এরও বেশি দ্বীপ নিয়ে গঠিত একটি দ্বীপপুঞ্জ।",
+    "examples": [
+      "The Philippines is an archipelago of over 7,000 islands. — ফিলিপাইনস ৭,০০০-এরও বেশি দ্বীপ নিয়ে গঠিত একটি দ্বীপপুঞ্জ।",
+      "At dinner, she explained that 'Archipelago' means 'A large group of islands', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Archipelago’ শব্দটির অর্থ—দ্বীপপুঞ্জ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Archipelago' as 'A large group of islands' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Archipelago’ শব্দটি দ্বীপপুঞ্জ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Archives",
+    "pronunciation_bn": "আর্কাইভ্‌জ",
+    "pronunciation": "/ˈɑːrkaɪvz/",
+    "no": 70,
+    "group": 3,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "A place where historical documents are stored; the documents themselves",
+    "meaning_bn": [
+      "ঐতিহাসিক নথি সংরক্ষণাগার",
+      "সংরক্ষিত নথিপত্র"
+    ],
+    "synonyms": [
+      {
+        "en": "records",
+        "bn": "নথিপত্র"
+      },
+      {
+        "en": "repository",
+        "bn": "সংরক্ষণাগার"
+      }
+    ],
+    "antonyms": [],
+    "example": "Researchers found the lost letters in the national archives.",
+    "example_bn": "গবেষকেরা জাতীয় নথি সংরক্ষণাগারে হারিয়ে যাওয়া চিঠিগুলো খুঁজে পেয়েছিলেন।",
+    "examples": [
+      "Researchers found the lost letters in the national archives. — গবেষকেরা জাতীয় নথি সংরক্ষণাগারে হারিয়ে যাওয়া চিঠিগুলো খুঁজে পেয়েছিলেন।",
+      "At dinner, she explained that 'Archives' means 'A place where historical documents are stored', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Archives’ শব্দটির অর্থ—ঐতিহাসিক নথি সংরক্ষণাগার—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Archives' as 'A place where historical documents are stored' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Archives’ শব্দটি ঐতিহাসিক নথি সংরক্ষণাগার অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Arid",
+    "pronunciation_bn": "অ্যারিড",
+    "pronunciation": "/ˈærɪd/",
+    "no": 71,
+    "group": 3,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "Very dry; lacking life, interest or imagination",
+    "meaning_bn": [
+      "শুষ্ক",
+      "নিরস",
+      "প্রাণহীন"
+    ],
+    "synonyms": [
+      {
+        "en": "dry",
+        "bn": "শুষ্ক"
+      },
+      {
+        "en": "parched",
+        "bn": "খরায় শুকিয়ে যাওয়া"
+      },
+      {
+        "en": "barren",
+        "bn": "অনুর্বর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "humid",
+        "bn": "আর্দ্র"
+      },
+      {
+        "en": "fertile",
+        "bn": "উর্বর"
+      },
+      {
+        "en": "verdant",
+        "bn": "সবুজে আচ্ছাদিত"
+      },
+      {
+        "en": "Fecund",
+        "bn": "উর্বর"
+      },
+      {
+        "en": "Prolific",
+        "bn": "প্রচুর সৃষ্টি বা উৎপাদন করে এমন"
+      }
+    ],
+    "example": "Camels are well adapted to arid desert conditions.",
+    "example_bn": "উট শুষ্ক মরুভূমির পরিবেশের সঙ্গে ভালোভাবে খাপ খাইয়ে নিতে পারে।",
+    "examples": [
+      "Camels are well adapted to arid desert conditions. — উট শুষ্ক মরুভূমির পরিবেশের সঙ্গে ভালোভাবে খাপ খাইয়ে নিতে পারে।",
+      "At dinner, she explained that 'Arid' means 'Very dry', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Arid’ শব্দটির অর্থ—শুষ্ক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Arid' as 'Very dry' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Arid’ শব্দটি শুষ্ক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Armament",
+    "pronunciation_bn": "আর্মামেন্ট",
+    "pronunciation": "/ˈɑːrməmənt/",
+    "no": 72,
+    "group": 3,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "Implement of war; the process of arming for war",
+    "meaning_bn": [
+      "যুদ্ধাস্ত্র",
+      "যুদ্ধের প্রস্তুতিতে অস্ত্রসজ্জা"
+    ],
+    "synonyms": [
+      {
+        "en": "weaponry",
+        "bn": "অস্ত্রশস্ত্র"
+      },
+      {
+        "en": "arms",
+        "bn": "অস্ত্র"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "disarmament",
+        "bn": "নিরস্ত্রীকরণ"
+      }
+    ],
+    "example": "The country increased its armament in response to threats.",
+    "example_bn": "হুমকির জবাবে দেশটি তার অস্ত্রসজ্জা বাড়িয়েছিল।",
+    "examples": [
+      "The country increased its armament in response to threats. — হুমকির জবাবে দেশটি তার অস্ত্রসজ্জা বাড়িয়েছিল।",
+      "At dinner, she explained that 'Armament' means 'Implement of war', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Armament’ শব্দটির অর্থ—যুদ্ধাস্ত্র—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Armament' as 'Implement of war' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Armament’ শব্দটি যুদ্ধাস্ত্র অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Armistice",
+    "pronunciation_bn": "আর্মিস্টিস",
+    "pronunciation": "/ˈɑːrmɪstɪs/",
+    "no": 73,
+    "group": 3,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "Truce",
+    "meaning_bn": [
+      "যুদ্ধবিরতি",
+      "সাময়িক সন্ধি"
+    ],
+    "synonyms": [
+      {
+        "en": "truce",
+        "bn": "যুদ্ধবিরতি"
+      },
+      {
+        "en": "ceasefire",
+        "bn": "অস্ত্রবিরতি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "hostilities",
+        "bn": "যুদ্ধাবস্থা"
+      },
+      {
+        "en": "warfare",
+        "bn": "যুদ্ধ"
+      },
+      {
+        "en": "Melee",
+        "bn": "হট্টগোলপূর্ণ সংঘর্ষ"
+      },
+      {
+        "en": "skirmish",
+        "bn": "অল্পসংখ্যক সৈন্য বা মানুষের মধ্যে স্বল্পস্থায়ী সংঘর্ষ"
+      }
+    ],
+    "example": "The armistice ended the fighting on November 11, 1918.",
+    "example_bn": "১৯১৮ সালের ১১ নভেম্বর যুদ্ধবিরতির মাধ্যমে লড়াইয়ের অবসান ঘটে।",
+    "examples": [
+      "The armistice ended the fighting on November 11, 1918. — ১৯১৮ সালের ১১ নভেম্বর যুদ্ধবিরতির মাধ্যমে লড়াইয়ের অবসান ঘটে।",
+      "At dinner, she explained that 'Armistice' means 'Truce', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Armistice’ শব্দটির অর্থ—যুদ্ধবিরতি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Armistice' as 'Truce' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Armistice’ শব্দটি যুদ্ধবিরতি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Arraign",
+    "pronunciation_bn": "অ্যারেইন",
+    "pronunciation": "/əˈreɪn/",
+    "no": 74,
+    "group": 3,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "To bring to court to answer an indictment; to accuse",
+    "meaning_bn": [
+      "অভিযোগের জবাব দিতে আদালতে হাজির করা",
+      "অভিযুক্ত করা"
+    ],
+    "synonyms": [
+      {
+        "en": "indict",
+        "bn": "অভিযুক্ত করা"
+      },
+      {
+        "en": "charge",
+        "bn": "অভিযোগ আনা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "acquit",
+        "bn": "খালাস দেওয়া"
+      },
+      {
+        "en": "exonerate",
+        "bn": "দায়মুক্ত করা"
+      },
+      {
+        "en": "Absolve",
+        "bn": "দায়মুক্ত করা"
+      },
+      {
+        "en": "Vindicate",
+        "bn": "নির্দোষ প্রমাণ করা"
+      }
+    ],
+    "example": "The suspect was arraigned on charges of fraud.",
+    "example_bn": "প্রতারণার অভিযোগে সন্দেহভাজন ব্যক্তিকে আদালতে হাজির করা হয়েছিল।",
+    "examples": [
+      "The suspect was arraigned on charges of fraud. — প্রতারণার অভিযোগে সন্দেহভাজন ব্যক্তিকে আদালতে হাজির করা হয়েছিল।",
+      "At dinner, she explained that 'Arraign' means 'To bring to court to answer an indictment', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Arraign’ শব্দটির অর্থ—অভিযোগের জবাব দিতে আদালতে হাজির করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Arraign' as 'To bring to court to answer an indictment' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Arraign’ শব্দটি অভিযোগের জবাব দিতে আদালতে হাজির করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Arrant",
+    "pronunciation_bn": "অ্যারান্ট",
+    "pronunciation": "/ˈærənt/",
+    "no": 75,
+    "group": 3,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "complete or utter, especially when describing something bad",
+    "meaning_bn": [
+      "চরম",
+      "নিরেট",
+      "সম্পূর্ণ (বিশেষত নেতিবাচক অর্থে)"
+    ],
+    "synonyms": [
+      {
+        "en": "utter",
+        "bn": "চরম"
+      },
+      {
+        "en": "complete",
+        "bn": "সম্পূর্ণ"
+      },
+      {
+        "en": "unmitigated",
+        "bn": "নিরেট"
+      },
+      {
+        "en": "stark",
+        "bn": "কঠোর"
+      }
+    ],
+    "antonyms": [],
+    "example": "He was branded an arrant coward by his peers.",
+    "example_bn": "তাঁর সমসাময়িকেরা তাঁকে চরম কাপুরুষ বলে আখ্যা দিয়েছিল।",
+    "examples": [
+      "He was branded an arrant coward by his peers. — তাঁর সমসাময়িকেরা তাঁকে চরম কাপুরুষ বলে আখ্যা দিয়েছিল।",
+      "At dinner, she explained that 'Arrant' means 'complete or utter, especially when describing something bad', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Arrant’ শব্দটির অর্থ—চরম—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Arrant' as 'complete or utter, especially when describing something bad' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Arrant’ শব্দটি চরম অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

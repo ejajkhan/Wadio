@@ -1,0 +1,1733 @@
+[
+  {
+    "word": "Credulous",
+    "pronunciation_bn": "ক্রেজুলাস",
+    "pronunciation": "/ˈkredʒ.ə.ləs/",
+    "no": 251,
+    "group": 11,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "too ready to believe things, and therefore easily deceived",
+    "meaning_bn": [
+      "সহজে বিশ্বাস করে এমন",
+      "সরলবিশ্বাসী",
+      "সহজে প্রতারিত হয় এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "gullible",
+        "bn": "সহজে প্রতারিত হয় এমন"
+      },
+      {
+        "en": "trusting",
+        "bn": "সহজবিশ্বাসী"
+      },
+      {
+        "en": "naive",
+        "bn": "অনভিজ্ঞ ও সরলবিশ্বাসী"
+      },
+      {
+        "en": "Ingenuous",
+        "bn": "সরল"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "skeptical",
+        "bn": "সন্দেহপ্রবণ"
+      },
+      {
+        "en": "disbelieving",
+        "bn": "অবিশ্বাসী"
+      },
+      {
+        "en": "distrustful",
+        "bn": "অবিশ্বাসপ্রবণ"
+      },
+      {
+        "en": "Astute",
+        "bn": "বিচক্ষণ"
+      },
+      {
+        "en": "shrewd",
+        "bn": "বিচক্ষণ"
+      },
+      {
+        "en": "wary",
+        "bn": "সতর্ক"
+      }
+    ],
+    "example": "The credulous man believed everything he read online.",
+    "example_bn": "সরলবিশ্বাসী লোকটি অনলাইনে যা পড়ত, সবই বিশ্বাস করত।",
+    "examples": [
+      "The credulous man believed everything he read online. — সরলবিশ্বাসী লোকটি অনলাইনে যা পড়ত, সবই বিশ্বাস করত।",
+      "At dinner, she explained that 'Credulous' means 'too ready to believe things, and therefore easily', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Credulous’ শব্দটির অর্থ—সহজে বিশ্বাস করে এমন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Credulous' as 'too ready to believe things, and therefore easily' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Credulous’ শব্দটি সহজে বিশ্বাস করে এমন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Criterion",
+    "pronunciation_bn": "ক্রাইটিরিয়ন",
+    "pronunciation": "/kraɪˈtɪə.ri.ən/",
+    "no": 252,
+    "group": 11,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a standard by which something is judged or decided",
+    "meaning_bn": [
+      "বিচারের মানদণ্ড",
+      "মূল্যায়নের মাপকাঠি",
+      "নির্ণায়ক শর্ত"
+    ],
+    "synonyms": [
+      {
+        "en": "standard",
+        "bn": "মানদণ্ড"
+      },
+      {
+        "en": "benchmark",
+        "bn": "তুলনার মাপকাঠি"
+      },
+      {
+        "en": "measure",
+        "bn": "পরিমাপক"
+      },
+      {
+        "en": "Touchstone",
+        "bn": "কষ্টিপাথর"
+      },
+      {
+        "en": "canon",
+        "bn": "নিয়ম বা নীতি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "there is no exact antonym",
+        "bn": "এর সরাসরি বিপরীতার্থক নেই"
+      }
+    ],
+    "example": "What is the main criterion for selecting candidates?",
+    "example_bn": "প্রার্থী বাছাইয়ের প্রধান মানদণ্ড কী?",
+    "examples": [
+      "What is the main criterion for selecting candidates? — প্রার্থী বাছাইয়ের প্রধান মানদণ্ড কী?",
+      "At dinner, she explained that 'Criterion' means 'a standard by which something is judged', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Criterion’ শব্দটির অর্থ—বিচারের মানদণ্ড—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Criterion' as 'a standard by which something is judged' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Criterion’ শব্দটি বিচারের মানদণ্ড অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Cryptic",
+    "pronunciation_bn": "ক্রিপটিক",
+    "pronunciation": "/ˈkrɪp.tɪk/",
+    "no": 253,
+    "group": 11,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "having a meaning that is mysterious or difficult to understand",
+    "meaning_bn": [
+      "রহস্যময়",
+      "দুর্বোধ্য",
+      "গূঢ়"
+    ],
+    "synonyms": [
+      {
+        "en": "enigmatic",
+        "bn": "রহস্যময়"
+      },
+      {
+        "en": "mysterious",
+        "bn": "রহস্যময়"
+      },
+      {
+        "en": "obscure",
+        "bn": "অস্পষ্ট"
+      },
+      {
+        "en": "Arcane",
+        "bn": "অল্প কয়েকজনের জানা"
+      },
+      {
+        "en": "Abstruse",
+        "bn": "দুর্বোধ্য"
+      },
+      {
+        "en": "Ambiguous",
+        "bn": "দ্ব্যর্থক"
+      },
+      {
+        "en": "Esoteric",
+        "bn": "দুর্বোধ্য"
+      },
+      {
+        "en": "mystic",
+        "bn": "রহস্যময়"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "clear",
+        "bn": "স্পষ্ট"
+      },
+      {
+        "en": "explicit",
+        "bn": "সুস্পষ্ট"
+      },
+      {
+        "en": "straightforward",
+        "bn": "সহজবোধ্য"
+      },
+      {
+        "en": "Blatant",
+        "bn": "নির্লজ্জভাবে স্পষ্ট"
+      },
+      {
+        "en": "conspicuous",
+        "bn": "সহজে চোখে পড়ে এমন"
+      },
+      {
+        "en": "Limpid",
+        "bn": "স্বচ্ছ"
+      },
+      {
+        "en": "Manifest",
+        "bn": "স্পষ্ট"
+      },
+      {
+        "en": "Patent",
+        "bn": "সুস্পষ্ট"
+      }
+    ],
+    "example": "He left a cryptic message that no one could understand.",
+    "example_bn": "সে এমন একটি দুর্বোধ্য বার্তা রেখে গেল, যা কেউ বুঝতে পারেনি।",
+    "examples": [
+      "He left a cryptic message that no one could understand. — সে এমন একটি দুর্বোধ্য বার্তা রেখে গেল, যা কেউ বুঝতে পারেনি।",
+      "At dinner, she explained that 'Cryptic' means 'having a meaning that is mysterious or difficult', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Cryptic’ শব্দটির অর্থ—রহস্যময়—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Cryptic' as 'having a meaning that is mysterious or difficult' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Cryptic’ শব্দটি রহস্যময় অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Culinary",
+    "pronunciation_bn": "কিউলিনারি",
+    "pronunciation": "/ˈkʌl.ɪ.nər.i/",
+    "no": 254,
+    "group": 11,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "connected with cooking or the kitchen",
+    "meaning_bn": [
+      "রন্ধনসম্পর্কিত",
+      "রান্নাবান্নার সঙ্গে সম্পর্কিত"
+    ],
+    "synonyms": [
+      {
+        "en": "cooking-related",
+        "bn": "রান্নাসংক্রান্ত"
+      },
+      {
+        "en": "gastronomic",
+        "bn": "খাদ্য ও রন্ধনসম্পর্কিত"
+      },
+      {
+        "en": "food-related",
+        "bn": "খাদ্যসম্পর্কিত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "there is no exact antonym",
+        "bn": "এর সরাসরি বিপরীতার্থক নেই"
+      }
+    ],
+    "example": "She has excellent culinary skills.",
+    "example_bn": "রান্নার কাজে তার অসাধারণ দক্ষতা রয়েছে।",
+    "examples": [
+      "She has excellent culinary skills. — রান্নার কাজে তার অসাধারণ দক্ষতা রয়েছে।",
+      "At dinner, she explained that 'Culinary' means 'connected with cooking or the kitchen', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Culinary’ শব্দটির অর্থ—রন্ধনসম্পর্কিত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Culinary' as 'connected with cooking or the kitchen' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Culinary’ শব্দটি রন্ধনসম্পর্কিত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Culminate",
+    "pronunciation_bn": "কালমিনেইট",
+    "pronunciation": "/ˈkʌl.mɪ.neɪt/",
+    "no": 255,
+    "group": 11,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to reach the highest point or final stage, often as the result of a process",
+    "meaning_bn": [
+      "চূড়ান্ত পর্যায়ে পৌঁছানো",
+      "পরিণতিতে গিয়ে শেষ হওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "peak",
+        "bn": "শিখরে পৌঁছানো"
+      },
+      {
+        "en": "end",
+        "bn": "শেষ হওয়া"
+      },
+      {
+        "en": "result in",
+        "bn": "পরিণত হওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "begin",
+        "bn": "শুরু হওয়া"
+      },
+      {
+        "en": "commence",
+        "bn": "আরম্ভ হওয়া"
+      },
+      {
+        "en": "perpetuate",
+        "bn": "চিরস্থায়ী করা"
+      }
+    ],
+    "example": "Years of training culminated in her Olympic gold medal.",
+    "example_bn": "বহু বছরের প্রশিক্ষণের চূড়ান্ত সাফল্য ছিল তার অলিম্পিকে স্বর্ণপদক জয়।",
+    "examples": [
+      "Years of training culminated in her Olympic gold medal. — বহু বছরের প্রশিক্ষণের চূড়ান্ত সাফল্য ছিল তার অলিম্পিকে স্বর্ণপদক জয়।",
+      "At dinner, she explained that 'Culminate' means 'to reach the highest point or final stage', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Culminate’ শব্দটির অর্থ—চূড়ান্ত পর্যায়ে পৌঁছানো—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Culminate' as 'to reach the highest point or final stage' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Culminate’ শব্দটি চূড়ান্ত পর্যায়ে পৌঁছানো অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Culpable",
+    "pronunciation_bn": "কালপাবল",
+    "pronunciation": "/ˈkʌl.pə.bəl/",
+    "no": 256,
+    "group": 11,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "deserving blame for having done something wrong",
+    "meaning_bn": [
+      "দোষী",
+      "নিন্দার যোগ্য",
+      "অপরাধের জন্য দায়ী"
+    ],
+    "synonyms": [
+      {
+        "en": "blameworthy",
+        "bn": "নিন্দার যোগ্য"
+      },
+      {
+        "en": "guilty",
+        "bn": "দোষী"
+      },
+      {
+        "en": "at fault",
+        "bn": "দায়ী"
+      },
+      {
+        "en": "Reprehensible",
+        "bn": "নিন্দনীয়"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "innocent",
+        "bn": "নির্দোষ"
+      },
+      {
+        "en": "blameless",
+        "bn": "নির্দোষ"
+      },
+      {
+        "en": "irreproachable",
+        "bn": "নিন্দার ঊর্ধ্বে"
+      }
+    ],
+    "example": "He was found culpable for the accident.",
+    "example_bn": "দুর্ঘটনাটির জন্য তাকে দায়ী সাব্যস্ত করা হয়েছিল।",
+    "examples": [
+      "He was found culpable for the accident. — দুর্ঘটনাটির জন্য তাকে দায়ী সাব্যস্ত করা হয়েছিল।",
+      "At dinner, she explained that 'Culpable' means 'deserving blame for having done something wrong', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Culpable’ শব্দটির অর্থ—দোষী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Culpable' as 'deserving blame for having done something wrong' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Culpable’ শব্দটি দোষী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Cursory",
+    "pronunciation_bn": "কার্সারি",
+    "pronunciation": "/ˈkɜː.sər.i/",
+    "no": 257,
+    "group": 11,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "done quickly and without giving enough attention to detail",
+    "meaning_bn": [
+      "ভাসাভাসা",
+      "তাড়াহুড়ো করে করা",
+      "অমনোযোগীভাবে সম্পন্ন"
+    ],
+    "synonyms": [
+      {
+        "en": "superficial",
+        "bn": "অগভীর/ভাসাভাসা"
+      },
+      {
+        "en": "hasty",
+        "bn": "তাড়াহুড়ো করা"
+      },
+      {
+        "en": "perfunctory",
+        "bn": "দায়সারা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "thorough",
+        "bn": "পুঙ্খানুপুঙ্খ"
+      },
+      {
+        "en": "careful",
+        "bn": "যত্নশীল"
+      },
+      {
+        "en": "detailed",
+        "bn": "বিস্তারিত"
+      }
+    ],
+    "example": "A cursory glance at the report revealed several errors.",
+    "example_bn": "প্রতিবেদনটির ওপর দ্রুত একবার চোখ বুলিয়েই কয়েকটি ভুল ধরা পড়ল।",
+    "examples": [
+      "A cursory glance at the report revealed several errors. — প্রতিবেদনটির ওপর দ্রুত একবার চোখ বুলিয়েই কয়েকটি ভুল ধরা পড়ল।",
+      "At dinner, she explained that 'Cursory' means 'done quickly and without giving enough attention', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Cursory’ শব্দটির অর্থ—ভাসাভাসা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Cursory' as 'done quickly and without giving enough attention' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Cursory’ শব্দটি ভাসাভাসা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Curtail",
+    "pronunciation_bn": "কারটেইল",
+    "pronunciation": "/kɜːˈteɪl/",
+    "no": 258,
+    "group": 11,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to reduce or limit something, especially something that is not wanted",
+    "meaning_bn": [
+      "কমানো",
+      "কাটছাঁট করা",
+      "সীমিত করা"
+    ],
+    "synonyms": [
+      {
+        "en": "reduce",
+        "bn": "কমানো"
+      },
+      {
+        "en": "restrict",
+        "bn": "সীমাবদ্ধ করা"
+      },
+      {
+        "en": "limit",
+        "bn": "সীমিত করা"
+      },
+      {
+        "en": "Circumscribe",
+        "bn": "সীমাবদ্ধ করা"
+      },
+      {
+        "en": "Qualify",
+        "bn": "কোনো বক্তব্যের অর্থ সীমিত বা শর্তযুক্ত করা"
+      },
+      {
+        "en": "curb",
+        "bn": "নিয়ন্ত্রণ করা"
+      },
+      {
+        "en": "Mitigate",
+        "bn": "কোনো কিছুর তীব্রতা, ক্ষতি বা কষ্ট কমানো"
+      },
+      {
+        "en": "stint",
+        "bn": "নির্দিষ্ট কাজের সময়কাল"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "extend",
+        "bn": "বাড়ানো/সম্প্রসারিত করা"
+      },
+      {
+        "en": "increase",
+        "bn": "বৃদ্ধি করা"
+      },
+      {
+        "en": "expand",
+        "bn": "প্রসারিত করা"
+      },
+      {
+        "en": "Protract",
+        "bn": "দীর্ঘায়িত করা"
+      },
+      {
+        "en": "Augment",
+        "bn": "বৃদ্ধি করা"
+      },
+      {
+        "en": "Burgeon",
+        "bn": "দ্রুত বৃদ্ধি পাওয়া"
+      },
+      {
+        "en": "dilate",
+        "bn": "প্রসারিত হওয়া"
+      },
+      {
+        "en": "Distend",
+        "bn": "ফুলে ওঠা"
+      },
+      {
+        "en": "Proliferate",
+        "bn": "দ্রুত সংখ্যায় বা পরিমাণে বৃদ্ধি পাওয়া"
+      }
+    ],
+    "example": "The government curtailed spending due to the recession.",
+    "example_bn": "অর্থনৈতিক মন্দার কারণে সরকার ব্যয় কমিয়েছিল।",
+    "examples": [
+      "The government curtailed spending due to the recession. — অর্থনৈতিক মন্দার কারণে সরকার ব্যয় কমিয়েছিল।",
+      "At dinner, she explained that 'Curtail' means 'to reduce or limit something, especially something that', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Curtail’ শব্দটির অর্থ—কমানো—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Curtail' as 'to reduce or limit something, especially something that' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Curtail’ শব্দটি কমানো অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Cynic",
+    "pronunciation_bn": "সিনিক",
+    "pronunciation": "/ˈsɪn.ɪk/",
+    "no": 259,
+    "group": 11,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a person who believes that people are motivated mainly by self-interest rather than sincerity or goodness",
+    "meaning_bn": [
+      "নৈরাশ্যবাদী",
+      "মানুষের সদুদ্দেশ্য সম্পর্কে সন্দিহান ব্যক্তি",
+      "দোষদর্শী"
+    ],
+    "synonyms": [
+      {
+        "en": "skeptic",
+        "bn": "সন্দেহপ্রবণ ব্যক্তি"
+      },
+      {
+        "en": "pessimist",
+        "bn": "নৈরাশ্যবাদী"
+      },
+      {
+        "en": "doubter",
+        "bn": "সন্দেহকারী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "idealist",
+        "bn": "আদর্শবাদী"
+      },
+      {
+        "en": "optimist",
+        "bn": "আশাবাদী"
+      },
+      {
+        "en": "believer",
+        "bn": "বিশ্বাসী"
+      },
+      {
+        "en": "Visionary",
+        "bn": "দূরদর্শী ব্যক্তি"
+      }
+    ],
+    "example": "The cynic doubted the politician's true motives.",
+    "example_bn": "নৈরাশ্যবাদী ব্যক্তিটি রাজনীতিকের প্রকৃত উদ্দেশ্য নিয়ে সন্দেহ করেছিল।",
+    "examples": [
+      "The cynic doubted the politician's true motives. — নৈরাশ্যবাদী ব্যক্তিটি রাজনীতিকের প্রকৃত উদ্দেশ্য নিয়ে সন্দেহ করেছিল।",
+      "At dinner, she explained that 'Cynic' means 'a person who believes that people are motivated', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Cynic’ শব্দটির অর্থ—নৈরাশ্যবাদী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Cynic' as 'a person who believes that people are motivated' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Cynic’ শব্দটি নৈরাশ্যবাদী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Daunt",
+    "pronunciation_bn": "ডন্ট",
+    "pronunciation": "/dɔːnt/",
+    "no": 260,
+    "group": 11,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to make someone feel intimidated, discouraged, or less confident",
+    "meaning_bn": [
+      "ভীত করা",
+      "দমিয়ে দেওয়া",
+      "সাহস কমিয়ে দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "intimidate",
+        "bn": "ভয় দেখানো"
+      },
+      {
+        "en": "discourage",
+        "bn": "নিরুৎসাহিত করা"
+      },
+      {
+        "en": "dishearten",
+        "bn": "মনোবল ভেঙে দেওয়া"
+      },
+      {
+        "en": "Coerce",
+        "bn": "জোর করে বাধ্য করা"
+      },
+      {
+        "en": "dispirit",
+        "bn": "হতাশ করা"
+      },
+      {
+        "en": "dismay",
+        "bn": "হতাশা"
+      },
+      {
+        "en": "dissuade",
+        "bn": "কোনো কাজ থেকে বিরত থাকতে বোঝানো"
+      },
+      {
+        "en": "Harass",
+        "bn": "হয়রানি করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "encourage",
+        "bn": "উৎসাহিত করা"
+      },
+      {
+        "en": "embolden",
+        "bn": "সাহস জোগানো"
+      },
+      {
+        "en": "inspire",
+        "bn": "অনুপ্রাণিত করা"
+      },
+      {
+        "en": "Abet",
+        "bn": "অন্যায় কাজে সহায়তা করা"
+      },
+      {
+        "en": "Cajole",
+        "bn": "তোষামোদ করে রাজি করানো"
+      },
+      {
+        "en": "Exhort",
+        "bn": "জোরালোভাবে অনুরোধ করা"
+      },
+      {
+        "en": "foster",
+        "bn": "লালন করা"
+      },
+      {
+        "en": "Foment",
+        "bn": "উসকে দেওয়া"
+      }
+    ],
+    "example": "Nothing could daunt her spirit.",
+    "example_bn": "কোনো কিছুই তার মনোবল ভেঙে দিতে পারেনি।",
+    "examples": [
+      "Nothing could daunt her spirit. — কোনো কিছুই তার মনোবল ভেঙে দিতে পারেনি।",
+      "At dinner, she explained that 'Daunt' means 'to make someone feel intimidated, discouraged', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Daunt’ শব্দটির অর্থ—ভীত করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Daunt' as 'to make someone feel intimidated, discouraged' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Daunt’ শব্দটি ভীত করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Dearth",
+    "pronunciation_bn": "ডার্থ",
+    "pronunciation": "/dɜːθ/",
+    "no": 261,
+    "group": 11,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a lack or shortage of something",
+    "meaning_bn": [
+      "অভাব",
+      "স্বল্পতা",
+      "ঘাটতি"
+    ],
+    "synonyms": [
+      {
+        "en": "shortage",
+        "bn": "ঘাটতি"
+      },
+      {
+        "en": "scarcity",
+        "bn": "দুষ্প্রাপ্যতা"
+      },
+      {
+        "en": "lack",
+        "bn": "অভাব"
+      },
+      {
+        "en": "Paucity",
+        "bn": "স্বল্পতা"
+      },
+      {
+        "en": "deficit",
+        "bn": "ঘাটতি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "abundance",
+        "bn": "প্রাচুর্য"
+      },
+      {
+        "en": "plenty",
+        "bn": "প্রচুরতা"
+      },
+      {
+        "en": "surplus",
+        "bn": "উদ্বৃত্ত"
+      },
+      {
+        "en": "spate",
+        "bn": "হঠাৎ একসঙ্গে অনেক ঘটনা ঘটা"
+      },
+      {
+        "en": "Arsenal",
+        "bn": "অস্ত্রাগার"
+      },
+      {
+        "en": "Plethora",
+        "bn": "প্রাচুর্য"
+      },
+      {
+        "en": "Glut",
+        "bn": "অতিরিক্ত সরবরাহ"
+      },
+      {
+        "en": "Surfeit",
+        "bn": "অতিরিক্ত পরিমাণ"
+      },
+      {
+        "en": "Deluge",
+        "bn": "প্রবল বন্যা"
+      },
+      {
+        "en": "Myriad",
+        "bn": "অসংখ্য"
+      }
+    ],
+    "example": "There is a dearth of qualified teachers in rural areas.",
+    "example_bn": "গ্রামাঞ্চলে যোগ্য শিক্ষকের অভাব রয়েছে।",
+    "examples": [
+      "There is a dearth of qualified teachers in rural areas. — গ্রামাঞ্চলে যোগ্য শিক্ষকের অভাব রয়েছে।",
+      "At dinner, she explained that 'Dearth' means 'a lack or shortage of something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Dearth’ শব্দটির অর্থ—অভাব—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Dearth' as 'a lack or shortage of something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Dearth’ শব্দটি অভাব অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Debacle",
+    "pronunciation_bn": "ডিবাকল",
+    "pronunciation": "/dɪˈbɑː.kəl/",
+    "no": 262,
+    "group": 11,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a sudden and complete failure, often with embarrassing or damaging consequences",
+    "meaning_bn": [
+      "চরম ব্যর্থতা",
+      "শোচনীয় পরাজয়",
+      "বিপর্যয়"
+    ],
+    "synonyms": [
+      {
+        "en": "fiasco",
+        "bn": "চরম ব্যর্থতা"
+      },
+      {
+        "en": "disaster",
+        "bn": "বিপর্যয়"
+      },
+      {
+        "en": "failure",
+        "bn": "ব্যর্থতা"
+      },
+      {
+        "en": "Apocalypse",
+        "bn": "মহাবিপর্যয়"
+      },
+      {
+        "en": "calamity",
+        "bn": "বিপর্যয়"
+      },
+      {
+        "en": "cataclysm",
+        "bn": "প্রলয়ংকরী বিপর্যয়"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "success",
+        "bn": "সাফল্য"
+      },
+      {
+        "en": "triumph",
+        "bn": "বিজয়"
+      },
+      {
+        "en": "achievement",
+        "bn": "অর্জন"
+      },
+      {
+        "en": "Coup",
+        "bn": "সামরিক অভ্যুত্থান"
+      }
+    ],
+    "example": "The election was a debacle for the ruling party.",
+    "example_bn": "নির্বাচনে ক্ষমতাসীন দলটির চরম ভরাডুবি হয়েছিল।",
+    "examples": [
+      "The election was a debacle for the ruling party. — নির্বাচনে ক্ষমতাসীন দলটির চরম ভরাডুবি হয়েছিল।",
+      "At dinner, she explained that 'Debacle' means 'a sudden and complete failure, often with embarrassing', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Debacle’ শব্দটির অর্থ—চরম ব্যর্থতা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Debacle' as 'a sudden and complete failure, often with embarrassing' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Debacle’ শব্দটি চরম ব্যর্থতা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Debauchery",
+    "pronunciation_bn": "ডিবচারি",
+    "pronunciation": "/dɪˈbɔː.tʃər.i/",
+    "no": 263,
+    "group": 11,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "excessive indulgence in sensual pleasures, especially sexual activity or alcohol",
+    "meaning_bn": [
+      "অসংযত ভোগবিলাস",
+      "লাম্পট্য",
+      "উচ্ছৃঙ্খল জীবনযাপন"
+    ],
+    "synonyms": [
+      {
+        "en": "dissipation",
+        "bn": "অসংযত ভোগবিলাস"
+      },
+      {
+        "en": "indulgence",
+        "bn": "ভোগে আসক্তি"
+      },
+      {
+        "en": "licentiousness",
+        "bn": "লাম্পট্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "temperance",
+        "bn": "সংযম"
+      },
+      {
+        "en": "moderation",
+        "bn": "পরিমিতিবোধ"
+      },
+      {
+        "en": "abstinence",
+        "bn": "বিরত থাকা"
+      },
+      {
+        "en": "Celibacy",
+        "bn": "ব্রহ্মচর্য"
+      },
+      {
+        "en": "Sobriety",
+        "bn": "মদ্যপানমুক্ত অবস্থা"
+      }
+    ],
+    "example": "He wasted his fortune on debauchery.",
+    "example_bn": "সে অসংযত ভোগবিলাসে নিজের সম্পদ নষ্ট করেছিল।",
+    "examples": [
+      "He wasted his fortune on debauchery. — সে অসংযত ভোগবিলাসে নিজের সম্পদ নষ্ট করেছিল।",
+      "At dinner, she explained that 'Debauchery' means 'excessive indulgence in sensual pleasures, especially sexual activity', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Debauchery’ শব্দটির অর্থ—অসংযত ভোগবিলাস—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Debauchery' as 'excessive indulgence in sensual pleasures, especially sexual activity' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Debauchery’ শব্দটি অসংযত ভোগবিলাস অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Debilitate",
+    "pronunciation_bn": "ডিবিলিটেইট",
+    "pronunciation": "/dɪˈbɪl.ɪ.teɪt/",
+    "no": 264,
+    "group": 11,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to make someone or something weak, especially in health or strength",
+    "meaning_bn": [
+      "দুর্বল করে দেওয়া",
+      "শক্তিহীন করা"
+    ],
+    "synonyms": [
+      {
+        "en": "weaken",
+        "bn": "দুর্বল করা"
+      },
+      {
+        "en": "enfeeble",
+        "bn": "শক্তিহীন করা"
+      },
+      {
+        "en": "undermine",
+        "bn": "ভিত দুর্বল করা"
+      },
+      {
+        "en": "Enervate",
+        "bn": "দুর্বল করে দেওয়া"
+      },
+      {
+        "en": "Vitiate",
+        "bn": "দূষিত করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "strengthen",
+        "bn": "শক্তিশালী করা"
+      },
+      {
+        "en": "invigorate",
+        "bn": "সবল করা"
+      },
+      {
+        "en": "fortify",
+        "bn": "মজবুত করা"
+      },
+      {
+        "en": "champion",
+        "bn": "সমর্থন করা"
+      },
+      {
+        "en": "consolidate",
+        "bn": "একত্রিত করা"
+      }
+    ],
+    "example": "The long illness debilitated him completely.",
+    "example_bn": "দীর্ঘ অসুস্থতা তাকে সম্পূর্ণ দুর্বল করে দিয়েছিল।",
+    "examples": [
+      "The long illness debilitated him completely. — দীর্ঘ অসুস্থতা তাকে সম্পূর্ণ দুর্বল করে দিয়েছিল।",
+      "At dinner, she explained that 'Debilitate' means 'to make someone or something weak, especially', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Debilitate’ শব্দটির অর্থ—দুর্বল করে দেওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Debilitate' as 'to make someone or something weak, especially' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Debilitate’ শব্দটি দুর্বল করে দেওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Decadent",
+    "pronunciation_bn": "ডেকাডেন্ট",
+    "pronunciation": "/ˈdek.ə.dənt/",
+    "no": 265,
+    "group": 11,
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "meaning_en": "(adjective) showing moral decline or excessive concern with luxury and pleasure; (noun) a person associated with decadence",
+    "meaning_bn": [
+      "নৈতিকভাবে অধঃপতিত",
+      "অতিরিক্ত বিলাসিতায় আসক্ত",
+      "অবক্ষয়ী"
+    ],
+    "synonyms": [
+      {
+        "en": "degenerate",
+        "bn": "অধঃপতিত"
+      },
+      {
+        "en": "self-indulgent",
+        "bn": "ভোগবিলাসে আসক্ত"
+      },
+      {
+        "en": "dissolute",
+        "bn": "উচ্ছৃঙ্খল"
+      },
+      {
+        "en": "Atrophy",
+        "bn": "ক্ষয় হয়ে যাওয়া"
+      },
+      {
+        "en": "Licentious",
+        "bn": "নীতিবিবর্জিত"
+      },
+      {
+        "en": "reprobate",
+        "bn": "দুশ্চরিত্র বা নীতিহীন ব্যক্তি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "virtuous",
+        "bn": "সচ্চরিত্র"
+      },
+      {
+        "en": "disciplined",
+        "bn": "শৃঙ্খলাপরায়ণ"
+      },
+      {
+        "en": "austere",
+        "bn": "সংযমী/অনাড়ম্বর"
+      },
+      {
+        "en": "Ascetic",
+        "bn": "কৃচ্ছ্রসাধনকারী"
+      },
+      {
+        "en": "Caustic",
+        "bn": "ক্ষয়কারী"
+      },
+      {
+        "en": "dour",
+        "bn": "গম্ভীর"
+      }
+    ],
+    "example": "The decadent lifestyle of the nobles angered the poor.",
+    "example_bn": "অভিজাতদের বিলাসবহুল ও অধঃপতিত জীবনযাপন দরিদ্রদের ক্ষুব্ধ করেছিল।",
+    "examples": [
+      "The decadent lifestyle of the nobles angered the poor. — অভিজাতদের বিলাসবহুল ও অধঃপতিত জীবনযাপন দরিদ্রদের ক্ষুব্ধ করেছিল।",
+      "At dinner, she explained that 'Decadent' means '(adjective) showing moral decline or excessive concern', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Decadent’ শব্দটির অর্থ—নৈতিকভাবে অধঃপতিত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Decadent' as '(adjective) showing moral decline or excessive concern' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Decadent’ শব্দটি নৈতিকভাবে অধঃপতিত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Decimate",
+    "pronunciation_bn": "ডেসিমেইট",
+    "pronunciation": "/ˈdes.ɪ.meɪt/",
+    "no": 266,
+    "group": 11,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to destroy or kill a large part of something",
+    "meaning_bn": [
+      "বিপুল অংশ ধ্বংস করা",
+      "বিপুলসংখ্যক মানুষ বা প্রাণী হত্যা করা"
+    ],
+    "synonyms": [
+      {
+        "en": "devastate",
+        "bn": "ধ্বংসস্তূপে পরিণত করা"
+      },
+      {
+        "en": "annihilate",
+        "bn": "সম্পূর্ণ ধ্বংস করা"
+      },
+      {
+        "en": "decimate severely",
+        "bn": "বিপুলভাবে ক্ষতিগ্রস্ত করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "preserve",
+        "bn": "সংরক্ষণ করা"
+      },
+      {
+        "en": "protect",
+        "bn": "রক্ষা করা"
+      },
+      {
+        "en": "save",
+        "bn": "বাঁচানো"
+      },
+      {
+        "en": "perpetuate",
+        "bn": "চিরস্থায়ী করা"
+      }
+    ],
+    "example": "The plague decimated the population.",
+    "example_bn": "মহামারিটি জনসংখ্যার একটি বড় অংশকে নিশ্চিহ্ন করে দিয়েছিল।",
+    "examples": [
+      "The plague decimated the population. — মহামারিটি জনসংখ্যার একটি বড় অংশকে নিশ্চিহ্ন করে দিয়েছিল।",
+      "At dinner, she explained that 'Decimate' means 'to destroy or kill a large part', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Decimate’ শব্দটির অর্থ—বিপুল অংশ ধ্বংস করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Decimate' as 'to destroy or kill a large part' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Decimate’ শব্দটি বিপুল অংশ ধ্বংস করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Decorous",
+    "pronunciation_bn": "ডেকোরাস",
+    "pronunciation": "/ˈdek.ər.əs/",
+    "no": 267,
+    "group": 11,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "behaving in a polite, proper, and socially acceptable way",
+    "meaning_bn": [
+      "শালীন",
+      "মার্জিত",
+      "শিষ্টাচারসম্মত"
+    ],
+    "synonyms": [
+      {
+        "en": "proper",
+        "bn": "যথাযথ"
+      },
+      {
+        "en": "dignified",
+        "bn": "মর্যাদাপূর্ণ"
+      },
+      {
+        "en": "respectable",
+        "bn": "সম্মানজনক"
+      },
+      {
+        "en": "August",
+        "bn": "মহিমান্বিত"
+      },
+      {
+        "en": "estimable",
+        "bn": "সম্মানের যোগ্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "indecorous",
+        "bn": "অশালীন"
+      },
+      {
+        "en": "improper",
+        "bn": "অনুচিত"
+      },
+      {
+        "en": "unseemly",
+        "bn": "অশোভন"
+      }
+    ],
+    "example": "The guests were expected to behave in a decorous manner.",
+    "example_bn": "অতিথিদের শালীন ও মার্জিত আচরণ করার প্রত্যাশা করা হয়েছিল।",
+    "examples": [
+      "The guests were expected to behave in a decorous manner. — অতিথিদের শালীন ও মার্জিত আচরণ করার প্রত্যাশা করা হয়েছিল।",
+      "At dinner, she explained that 'Decorous' means 'behaving in a polite, proper, and socially acceptable', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Decorous’ শব্দটির অর্থ—শালীন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Decorous' as 'behaving in a polite, proper, and socially acceptable' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Decorous’ শব্দটি শালীন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Deduce",
+    "pronunciation_bn": "ডিডিউস",
+    "pronunciation": "/dɪˈdjuːs/",
+    "no": 268,
+    "group": 11,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to reach a conclusion by reasoning from evidence or known facts",
+    "meaning_bn": [
+      "যুক্তি ও প্রমাণ থেকে সিদ্ধান্তে পৌঁছানো",
+      "অনুমান করে নির্ণয় করা"
+    ],
+    "synonyms": [
+      {
+        "en": "infer",
+        "bn": "যুক্তি থেকে সিদ্ধান্তে পৌঁছানো"
+      },
+      {
+        "en": "conclude",
+        "bn": "সিদ্ধান্তে আসা"
+      },
+      {
+        "en": "reason out",
+        "bn": "যুক্তি দিয়ে নির্ণয় করা"
+      },
+      {
+        "en": "divine",
+        "bn": "অন্তর্দৃষ্টি দিয়ে বুঝতে পারা"
+      },
+      {
+        "en": "Extrapolate",
+        "bn": "জ্ঞাত তথ্য থেকে অজ্ঞাত বিষয়ে অনুমান করা"
+      },
+      {
+        "en": "surmise",
+        "bn": "অনুমান করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "guess",
+        "bn": "আন্দাজ করা"
+      },
+      {
+        "en": "speculate",
+        "bn": "অনুমাননির্ভর ধারণা করা"
+      },
+      {
+        "en": "Conjecture",
+        "bn": "অনুমান"
+      },
+      {
+        "en": "Corroborate",
+        "bn": "প্রমাণ দিয়ে সমর্থন করা"
+      }
+    ],
+    "example": "From the clues, the detective deduced the killer's identity.",
+    "example_bn": "সূত্রগুলো থেকে গোয়েন্দা খুনির পরিচয় নির্ণয় করেছিলেন।",
+    "examples": [
+      "From the clues, the detective deduced the killer's identity. — সূত্রগুলো থেকে গোয়েন্দা খুনির পরিচয় নির্ণয় করেছিলেন।",
+      "At dinner, she explained that 'Deduce' means 'to reach a conclusion by reasoning from evidence', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Deduce’ শব্দটির অর্থ—যুক্তি ও প্রমাণ থেকে সিদ্ধান্তে পৌঁছানো—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Deduce' as 'to reach a conclusion by reasoning from evidence' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Deduce’ শব্দটি যুক্তি ও প্রমাণ থেকে সিদ্ধান্তে পৌঁছানো অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Defame",
+    "pronunciation_bn": "ডিফেইম",
+    "pronunciation": "/dɪˈfeɪm/",
+    "no": 269,
+    "group": 11,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to damage someone's reputation by making false or harmful statements",
+    "meaning_bn": [
+      "মানহানি করা",
+      "মিথ্যা অপবাদ দিয়ে সুনাম নষ্ট করা"
+    ],
+    "synonyms": [
+      {
+        "en": "slander",
+        "bn": "মৌখিকভাবে মানহানি করা"
+      },
+      {
+        "en": "libel",
+        "bn": "লিখিতভাবে মানহানি করা"
+      },
+      {
+        "en": "malign",
+        "bn": "কুৎসা রটানো"
+      },
+      {
+        "en": "Vilify",
+        "bn": "নিন্দা করা"
+      },
+      {
+        "en": "revile",
+        "bn": "গালাগাল করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "praise",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "commend",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "vindicate",
+        "bn": "নির্দোষ প্রমাণ করা"
+      },
+      {
+        "en": "Acquit",
+        "bn": "অপরাধের অভিযোগ থেকে খালাস দেওয়া"
+      },
+      {
+        "en": "Laud",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "Absolve",
+        "bn": "দায়মুক্ত করা"
+      },
+      {
+        "en": "Acclaim",
+        "bn": "প্রকাশ্যে প্রশংসা করা"
+      },
+      {
+        "en": "Exonerate",
+        "bn": "দোষমুক্ত করা"
+      }
+    ],
+    "example": "The false article defamed an innocent man.",
+    "example_bn": "মিথ্যা নিবন্ধটি একজন নির্দোষ ব্যক্তির মানহানি করেছিল।",
+    "examples": [
+      "The false article defamed an innocent man. — মিথ্যা নিবন্ধটি একজন নির্দোষ ব্যক্তির মানহানি করেছিল।",
+      "At dinner, she explained that 'Defame' means 'to damage someone's reputation by making false', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Defame’ শব্দটির অর্থ—মানহানি করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Defame' as 'to damage someone's reputation by making false' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Defame’ শব্দটি মানহানি করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Deference",
+    "pronunciation_bn": "ডেফারেন্স",
+    "pronunciation": "/ˈdef.ər.əns/",
+    "no": 270,
+    "group": 11,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "respectful submission to or yielding to another person's judgment, wishes, or authority",
+    "meaning_bn": [
+      "শ্রদ্ধাপূর্ণ আনুগত্য",
+      "সম্মান দেখিয়ে মেনে নেওয়া",
+      "মান্যতা"
+    ],
+    "synonyms": [
+      {
+        "en": "respect",
+        "bn": "সম্মান"
+      },
+      {
+        "en": "regard",
+        "bn": "শ্রদ্ধা"
+      },
+      {
+        "en": "submission",
+        "bn": "আনুগত্য"
+      },
+      {
+        "en": "obeisance",
+        "bn": "নতজানু হয়ে সম্মান প্রদর্শন"
+      },
+      {
+        "en": "Homage",
+        "bn": "শ্রদ্ধা"
+      },
+      {
+        "en": "resignation",
+        "bn": "পদত্যাগ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "disrespect",
+        "bn": "অসম্মান"
+      },
+      {
+        "en": "defiance",
+        "bn": "অবাধ্যতা"
+      },
+      {
+        "en": "disregard",
+        "bn": "অগ্রাহ্য করা"
+      },
+      {
+        "en": "contempt",
+        "bn": "অবজ্ঞা"
+      },
+      {
+        "en": "Blasphemy",
+        "bn": "ঈশ্বর বা পবিত্র বিষয়ের অবমাননা"
+      },
+      {
+        "en": "contumely",
+        "bn": "অপমানজনক কথা বা আচরণ"
+      },
+      {
+        "en": "Disdain",
+        "bn": "তাচ্ছিল্য"
+      },
+      {
+        "en": "Insurrection",
+        "bn": "বিদ্রোহ"
+      }
+    ],
+    "example": "He spoke with deference to the senior professor.",
+    "example_bn": "তিনি জ্যেষ্ঠ অধ্যাপকের প্রতি যথাযথ শ্রদ্ধা রেখে কথা বলেছিলেন।",
+    "examples": [
+      "He spoke with deference to the senior professor. — তিনি জ্যেষ্ঠ অধ্যাপকের প্রতি যথাযথ শ্রদ্ধা রেখে কথা বলেছিলেন।",
+      "At dinner, she explained that 'Deference' means 'respectful submission to or yielding to another person's', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Deference’ শব্দটির অর্থ—শ্রদ্ধাপূর্ণ আনুগত্য—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Deference' as 'respectful submission to or yielding to another person's' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Deference’ শব্দটি শ্রদ্ধাপূর্ণ আনুগত্য অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Definitive",
+    "pronunciation_bn": "ডিফিনিটিভ",
+    "pronunciation": "/dɪˈfɪn.ɪ.tɪv/",
+    "no": 271,
+    "group": 11,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "final and authoritative, leaving no doubt or need for further change",
+    "meaning_bn": [
+      "চূড়ান্ত",
+      "প্রামাণ্য",
+      "সন্দেহাতীত"
+    ],
+    "synonyms": [
+      {
+        "en": "conclusive",
+        "bn": "চূড়ান্তভাবে মীমাংসাকারী"
+      },
+      {
+        "en": "authoritative",
+        "bn": "প্রামাণ্য"
+      },
+      {
+        "en": "decisive",
+        "bn": "নির্ণায়ক"
+      },
+      {
+        "en": "Peremptory",
+        "bn": "হুকুমমূলক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "inconclusive",
+        "bn": "অমীমাংসিত"
+      },
+      {
+        "en": "tentative",
+        "bn": "অস্থায়ী/অনিশ্চিত"
+      },
+      {
+        "en": "provisional",
+        "bn": "সাময়িক"
+      },
+      {
+        "en": "Ambivalent",
+        "bn": "দ্বিধাগ্রস্ত"
+      },
+      {
+        "en": "Contingent",
+        "bn": "নির্ভরশীল"
+      },
+      {
+        "en": "Interim",
+        "bn": "অন্তর্বর্তীকালীন"
+      }
+    ],
+    "example": "This is the definitive guide to Bangla grammar.",
+    "example_bn": "এটি বাংলা ব্যাকরণের একটি প্রামাণ্য ও পূর্ণাঙ্গ নির্দেশিকা।",
+    "examples": [
+      "This is the definitive guide to Bangla grammar. — এটি বাংলা ব্যাকরণের একটি প্রামাণ্য ও পূর্ণাঙ্গ নির্দেশিকা।",
+      "At dinner, she explained that 'Definitive' means 'final and authoritative, leaving no doubt or need', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Definitive’ শব্দটির অর্থ—চূড়ান্ত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Definitive' as 'final and authoritative, leaving no doubt or need' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Definitive’ শব্দটি চূড়ান্ত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Degenerate",
+    "pronunciation_bn": "ডিজেনারেইট (ক্রিয়া)",
+    "pronunciation": "/dɪˈdʒen.ə.reɪt/",
+    "no": 272,
+    "group": 11,
+    "pos": [
+      "verb",
+      "adjective",
+      "noun"
+    ],
+    "meaning_en": "(verb) to become worse in quality or condition; (adjective/noun) having declined from a better or more normal state",
+    "meaning_bn": [
+      "অবনতি হওয়া",
+      "অধঃপতিত হওয়া",
+      "অবক্ষয়ী ব্যক্তি"
+    ],
+    "synonyms": [
+      {
+        "en": "deteriorate",
+        "bn": "অবনতি হওয়া"
+      },
+      {
+        "en": "decline",
+        "bn": "অবনতি হওয়া"
+      },
+      {
+        "en": "worsen",
+        "bn": "আরও খারাপ হওয়া"
+      },
+      {
+        "en": "Atrophy",
+        "bn": "ক্ষয় হয়ে যাওয়া"
+      },
+      {
+        "en": "reprobate",
+        "bn": "দুশ্চরিত্র বা নীতিহীন ব্যক্তি"
+      },
+      {
+        "en": "Decadent",
+        "bn": "নৈতিকভাবে অধঃপতিত"
+      },
+      {
+        "en": "degrade",
+        "bn": "অপমান করা"
+      },
+      {
+        "en": "Exacerbate",
+        "bn": "আরও খারাপ করে তোলা"
+      },
+      {
+        "en": "fester",
+        "bn": "ক্ষতে পুঁজ জমা"
+      },
+      {
+        "en": "Languish",
+        "bn": "নিস্তেজ হয়ে পড়া"
+      },
+      {
+        "en": "Rogue",
+        "bn": "ঠগ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "improve",
+        "bn": "উন্নত হওয়া"
+      },
+      {
+        "en": "develop",
+        "bn": "বিকশিত হওয়া"
+      },
+      {
+        "en": "recover",
+        "bn": "সেরে ওঠা"
+      },
+      {
+        "en": "Ameliorate",
+        "bn": "উন্নত করা"
+      },
+      {
+        "en": "Alleviate",
+        "bn": "উপশম করা"
+      },
+      {
+        "en": "Austere",
+        "bn": "সাদাসিধে ও অনাড়ম্বর"
+      },
+      {
+        "en": "Burgeon",
+        "bn": "দ্রুত বৃদ্ধি পাওয়া"
+      },
+      {
+        "en": "redeem",
+        "bn": "পুনরুদ্ধার করা"
+      }
+    ],
+    "example": "The discussion degenerated into a shouting match.",
+    "example_bn": "আলোচনাটি ক্রমে চিৎকার-চেঁচামেচির ঝগড়ায় পরিণত হয়েছিল।",
+    "examples": [
+      "The discussion degenerated into a shouting match. — আলোচনাটি ক্রমে চিৎকার-চেঁচামেচির ঝগড়ায় পরিণত হয়েছিল।",
+      "At dinner, she explained that 'Degenerate' means '(verb) to become worse in quality or condition', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Degenerate’ শব্দটির অর্থ—অবনতি হওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Degenerate' as '(verb) to become worse in quality or condition' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Degenerate’ শব্দটি অবনতি হওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Deleterious",
+    "pronunciation_bn": "ডেলিটিয়ারিয়াস",
+    "pronunciation": "/ˌdel.ɪˈtɪə.ri.əs/",
+    "no": 273,
+    "group": 11,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "causing harm or damage",
+    "meaning_bn": [
+      "ক্ষতিকর",
+      "অহিতকর"
+    ],
+    "synonyms": [
+      {
+        "en": "harmful",
+        "bn": "ক্ষতিকর"
+      },
+      {
+        "en": "detrimental",
+        "bn": "ক্ষতিকর"
+      },
+      {
+        "en": "damaging",
+        "bn": "ক্ষতিসাধনকারী"
+      },
+      {
+        "en": "Noxious",
+        "bn": "ক্ষতিকর"
+      },
+      {
+        "en": "Inimical",
+        "bn": "ক্ষতিকর"
+      },
+      {
+        "en": "Pernicious",
+        "bn": "মারাত্মক ক্ষতিকর"
+      },
+      {
+        "en": "toxic",
+        "bn": "বিষাক্ত"
+      },
+      {
+        "en": "corrosive",
+        "bn": "ক্ষয়কারী"
+      },
+      {
+        "en": "noisome",
+        "bn": "দুর্গন্ধযুক্ত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "beneficial",
+        "bn": "উপকারী"
+      },
+      {
+        "en": "harmless",
+        "bn": "ক্ষতিহীন"
+      },
+      {
+        "en": "advantageous",
+        "bn": "সুবিধাজনক"
+      },
+      {
+        "en": "Conducive",
+        "bn": "সহায়ক"
+      },
+      {
+        "en": "Benign",
+        "bn": "ক্ষতিকর নয় এমন"
+      },
+      {
+        "en": "Salutary",
+        "bn": "উপকারী"
+      },
+      {
+        "en": "Innocuous",
+        "bn": "ক্ষতিহীন"
+      },
+      {
+        "en": "Expedient",
+        "bn": "সুবিধাজনক"
+      }
+    ],
+    "example": "Smoking has deleterious effects on health.",
+    "example_bn": "ধূমপান স্বাস্থ্যের ওপর ক্ষতিকর প্রভাব ফেলে।",
+    "examples": [
+      "Smoking has deleterious effects on health. — ধূমপান স্বাস্থ্যের ওপর ক্ষতিকর প্রভাব ফেলে।",
+      "At dinner, she explained that 'Deleterious' means 'causing harm or damage', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Deleterious’ শব্দটির অর্থ—ক্ষতিকর—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Deleterious' as 'causing harm or damage' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Deleterious’ শব্দটি ক্ষতিকর অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Delineate",
+    "pronunciation_bn": "ডিলিনিয়েইট",
+    "pronunciation": "/dɪˈlɪn.i.eɪt/",
+    "no": 274,
+    "group": 11,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to describe, show, or define something precisely",
+    "meaning_bn": [
+      "সুনির্দিষ্টভাবে বর্ণনা করা",
+      "সীমানা নির্ধারণ করা",
+      "স্পষ্টভাবে তুলে ধরা"
+    ],
+    "synonyms": [
+      {
+        "en": "outline",
+        "bn": "রূপরেখা দেওয়া"
+      },
+      {
+        "en": "describe",
+        "bn": "বর্ণনা করা"
+      },
+      {
+        "en": "define",
+        "bn": "সংজ্ঞায়িত করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "obscure",
+        "bn": "অস্পষ্ট করা"
+      },
+      {
+        "en": "confuse",
+        "bn": "বিভ্রান্ত করা"
+      },
+      {
+        "en": "blur",
+        "bn": "ঝাপসা করা"
+      },
+      {
+        "en": "Obfuscate",
+        "bn": "অস্পষ্ট করা"
+      },
+      {
+        "en": "confound",
+        "bn": "বিভ্রান্ত করা"
+      },
+      {
+        "en": "eclipse",
+        "bn": "আলো আড়াল করা"
+      }
+    ],
+    "example": "The contract clearly delineated the responsibilities of each party.",
+    "example_bn": "চুক্তিতে প্রতিটি পক্ষের দায়িত্ব স্পষ্টভাবে নির্ধারণ করা হয়েছিল।",
+    "examples": [
+      "The contract clearly delineated the responsibilities of each party. — চুক্তিতে প্রতিটি পক্ষের দায়িত্ব স্পষ্টভাবে নির্ধারণ করা হয়েছিল।",
+      "At dinner, she explained that 'Delineate' means 'to describe, show, or define something precisely', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Delineate’ শব্দটির অর্থ—সুনির্দিষ্টভাবে বর্ণনা করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Delineate' as 'to describe, show, or define something precisely' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Delineate’ শব্দটি সুনির্দিষ্টভাবে বর্ণনা করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Delude",
+    "pronunciation_bn": "ডিলুড",
+    "pronunciation": "/dɪˈluːd/",
+    "no": 275,
+    "group": 11,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to make someone believe something that is not true; to deceive",
+    "meaning_bn": [
+      "প্রতারণা করা",
+      "মিথ্যা ধারণা দেওয়া",
+      "বিভ্রান্ত করা"
+    ],
+    "synonyms": [
+      {
+        "en": "deceive",
+        "bn": "প্রতারণা করা"
+      },
+      {
+        "en": "mislead",
+        "bn": "ভুল পথে চালিত করা"
+      },
+      {
+        "en": "fool",
+        "bn": "বোকা বানানো"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "enlighten",
+        "bn": "সঠিক তথ্য দিয়ে সচেতন করা"
+      },
+      {
+        "en": "inform",
+        "bn": "তথ্য জানানো"
+      },
+      {
+        "en": "undeceive",
+        "bn": "ভুল ধারণা দূর করা"
+      },
+      {
+        "en": "Edify",
+        "bn": "নৈতিক শিক্ষা দেওয়া"
+      },
+      {
+        "en": "Apprise",
+        "bn": "অবহিত করা"
+      }
+    ],
+    "example": "He deluded himself into thinking he would win.",
+    "example_bn": "সে নিজেকেই এই ভ্রান্ত ধারণা দিয়েছিল যে সে জিতবে।",
+    "examples": [
+      "He deluded himself into thinking he would win. — সে নিজেকেই এই ভ্রান্ত ধারণা দিয়েছিল যে সে জিতবে।",
+      "At dinner, she explained that 'Delude' means 'to make someone believe something that is not', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Delude’ শব্দটির অর্থ—প্রতারণা করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Delude' as 'to make someone believe something that is not' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Delude’ শব্দটি প্রতারণা করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

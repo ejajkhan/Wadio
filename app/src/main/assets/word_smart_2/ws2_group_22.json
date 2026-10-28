@@ -1,0 +1,1532 @@
+[
+  {
+    "word": "Livid",
+    "pronunciation_bn": "লিভিড",
+    "pronunciation": "/ˈlɪv.ɪd/",
+    "no": 526,
+    "group": 22,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "extremely angry; also, dark bluish or purple in colour, especially because of a bruise",
+    "meaning_bn": [
+      "প্রচণ্ড রাগান্বিত",
+      "নীলচে বা বেগুনি-কালচে"
+    ],
+    "synonyms": [
+      {
+        "en": "furious",
+        "bn": "প্রচণ্ড রাগান্বিত"
+      },
+      {
+        "en": "enraged",
+        "bn": "ক্রুদ্ধ"
+      },
+      {
+        "en": "incensed",
+        "bn": "ক্ষুব্ধ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "calm",
+        "bn": "শান্ত"
+      },
+      {
+        "en": "placid",
+        "bn": "প্রশান্ত"
+      },
+      {
+        "en": "composed",
+        "bn": "শান্ত"
+      },
+      {
+        "en": "phlegmatic",
+        "bn": "শান্ত ও নির্বিকার"
+      },
+      {
+        "en": "serene",
+        "bn": "শান্ত"
+      }
+    ],
+    "example": "She was livid when she discovered that someone had lied to her.",
+    "example_bn": "কেউ তার সঙ্গে মিথ্যা বলেছে জানতে পেরে সে প্রচণ্ড রেগে গিয়েছিল।",
+    "examples": [
+      "She was livid when she discovered that someone had lied to her. — কেউ তার সঙ্গে মিথ্যা বলেছে জানতে পেরে সে প্রচণ্ড রেগে গিয়েছিল।",
+      "At dinner, she explained that 'Livid' means 'extremely angry', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Livid’ শব্দটির অর্থ—প্রচণ্ড রাগান্বিত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Livid' as 'extremely angry' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Livid’ শব্দটি প্রচণ্ড রাগান্বিত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Loath",
+    "pronunciation_bn": "লোউথ",
+    "pronunciation": "/ləʊθ/",
+    "no": 527,
+    "group": 22,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "unwilling or reluctant to do something",
+    "meaning_bn": [
+      "অনিচ্ছুক",
+      "কোনো কাজ করতে অনাগ্রহী"
+    ],
+    "synonyms": [
+      {
+        "en": "reluctant",
+        "bn": "অনিচ্ছুক"
+      },
+      {
+        "en": "unwilling",
+        "bn": "রাজি নয় এমন"
+      },
+      {
+        "en": "averse",
+        "bn": "বিমুখ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "willing",
+        "bn": "ইচ্ছুক"
+      },
+      {
+        "en": "eager",
+        "bn": "আগ্রহী"
+      },
+      {
+        "en": "avid",
+        "bn": "অত্যন্ত আগ্রহী"
+      }
+    ],
+    "example": "He was loath to admit that he had made a mistake.",
+    "example_bn": "নিজে ভুল করেছেন—এ কথা স্বীকার করতে তিনি অনিচ্ছুক ছিলেন।",
+    "examples": [
+      "He was loath to admit that he had made a mistake. — নিজে ভুল করেছেন—এ কথা স্বীকার করতে তিনি অনিচ্ছুক ছিলেন।",
+      "At dinner, she explained that 'Loath' means 'unwilling or reluctant to do something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Loath’ শব্দটির অর্থ—অনিচ্ছুক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Loath' as 'unwilling or reluctant to do something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Loath’ শব্দটি অনিচ্ছুক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Lobby",
+    "pronunciation_bn": "লবি",
+    "pronunciation": "/ˈlɒb.i/",
+    "no": 528,
+    "group": 22,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "to try to persuade people in authority to support a particular policy; also, an entrance hall",
+    "meaning_bn": [
+      "কর্তৃপক্ষকে প্রভাবিত করার চেষ্টা করা",
+      "প্রবেশকক্ষ",
+      "লবি"
+    ],
+    "synonyms": [
+      {
+        "en": "campaign",
+        "bn": "প্রচারণা চালানো"
+      },
+      {
+        "en": "petition",
+        "bn": "আবেদন করা"
+      },
+      {
+        "en": "press",
+        "bn": "চাপ প্রয়োগ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "oppose",
+        "bn": "বিরোধিতা করা"
+      },
+      {
+        "en": "dissuade",
+        "bn": "নিরুৎসাহিত করা"
+      },
+      {
+        "en": "Daunt",
+        "bn": "ভীত করা"
+      },
+      {
+        "en": "dispirit",
+        "bn": "হতাশ করা"
+      }
+    ],
+    "example": "Residents lobbied the council to improve public transport.",
+    "example_bn": "গণপরিবহন উন্নত করার জন্য বাসিন্দারা কাউন্সিলের ওপর চাপ প্রয়োগ করেছিলেন।",
+    "examples": [
+      "Residents lobbied the council to improve public transport. — গণপরিবহন উন্নত করার জন্য বাসিন্দারা কাউন্সিলের ওপর চাপ প্রয়োগ করেছিলেন।",
+      "At dinner, she explained that 'Lobby' means 'to try to persuade people in authority', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Lobby’ শব্দটির অর্থ—কর্তৃপক্ষকে প্রভাবিত করার চেষ্টা করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Lobby' as 'to try to persuade people in authority' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Lobby’ শব্দটি কর্তৃপক্ষকে প্রভাবিত করার চেষ্টা করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Lout",
+    "pronunciation_bn": "লাউট",
+    "pronunciation": "/laʊt/",
+    "no": 529,
+    "group": 22,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a rude, aggressive, or uncouth person",
+    "meaning_bn": [
+      "অভদ্র ব্যক্তি",
+      "অমার্জিত লোক",
+      "গুণ্ডামি করা ব্যক্তি"
+    ],
+    "synonyms": [
+      {
+        "en": "oaf",
+        "bn": "নির্বোধ ও অমার্জিত ব্যক্তি"
+      },
+      {
+        "en": "boor",
+        "bn": "অভদ্র ব্যক্তি"
+      },
+      {
+        "en": "ruffian",
+        "bn": "গুণ্ডা"
+      },
+      {
+        "en": "churl",
+        "bn": "অভদ্র ব্যক্তি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "gentleman",
+        "bn": "ভদ্রলোক"
+      },
+      {
+        "en": "polite person",
+        "bn": "ভদ্র ব্যক্তি"
+      }
+    ],
+    "example": "The lout shouted at the waiter and knocked over a chair.",
+    "example_bn": "অভদ্র লোকটি ওয়েটারের ওপর চিৎকার করে একটি চেয়ার ফেলে দিল।",
+    "examples": [
+      "The lout shouted at the waiter and knocked over a chair. — অভদ্র লোকটি ওয়েটারের ওপর চিৎকার করে একটি চেয়ার ফেলে দিল।",
+      "At dinner, she explained that 'Lout' means 'a rude, aggressive, or uncouth person', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Lout’ শব্দটির অর্থ—অভদ্র ব্যক্তি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Lout' as 'a rude, aggressive, or uncouth person' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Lout’ শব্দটি অভদ্র ব্যক্তি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Ludicrous",
+    "pronunciation_bn": "লুডিক্রাস",
+    "pronunciation": "/ˈluː.dɪ.krəs/",
+    "no": 530,
+    "group": 22,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "so unreasonable or foolish that it is amusing or ridiculous",
+    "meaning_bn": [
+      "হাস্যকর",
+      "উদ্ভট",
+      "অযৌক্তিক"
+    ],
+    "synonyms": [
+      {
+        "en": "ridiculous",
+        "bn": "হাস্যকর"
+      },
+      {
+        "en": "absurd",
+        "bn": "অযৌক্তিক"
+      },
+      {
+        "en": "preposterous",
+        "bn": "সম্পূর্ণ উদ্ভট"
+      },
+      {
+        "en": "Farcical",
+        "bn": "হাস্যকর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "reasonable",
+        "bn": "যুক্তিসংগত"
+      },
+      {
+        "en": "sensible",
+        "bn": "বুদ্ধিসংগত"
+      },
+      {
+        "en": "Judicious",
+        "bn": "বিচক্ষণ"
+      },
+      {
+        "en": "Pragmatic",
+        "bn": "বাস্তবসম্মত"
+      },
+      {
+        "en": "Prudent",
+        "bn": "বিচক্ষণ"
+      },
+      {
+        "en": "Grievous",
+        "bn": "গুরুতর"
+      },
+      {
+        "en": "Provident",
+        "bn": "ভবিষ্যতের জন্য সতর্ক পরিকল্পনাকারী"
+      }
+    ],
+    "example": "The claim that the moon is made of cheese is ludicrous.",
+    "example_bn": "চাঁদ পনির দিয়ে তৈরি—এমন দাবি হাস্যকর।",
+    "examples": [
+      "The claim that the moon is made of cheese is ludicrous. — চাঁদ পনির দিয়ে তৈরি—এমন দাবি হাস্যকর।",
+      "At dinner, she explained that 'Ludicrous' means 'so unreasonable or foolish that it is amusing', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Ludicrous’ শব্দটির অর্থ—হাস্যকর—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Ludicrous' as 'so unreasonable or foolish that it is amusing' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Ludicrous’ শব্দটি হাস্যকর অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Lyrical",
+    "pronunciation_bn": "লিরিক্যাল",
+    "pronunciation": "/ˈlɪr.ɪ.kəl/",
+    "no": 531,
+    "group": 22,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "expressing personal emotions in a musical or poetic way; resembling a song",
+    "meaning_bn": [
+      "গীতিময়",
+      "কাব্যিক",
+      "আবেগপূর্ণ"
+    ],
+    "synonyms": [
+      {
+        "en": "poetic",
+        "bn": "কাব্যিক"
+      },
+      {
+        "en": "melodious",
+        "bn": "সুরেলা"
+      },
+      {
+        "en": "songlike",
+        "bn": "গানের মতো"
+      },
+      {
+        "en": "Mellifluous",
+        "bn": "শুনতে মধুর, মসৃণ ও সুরেলা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "prosaic",
+        "bn": "গদ্যময়"
+      },
+      {
+        "en": "unpoetic",
+        "bn": "কাব্যিকতাহীন"
+      },
+      {
+        "en": "Bovine",
+        "bn": "গবাদি পশু বা গরুসংক্রান্ত"
+      },
+      {
+        "en": "Insipid",
+        "bn": "বিস্বাদ"
+      },
+      {
+        "en": "Mundane",
+        "bn": "সাধারণ ও অনাকর্ষণীয়"
+      },
+      {
+        "en": "Obtuse",
+        "bn": "বুদ্ধিতে ধীর"
+      },
+      {
+        "en": "Pedestrian",
+        "bn": "গতানুগতিক"
+      }
+    ],
+    "example": "The writer became lyrical when describing the countryside.",
+    "example_bn": "গ্রামাঞ্চলের বর্ণনা দিতে গিয়ে লেখকের ভাষা কাব্যিক হয়ে উঠেছিল।",
+    "examples": [
+      "The writer became lyrical when describing the countryside. — গ্রামাঞ্চলের বর্ণনা দিতে গিয়ে লেখকের ভাষা কাব্যিক হয়ে উঠেছিল।",
+      "At dinner, she explained that 'Lyrical' means 'expressing personal emotions in a musical or poetic', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Lyrical’ শব্দটির অর্থ—গীতিময়—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Lyrical' as 'expressing personal emotions in a musical or poetic' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Lyrical’ শব্দটি গীতিময় অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Malapropism",
+    "pronunciation_bn": "ম্যালাপ্রপিজম",
+    "pronunciation": "/ˈmæl.ə.prɒp.ɪ.zəm/",
+    "no": 532,
+    "group": 22,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the mistaken use of a word that sounds similar to the intended word, often with a humorous result",
+    "meaning_bn": [
+      "ধ্বনিগতভাবে কাছাকাছি ভুল শব্দের ব্যবহার",
+      "হাস্যকর শব্দবিভ্রাট"
+    ],
+    "synonyms": [
+      {
+        "en": "word substitution",
+        "bn": "শব্দের ভুল প্রতিস্থাপন"
+      },
+      {
+        "en": "verbal blunder",
+        "bn": "কথার ভুল"
+      },
+      {
+        "en": "misuse of a word",
+        "bn": "শব্দের ভুল ব্যবহার"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "correct usage",
+        "bn": "সঠিক শব্দপ্রয়োগ"
+      },
+      {
+        "en": "accurate expression",
+        "bn": "নির্ভুল প্রকাশ"
+      }
+    ],
+    "example": "Calling an astronomer an 'astrologer' by mistake is a malapropism.",
+    "example_bn": "ভুল করে জ্যোতির্বিজ্ঞানীকে ‘জ্যোতিষী’ বলা একটি শব্দবিভ্রাট।",
+    "examples": [
+      "Calling an astronomer an 'astrologer' by mistake is a malapropism. — ভুল করে জ্যোতির্বিজ্ঞানীকে ‘জ্যোতিষী’ বলা একটি শব্দবিভ্রাট।",
+      "At dinner, she explained that 'Malapropism' means 'the mistaken use of a word that sounds', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Malapropism’ শব্দটির অর্থ—ধ্বনিগতভাবে কাছাকাছি ভুল শব্দের ব্যবহার—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Malapropism' as 'the mistaken use of a word that sounds' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Malapropism’ শব্দটি ধ্বনিগতভাবে কাছাকাছি ভুল শব্দের ব্যবহার অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Mania",
+    "pronunciation_bn": "মেইনিয়া",
+    "pronunciation": "/ˈmeɪ.ni.ə/",
+    "no": 533,
+    "group": 22,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "an unusually strong enthusiasm or obsession; also, a state of extreme excitement or mental illness",
+    "meaning_bn": [
+      "প্রবল উন্মাদনা",
+      "আসক্তি",
+      "অস্বাভাবিক উত্তেজনার অবস্থা"
+    ],
+    "synonyms": [
+      {
+        "en": "obsession",
+        "bn": "আসক্তি"
+      },
+      {
+        "en": "frenzy",
+        "bn": "উন্মত্ততা"
+      },
+      {
+        "en": "fixation",
+        "bn": "বাতিক"
+      },
+      {
+        "en": "fetish",
+        "bn": "জাদুকরী ক্ষমতা আছে বলে বিশ্বাস করা বস্তু"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "indifference",
+        "bn": "উদাসীনতা"
+      },
+      {
+        "en": "apathy",
+        "bn": "নির্লিপ্ততা"
+      }
+    ],
+    "example": "He developed a mania for collecting rare coins.",
+    "example_bn": "দুর্লভ মুদ্রা সংগ্রহের প্রতি তার প্রবল বাতিক তৈরি হয়েছিল।",
+    "examples": [
+      "He developed a mania for collecting rare coins. — দুর্লভ মুদ্রা সংগ্রহের প্রতি তার প্রবল বাতিক তৈরি হয়েছিল।",
+      "At dinner, she explained that 'Mania' means 'an unusually strong enthusiasm or obsession', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Mania’ শব্দটির অর্থ—প্রবল উন্মাদনা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Mania' as 'an unusually strong enthusiasm or obsession' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Mania’ শব্দটি প্রবল উন্মাদনা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Marginal",
+    "pronunciation_bn": "মার্জিনাল",
+    "pronunciation": "/ˈmɑː.dʒɪ.nəl/",
+    "no": 534,
+    "group": 22,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "relating to an edge or margin; small, slight, or not very important",
+    "meaning_bn": [
+      "প্রান্তিক",
+      "সামান্য",
+      "তেমন গুরুত্বপূর্ণ নয় এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "peripheral",
+        "bn": "প্রান্তীয়"
+      },
+      {
+        "en": "minor",
+        "bn": "গৌণ"
+      },
+      {
+        "en": "slight",
+        "bn": "সামান্য"
+      },
+      {
+        "en": "Tangential",
+        "bn": "মূল বিষয়ের সঙ্গে সরাসরি সম্পর্কহীন"
+      },
+      {
+        "en": "Tenuous",
+        "bn": "দুর্বল"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "central",
+        "bn": "কেন্দ্রীয়"
+      },
+      {
+        "en": "substantial",
+        "bn": "উল্লেখযোগ্য"
+      },
+      {
+        "en": "cardinal",
+        "bn": "সবচেয়ে গুরুত্বপূর্ণ"
+      },
+      {
+        "en": "Integral",
+        "bn": "অবিচ্ছেদ্য অংশ"
+      },
+      {
+        "en": "Pivotal",
+        "bn": "অত্যন্ত গুরুত্বপূর্ণ"
+      },
+      {
+        "en": "Flagrant",
+        "bn": "প্রকাশ্য ও গুরুতর"
+      },
+      {
+        "en": "Grievous",
+        "bn": "গুরুতর"
+      }
+    ],
+    "example": "The business made only marginal profits last year.",
+    "example_bn": "ব্যবসাটি গত বছর সামান্য মুনাফা করেছিল।",
+    "examples": [
+      "The business made only marginal profits last year. — ব্যবসাটি গত বছর সামান্য মুনাফা করেছিল।",
+      "At dinner, she explained that 'Marginal' means 'relating to an edge or margin', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Marginal’ শব্দটির অর্থ—প্রান্তিক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Marginal' as 'relating to an edge or margin' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Marginal’ শব্দটি প্রান্তিক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Materialistic",
+    "pronunciation_bn": "ম্যাটিরিয়ালিস্টিক",
+    "pronunciation": "/məˌtɪə.ri.əˈlɪs.tɪk/",
+    "no": 535,
+    "group": 22,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "believing that money and possessions are more important than spiritual or other values",
+    "meaning_bn": [
+      "বস্তুবাদী",
+      "অর্থ ও সম্পদের প্রতি অতিরিক্ত আসক্ত"
+    ],
+    "synonyms": [
+      {
+        "en": "worldly",
+        "bn": "জাগতিক বিষয়কেন্দ্রিক"
+      },
+      {
+        "en": "acquisitive",
+        "bn": "সম্পদ অর্জনে অতিরিক্ত আগ্রহী"
+      },
+      {
+        "en": "money-oriented",
+        "bn": "অর্থকেন্দ্রিক"
+      },
+      {
+        "en": "Bourgeois",
+        "bn": "মধ্যবিত্ত শ্রেণিসংক্রান্ত"
+      },
+      {
+        "en": "Conventional",
+        "bn": "প্রচলিত"
+      },
+      {
+        "en": "Cosmopolitan",
+        "bn": "বহুজাতিক সংস্কৃতিসমৃদ্ধ"
+      },
+      {
+        "en": "Secular",
+        "bn": "ধর্মনিরপেক্ষ"
+      },
+      {
+        "en": "Insatiable",
+        "bn": "অতৃপ্ত"
+      },
+      {
+        "en": "Orthodox",
+        "bn": "প্রথাগত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "spiritual",
+        "bn": "আধ্যাত্মিক"
+      },
+      {
+        "en": "unmaterialistic",
+        "bn": "বস্তুবাদী নয় এমন"
+      },
+      {
+        "en": "Avuncular",
+        "bn": "মামা বা চাচার মতো স্নেহশীল"
+      },
+      {
+        "en": "Benevolent",
+        "bn": "দয়ালু"
+      },
+      {
+        "en": "Eccentric",
+        "bn": "অদ্ভুত"
+      },
+      {
+        "en": "Lavish",
+        "bn": "প্রচুর"
+      },
+      {
+        "en": "Magnanimous",
+        "bn": "মহানুভব"
+      }
+    ],
+    "example": "She rejected the materialistic idea that success depends only on wealth.",
+    "example_bn": "সাফল্য কেবল সম্পদের ওপর নির্ভর করে—এই বস্তুবাদী ধারণা সে প্রত্যাখ্যান করেছিল।",
+    "examples": [
+      "She rejected the materialistic idea that success depends only on wealth. — সাফল্য কেবল সম্পদের ওপর নির্ভর করে—এই বস্তুবাদী ধারণা সে প্রত্যাখ্যান করেছিল।",
+      "At dinner, she explained that 'Materialistic' means 'believing that money and possessions are more important', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Materialistic’ শব্দটির অর্থ—বস্তুবাদী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Materialistic' as 'believing that money and possessions are more important' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Materialistic’ শব্দটি বস্তুবাদী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Mawkish",
+    "pronunciation_bn": "মকিশ",
+    "pronunciation": "/ˈmɔː.kɪʃ/",
+    "no": 536,
+    "group": 22,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "showing emotion or sentimentality in a way that is excessive or unpleasant",
+    "meaning_bn": [
+      "অতিরিক্ত আবেগপ্রবণ",
+      "কৃত্রিমভাবে আবেগময়",
+      "ন্যাকামিপূর্ণ"
+    ],
+    "synonyms": [
+      {
+        "en": "sentimental",
+        "bn": "আবেগপ্রবণ"
+      },
+      {
+        "en": "maudlin",
+        "bn": "অতিরিক্ত আবেগপ্রবণ"
+      },
+      {
+        "en": "saccharine",
+        "bn": "অতি মিষ্টি আবেগে ভরা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "unsentimental",
+        "bn": "অনাবেগপ্রবণ"
+      },
+      {
+        "en": "restrained",
+        "bn": "সংযত"
+      },
+      {
+        "en": "Temperate",
+        "bn": "সংযমী"
+      },
+      {
+        "en": "Abstinent",
+        "bn": "বিরত থাকা"
+      }
+    ],
+    "example": "The film's mawkish ending weakened an otherwise powerful story.",
+    "example_bn": "চলচ্চিত্রটির অতিরিক্ত আবেগময় সমাপ্তি অন্যথায় শক্তিশালী গল্পটিকে দুর্বল করেছিল।",
+    "examples": [
+      "The film's mawkish ending weakened an otherwise powerful story. — চলচ্চিত্রটির অতিরিক্ত আবেগময় সমাপ্তি অন্যথায় শক্তিশালী গল্পটিকে দুর্বল করেছিল।",
+      "At dinner, she explained that 'Mawkish' means 'showing emotion or sentimentality in a way that', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Mawkish’ শব্দটির অর্থ—অতিরিক্ত আবেগপ্রবণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Mawkish' as 'showing emotion or sentimentality in a way that' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Mawkish’ শব্দটি অতিরিক্ত আবেগপ্রবণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Meander",
+    "pronunciation_bn": "মিঅ্যান্ডার",
+    "pronunciation": "/miˈæn.də(r)/",
+    "no": 537,
+    "group": 22,
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "meaning_en": "to follow a winding course; to wander or speak without a clear direction",
+    "meaning_bn": [
+      "আঁকাবাঁকা পথে চলা",
+      "এদিক-ওদিক ঘোরা",
+      "প্রসঙ্গ থেকে প্রসঙ্গে ঘুরে বেড়ানো"
+    ],
+    "synonyms": [
+      {
+        "en": "wander",
+        "bn": "ঘুরে বেড়ানো"
+      },
+      {
+        "en": "ramble",
+        "bn": "এলোমেলোভাবে বলা"
+      },
+      {
+        "en": "wind",
+        "bn": "আঁকাবাঁকা পথে চলা"
+      },
+      {
+        "en": "Digress",
+        "bn": "প্রসঙ্গচ্যুত হওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "proceed directly",
+        "bn": "সরাসরি এগোনো"
+      },
+      {
+        "en": "go straight",
+        "bn": "সোজা পথে চলা"
+      }
+    ],
+    "example": "The river meanders through the fields before reaching the town.",
+    "example_bn": "শহরে পৌঁছানোর আগে নদীটি মাঠের মধ্য দিয়ে আঁকাবাঁকা পথে বয়ে গেছে।",
+    "examples": [
+      "The river meanders through the fields before reaching the town. — শহরে পৌঁছানোর আগে নদীটি মাঠের মধ্য দিয়ে আঁকাবাঁকা পথে বয়ে গেছে।",
+      "At dinner, she explained that 'Meander' means 'to follow a winding course', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Meander’ শব্দটির অর্থ—আঁকাবাঁকা পথে চলা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Meander' as 'to follow a winding course' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Meander’ শব্দটি আঁকাবাঁকা পথে চলা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Medium",
+    "pronunciation_bn": "মিডিয়াম",
+    "pronunciation": "/ˈmiː.di.əm/",
+    "no": 538,
+    "group": 22,
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "meaning_en": "a means or channel through which something is communicated or done; intermediate in size or amount",
+    "meaning_bn": [
+      "মাধ্যম",
+      "যোগাযোগের উপায়",
+      "মাঝারি"
+    ],
+    "synonyms": [
+      {
+        "en": "means",
+        "bn": "উপায়"
+      },
+      {
+        "en": "channel",
+        "bn": "মাধ্যম"
+      },
+      {
+        "en": "vehicle",
+        "bn": "বাহন বা মাধ্যম"
+      },
+      {
+        "en": "Mentor",
+        "bn": "অভিজ্ঞ ও বিশ্বস্ত পরামর্শদাতা, যিনি কাউকে পথ দেখান"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "extreme",
+        "bn": "চরম"
+      },
+      {
+        "en": "large",
+        "bn": "বড়"
+      },
+      {
+        "en": "small",
+        "bn": "ছোট"
+      }
+    ],
+    "example": "Radio remains an effective medium for sharing information.",
+    "example_bn": "তথ্য ছড়িয়ে দেওয়ার জন্য রেডিও এখনো একটি কার্যকর মাধ্যম।",
+    "examples": [
+      "Radio remains an effective medium for sharing information. — তথ্য ছড়িয়ে দেওয়ার জন্য রেডিও এখনো একটি কার্যকর মাধ্যম।",
+      "At dinner, she explained that 'Medium' means 'a means or channel through which something is', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Medium’ শব্দটির অর্থ—মাধ্যম—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Medium' as 'a means or channel through which something is' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Medium’ শব্দটি মাধ্যম অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Melancholy",
+    "pronunciation_bn": "মেলানকলি",
+    "pronunciation": "/ˈmel.ən.kɒl.i/",
+    "no": 539,
+    "group": 22,
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "meaning_en": "a feeling of deep sadness, often without an obvious cause; sad or gloomy",
+    "meaning_bn": [
+      "বিষণ্নতা",
+      "বিষাদ",
+      "মনমরা"
+    ],
+    "synonyms": [
+      {
+        "en": "sadness",
+        "bn": "দুঃখ"
+      },
+      {
+        "en": "sorrow",
+        "bn": "বিষাদ"
+      },
+      {
+        "en": "gloom",
+        "bn": "বিষণ্নতা"
+      },
+      {
+        "en": "Plaintive",
+        "bn": "করুণ"
+      },
+      {
+        "en": "Morose",
+        "bn": "অসুখী, বিষণ্ণ ও খিটখিটে মেজাজের"
+      },
+      {
+        "en": "doleful",
+        "bn": "শোকাকুল"
+      },
+      {
+        "en": "Lugubrious",
+        "bn": "অত্যন্ত বিষণ্ণ"
+      },
+      {
+        "en": "dismal",
+        "bn": "বিষণ্ণ"
+      },
+      {
+        "en": "dour",
+        "bn": "গম্ভীর"
+      },
+      {
+        "en": "pathos",
+        "bn": "করুণা বা দুঃখ জাগায় এমন আবেগময়তা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "happiness",
+        "bn": "সুখ"
+      },
+      {
+        "en": "cheerfulness",
+        "bn": "প্রফুল্লতা"
+      },
+      {
+        "en": "bliss",
+        "bn": "পরম সুখ"
+      },
+      {
+        "en": "elation",
+        "bn": "প্রবল আনন্দ"
+      },
+      {
+        "en": "Convivial",
+        "bn": "আনন্দময়"
+      },
+      {
+        "en": "Ebullient",
+        "bn": "উচ্ছ্বসিত"
+      },
+      {
+        "en": "Felicity",
+        "bn": "পরম সুখ"
+      }
+    ],
+    "example": "A sense of melancholy came over him as he left his childhood home.",
+    "example_bn": "শৈশবের বাড়ি ছেড়ে যাওয়ার সময় তার মনে বিষণ্নতা ভর করেছিল।",
+    "examples": [
+      "A sense of melancholy came over him as he left his childhood home. — শৈশবের বাড়ি ছেড়ে যাওয়ার সময় তার মনে বিষণ্নতা ভর করেছিল।",
+      "At dinner, she explained that 'Melancholy' means 'a feeling of deep sadness, often without', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Melancholy’ শব্দটির অর্থ—বিষণ্নতা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Melancholy' as 'a feeling of deep sadness, often without' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Melancholy’ শব্দটি বিষণ্নতা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Melee",
+    "pronunciation_bn": "মেইলে",
+    "pronunciation": "/ˈmeɪ.leɪ/",
+    "no": 540,
+    "group": 22,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a confused fight or struggle involving many people",
+    "meaning_bn": [
+      "হট্টগোলপূর্ণ সংঘর্ষ",
+      "গোলযোগপূর্ণ মারামারি",
+      "বিশৃঙ্খল লড়াই"
+    ],
+    "synonyms": [
+      {
+        "en": "brawl",
+        "bn": "মারামারি"
+      },
+      {
+        "en": "fray",
+        "bn": "সংঘর্ষ"
+      },
+      {
+        "en": "scramble",
+        "bn": "হুড়োহুড়ি"
+      },
+      {
+        "en": "skirmish",
+        "bn": "অল্পসংখ্যক সৈন্য বা মানুষের মধ্যে স্বল্পস্থায়ী সংঘর্ষ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "truce",
+        "bn": "যুদ্ধবিরতি"
+      },
+      {
+        "en": "peace",
+        "bn": "শান্তি"
+      },
+      {
+        "en": "Armistice",
+        "bn": "যুদ্ধবিরতি"
+      },
+      {
+        "en": "nirvana",
+        "bn": "বৌদ্ধধর্মে দুঃখ ও পুনর্জন্মের চক্র থেকে মুক্তির পরম অবস্থা"
+      }
+    ],
+    "example": "A melee broke out after rival supporters began arguing.",
+    "example_bn": "প্রতিদ্বন্দ্বী সমর্থকদের মধ্যে তর্ক শুরু হওয়ার পর বিশৃঙ্খল সংঘর্ষ বেধে যায়।",
+    "examples": [
+      "A melee broke out after rival supporters began arguing. — প্রতিদ্বন্দ্বী সমর্থকদের মধ্যে তর্ক শুরু হওয়ার পর বিশৃঙ্খল সংঘর্ষ বেধে যায়।",
+      "At dinner, she explained that 'Melee' means 'a confused fight or struggle involving many people', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Melee’ শব্দটির অর্থ—হট্টগোলপূর্ণ সংঘর্ষ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Melee' as 'a confused fight or struggle involving many people' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Melee’ শব্দটি হট্টগোলপূর্ণ সংঘর্ষ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Meticulous",
+    "pronunciation_bn": "মেটিকিউলাস",
+    "pronunciation": "/məˈtɪk.jə.ləs/",
+    "no": 541,
+    "group": 22,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "very careful and precise about every detail",
+    "meaning_bn": [
+      "খুঁটিনাটিতে অত্যন্ত যত্নশীল",
+      "সুনিপুণ",
+      "নির্ভুলতাপ্রিয়"
+    ],
+    "synonyms": [
+      {
+        "en": "careful",
+        "bn": "সতর্ক"
+      },
+      {
+        "en": "precise",
+        "bn": "নির্ভুল"
+      },
+      {
+        "en": "thorough",
+        "bn": "পুঙ্খানুপুঙ্খ"
+      },
+      {
+        "en": "punctilious",
+        "bn": "খুঁটিনাটি বিষয়ে অত্যন্ত যত্নশীল"
+      },
+      {
+        "en": "Scrupulous",
+        "bn": "অত্যন্ত সতর্ক"
+      },
+      {
+        "en": "Painstaking",
+        "bn": "অত্যন্ত যত্নসহকারে করা"
+      },
+      {
+        "en": "Fastidious",
+        "bn": "খুঁতখুঁতে"
+      },
+      {
+        "en": "Comprehensive",
+        "bn": "সর্বাঙ্গীণ"
+      },
+      {
+        "en": "Exhaustive",
+        "bn": "পুঙ্খানুপুঙ্খ"
+      },
+      {
+        "en": "Rigorous",
+        "bn": "কঠোর"
+      },
+      {
+        "en": "Pedantic",
+        "bn": "খুঁটিনাটি নিয়ে অতিরিক্ত ব্যস্ত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "careless",
+        "bn": "অসতর্ক"
+      },
+      {
+        "en": "sloppy",
+        "bn": "অগোছালো"
+      },
+      {
+        "en": "negligent",
+        "bn": "অবহেলাকারী"
+      },
+      {
+        "en": "Perfunctory",
+        "bn": "দায়সারা"
+      },
+      {
+        "en": "cursory",
+        "bn": "দ্রুত ও উপর উপর করা"
+      },
+      {
+        "en": "Wanton",
+        "bn": "বেপরোয়া"
+      },
+      {
+        "en": "delinquent",
+        "bn": "দায়িত্ব পালনে অবহেলাকারী"
+      },
+      {
+        "en": "nebulous",
+        "bn": "অস্পষ্ট"
+      },
+      {
+        "en": "Superficial",
+        "bn": "উপরিভাগের"
+      }
+    ],
+    "example": "The researcher kept meticulous records of every experiment.",
+    "example_bn": "গবেষক প্রতিটি পরীক্ষার খুঁটিনাটি অত্যন্ত যত্নসহকারে নথিবদ্ধ করেছিলেন।",
+    "examples": [
+      "The researcher kept meticulous records of every experiment. — গবেষক প্রতিটি পরীক্ষার খুঁটিনাটি অত্যন্ত যত্নসহকারে নথিবদ্ধ করেছিলেন।",
+      "At dinner, she explained that 'Meticulous' means 'very careful and precise about every detail', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Meticulous’ শব্দটির অর্থ—খুঁটিনাটিতে অত্যন্ত যত্নশীল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Meticulous' as 'very careful and precise about every detail' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Meticulous’ শব্দটি খুঁটিনাটিতে অত্যন্ত যত্নশীল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Millennium",
+    "pronunciation_bn": "মিলেনিয়াম",
+    "pronunciation": "/mɪˈlen.i.əm/",
+    "no": 542,
+    "group": 22,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a period of one thousand years",
+    "meaning_bn": [
+      "সহস্রাব্দ",
+      "এক হাজার বছরের সময়কাল"
+    ],
+    "synonyms": [
+      {
+        "en": "thousand years",
+        "bn": "এক হাজার বছর"
+      },
+      {
+        "en": "millenary",
+        "bn": "সহস্রাব্দ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "decade",
+        "bn": "দশক"
+      },
+      {
+        "en": "century",
+        "bn": "শতাব্দী"
+      }
+    ],
+    "example": "Many people celebrated the beginning of the new millennium.",
+    "example_bn": "অনেক মানুষ নতুন সহস্রাব্দের সূচনা উদ্‌যাপন করেছিলেন।",
+    "examples": [
+      "Many people celebrated the beginning of the new millennium. — অনেক মানুষ নতুন সহস্রাব্দের সূচনা উদ্‌যাপন করেছিলেন।",
+      "At dinner, she explained that 'Millennium' means 'a period of one thousand years', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Millennium’ শব্দটির অর্থ—সহস্রাব্দ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Millennium' as 'a period of one thousand years' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Millennium’ শব্দটি সহস্রাব্দ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Mode",
+    "pronunciation_bn": "মোড",
+    "pronunciation": "/məʊd/",
+    "no": 543,
+    "group": 22,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a way or manner of doing something; a particular form or method",
+    "meaning_bn": [
+      "পদ্ধতি",
+      "ধরন",
+      "রীতি"
+    ],
+    "synonyms": [
+      {
+        "en": "method",
+        "bn": "পদ্ধতি"
+      },
+      {
+        "en": "manner",
+        "bn": "রীতি"
+      },
+      {
+        "en": "way",
+        "bn": "উপায়"
+      },
+      {
+        "en": "demeanor",
+        "bn": "আচরণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "disorder",
+        "bn": "বিশৃঙ্খলা"
+      },
+      {
+        "en": "randomness",
+        "bn": "এলোমেলো অবস্থা"
+      },
+      {
+        "en": "Anarchy",
+        "bn": "অরাজকতা"
+      },
+      {
+        "en": "disarray",
+        "bn": "বিশৃঙ্খলা"
+      },
+      {
+        "en": "turmoil",
+        "bn": "তীব্র অস্থিরতা"
+      }
+    ],
+    "example": "Online learning has become a common mode of education.",
+    "example_bn": "অনলাইন শিক্ষা শিক্ষার একটি প্রচলিত পদ্ধতিতে পরিণত হয়েছে।",
+    "examples": [
+      "Online learning has become a common mode of education. — অনলাইন শিক্ষা শিক্ষার একটি প্রচলিত পদ্ধতিতে পরিণত হয়েছে।",
+      "At dinner, she explained that 'Mode' means 'a way or manner of doing something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Mode’ শব্দটির অর্থ—পদ্ধতি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Mode' as 'a way or manner of doing something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Mode’ শব্দটি পদ্ধতি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Modulate",
+    "pronunciation_bn": "মডিউলেইট",
+    "pronunciation": "/ˈmɒdʒ.ə.leɪt/",
+    "no": 544,
+    "group": 22,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to change or control the level, strength, or tone of something",
+    "meaning_bn": [
+      "নিয়ন্ত্রণ করা",
+      "মাত্রা পরিবর্তন করা",
+      "স্বরের ওঠানামা নিয়ন্ত্রণ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "regulate",
+        "bn": "নিয়ন্ত্রণ করা"
+      },
+      {
+        "en": "adjust",
+        "bn": "সমন্বয় করা"
+      },
+      {
+        "en": "vary",
+        "bn": "পরিবর্তন করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "intensify",
+        "bn": "তীব্র করা"
+      },
+      {
+        "en": "amplify",
+        "bn": "বাড়িয়ে তোলা"
+      },
+      {
+        "en": "fuel",
+        "bn": "জ্বালানি"
+      },
+      {
+        "en": "Exacerbate",
+        "bn": "আরও খারাপ করে তোলা"
+      }
+    ],
+    "example": "She learned to modulate her voice during public speaking.",
+    "example_bn": "জনসমক্ষে বক্তৃতা দেওয়ার সময় সে কণ্ঠস্বর নিয়ন্ত্রণ করতে শিখেছিল।",
+    "examples": [
+      "She learned to modulate her voice during public speaking. — জনসমক্ষে বক্তৃতা দেওয়ার সময় সে কণ্ঠস্বর নিয়ন্ত্রণ করতে শিখেছিল।",
+      "At dinner, she explained that 'Modulate' means 'to change or control the level, strength', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Modulate’ শব্দটির অর্থ—নিয়ন্ত্রণ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Modulate' as 'to change or control the level, strength' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Modulate’ শব্দটি নিয়ন্ত্রণ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Momentum",
+    "pronunciation_bn": "মোমেন্টাম",
+    "pronunciation": "/məʊˈmen.təm/",
+    "no": 545,
+    "group": 22,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the force or speed of movement; the impetus that keeps a process developing",
+    "meaning_bn": [
+      "গতিবেগ",
+      "গতি",
+      "অগ্রগতির চালিকাশক্তি"
+    ],
+    "synonyms": [
+      {
+        "en": "impetus",
+        "bn": "প্রেরণা"
+      },
+      {
+        "en": "drive",
+        "bn": "গতি সঞ্চারী শক্তি"
+      },
+      {
+        "en": "force",
+        "bn": "বল"
+      },
+      {
+        "en": "Catalyst",
+        "bn": "অনুঘটক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "inertia",
+        "bn": "জড়তা"
+      },
+      {
+        "en": "stagnation",
+        "bn": "স্থবিরতা"
+      },
+      {
+        "en": "doldrums",
+        "bn": "হতাশা"
+      },
+      {
+        "en": "Torpor",
+        "bn": "অলসতা"
+      }
+    ],
+    "example": "The team gained momentum after scoring the first goal.",
+    "example_bn": "প্রথম গোল করার পর দলটি আরও গতি ও আত্মবিশ্বাস অর্জন করেছিল।",
+    "examples": [
+      "The team gained momentum after scoring the first goal. — প্রথম গোল করার পর দলটি আরও গতি ও আত্মবিশ্বাস অর্জন করেছিল।",
+      "At dinner, she explained that 'Momentum' means 'the force or speed of movement', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Momentum’ শব্দটির অর্থ—গতিবেগ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Momentum' as 'the force or speed of movement' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Momentum’ শব্দটি গতিবেগ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Moratorium",
+    "pronunciation_bn": "মোরাটোরিয়াম",
+    "pronunciation": "/ˌmɒr.əˈtɔː.ri.əm/",
+    "no": 546,
+    "group": 22,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "an official temporary stop to an activity or a delay in doing something",
+    "meaning_bn": [
+      "সাময়িক স্থগিতাদেশ",
+      "কোনো কাজ সাময়িকভাবে বন্ধ রাখা"
+    ],
+    "synonyms": [
+      {
+        "en": "suspension",
+        "bn": "স্থগিতাদেশ"
+      },
+      {
+        "en": "halt",
+        "bn": "বিরতি"
+      },
+      {
+        "en": "temporary ban",
+        "bn": "সাময়িক নিষেধাজ্ঞা"
+      },
+      {
+        "en": "Abeyance",
+        "bn": "স্থগিতাবস্থা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "continuation",
+        "bn": "চালিয়ে যাওয়া"
+      },
+      {
+        "en": "resumption",
+        "bn": "পুনরারম্ভ"
+      }
+    ],
+    "example": "The city announced a moratorium on new building permits.",
+    "example_bn": "শহর কর্তৃপক্ষ নতুন ভবন নির্মাণের অনুমতিতে সাময়িক স্থগিতাদেশ ঘোষণা করেছিল।",
+    "examples": [
+      "The city announced a moratorium on new building permits. — শহর কর্তৃপক্ষ নতুন ভবন নির্মাণের অনুমতিতে সাময়িক স্থগিতাদেশ ঘোষণা করেছিল।",
+      "At dinner, she explained that 'Moratorium' means 'an official temporary stop to an activity', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Moratorium’ শব্দটির অর্থ—সাময়িক স্থগিতাদেশ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Moratorium' as 'an official temporary stop to an activity' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Moratorium’ শব্দটি সাময়িক স্থগিতাদেশ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Moor",
+    "pronunciation_bn": "মুর",
+    "pronunciation": "/mʊə(r)/",
+    "no": 547,
+    "group": 22,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "an area of open, uncultivated land, often wet and covered with rough grass or heather",
+    "meaning_bn": [
+      "অনাবাদী উন্মুক্ত প্রান্তর",
+      "জলাভূমিসদৃশ উঁচু জমি",
+      "হিদার বা বুনো ঘাসে আচ্ছাদিত জমি"
+    ],
+    "synonyms": [
+      {
+        "en": "moorland",
+        "bn": "অনাবাদী উঁচু প্রান্তর"
+      },
+      {
+        "en": "heath",
+        "bn": "হিদার-আচ্ছাদিত জমি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "farmland",
+        "bn": "কৃষিজমি"
+      },
+      {
+        "en": "cultivated land",
+        "bn": "চাষ করা জমি"
+      }
+    ],
+    "example": "They walked across the windswept moor before sunset.",
+    "example_bn": "সূর্যাস্তের আগে তারা বাতাসে উন্মুক্ত অনাবাদী প্রান্তর পেরিয়ে হেঁটেছিল।",
+    "examples": [
+      "They walked across the windswept moor before sunset. — সূর্যাস্তের আগে তারা বাতাসে উন্মুক্ত অনাবাদী প্রান্তর পেরিয়ে হেঁটেছিল।",
+      "At dinner, she explained that 'Moor' means 'an area of open, uncultivated land, often wet', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Moor’ শব্দটির অর্থ—অনাবাদী উন্মুক্ত প্রান্তর—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Moor' as 'an area of open, uncultivated land, often wet' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Moor’ শব্দটি অনাবাদী উন্মুক্ত প্রান্তর অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Mores",
+    "pronunciation_bn": "মোরেইজ",
+    "pronunciation": "/ˈmɔː.reɪz/",
+    "no": 548,
+    "group": 22,
+    "pos": [
+      "noun",
+      "plural"
+    ],
+    "meaning_en": "the customs and conventions of a particular community, especially its moral standards",
+    "meaning_bn": [
+      "সামাজিক রীতিনীতি",
+      "সমাজের প্রচলিত নৈতিক মানদণ্ড"
+    ],
+    "synonyms": [
+      {
+        "en": "customs",
+        "bn": "রীতিনীতি"
+      },
+      {
+        "en": "conventions",
+        "bn": "প্রচলিত নিয়ম"
+      },
+      {
+        "en": "social norms",
+        "bn": "সামাজিক মানদণ্ড"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "nonconformity",
+        "bn": "প্রথাবিরোধিতা"
+      },
+      {
+        "en": "deviance",
+        "bn": "প্রচলিত নিয়ম থেকে বিচ্যুতি"
+      }
+    ],
+    "example": "The novel explores the mores of rural society.",
+    "example_bn": "উপন্যাসটি গ্রামীণ সমাজের রীতিনীতি অনুসন্ধান করে।",
+    "examples": [
+      "The novel explores the mores of rural society. — উপন্যাসটি গ্রামীণ সমাজের রীতিনীতি অনুসন্ধান করে।",
+      "At dinner, she explained that 'Mores' means 'the customs and conventions of a particular community', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Mores’ শব্দটির অর্থ—সামাজিক রীতিনীতি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Mores' as 'the customs and conventions of a particular community' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Mores’ শব্দটি সামাজিক রীতিনীতি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Motif",
+    "pronunciation_bn": "মোটিফ",
+    "pronunciation": "/məʊˈtiːf/",
+    "no": 549,
+    "group": 22,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a repeated idea, image, or design in a work of art, literature, or music",
+    "meaning_bn": [
+      "পুনরাবৃত্ত বিষয়বস্তু",
+      "নকশা বা অলংকরণের পুনরাবৃত্ত উপাদান",
+      "প্রধান ভাব"
+    ],
+    "synonyms": [
+      {
+        "en": "theme",
+        "bn": "মূলভাব"
+      },
+      {
+        "en": "pattern",
+        "bn": "নকশা"
+      },
+      {
+        "en": "recurrent idea",
+        "bn": "পুনরাবৃত্ত ধারণা"
+      },
+      {
+        "en": "Paradigm",
+        "bn": "দৃষ্টান্ত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "variation",
+        "bn": "বৈচিত্র্য"
+      },
+      {
+        "en": "departure",
+        "bn": "বিচ্যুতি"
+      },
+      {
+        "en": "exodus",
+        "bn": "গণপ্রস্থান"
+      }
+    ],
+    "example": "Bird imagery is a recurring motif in the poet's work.",
+    "example_bn": "কবির রচনায় পাখির চিত্রকল্প একটি পুনরাবৃত্ত বিষয়বস্তু।",
+    "examples": [
+      "Bird imagery is a recurring motif in the poet's work. — কবির রচনায় পাখির চিত্রকল্প একটি পুনরাবৃত্ত বিষয়বস্তু।",
+      "At dinner, she explained that 'Motif' means 'a repeated idea, image, or design', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Motif’ শব্দটির অর্থ—পুনরাবৃত্ত বিষয়বস্তু—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Motif' as 'a repeated idea, image, or design' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Motif’ শব্দটি পুনরাবৃত্ত বিষয়বস্তু অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Motley",
+    "pronunciation_bn": "মটলি",
+    "pronunciation": "/ˈmɒt.li/",
+    "no": 550,
+    "group": 22,
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "meaning_en": "made up of many different types of people or things; varied in appearance",
+    "meaning_bn": [
+      "বিচিত্র",
+      "বিভিন্ন ধরনের",
+      "বহুবর্ণ"
+    ],
+    "synonyms": [
+      {
+        "en": "varied",
+        "bn": "বৈচিত্র্যময়"
+      },
+      {
+        "en": "diverse",
+        "bn": "বিবিধ"
+      },
+      {
+        "en": "heterogeneous",
+        "bn": "বিভিন্ন প্রকৃতির"
+      },
+      {
+        "en": "Eclectic",
+        "bn": "বিভিন্ন উৎস থেকে বাছাই করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "uniform",
+        "bn": "একরকম"
+      },
+      {
+        "en": "homogeneous",
+        "bn": "সমজাতীয়"
+      },
+      {
+        "en": "Monolithic",
+        "bn": "অত্যন্ত বড় ও একরূপ, প্রায়ই অনমনীয় ও পরিবর্তন করা কঠিন"
+      },
+      {
+        "en": "compatible",
+        "bn": "সামঞ্জস্যপূর্ণ"
+      },
+      {
+        "en": "Consonant",
+        "bn": "সামঞ্জস্যপূর্ণ"
+      },
+      {
+        "en": "Coherent",
+        "bn": "সুসংগত"
+      },
+      {
+        "en": "Limpid",
+        "bn": "স্বচ্ছ"
+      }
+    ],
+    "example": "A motley crowd gathered outside the theatre.",
+    "example_bn": "থিয়েটারের বাইরে বিচিত্র ধরনের মানুষের ভিড় জমেছিল।",
+    "examples": [
+      "A motley crowd gathered outside the theatre. — থিয়েটারের বাইরে বিচিত্র ধরনের মানুষের ভিড় জমেছিল।",
+      "At dinner, she explained that 'Motley' means 'made up of many different types of people', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Motley’ শব্দটির অর্থ—বিচিত্র—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Motley' as 'made up of many different types of people' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Motley’ শব্দটি বিচিত্র অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

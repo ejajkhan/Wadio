@@ -1,0 +1,1580 @@
+[
+  {
+    "word": "Catharsis",
+    "pronunciation_bn": "ক্যাথারসিস",
+    "pronunciation": "/kəˈθɑːrsɪs/",
+    "no": 176,
+    "group": 8,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the process of releasing strong or suppressed emotions, often bringing relief",
+    "meaning_bn": [
+      "আবেগমুক্তি",
+      "মানসিক ভারমোচন"
+    ],
+    "synonyms": [
+      {
+        "en": "emotional release",
+        "bn": "আবেগমুক্তি"
+      },
+      {
+        "en": "purging",
+        "bn": "মনঃশুদ্ধি"
+      },
+      {
+        "en": "relief",
+        "bn": "স্বস্তি"
+      },
+      {
+        "en": "Respite",
+        "bn": "বিরতি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "suppression",
+        "bn": "দমন"
+      },
+      {
+        "en": "repression",
+        "bn": "অবদমন"
+      },
+      {
+        "en": "Anguish",
+        "bn": "তীব্র যন্ত্রণা"
+      },
+      {
+        "en": "Affliction",
+        "bn": "দুর্দশা"
+      }
+    ],
+    "example": "Talking about her grief brought her a sense of catharsis.",
+    "example_bn": "নিজের শোকের কথা বলায় সে মানসিক ভারমোচন অনুভব করল.",
+    "examples": [
+      "Talking about her grief brought her a sense of catharsis. — নিজের শোকের কথা বলায় সে মানসিক ভারমোচন অনুভব করল.",
+      "At dinner, she explained that 'Catharsis' means 'the process of releasing strong or suppressed emotions', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Catharsis’ শব্দটির অর্থ—আবেগমুক্তি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Catharsis' as 'the process of releasing strong or suppressed emotions' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Catharsis’ শব্দটি আবেগমুক্তি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Catholic",
+    "pronunciation_bn": "ক্যাথলিক",
+    "pronunciation": "/ˈkæθəlɪk/",
+    "no": 177,
+    "group": 8,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "broad in tastes, interests, or sympathies; also relating to the Roman Catholic Church",
+    "meaning_bn": [
+      "বিস্তৃত রুচিসম্পন্ন",
+      "সর্বজনীন"
+    ],
+    "synonyms": [
+      {
+        "en": "broad",
+        "bn": "বিস্তৃত"
+      },
+      {
+        "en": "wide-ranging",
+        "bn": "বহুমুখী"
+      },
+      {
+        "en": "inclusive",
+        "bn": "অন্তর্ভুক্তিমূলক"
+      },
+      {
+        "en": "Comprehensive",
+        "bn": "সর্বাঙ্গীণ"
+      },
+      {
+        "en": "Eclectic",
+        "bn": "বিভিন্ন উৎস থেকে বাছাই করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "narrow",
+        "bn": "সংকীর্ণ"
+      },
+      {
+        "en": "limited",
+        "bn": "সীমিত"
+      },
+      {
+        "en": "Insular",
+        "bn": "বিচ্ছিন্ন"
+      }
+    ],
+    "example": "Her catholic taste in music includes jazz, folk, and classical music.",
+    "example_bn": "সংগীতে তার বিস্তৃত রুচির মধ্যে জ্যাজ, লোকসংগীত ও ধ্রুপদি সংগীত রয়েছে.",
+    "examples": [
+      "Her catholic taste in music includes jazz, folk, and classical music. — সংগীতে তার বিস্তৃত রুচির মধ্যে জ্যাজ, লোকসংগীত ও ধ্রুপদি সংগীত রয়েছে.",
+      "At dinner, she explained that 'Catholic' means 'broad in tastes, interests, or sympathies', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Catholic’ শব্দটির অর্থ—বিস্তৃত রুচিসম্পন্ন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Catholic' as 'broad in tastes, interests, or sympathies' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Catholic’ শব্দটি বিস্তৃত রুচিসম্পন্ন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Caustic",
+    "pronunciation_bn": "কস্টিক",
+    "pronunciation": "/ˈkɔːstɪk/",
+    "no": 178,
+    "group": 8,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "able to burn or corrode; sharply sarcastic or cutting in speech",
+    "meaning_bn": [
+      "ক্ষয়কারী",
+      "কটূক্তিপূর্ণ"
+    ],
+    "synonyms": [
+      {
+        "en": "corrosive",
+        "bn": "ক্ষয়কারী"
+      },
+      {
+        "en": "scathing",
+        "bn": "তীব্র সমালোচনামূলক"
+      },
+      {
+        "en": "sarcastic",
+        "bn": "ব্যঙ্গাত্মক"
+      },
+      {
+        "en": "Acerbic",
+        "bn": "কটু"
+      },
+      {
+        "en": "Astringent",
+        "bn": "কঠোর"
+      },
+      {
+        "en": "Vitriolic",
+        "bn": "তীব্র কটূক্তিপূর্ণ"
+      },
+      {
+        "en": "Acrid",
+        "bn": "ঝাঁঝালো"
+      },
+      {
+        "en": "Acrimonious",
+        "bn": "তিক্ততাপূর্ণ"
+      },
+      {
+        "en": "Austere",
+        "bn": "সাদাসিধে ও অনাড়ম্বর"
+      },
+      {
+        "en": "Ironic",
+        "bn": "পরিহাসমূলক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "mild",
+        "bn": "মৃদু"
+      },
+      {
+        "en": "kind",
+        "bn": "সদয়"
+      },
+      {
+        "en": "Benign",
+        "bn": "ক্ষতিকর নয় এমন"
+      },
+      {
+        "en": "Benevolent",
+        "bn": "দয়ালু"
+      },
+      {
+        "en": "bland",
+        "bn": "মৃদু"
+      },
+      {
+        "en": "Temperate",
+        "bn": "সংযমী"
+      }
+    ],
+    "example": "His caustic remarks hurt the team's morale.",
+    "example_bn": "তার কটূক্তিপূর্ণ মন্তব্য দলের মনোবল ভেঙে দিল.",
+    "examples": [
+      "His caustic remarks hurt the team's morale. — তার কটূক্তিপূর্ণ মন্তব্য দলের মনোবল ভেঙে দিল.",
+      "At dinner, she explained that 'Caustic' means 'able to burn or corrode', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Caustic’ শব্দটির অর্থ—ক্ষয়কারী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Caustic' as 'able to burn or corrode' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Caustic’ শব্দটি ক্ষয়কারী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Celibacy",
+    "pronunciation_bn": "সেলিবেসি",
+    "pronunciation": "/ˈselɪbəsi/",
+    "no": 179,
+    "group": 8,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the state of abstaining from marriage and sexual relationships, often for religious reasons",
+    "meaning_bn": [
+      "ব্রহ্মচর্য",
+      "বিবাহ ও যৌনসম্পর্ক থেকে বিরত থাকা"
+    ],
+    "synonyms": [
+      {
+        "en": "abstinence",
+        "bn": "সংযম"
+      },
+      {
+        "en": "continence",
+        "bn": "ইন্দ্রিয়সংযম"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "sexual activity",
+        "bn": "যৌনক্রিয়া"
+      },
+      {
+        "en": "married life",
+        "bn": "দাম্পত্য জীবন"
+      },
+      {
+        "en": "Debauchery",
+        "bn": "অসংযত ভোগবিলাস"
+      }
+    ],
+    "example": "The monk took a vow of celibacy.",
+    "example_bn": "সন্ন্যাসী ব্রহ্মচর্যের শপথ নিলেন.",
+    "examples": [
+      "The monk took a vow of celibacy. — সন্ন্যাসী ব্রহ্মচর্যের শপথ নিলেন.",
+      "At dinner, she explained that 'Celibacy' means 'the state of abstaining from marriage and sexual', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Celibacy’ শব্দটির অর্থ—ব্রহ্মচর্য—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Celibacy' as 'the state of abstaining from marriage and sexual' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Celibacy’ শব্দটি ব্রহ্মচর্য অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Censure",
+    "pronunciation_bn": "সেনশার",
+    "pronunciation": "/ˈsenʃər/",
+    "no": 180,
+    "group": 8,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to express strong formal disapproval of someone or something",
+    "meaning_bn": [
+      "কঠোর নিন্দা করা",
+      "তিরস্কার করা"
+    ],
+    "synonyms": [
+      {
+        "en": "condemn",
+        "bn": "নিন্দা করা"
+      },
+      {
+        "en": "rebuke",
+        "bn": "তিরস্কার করা"
+      },
+      {
+        "en": "reprimand",
+        "bn": "ভর্ৎসনা করা"
+      },
+      {
+        "en": "denounce",
+        "bn": "প্রকাশ্যে তীব্র নিন্দা করা"
+      },
+      {
+        "en": "Admonish",
+        "bn": "সতর্ক করা"
+      },
+      {
+        "en": "Castigate",
+        "bn": "কঠোরভাবে সমালোচনা করা"
+      },
+      {
+        "en": "Chastise",
+        "bn": "কঠোরভাবে তিরস্কার করা"
+      },
+      {
+        "en": "decry",
+        "bn": "প্রকাশ্যে নিন্দা করা"
+      },
+      {
+        "en": "Reproach",
+        "bn": "তিরস্কার করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "praise",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "commend",
+        "bn": "সাধুবাদ জানানো"
+      },
+      {
+        "en": "Acclaim",
+        "bn": "প্রকাশ্যে প্রশংসা করা"
+      },
+      {
+        "en": "Laud",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "Extol",
+        "bn": "ভূয়সী প্রশংসা করা"
+      },
+      {
+        "en": "Tout",
+        "bn": "প্রচার করা"
+      },
+      {
+        "en": "Condone",
+        "bn": "অন্যায় আচরণ মেনে নেওয়া"
+      }
+    ],
+    "example": "The committee censured the official for misconduct.",
+    "example_bn": "অসদাচরণের জন্য কমিটি কর্মকর্তাকে কঠোরভাবে তিরস্কার করল.",
+    "examples": [
+      "The committee censured the official for misconduct. — অসদাচরণের জন্য কমিটি কর্মকর্তাকে কঠোরভাবে তিরস্কার করল.",
+      "At dinner, she explained that 'Censure' means 'to express strong formal disapproval of someone', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Censure’ শব্দটির অর্থ—কঠোর নিন্দা করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Censure' as 'to express strong formal disapproval of someone' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Censure’ শব্দটি কঠোর নিন্দা করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Cerebral",
+    "pronunciation_bn": "সেরিব্রাল",
+    "pronunciation": "/ˈserəbrəl/",
+    "no": 181,
+    "group": 8,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "relating to the brain or involving careful thought and intellect",
+    "meaning_bn": [
+      "মস্তিষ্কসংক্রান্ত",
+      "বুদ্ধিবৃত্তিক"
+    ],
+    "synonyms": [
+      {
+        "en": "intellectual",
+        "bn": "বুদ্ধিবৃত্তিক"
+      },
+      {
+        "en": "analytical",
+        "bn": "বিশ্লেষণধর্মী"
+      },
+      {
+        "en": "thoughtful",
+        "bn": "চিন্তাশীল"
+      },
+      {
+        "en": "Cognitive",
+        "bn": "জ্ঞানীয়"
+      },
+      {
+        "en": "Dialectical",
+        "bn": "দ্বান্দ্বিক"
+      },
+      {
+        "en": "Incisive",
+        "bn": "তীক্ষ্ণ বিশ্লেষণী"
+      },
+      {
+        "en": "Pensive",
+        "bn": "গভীর চিন্তামগ্ন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "emotional",
+        "bn": "আবেগপ্রবণ"
+      },
+      {
+        "en": "instinctive",
+        "bn": "সহজাত"
+      },
+      {
+        "en": "Facile",
+        "bn": "অতি সহজে করা হলেও যথেষ্ট চিন্তাভাবনাহীন"
+      },
+      {
+        "en": "Philistine",
+        "bn": "শিল্প-সাহিত্য বা বুদ্ধিবৃত্তিক চর্চায় অনাগ্রহী ব্যক্তি"
+      },
+      {
+        "en": "vacuous",
+        "bn": "বিষয়বস্তুহীন"
+      }
+    ],
+    "example": "The film is a cerebral drama that rewards careful attention.",
+    "example_bn": "চলচ্চিত্রটি একটি বুদ্ধিবৃত্তিক নাটক, যা মনোযোগ দিয়ে দেখলে বেশি উপভোগ্য হয়.",
+    "examples": [
+      "The film is a cerebral drama that rewards careful attention. — চলচ্চিত্রটি একটি বুদ্ধিবৃত্তিক নাটক, যা মনোযোগ দিয়ে দেখলে বেশি উপভোগ্য হয়.",
+      "At dinner, she explained that 'Cerebral' means 'relating to the brain or involving careful thought', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Cerebral’ শব্দটির অর্থ—মস্তিষ্কসংক্রান্ত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Cerebral' as 'relating to the brain or involving careful thought' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Cerebral’ শব্দটি মস্তিষ্কসংক্রান্ত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Chagrin",
+    "pronunciation_bn": "শ্যাগ্রিন",
+    "pronunciation": "/ˈʃæɡrɪn/",
+    "no": 182,
+    "group": 8,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "distress or embarrassment caused by failure or disappointment",
+    "meaning_bn": [
+      "বিব্রতকর হতাশা",
+      "মনঃক্ষোভ"
+    ],
+    "synonyms": [
+      {
+        "en": "annoyance",
+        "bn": "বিরক্তি"
+      },
+      {
+        "en": "disappointment",
+        "bn": "হতাশা"
+      },
+      {
+        "en": "mortification",
+        "bn": "অপমানবোধ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "delight",
+        "bn": "আনন্দ"
+      },
+      {
+        "en": "satisfaction",
+        "bn": "সন্তুষ্টি"
+      }
+    ],
+    "example": "To her chagrin, she discovered that she had forgotten her speech.",
+    "example_bn": "বিব্রতকর হতাশার সঙ্গে সে বুঝল যে নিজের বক্তৃতাটি ভুলে গেছে.",
+    "examples": [
+      "To her chagrin, she discovered that she had forgotten her speech. — বিব্রতকর হতাশার সঙ্গে সে বুঝল যে নিজের বক্তৃতাটি ভুলে গেছে.",
+      "At dinner, she explained that 'Chagrin' means 'distress or embarrassment caused by failure or disappointment', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Chagrin’ শব্দটির অর্থ—বিব্রতকর হতাশা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Chagrin' as 'distress or embarrassment caused by failure or disappointment' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Chagrin’ শব্দটি বিব্রতকর হতাশা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Charisma",
+    "pronunciation_bn": "কারিজমা",
+    "pronunciation": "/kəˈrɪzmə/",
+    "no": 183,
+    "group": 8,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a compelling personal charm or appeal that inspires devotion in others",
+    "meaning_bn": [
+      "ব্যক্তিত্বের আকর্ষণ",
+      "মোহনীয় নেতৃত্বগুণ"
+    ],
+    "synonyms": [
+      {
+        "en": "charm",
+        "bn": "মোহনীয়তা"
+      },
+      {
+        "en": "magnetism",
+        "bn": "ব্যক্তিত্বের আকর্ষণ"
+      },
+      {
+        "en": "allure",
+        "bn": "আকর্ষণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "unattractiveness",
+        "bn": "অনাকর্ষণীয়তা"
+      },
+      {
+        "en": "ordinariness",
+        "bn": "সাধারণত্ব"
+      }
+    ],
+    "example": "The speaker's charisma held the audience's attention.",
+    "example_bn": "বক্তার ব্যক্তিত্বের আকর্ষণ শ্রোতাদের মনোযোগ ধরে রেখেছিল.",
+    "examples": [
+      "The speaker's charisma held the audience's attention. — বক্তার ব্যক্তিত্বের আকর্ষণ শ্রোতাদের মনোযোগ ধরে রেখেছিল.",
+      "At dinner, she explained that 'Charisma' means 'a compelling personal charm or appeal that inspires', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Charisma’ শব্দটির অর্থ—ব্যক্তিত্বের আকর্ষণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Charisma' as 'a compelling personal charm or appeal that inspires' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Charisma’ শব্দটি ব্যক্তিত্বের আকর্ষণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Charlatan",
+    "pronunciation_bn": "শার্লাটান",
+    "pronunciation": "/ˈʃɑːrlətən/",
+    "no": 184,
+    "group": 8,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a person who falsely claims to have special knowledge or skills, especially to deceive others",
+    "meaning_bn": [
+      "ভণ্ড",
+      "প্রতারক"
+    ],
+    "synonyms": [
+      {
+        "en": "fraud",
+        "bn": "প্রতারক"
+      },
+      {
+        "en": "impostor",
+        "bn": "ছদ্মবেশী প্রতারক"
+      },
+      {
+        "en": "quack",
+        "bn": "ভুয়া চিকিৎসক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "expert",
+        "bn": "বিশেষজ্ঞ"
+      },
+      {
+        "en": "genuine professional",
+        "bn": "প্রকৃত পেশাজীবী"
+      },
+      {
+        "en": "Connoisseur",
+        "bn": "রসজ্ঞ"
+      },
+      {
+        "en": "pundit",
+        "bn": "বিশেষজ্ঞ"
+      },
+      {
+        "en": "savant",
+        "bn": "অত্যন্ত জ্ঞানী ব্যক্তি"
+      },
+      {
+        "en": "Virtuoso",
+        "bn": "অসাধারণ দক্ষ ব্যক্তি"
+      }
+    ],
+    "example": "The charlatan promised a miracle cure but had no medical training.",
+    "example_bn": "ভণ্ড ব্যক্তি অলৌকিক আরোগ্যের প্রতিশ্রুতি দিলেও তার কোনো চিকিৎসা-প্রশিক্ষণ ছিল না.",
+    "examples": [
+      "The charlatan promised a miracle cure but had no medical training. — ভণ্ড ব্যক্তি অলৌকিক আরোগ্যের প্রতিশ্রুতি দিলেও তার কোনো চিকিৎসা-প্রশিক্ষণ ছিল না.",
+      "At dinner, she explained that 'Charlatan' means 'a person who falsely claims to have special', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Charlatan’ শব্দটির অর্থ—ভণ্ড—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Charlatan' as 'a person who falsely claims to have special' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Charlatan’ শব্দটি ভণ্ড অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Chasm",
+    "pronunciation_bn": "ক্যাজম",
+    "pronunciation": "/ˈkæzəm/",
+    "no": 185,
+    "group": 8,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a deep opening or a very large difference between people, groups, or ideas",
+    "meaning_bn": [
+      "গভীর ফাটল",
+      "বিশাল ব্যবধান"
+    ],
+    "synonyms": [
+      {
+        "en": "gulf",
+        "bn": "ব্যবধান"
+      },
+      {
+        "en": "abyss",
+        "bn": "অতল গহ্বর"
+      },
+      {
+        "en": "divide",
+        "bn": "বিভাজন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "bridge",
+        "bn": "সংযোগ"
+      },
+      {
+        "en": "similarity",
+        "bn": "সাদৃশ্য"
+      },
+      {
+        "en": "Analogy",
+        "bn": "উপমা"
+      }
+    ],
+    "example": "A wide chasm separates the two communities.",
+    "example_bn": "দুটি সম্প্রদায়ের মধ্যে বিশাল ব্যবধান রয়েছে.",
+    "examples": [
+      "A wide chasm separates the two communities. — দুটি সম্প্রদায়ের মধ্যে বিশাল ব্যবধান রয়েছে.",
+      "At dinner, she explained that 'Chasm' means 'a deep opening or a very large difference', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Chasm’ শব্দটির অর্থ—গভীর ফাটল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Chasm' as 'a deep opening or a very large difference' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Chasm’ শব্দটি গভীর ফাটল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Chastise",
+    "pronunciation_bn": "চ্যাসটাইজ",
+    "pronunciation": "/tʃæˈstaɪz/",
+    "no": 186,
+    "group": 8,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to criticize or punish someone severely for wrongdoing",
+    "meaning_bn": [
+      "কঠোরভাবে তিরস্কার করা",
+      "শাস্তি দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "reprimand",
+        "bn": "ভর্ৎসনা করা"
+      },
+      {
+        "en": "rebuke",
+        "bn": "তিরস্কার করা"
+      },
+      {
+        "en": "discipline",
+        "bn": "শাসন করা"
+      },
+      {
+        "en": "Admonish",
+        "bn": "সতর্ক করা"
+      },
+      {
+        "en": "Castigate",
+        "bn": "কঠোরভাবে সমালোচনা করা"
+      },
+      {
+        "en": "Censure",
+        "bn": "কঠোর নিন্দা করা"
+      },
+      {
+        "en": "Reproach",
+        "bn": "তিরস্কার করা"
+      },
+      {
+        "en": "Reprove",
+        "bn": "তিরস্কার করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "praise",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "commend",
+        "bn": "সাধুবাদ জানানো"
+      },
+      {
+        "en": "Acclaim",
+        "bn": "প্রকাশ্যে প্রশংসা করা"
+      },
+      {
+        "en": "Laud",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "coddle",
+        "bn": "অতিরিক্ত আদর-যত্ন করা"
+      },
+      {
+        "en": "Exalt",
+        "bn": "উচ্চ প্রশংসা করা"
+      },
+      {
+        "en": "Extol",
+        "bn": "ভূয়সী প্রশংসা করা"
+      }
+    ],
+    "example": "The coach chastised the players for ignoring the strategy.",
+    "example_bn": "কৌশল উপেক্ষা করায় কোচ খেলোয়াড়দের কঠোরভাবে তিরস্কার করলেন.",
+    "examples": [
+      "The coach chastised the players for ignoring the strategy. — কৌশল উপেক্ষা করায় কোচ খেলোয়াড়দের কঠোরভাবে তিরস্কার করলেন.",
+      "At dinner, she explained that 'Chastise' means 'to criticize or punish someone severely for wrongdoing', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Chastise’ শব্দটির অর্থ—কঠোরভাবে তিরস্কার করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Chastise' as 'to criticize or punish someone severely for wrongdoing' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Chastise’ শব্দটি কঠোরভাবে তিরস্কার করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Chicanery",
+    "pronunciation_bn": "শিকেইনারি",
+    "pronunciation": "/ʃɪˈkeɪnəri/",
+    "no": 187,
+    "group": 8,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the use of deception or trickery, especially in legal or political matters",
+    "meaning_bn": [
+      "কূটচাল",
+      "প্রতারণা"
+    ],
+    "synonyms": [
+      {
+        "en": "deception",
+        "bn": "প্রতারণা"
+      },
+      {
+        "en": "trickery",
+        "bn": "চালাকি"
+      },
+      {
+        "en": "subterfuge",
+        "bn": "ছলচাতুরি"
+      },
+      {
+        "en": "Artifice",
+        "bn": "কূটকৌশল"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "honesty",
+        "bn": "সততা"
+      },
+      {
+        "en": "candor",
+        "bn": "খোলামেলা সত্যবাদিতা"
+      },
+      {
+        "en": "Veracity",
+        "bn": "সত্যতা"
+      }
+    ],
+    "example": "Investigators uncovered financial chicanery at the company.",
+    "example_bn": "তদন্তকারীরা প্রতিষ্ঠানটির আর্থিক প্রতারণা উদ্ঘাটন করলেন.",
+    "examples": [
+      "Investigators uncovered financial chicanery at the company. — তদন্তকারীরা প্রতিষ্ঠানটির আর্থিক প্রতারণা উদ্ঘাটন করলেন.",
+      "At dinner, she explained that 'Chicanery' means 'the use of deception or trickery, especially', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Chicanery’ শব্দটির অর্থ—কূটচাল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Chicanery' as 'the use of deception or trickery, especially' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Chicanery’ শব্দটি কূটচাল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Chimera",
+    "pronunciation_bn": "কাইমিরা",
+    "pronunciation": "/kaɪˈmɪrə/",
+    "no": 188,
+    "group": 8,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "an impossible or fanciful idea; in mythology, a creature made of different animals",
+    "meaning_bn": [
+      "অলীক কল্পনা",
+      "অসম্ভব স্বপ্ন"
+    ],
+    "synonyms": [
+      {
+        "en": "illusion",
+        "bn": "ভ্রম"
+      },
+      {
+        "en": "fantasy",
+        "bn": "কল্পনা"
+      },
+      {
+        "en": "pipe dream",
+        "bn": "অবাস্তব স্বপ্ন"
+      },
+      {
+        "en": "figment",
+        "bn": "কল্পনার সৃষ্টি"
+      },
+      {
+        "en": "phantasm",
+        "bn": "ভ্রমদৃশ্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "reality",
+        "bn": "বাস্তবতা"
+      },
+      {
+        "en": "fact",
+        "bn": "সত্য ঘটনা"
+      },
+      {
+        "en": "verity",
+        "bn": "সত্যতা"
+      }
+    ],
+    "example": "Without a plan, their dream of instant success was a chimera.",
+    "example_bn": "পরিকল্পনা ছাড়া রাতারাতি সাফল্যের স্বপ্নটি ছিল নিছক অলীক কল্পনা.",
+    "examples": [
+      "Without a plan, their dream of instant success was a chimera. — পরিকল্পনা ছাড়া রাতারাতি সাফল্যের স্বপ্নটি ছিল নিছক অলীক কল্পনা.",
+      "At dinner, she explained that 'Chimera' means 'an impossible or fanciful idea', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Chimera’ শব্দটির অর্থ—অলীক কল্পনা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Chimera' as 'an impossible or fanciful idea' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Chimera’ শব্দটি অলীক কল্পনা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Choleric",
+    "pronunciation_bn": "কলেরিক",
+    "pronunciation": "/ˈkɒlərɪk/",
+    "no": 189,
+    "group": 8,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "easily angered; bad-tempered",
+    "meaning_bn": [
+      "বদমেজাজি",
+      "সহজে রেগে যায় এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "irascible",
+        "bn": "রাগপ্রবণ"
+      },
+      {
+        "en": "irritable",
+        "bn": "খিটখিটে"
+      },
+      {
+        "en": "short-tempered",
+        "bn": "অল্পতেই রেগে যায় এমন"
+      },
+      {
+        "en": "bilious",
+        "bn": "খিটখিটে"
+      },
+      {
+        "en": "Petulant",
+        "bn": "খিটখিটে"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "calm",
+        "bn": "শান্ত"
+      },
+      {
+        "en": "even-tempered",
+        "bn": "মেজাজে স্থির"
+      },
+      {
+        "en": "composed",
+        "bn": "শান্ত"
+      },
+      {
+        "en": "phlegmatic",
+        "bn": "শান্ত ও নির্বিকার"
+      },
+      {
+        "en": "serene",
+        "bn": "শান্ত"
+      }
+    ],
+    "example": "The choleric manager often shouted at his staff.",
+    "example_bn": "বদমেজাজি ব্যবস্থাপক প্রায়ই কর্মীদের ওপর চিৎকার করতেন.",
+    "examples": [
+      "The choleric manager often shouted at his staff. — বদমেজাজি ব্যবস্থাপক প্রায়ই কর্মীদের ওপর চিৎকার করতেন.",
+      "At dinner, she explained that 'Choleric' means 'easily angered', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Choleric’ শব্দটির অর্থ—বদমেজাজি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Choleric' as 'easily angered' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Choleric’ শব্দটি বদমেজাজি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Chronic",
+    "pronunciation_bn": "ক্রনিক",
+    "pronunciation": "/ˈkrɒnɪk/",
+    "no": 190,
+    "group": 8,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "continuing for a long time or recurring frequently; especially of an illness",
+    "meaning_bn": [
+      "দীর্ঘস্থায়ী",
+      "বারবার ঘটে এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "persistent",
+        "bn": "অবিরাম"
+      },
+      {
+        "en": "long-term",
+        "bn": "দীর্ঘমেয়াদি"
+      },
+      {
+        "en": "recurring",
+        "bn": "পুনরাবৃত্তিমূলক"
+      },
+      {
+        "en": "Inveterate",
+        "bn": "দীর্ঘদিনের অভ্যাসে অভ্যস্ত"
+      },
+      {
+        "en": "Perennial",
+        "bn": "দীর্ঘস্থায়ী"
+      },
+      {
+        "en": "Incorrigible",
+        "bn": "সংশোধনের অযোগ্য"
+      },
+      {
+        "en": "Relentless",
+        "bn": "অবিরাম"
+      },
+      {
+        "en": "Tenacious",
+        "bn": "অদম্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "acute",
+        "bn": "তীব্র ও স্বল্পস্থায়ী"
+      },
+      {
+        "en": "temporary",
+        "bn": "সাময়িক"
+      },
+      {
+        "en": "Acrid",
+        "bn": "ঝাঁঝালো"
+      },
+      {
+        "en": "Callow",
+        "bn": "অপরিপক্ব"
+      },
+      {
+        "en": "Interim",
+        "bn": "অন্তর্বর্তীকালীন"
+      },
+      {
+        "en": "Provisional",
+        "bn": "অস্থায়ী"
+      },
+      {
+        "en": "Transient",
+        "bn": "ক্ষণস্থায়ী"
+      }
+    ],
+    "example": "The region has a chronic shortage of clean water.",
+    "example_bn": "এলাকাটিতে দীর্ঘদিন ধরে বিশুদ্ধ পানির ঘাটতি রয়েছে.",
+    "examples": [
+      "The region has a chronic shortage of clean water. — এলাকাটিতে দীর্ঘদিন ধরে বিশুদ্ধ পানির ঘাটতি রয়েছে.",
+      "At dinner, she explained that 'Chronic' means 'continuing for a long time or recurring frequently', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Chronic’ শব্দটির অর্থ—দীর্ঘস্থায়ী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Chronic' as 'continuing for a long time or recurring frequently' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Chronic’ শব্দটি দীর্ঘস্থায়ী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Chronicle",
+    "pronunciation_bn": "ক্রনিকল",
+    "pronunciation": "/ˈkrɒnɪkəl/",
+    "no": 191,
+    "group": 8,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a factual record of events in the order in which they happened; also, to record events",
+    "meaning_bn": [
+      "কালানুক্রমিক বিবরণ",
+      "ঘটনাপঞ্জি"
+    ],
+    "synonyms": [
+      {
+        "en": "record",
+        "bn": "নথি"
+      },
+      {
+        "en": "account",
+        "bn": "বিবরণ"
+      },
+      {
+        "en": "annals",
+        "bn": "ইতিহাসের ধারাবিবরণী"
+      },
+      {
+        "en": "document",
+        "bn": "নথিবদ্ধ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "fiction",
+        "bn": "কল্পকাহিনি"
+      },
+      {
+        "en": "fabrication",
+        "bn": "মনগড়া বিবরণ"
+      },
+      {
+        "en": "figment",
+        "bn": "কল্পনার সৃষ্টি"
+      }
+    ],
+    "example": "The diary is a chronicle of her years abroad.",
+    "example_bn": "ডায়েরিটি বিদেশে কাটানো তার বছরগুলোর কালানুক্রমিক বিবরণ.",
+    "examples": [
+      "The diary is a chronicle of her years abroad. — ডায়েরিটি বিদেশে কাটানো তার বছরগুলোর কালানুক্রমিক বিবরণ.",
+      "At dinner, she explained that 'Chronicle' means 'a factual record of events in the order', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Chronicle’ শব্দটির অর্থ—কালানুক্রমিক বিবরণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Chronicle' as 'a factual record of events in the order' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Chronicle’ শব্দটি কালানুক্রমিক বিবরণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Circuitous",
+    "pronunciation_bn": "সারকিউইটাস",
+    "pronunciation": "/sərˈkjuːɪtəs/",
+    "no": 192,
+    "group": 8,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "taking a longer route than necessary; indirect",
+    "meaning_bn": [
+      "ঘুরপ্যাঁচযুক্ত",
+      "পরোক্ষ"
+    ],
+    "synonyms": [
+      {
+        "en": "roundabout",
+        "bn": "ঘুরপথের"
+      },
+      {
+        "en": "indirect",
+        "bn": "পরোক্ষ"
+      },
+      {
+        "en": "winding",
+        "bn": "আঁকাবাঁকা"
+      },
+      {
+        "en": "Oblique",
+        "bn": "পরোক্ষ"
+      },
+      {
+        "en": "serpentine",
+        "bn": "সাপের মতো আঁকাবাঁকা"
+      },
+      {
+        "en": "Tangential",
+        "bn": "মূল বিষয়ের সঙ্গে সরাসরি সম্পর্কহীন"
+      },
+      {
+        "en": "tortuous",
+        "bn": "আঁকাবাঁকা"
+      },
+      {
+        "en": "Vicarious",
+        "bn": "পরোক্ষভাবে অনুভূত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "direct",
+        "bn": "সরাসরি"
+      },
+      {
+        "en": "straightforward",
+        "bn": "সোজাসাপ্টা"
+      }
+    ],
+    "example": "We took a circuitous route through the hills.",
+    "example_bn": "আমরা পাহাড়ের মধ্য দিয়ে একটি ঘুরপ্যাঁচযুক্ত পথ নিয়েছিলাম.",
+    "examples": [
+      "We took a circuitous route through the hills. — আমরা পাহাড়ের মধ্য দিয়ে একটি ঘুরপ্যাঁচযুক্ত পথ নিয়েছিলাম.",
+      "At dinner, she explained that 'Circuitous' means 'taking a longer route than necessary', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Circuitous’ শব্দটির অর্থ—ঘুরপ্যাঁচযুক্ত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Circuitous' as 'taking a longer route than necessary' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Circuitous’ শব্দটি ঘুরপ্যাঁচযুক্ত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Circumlocution",
+    "pronunciation_bn": "সারকামলোকিউশন",
+    "pronunciation": "/ˌsɜːrkəmləˈkjuːʃən/",
+    "no": 193,
+    "group": 8,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the use of many words to express an idea instead of saying it directly",
+    "meaning_bn": [
+      "ঘুরিয়ে-পেঁচিয়ে বলা",
+      "অপ্রত্যক্ষ বর্ণনা"
+    ],
+    "synonyms": [
+      {
+        "en": "periphrasis",
+        "bn": "পরোক্ষভাবে প্রকাশ"
+      },
+      {
+        "en": "wordiness",
+        "bn": "বাক্যবাহুল্য"
+      },
+      {
+        "en": "evasion",
+        "bn": "এড়িয়ে কথা বলা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "directness",
+        "bn": "সরাসরিতা"
+      },
+      {
+        "en": "conciseness",
+        "bn": "সংক্ষিপ্ততা"
+      },
+      {
+        "en": "Brevity",
+        "bn": "সংক্ষিপ্ততা"
+      }
+    ],
+    "example": "His circumlocution made a simple answer unnecessarily confusing.",
+    "example_bn": "তার ঘুরিয়ে-পেঁচিয়ে বলা একটি সহজ উত্তরকেও অকারণে জটিল করে তুলল.",
+    "examples": [
+      "His circumlocution made a simple answer unnecessarily confusing. — তার ঘুরিয়ে-পেঁচিয়ে বলা একটি সহজ উত্তরকেও অকারণে জটিল করে তুলল.",
+      "At dinner, she explained that 'Circumlocution' means 'the use of many words to express', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Circumlocution’ শব্দটির অর্থ—ঘুরিয়ে-পেঁচিয়ে বলা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Circumlocution' as 'the use of many words to express' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Circumlocution’ শব্দটি ঘুরিয়ে-পেঁচিয়ে বলা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Circumscribe",
+    "pronunciation_bn": "সারকামস্ক্রাইব",
+    "pronunciation": "/ˈsɜːrkəmskraɪb/",
+    "no": 194,
+    "group": 8,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to restrict something within limits",
+    "meaning_bn": [
+      "সীমাবদ্ধ করা",
+      "সীমানা নির্ধারণ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "restrict",
+        "bn": "সীমিত করা"
+      },
+      {
+        "en": "confine",
+        "bn": "আবদ্ধ রাখা"
+      },
+      {
+        "en": "limit",
+        "bn": "সীমা নির্ধারণ করা"
+      },
+      {
+        "en": "Curtail",
+        "bn": "কমানো"
+      },
+      {
+        "en": "Qualify",
+        "bn": "কোনো বক্তব্যের অর্থ সীমিত বা শর্তযুক্ত করা"
+      },
+      {
+        "en": "cloister",
+        "bn": "মঠের আঙিনার চারপাশের ছাউনিযুক্ত চলাচলের পথ"
+      },
+      {
+        "en": "curb",
+        "bn": "নিয়ন্ত্রণ করা"
+      },
+      {
+        "en": "stint",
+        "bn": "নির্দিষ্ট কাজের সময়কাল"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "expand",
+        "bn": "বিস্তৃত করা"
+      },
+      {
+        "en": "liberate",
+        "bn": "মুক্ত করা"
+      },
+      {
+        "en": "Burgeon",
+        "bn": "দ্রুত বৃদ্ধি পাওয়া"
+      },
+      {
+        "en": "diffuse",
+        "bn": "ছড়িয়ে পড়া"
+      },
+      {
+        "en": "dilate",
+        "bn": "প্রসারিত হওয়া"
+      },
+      {
+        "en": "Distend",
+        "bn": "ফুলে ওঠা"
+      },
+      {
+        "en": "emancipate",
+        "bn": "মুক্ত করা"
+      }
+    ],
+    "example": "The rules circumscribe what members are allowed to do.",
+    "example_bn": "নিয়মগুলো সদস্যরা কী করতে পারবেন, তা সীমাবদ্ধ করে.",
+    "examples": [
+      "The rules circumscribe what members are allowed to do. — নিয়মগুলো সদস্যরা কী করতে পারবেন, তা সীমাবদ্ধ করে.",
+      "At dinner, she explained that 'Circumscribe' means 'to restrict something within limits', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Circumscribe’ শব্দটির অর্থ—সীমাবদ্ধ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Circumscribe' as 'to restrict something within limits' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Circumscribe’ শব্দটি সীমাবদ্ধ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Circumspect",
+    "pronunciation_bn": "সারকামস্পেক্ট",
+    "pronunciation": "/ˈsɜːrkəmspekt/",
+    "no": 195,
+    "group": 8,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "careful to consider all circumstances and possible consequences before acting",
+    "meaning_bn": [
+      "সতর্ক",
+      "বিবেচক"
+    ],
+    "synonyms": [
+      {
+        "en": "cautious",
+        "bn": "সাবধান"
+      },
+      {
+        "en": "prudent",
+        "bn": "বিচক্ষণ"
+      },
+      {
+        "en": "wary",
+        "bn": "সতর্ক"
+      },
+      {
+        "en": "Discreet",
+        "bn": "বিচক্ষণ"
+      },
+      {
+        "en": "Judicious",
+        "bn": "বিচক্ষণ"
+      },
+      {
+        "en": "Provident",
+        "bn": "ভবিষ্যতের জন্য সতর্ক পরিকল্পনাকারী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "reckless",
+        "bn": "বেপরোয়া"
+      },
+      {
+        "en": "careless",
+        "bn": "অসতর্ক"
+      },
+      {
+        "en": "Blatant",
+        "bn": "নির্লজ্জভাবে স্পষ্ট"
+      },
+      {
+        "en": "Impetuous",
+        "bn": "হঠকারী"
+      },
+      {
+        "en": "Lax",
+        "bn": "শিথিল"
+      },
+      {
+        "en": "obtrusive",
+        "bn": "অনধিকারভাবে চোখে পড়ে এমন"
+      },
+      {
+        "en": "Officious",
+        "bn": "অনধিকারচর্চাকারী"
+      }
+    ],
+    "example": "She was circumspect when discussing the confidential matter.",
+    "example_bn": "গোপন বিষয়টি নিয়ে কথা বলার সময় সে সতর্ক ছিল.",
+    "examples": [
+      "She was circumspect when discussing the confidential matter. — গোপন বিষয়টি নিয়ে কথা বলার সময় সে সতর্ক ছিল.",
+      "At dinner, she explained that 'Circumspect' means 'careful to consider all circumstances and possible consequences', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Circumspect’ শব্দটির অর্থ—সতর্ক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Circumspect' as 'careful to consider all circumstances and possible consequences' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Circumspect’ শব্দটি সতর্ক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Circumvent",
+    "pronunciation_bn": "সারকামভেন্ট",
+    "pronunciation": "/ˌsɜːrkəmˈvent/",
+    "no": 196,
+    "group": 8,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to find a way around a rule, obstacle, or restriction, often by cleverness",
+    "meaning_bn": [
+      "কৌশলে এড়িয়ে যাওয়া",
+      "ফাঁকি দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "bypass",
+        "bn": "পাশ কাটিয়ে যাওয়া"
+      },
+      {
+        "en": "evade",
+        "bn": "এড়িয়ে যাওয়া"
+      },
+      {
+        "en": "outmaneuver",
+        "bn": "কৌশলে পরাস্ত করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "confront",
+        "bn": "সামনা করা"
+      },
+      {
+        "en": "comply with",
+        "bn": "মেনে চলা"
+      },
+      {
+        "en": "Accost",
+        "bn": "কারও কাছে গিয়ে কথা বলা"
+      }
+    ],
+    "example": "The company tried to circumvent the new regulations.",
+    "example_bn": "প্রতিষ্ঠানটি নতুন বিধিনিষেধ কৌশলে এড়িয়ে যাওয়ার চেষ্টা করল.",
+    "examples": [
+      "The company tried to circumvent the new regulations. — প্রতিষ্ঠানটি নতুন বিধিনিষেধ কৌশলে এড়িয়ে যাওয়ার চেষ্টা করল.",
+      "At dinner, she explained that 'Circumvent' means 'to find a way around a rule, obstacle', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Circumvent’ শব্দটির অর্থ—কৌশলে এড়িয়ে যাওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Circumvent' as 'to find a way around a rule, obstacle' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Circumvent’ শব্দটি কৌশলে এড়িয়ে যাওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Civil",
+    "pronunciation_bn": "সিভিল",
+    "pronunciation": "/ˈsɪvəl/",
+    "no": 197,
+    "group": 8,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "polite and courteous; relating to citizens or public life rather than the military or church",
+    "meaning_bn": [
+      "ভদ্র",
+      "নাগরিকসংক্রান্ত"
+    ],
+    "synonyms": [
+      {
+        "en": "polite",
+        "bn": "ভদ্র"
+      },
+      {
+        "en": "courteous",
+        "bn": "শিষ্ট"
+      },
+      {
+        "en": "civic",
+        "bn": "নাগরিক-সম্পর্কিত"
+      },
+      {
+        "en": "Genteel",
+        "bn": "মার্জিত"
+      },
+      {
+        "en": "municipal",
+        "bn": "পৌরসভা-সংক্রান্ত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "rude",
+        "bn": "অভদ্র"
+      },
+      {
+        "en": "military",
+        "bn": "সামরিক"
+      },
+      {
+        "en": "brusque",
+        "bn": "রুক্ষ"
+      },
+      {
+        "en": "Insolent",
+        "bn": "ধৃষ্ট"
+      },
+      {
+        "en": "Martial",
+        "bn": "সামরিক"
+      }
+    ],
+    "example": "Despite their disagreement, they remained civil to each other.",
+    "example_bn": "মতবিরোধ থাকা সত্ত্বেও তারা একে অপরের সঙ্গে ভদ্র আচরণ করল.",
+    "examples": [
+      "Despite their disagreement, they remained civil to each other. — মতবিরোধ থাকা সত্ত্বেও তারা একে অপরের সঙ্গে ভদ্র আচরণ করল.",
+      "At dinner, she explained that 'Civil' means 'polite and courteous', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Civil’ শব্দটির অর্থ—ভদ্র—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Civil' as 'polite and courteous' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Civil’ শব্দটি ভদ্র অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Clemency",
+    "pronunciation_bn": "ক্লেমেন্সি",
+    "pronunciation": "/ˈklemənsi/",
+    "no": 198,
+    "group": 8,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "mercy or leniency, especially when deciding a punishment",
+    "meaning_bn": [
+      "ক্ষমাশীলতা",
+      "দণ্ড লাঘব"
+    ],
+    "synonyms": [
+      {
+        "en": "mercy",
+        "bn": "দয়া"
+      },
+      {
+        "en": "leniency",
+        "bn": "নমনীয়তা"
+      },
+      {
+        "en": "forbearance",
+        "bn": "সহনশীলতা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "severity",
+        "bn": "কঠোরতা"
+      },
+      {
+        "en": "harshness",
+        "bn": "নিষ্ঠুরতা"
+      }
+    ],
+    "example": "The judge showed clemency because it was the offender's first crime.",
+    "example_bn": "অপরাধীর এটিই প্রথম অপরাধ হওয়ায় বিচারক দণ্ডে নমনীয়তা দেখালেন.",
+    "examples": [
+      "The judge showed clemency because it was the offender's first crime. — অপরাধীর এটিই প্রথম অপরাধ হওয়ায় বিচারক দণ্ডে নমনীয়তা দেখালেন.",
+      "At dinner, she explained that 'Clemency' means 'mercy or leniency, especially when deciding a punishment', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Clemency’ শব্দটির অর্থ—ক্ষমাশীলতা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Clemency' as 'mercy or leniency, especially when deciding a punishment' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Clemency’ শব্দটি ক্ষমাশীলতা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Cliché",
+    "pronunciation_bn": "ক্লিশে",
+    "pronunciation": "/ˈkliːʃeɪ/",
+    "no": 199,
+    "group": 8,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "an expression or idea that has been used so often that it is no longer interesting",
+    "meaning_bn": [
+      "বহুল ব্যবহারে জীর্ণ বাক্য",
+      "গতানুগতিক ধারণা"
+    ],
+    "synonyms": [
+      {
+        "en": "platitude",
+        "bn": "গতানুগতিক কথা"
+      },
+      {
+        "en": "banality",
+        "bn": "নীরস সাধারণ কথা"
+      },
+      {
+        "en": "stereotype",
+        "bn": "ছাঁচে-ফেলা ধারণা"
+      },
+      {
+        "en": "bromide",
+        "bn": "গতানুগতিক ও নিরস কথা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "originality",
+        "bn": "মৌলিকতা"
+      },
+      {
+        "en": "novelty",
+        "bn": "নতুনত্ব"
+      },
+      {
+        "en": "Acumen",
+        "bn": "তীক্ষ্ণ বিচারবুদ্ধি"
+      }
+    ],
+    "example": "The essay relied on clichés instead of original ideas.",
+    "example_bn": "প্রবন্ধটি মৌলিক ধারণার বদলে গতানুগতিক কথার ওপর নির্ভর করেছে.",
+    "examples": [
+      "The essay relied on clichés instead of original ideas. — প্রবন্ধটি মৌলিক ধারণার বদলে গতানুগতিক কথার ওপর নির্ভর করেছে.",
+      "At dinner, she explained that 'Cliché' means 'an expression or idea that has been used', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Cliché’ শব্দটির অর্থ—বহুল ব্যবহারে জীর্ণ বাক্য—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Cliché' as 'an expression or idea that has been used' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Cliché’ শব্দটি বহুল ব্যবহারে জীর্ণ বাক্য অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Clique",
+    "pronunciation_bn": "ক্লিক",
+    "pronunciation": "/kliːk/",
+    "no": 200,
+    "group": 8,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a small exclusive group of people who do not readily admit others",
+    "meaning_bn": [
+      "ঘনিষ্ঠ একচেটিয়া দল",
+      "নিজস্ব গোষ্ঠী"
+    ],
+    "synonyms": [
+      {
+        "en": "coterie",
+        "bn": "ঘনিষ্ঠ গোষ্ঠী"
+      },
+      {
+        "en": "circle",
+        "bn": "মহল"
+      },
+      {
+        "en": "faction",
+        "bn": "উপদল"
+      },
+      {
+        "en": "cabal",
+        "bn": "গোপন ষড়যন্ত্রকারী গোষ্ঠী"
+      },
+      {
+        "en": "sect",
+        "bn": "ধর্মীয় উপদল"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "community",
+        "bn": "সম্প্রদায়"
+      },
+      {
+        "en": "inclusive group",
+        "bn": "অন্তর্ভুক্তিমূলক দল"
+      },
+      {
+        "en": "Consensus",
+        "bn": "সাধারণ ঐকমত্য"
+      }
+    ],
+    "example": "A clique of students often excluded newcomers.",
+    "example_bn": "শিক্ষার্থীদের একটি একচেটিয়া দল প্রায়ই নতুনদের বাদ দিত.",
+    "examples": [
+      "A clique of students often excluded newcomers. — শিক্ষার্থীদের একটি একচেটিয়া দল প্রায়ই নতুনদের বাদ দিত.",
+      "At dinner, she explained that 'Clique' means 'a small exclusive group of people who do', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Clique’ শব্দটির অর্থ—ঘনিষ্ঠ একচেটিয়া দল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Clique' as 'a small exclusive group of people who do' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Clique’ শব্দটি ঘনিষ্ঠ একচেটিয়া দল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

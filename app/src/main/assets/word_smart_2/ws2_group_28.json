@@ -1,0 +1,1683 @@
+[
+  {
+    "word": "redress",
+    "pronunciation_bn": "রিড্রেস",
+    "pronunciation": "/rɪˈdres/",
+    "no": 676,
+    "group": 28,
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "meaning_en": "to correct or remedy a wrong; compensation for a wrong or injury",
+    "meaning_bn": [
+      "প্রতিকার করা",
+      "অন্যায় সংশোধন করা",
+      "ক্ষতিপূরণ বা প্রতিকার"
+    ],
+    "synonyms": [
+      {
+        "en": "remedy",
+        "bn": "প্রতিকার করা"
+      },
+      {
+        "en": "rectify",
+        "bn": "সংশোধন করা"
+      },
+      {
+        "en": "compensate",
+        "bn": "ক্ষতিপূরণ দেওয়া"
+      },
+      {
+        "en": "Reparation",
+        "bn": "ক্ষতিপূরণ"
+      },
+      {
+        "en": "Atone",
+        "bn": "প্রায়শ্চিত্ত করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "aggravate",
+        "bn": "আরও খারাপ করা"
+      },
+      {
+        "en": "worsen",
+        "bn": "অবনতি ঘটানো"
+      },
+      {
+        "en": "Exacerbate",
+        "bn": "আরও খারাপ করে তোলা"
+      },
+      {
+        "en": "fester",
+        "bn": "ক্ষতে পুঁজ জমা"
+      },
+      {
+        "en": "Degenerate",
+        "bn": "অবনতি হওয়া"
+      },
+      {
+        "en": "disservice",
+        "bn": "অপকার"
+      },
+      {
+        "en": "Vex",
+        "bn": "বিরক্ত করা"
+      }
+    ],
+    "example": "She went to court to seek redress for the injustice.",
+    "example_bn": "অন্যায়ের প্রতিকার চাইতে সে আদালতে গিয়েছিল।",
+    "examples": [
+      "She went to court to seek redress for the injustice. — অন্যায়ের প্রতিকার চাইতে সে আদালতে গিয়েছিল।",
+      "At dinner, she explained that 'redress' means 'to correct or remedy a wrong', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘redress’ শব্দটির অর্থ—প্রতিকার করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'redress' as 'to correct or remedy a wrong' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘redress’ শব্দটি প্রতিকার করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "referendum",
+    "pronunciation_bn": "রেফারেন্ডাম",
+    "pronunciation": "/ˌref.əˈren.dəm/",
+    "no": 677,
+    "group": 28,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a public vote on a particular political or social question",
+    "meaning_bn": [
+      "গণভোট",
+      "কোনো গুরুত্বপূর্ণ বিষয়ে জনগণের সরাসরি ভোট"
+    ],
+    "synonyms": [
+      {
+        "en": "plebiscite",
+        "bn": "গণভোট"
+      },
+      {
+        "en": "popular vote",
+        "bn": "জনগণের ভোট"
+      },
+      {
+        "en": "ballot",
+        "bn": "ভোটগ্রহণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "appointment",
+        "bn": "নিয়োগ"
+      },
+      {
+        "en": "nomination",
+        "bn": "মনোনয়ন"
+      }
+    ],
+    "example": "The government held a referendum on the proposed constitutional change.",
+    "example_bn": "প্রস্তাবিত সাংবিধানিক পরিবর্তন নিয়ে সরকার গণভোটের আয়োজন করেছিল।",
+    "examples": [
+      "The government held a referendum on the proposed constitutional change. — প্রস্তাবিত সাংবিধানিক পরিবর্তন নিয়ে সরকার গণভোটের আয়োজন করেছিল।",
+      "At dinner, she explained that 'referendum' means 'a public vote on a particular political', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘referendum’ শব্দটির অর্থ—গণভোট—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'referendum' as 'a public vote on a particular political' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘referendum’ শব্দটি গণভোট অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "refractory",
+    "pronunciation_bn": "রিফ্র্যাক্টরি",
+    "pronunciation": "/rɪˈfræk.tər.i/",
+    "no": 678,
+    "group": 28,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "difficult to control or deal with; resistant to treatment or a process",
+    "meaning_bn": [
+      "অবাধ্য",
+      "নিয়ন্ত্রণ করা কঠিন",
+      "চিকিৎসা বা প্রক্রিয়ায় সাড়া দেয় না এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "unmanageable",
+        "bn": "নিয়ন্ত্রণ-অযোগ্য"
+      },
+      {
+        "en": "intractable",
+        "bn": "সমাধান বা নিয়ন্ত্রণ করা কঠিন"
+      },
+      {
+        "en": "resistant",
+        "bn": "প্রতিরোধী"
+      },
+      {
+        "en": "Impervious",
+        "bn": "অভেদ্য"
+      },
+      {
+        "en": "Impenetrable",
+        "bn": "দুর্ভেদ্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "compliant",
+        "bn": "অনুগত"
+      },
+      {
+        "en": "tractable",
+        "bn": "সহজে নিয়ন্ত্রণযোগ্য"
+      },
+      {
+        "en": "Amenable",
+        "bn": "রাজি"
+      },
+      {
+        "en": "Docile",
+        "bn": "শান্তশিষ্ট"
+      },
+      {
+        "en": "pliable",
+        "bn": "নমনীয়"
+      },
+      {
+        "en": "susceptible",
+        "bn": "সহজে প্রভাবিত হয় এমন"
+      }
+    ],
+    "example": "The infection proved refractory to the usual treatment.",
+    "example_bn": "সংক্রমণটি প্রচলিত চিকিৎসায় সাড়া দিল না।",
+    "examples": [
+      "The infection proved refractory to the usual treatment. — সংক্রমণটি প্রচলিত চিকিৎসায় সাড়া দিল না।",
+      "At dinner, she explained that 'refractory' means 'difficult to control or deal', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘refractory’ শব্দটির অর্থ—অবাধ্য—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'refractory' as 'difficult to control or deal' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘refractory’ শব্দটি অবাধ্য অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "regime",
+    "pronunciation_bn": "রেইজিম",
+    "pronunciation": "/reɪˈʒiːm/",
+    "no": 679,
+    "group": 28,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a system or method of government; also, a system of rules or practices",
+    "meaning_bn": [
+      "শাসনব্যবস্থা",
+      "শাসকগোষ্ঠী",
+      "নির্দিষ্ট নিয়ম বা পদ্ধতি"
+    ],
+    "synonyms": [
+      {
+        "en": "government",
+        "bn": "সরকার"
+      },
+      {
+        "en": "administration",
+        "bn": "প্রশাসন"
+      },
+      {
+        "en": "system",
+        "bn": "ব্যবস্থা"
+      },
+      {
+        "en": "Bureaucracy",
+        "bn": "আমলাতন্ত্র"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "anarchy",
+        "bn": "নৈরাজ্য"
+      },
+      {
+        "en": "disorder",
+        "bn": "বিশৃঙ্খলা"
+      },
+      {
+        "en": "disarray",
+        "bn": "বিশৃঙ্খলা"
+      },
+      {
+        "en": "bedlam",
+        "bn": "হট্টগোল"
+      },
+      {
+        "en": "turmoil",
+        "bn": "তীব্র অস্থিরতা"
+      }
+    ],
+    "example": "The regime introduced new rules for public services.",
+    "example_bn": "শাসনব্যবস্থাটি জনসেবার জন্য নতুন নিয়ম চালু করল।",
+    "examples": [
+      "The regime introduced new rules for public services. — শাসনব্যবস্থাটি জনসেবার জন্য নতুন নিয়ম চালু করল।",
+      "At dinner, she explained that 'regime' means 'a system or method of government', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘regime’ শব্দটির অর্থ—শাসনব্যবস্থা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'regime' as 'a system or method of government' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘regime’ শব্দটি শাসনব্যবস্থা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "regimen",
+    "pronunciation_bn": "রেজিমেন",
+    "pronunciation": "/ˈredʒ.ɪ.mən/",
+    "no": 680,
+    "group": 28,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a planned course of activity, treatment, or diet",
+    "meaning_bn": [
+      "নির্দিষ্ট কর্মসূচি",
+      "চিকিৎসা-পদ্ধতি",
+      "নিয়মিত খাদ্য বা ব্যায়ামসূচি"
+    ],
+    "synonyms": [
+      {
+        "en": "routine",
+        "bn": "নিয়মিত কর্মপদ্ধতি"
+      },
+      {
+        "en": "programme",
+        "bn": "কর্মসূচি"
+      },
+      {
+        "en": "course",
+        "bn": "নির্ধারিত পদ্ধতি/ধারা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "disorder",
+        "bn": "অনিয়ম"
+      },
+      {
+        "en": "randomness",
+        "bn": "এলোমেলো অবস্থা"
+      },
+      {
+        "en": "odyssey",
+        "bn": "দীর্ঘ ও ঘটনাবহুল যাত্রা"
+      },
+      {
+        "en": "Anarchy",
+        "bn": "অরাজকতা"
+      },
+      {
+        "en": "disarray",
+        "bn": "বিশৃঙ্খলা"
+      },
+      {
+        "en": "turmoil",
+        "bn": "তীব্র অস্থিরতা"
+      }
+    ],
+    "example": "She followed a daily exercise regimen to improve her fitness.",
+    "example_bn": "শারীরিক সক্ষমতা বাড়াতে সে প্রতিদিনের ব্যায়ামসূচি মেনে চলত।",
+    "examples": [
+      "She followed a daily exercise regimen to improve her fitness. — শারীরিক সক্ষমতা বাড়াতে সে প্রতিদিনের ব্যায়ামসূচি মেনে চলত।",
+      "At dinner, she explained that 'regimen' means 'a planned course of activity, treatment, or diet', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘regimen’ শব্দটির অর্থ—নির্দিষ্ট কর্মসূচি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'regimen' as 'a planned course of activity, treatment, or diet' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘regimen’ শব্দটি নির্দিষ্ট কর্মসূচি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "remission",
+    "pronunciation_bn": "রিমিশন",
+    "pronunciation": "/rɪˈmɪʃ.ən/",
+    "no": 681,
+    "group": 28,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a reduction or disappearance of the signs of a disease; cancellation or forgiveness of a penalty or debt",
+    "meaning_bn": [
+      "রোগের উপসর্গ কমে যাওয়া বা মিলিয়ে যাওয়া",
+      "দণ্ড বা ঋণ মওকুফ"
+    ],
+    "synonyms": [
+      {
+        "en": "abatement",
+        "bn": "হ্রাস"
+      },
+      {
+        "en": "reduction",
+        "bn": "কমানো"
+      },
+      {
+        "en": "reprieve",
+        "bn": "সাময়িক অব্যাহতি"
+      },
+      {
+        "en": "Amnesty",
+        "bn": "সাধারণ ক্ষমা"
+      },
+      {
+        "en": "diminution",
+        "bn": "হ্রাস"
+      },
+      {
+        "en": "Respite",
+        "bn": "বিরতি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "worsening",
+        "bn": "অবনতি"
+      },
+      {
+        "en": "exacerbation",
+        "bn": "উপসর্গের তীব্রতা বৃদ্ধি"
+      },
+      {
+        "en": "Increment",
+        "bn": "বৃদ্ধি"
+      }
+    ],
+    "example": "The disease went into remission after months of treatment.",
+    "example_bn": "কয়েক মাসের চিকিৎসার পর রোগটির উপসর্গ প্রশমিত হলো।",
+    "examples": [
+      "The disease went into remission after months of treatment. — কয়েক মাসের চিকিৎসার পর রোগটির উপসর্গ প্রশমিত হলো।",
+      "At dinner, she explained that 'remission' means 'a reduction or disappearance of the signs', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘remission’ শব্দটির অর্থ—রোগের উপসর্গ কমে যাওয়া বা মিলিয়ে যাওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'remission' as 'a reduction or disappearance of the signs' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘remission’ শব্দটি রোগের উপসর্গ কমে যাওয়া বা মিলিয়ে যাওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "remuneration",
+    "pronunciation_bn": "রিমিউনারেইশন",
+    "pronunciation": "/rɪˌmjuː.nəˈreɪ.ʃən/",
+    "no": 682,
+    "group": 28,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "money paid for work or a service; payment or reward",
+    "meaning_bn": [
+      "পারিশ্রমিক",
+      "কাজের বিনিময়ে প্রদেয় অর্থ",
+      "প্রতিদান"
+    ],
+    "synonyms": [
+      {
+        "en": "payment",
+        "bn": "অর্থপ্রদান"
+      },
+      {
+        "en": "compensation",
+        "bn": "ক্ষতিপূরণ/পারিশ্রমিক"
+      },
+      {
+        "en": "wages",
+        "bn": "মজুরি"
+      },
+      {
+        "en": "stipend",
+        "bn": "নিয়মিত দেওয়া নির্দিষ্ট অর্থ"
+      },
+      {
+        "en": "Reparation",
+        "bn": "ক্ষতিপূরণ"
+      },
+      {
+        "en": "Accord",
+        "bn": "চুক্তি"
+      },
+      {
+        "en": "Annuity",
+        "bn": "নিয়মিত বিরতিতে প্রদেয় নির্দিষ্ট অর্থ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "penalty",
+        "bn": "দণ্ড"
+      },
+      {
+        "en": "deduction",
+        "bn": "কর্তন"
+      },
+      {
+        "en": "ratiocination",
+        "bn": "যুক্তিনির্ভর চিন্তা"
+      },
+      {
+        "en": "sanction",
+        "bn": "আনুষ্ঠানিক অনুমোদন"
+      }
+    ],
+    "example": "The position offers fair remuneration and paid leave.",
+    "example_bn": "পদটিতে ন্যায্য পারিশ্রমিক ও বেতনসহ ছুটি দেওয়া হয়।",
+    "examples": [
+      "The position offers fair remuneration and paid leave. — পদটিতে ন্যায্য পারিশ্রমিক ও বেতনসহ ছুটি দেওয়া হয়।",
+      "At dinner, she explained that 'remuneration' means 'money paid for work or a service', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘remuneration’ শব্দটির অর্থ—পারিশ্রমিক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'remuneration' as 'money paid for work or a service' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘remuneration’ শব্দটি পারিশ্রমিক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "rend",
+    "pronunciation_bn": "রেন্ড",
+    "pronunciation": "/rend/",
+    "no": 683,
+    "group": 28,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to tear something violently or forcefully; to split or wrench apart",
+    "meaning_bn": [
+      "ছিঁড়ে ফেলা",
+      "বিদীর্ণ করা",
+      "জোরে টেনে আলাদা করা"
+    ],
+    "synonyms": [
+      {
+        "en": "tear",
+        "bn": "ছিঁড়ে ফেলা"
+      },
+      {
+        "en": "rip",
+        "bn": "ফেড়ে ফেলা"
+      },
+      {
+        "en": "split",
+        "bn": "বিভক্ত করা"
+      },
+      {
+        "en": "cleave",
+        "bn": "চিরে বা কেটে ভাগ করা"
+      },
+      {
+        "en": "Polarize",
+        "bn": "দুই বিপরীত শিবিরে বিভক্ত করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "mend",
+        "bn": "মেরামত করা"
+      },
+      {
+        "en": "join",
+        "bn": "জোড়া লাগানো"
+      }
+    ],
+    "example": "A loud crash rent the silence of the night.",
+    "example_bn": "একটি বিকট শব্দ রাতের নীরবতা ছিন্ন করল।",
+    "examples": [
+      "A loud crash rent the silence of the night. — একটি বিকট শব্দ রাতের নীরবতা ছিন্ন করল।",
+      "At dinner, she explained that 'rend' means 'to tear something violently or forcefully', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘rend’ শব্দটির অর্থ—ছিঁড়ে ফেলা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'rend' as 'to tear something violently or forcefully' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘rend’ শব্দটি ছিঁড়ে ফেলা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "render",
+    "pronunciation_bn": "রেন্ডার",
+    "pronunciation": "/ˈren.dər/",
+    "no": 684,
+    "group": 28,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to cause someone or something to be in a particular state; to provide or give; to represent or express",
+    "meaning_bn": [
+      "কোনো অবস্থায় পরিণত করা",
+      "প্রদান করা",
+      "উপস্থাপন বা চিত্রিত করা"
+    ],
+    "synonyms": [
+      {
+        "en": "make",
+        "bn": "করে তোলা"
+      },
+      {
+        "en": "provide",
+        "bn": "প্রদান করা"
+      },
+      {
+        "en": "depict",
+        "bn": "চিত্রিত করা"
+      },
+      {
+        "en": "denote",
+        "bn": "নির্দেশ করা"
+      },
+      {
+        "en": "Exemplify",
+        "bn": "দৃষ্টান্ত হিসেবে তুলে ধরা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "withhold",
+        "bn": "আটকে রাখা"
+      },
+      {
+        "en": "take away",
+        "bn": "কেড়ে নেওয়া"
+      }
+    ],
+    "example": "The heavy rain rendered the road impassable.",
+    "example_bn": "ভারী বৃষ্টিতে রাস্তাটি চলাচলের অনুপযোগী হয়ে পড়ল।",
+    "examples": [
+      "The heavy rain rendered the road impassable. — ভারী বৃষ্টিতে রাস্তাটি চলাচলের অনুপযোগী হয়ে পড়ল।",
+      "At dinner, she explained that 'render' means 'to cause someone or something to be', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘render’ শব্দটির অর্থ—কোনো অবস্থায় পরিণত করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'render' as 'to cause someone or something to be' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘render’ শব্দটি কোনো অবস্থায় পরিণত করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "repartee",
+    "pronunciation_bn": "রেপার্টি",
+    "pronunciation": "/ˌrep.ɑːˈtiː/",
+    "no": 685,
+    "group": 28,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "quick, clever, and often humorous replies or conversation",
+    "meaning_bn": [
+      "তাৎক্ষণিক বুদ্ধিদীপ্ত জবাব",
+      "রসিক ও চটপটে কথোপকথন"
+    ],
+    "synonyms": [
+      {
+        "en": "wit",
+        "bn": "বুদ্ধিদীপ্ত রসিকতা"
+      },
+      {
+        "en": "banter",
+        "bn": "রসিক কথাবার্তা"
+      },
+      {
+        "en": "retort",
+        "bn": "পাল্টা জবাব"
+      },
+      {
+        "en": "Recrimination",
+        "bn": "পাল্টা অভিযোগ"
+      },
+      {
+        "en": "foray",
+        "bn": "নতুন কোনো কাজে স্বল্পমেয়াদি উদ্যোগ"
+      },
+      {
+        "en": "sally",
+        "bn": "আকস্মিক আক্রমণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "silence",
+        "bn": "নীরবতা"
+      },
+      {
+        "en": "seriousness",
+        "bn": "গাম্ভীর্য"
+      },
+      {
+        "en": "Gravity",
+        "bn": "গাম্ভীর্য"
+      },
+      {
+        "en": "Sobriety",
+        "bn": "মদ্যপানমুক্ত অবস্থা"
+      }
+    ],
+    "example": "Her witty repartee kept the dinner guests entertained.",
+    "example_bn": "তার বুদ্ধিদীপ্ত রসিক জবাব নৈশভোজের অতিথিদের আনন্দিত রেখেছিল।",
+    "examples": [
+      "Her witty repartee kept the dinner guests entertained. — তার বুদ্ধিদীপ্ত রসিক জবাব নৈশভোজের অতিথিদের আনন্দিত রেখেছিল।",
+      "At dinner, she explained that 'repartee' means 'quick, clever, and often humorous replies or conversation', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘repartee’ শব্দটির অর্থ—তাৎক্ষণিক বুদ্ধিদীপ্ত জবাব—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'repartee' as 'quick, clever, and often humorous replies or conversation' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘repartee’ শব্দটি তাৎক্ষণিক বুদ্ধিদীপ্ত জবাব অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "replicate",
+    "pronunciation_bn": "রেপ্লিকেট",
+    "pronunciation": "/ˈrep.lɪ.keɪt/",
+    "no": 686,
+    "group": 28,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to make an exact copy of something or repeat a process or experiment",
+    "meaning_bn": [
+      "হুবহু প্রতিলিপি তৈরি করা",
+      "একইভাবে পুনরাবৃত্তি করা"
+    ],
+    "synonyms": [
+      {
+        "en": "duplicate",
+        "bn": "অনুরূপ প্রতিলিপি তৈরি করা"
+      },
+      {
+        "en": "reproduce",
+        "bn": "পুনরুৎপাদন করা"
+      },
+      {
+        "en": "repeat",
+        "bn": "পুনরাবৃত্তি করা"
+      },
+      {
+        "en": "clone",
+        "bn": "জিনগতভাবে অভিন্ন জীব"
+      },
+      {
+        "en": "Harp",
+        "bn": "একই কথা বারবার বলা"
+      },
+      {
+        "en": "Reiterate",
+        "bn": "পুনরায় বলা"
+      },
+      {
+        "en": "propagate",
+        "bn": "বংশবিস্তার করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "alter",
+        "bn": "পরিবর্তন করা"
+      },
+      {
+        "en": "modify",
+        "bn": "রূপান্তর করা"
+      },
+      {
+        "en": "Qualify",
+        "bn": "কোনো বক্তব্যের অর্থ সীমিত বা শর্তযুক্ত করা"
+      }
+    ],
+    "example": "Other researchers could not replicate the experiment's results.",
+    "example_bn": "অন্য গবেষকেরা পরীক্ষাটির ফলাফল পুনরায় একইভাবে পেতে পারেননি।",
+    "examples": [
+      "Other researchers could not replicate the experiment's results. — অন্য গবেষকেরা পরীক্ষাটির ফলাফল পুনরায় একইভাবে পেতে পারেননি।",
+      "At dinner, she explained that 'replicate' means 'to make an exact copy of something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘replicate’ শব্দটির অর্থ—হুবহু প্রতিলিপি তৈরি করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'replicate' as 'to make an exact copy of something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘replicate’ শব্দটি হুবহু প্রতিলিপি তৈরি করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "repose",
+    "pronunciation_bn": "রিপোজ",
+    "pronunciation": "/rɪˈpəʊz/",
+    "no": 687,
+    "group": 28,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "rest or a state of calm; to lie or rest",
+    "meaning_bn": [
+      "বিশ্রাম",
+      "প্রশান্তি",
+      "শান্ত অবস্থা"
+    ],
+    "synonyms": [
+      {
+        "en": "rest",
+        "bn": "বিশ্রাম"
+      },
+      {
+        "en": "tranquillity",
+        "bn": "প্রশান্তি"
+      },
+      {
+        "en": "relaxation",
+        "bn": "আরাম"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "agitation",
+        "bn": "অস্থিরতা"
+      },
+      {
+        "en": "disturbance",
+        "bn": "ব্যাঘাত"
+      },
+      {
+        "en": "bedlam",
+        "bn": "হট্টগোল"
+      },
+      {
+        "en": "toil",
+        "bn": "কঠোর ও ক্লান্তিকর পরিশ্রম"
+      }
+    ],
+    "example": "After a long journey, they sought repose in a quiet room.",
+    "example_bn": "দীর্ঘ যাত্রার পর তারা একটি নিরিবিলি ঘরে বিশ্রাম নিল।",
+    "examples": [
+      "After a long journey, they sought repose in a quiet room. — দীর্ঘ যাত্রার পর তারা একটি নিরিবিলি ঘরে বিশ্রাম নিল।",
+      "At dinner, she explained that 'repose' means 'rest or a state of calm', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘repose’ শব্দটির অর্থ—বিশ্রাম—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'repose' as 'rest or a state of calm' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘repose’ শব্দটি বিশ্রাম অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "repress",
+    "pronunciation_bn": "রিপ্রেস",
+    "pronunciation": "/rɪˈpres/",
+    "no": 688,
+    "group": 28,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to control or restrain feelings, thoughts, or actions; to forcibly suppress",
+    "meaning_bn": [
+      "দমন করা",
+      "চেপে রাখা",
+      "প্রকাশ হতে না দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "suppress",
+        "bn": "দমন করা"
+      },
+      {
+        "en": "restrain",
+        "bn": "সংযত রাখা"
+      },
+      {
+        "en": "stifle",
+        "bn": "দমিয়ে রাখা"
+      },
+      {
+        "en": "curb",
+        "bn": "নিয়ন্ত্রণ করা"
+      },
+      {
+        "en": "Fetter",
+        "bn": "শৃঙ্খলিত করা"
+      },
+      {
+        "en": "quell",
+        "bn": "দমন করা"
+      },
+      {
+        "en": "shackle",
+        "bn": "বেড়ি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "express",
+        "bn": "প্রকাশ করা"
+      },
+      {
+        "en": "release",
+        "bn": "মুক্ত করা"
+      },
+      {
+        "en": "Articulate",
+        "bn": "স্পষ্টভাবে প্রকাশ করা"
+      },
+      {
+        "en": "convey",
+        "bn": "বহন করা"
+      },
+      {
+        "en": "Elicit",
+        "bn": "আদায় করা"
+      },
+      {
+        "en": "evoke",
+        "bn": "মনে করিয়ে দেওয়া"
+      },
+      {
+        "en": "Adduce",
+        "bn": "সমর্থনে প্রমাণ উপস্থাপন করা"
+      }
+    ],
+    "example": "He tried to repress his anger during the meeting.",
+    "example_bn": "সভা চলাকালে সে নিজের রাগ চেপে রাখার চেষ্টা করল।",
+    "examples": [
+      "He tried to repress his anger during the meeting. — সভা চলাকালে সে নিজের রাগ চেপে রাখার চেষ্টা করল।",
+      "At dinner, she explained that 'repress' means 'to control or restrain feelings, thoughts, or actions', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘repress’ শব্দটির অর্থ—দমন করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'repress' as 'to control or restrain feelings, thoughts, or actions' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘repress’ শব্দটি দমন করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "reprimand",
+    "pronunciation_bn": "রেপ্রিম্যান্ড",
+    "pronunciation": "/ˈrep.rɪ.mɑːnd/",
+    "no": 689,
+    "group": 28,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "an official or severe expression of disapproval; to rebuke formally",
+    "meaning_bn": [
+      "কঠোর তিরস্কার",
+      "আনুষ্ঠানিক ভর্ৎসনা করা"
+    ],
+    "synonyms": [
+      {
+        "en": "rebuke",
+        "bn": "তিরস্কার"
+      },
+      {
+        "en": "reproof",
+        "bn": "ভর্ৎসনা"
+      },
+      {
+        "en": "admonish",
+        "bn": "সতর্ক করে তিরস্কার করা"
+      },
+      {
+        "en": "Castigate",
+        "bn": "কঠোরভাবে সমালোচনা করা"
+      },
+      {
+        "en": "Chastise",
+        "bn": "কঠোরভাবে তিরস্কার করা"
+      },
+      {
+        "en": "Reprove",
+        "bn": "তিরস্কার করা"
+      },
+      {
+        "en": "Censure",
+        "bn": "কঠোর নিন্দা করা"
+      },
+      {
+        "en": "Reproach",
+        "bn": "তিরস্কার করা"
+      },
+      {
+        "en": "denounce",
+        "bn": "প্রকাশ্যে তীব্র নিন্দা করা"
+      },
+      {
+        "en": "decry",
+        "bn": "প্রকাশ্যে নিন্দা করা"
+      },
+      {
+        "en": "Assail",
+        "bn": "আক্রমণ করা"
+      },
+      {
+        "en": "deplore",
+        "bn": "তীব্র নিন্দা করা"
+      },
+      {
+        "en": "Deprecate",
+        "bn": "কোনো কিছুর প্রতি অসম্মতি প্রকাশ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "praise",
+        "bn": "প্রশংসা"
+      },
+      {
+        "en": "commend",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "blandishment",
+        "bn": "তোষামোদ"
+      },
+      {
+        "en": "Laud",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "Tout",
+        "bn": "প্রচার করা"
+      },
+      {
+        "en": "Acclaim",
+        "bn": "প্রকাশ্যে প্রশংসা করা"
+      },
+      {
+        "en": "Exalt",
+        "bn": "উচ্চ প্রশংসা করা"
+      }
+    ],
+    "example": "The manager reprimanded the employee for repeated lateness.",
+    "example_bn": "বারবার দেরি করার জন্য ব্যবস্থাপক কর্মীটিকে তিরস্কার করলেন।",
+    "examples": [
+      "The manager reprimanded the employee for repeated lateness. — বারবার দেরি করার জন্য ব্যবস্থাপক কর্মীটিকে তিরস্কার করলেন।",
+      "At dinner, she explained that 'reprimand' means 'an official or severe expression of disapproval', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘reprimand’ শব্দটির অর্থ—কঠোর তিরস্কার—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'reprimand' as 'an official or severe expression of disapproval' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘reprimand’ শব্দটি কঠোর তিরস্কার অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "reprisal",
+    "pronunciation_bn": "রিপ্রাইজাল",
+    "pronunciation": "/rɪˈpraɪ.zəl/",
+    "no": 690,
+    "group": 28,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "an act of retaliation against someone for a previous action",
+    "meaning_bn": [
+      "প্রতিশোধমূলক পদক্ষেপ",
+      "পাল্টা আক্রমণ"
+    ],
+    "synonyms": [
+      {
+        "en": "retaliation",
+        "bn": "প্রতিশোধ"
+      },
+      {
+        "en": "revenge",
+        "bn": "প্রতিশোধ"
+      },
+      {
+        "en": "counterattack",
+        "bn": "পাল্টা আক্রমণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "forgiveness",
+        "bn": "ক্ষমা"
+      },
+      {
+        "en": "conciliation",
+        "bn": "মীমাংসা"
+      },
+      {
+        "en": "Amnesty",
+        "bn": "সাধারণ ক্ষমা"
+      }
+    ],
+    "example": "The workers feared reprisals for reporting the safety violations.",
+    "example_bn": "নিরাপত্তাবিধি লঙ্ঘনের খবর দেওয়ায় শ্রমিকেরা প্রতিশোধমূলক পদক্ষেপের আশঙ্কা করছিলেন।",
+    "examples": [
+      "The workers feared reprisals for reporting the safety violations. — নিরাপত্তাবিধি লঙ্ঘনের খবর দেওয়ায় শ্রমিকেরা প্রতিশোধমূলক পদক্ষেপের আশঙ্কা করছিলেন।",
+      "At dinner, she explained that 'reprisal' means 'an act of retaliation against someone', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘reprisal’ শব্দটির অর্থ—প্রতিশোধমূলক পদক্ষেপ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'reprisal' as 'an act of retaliation against someone' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘reprisal’ শব্দটি প্রতিশোধমূলক পদক্ষেপ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "reprobate",
+    "pronunciation_bn": "রেপ্রোবেট",
+    "pronunciation": "/ˈrep.rə.beɪt/",
+    "no": 691,
+    "group": 28,
+    "pos": [
+      "noun",
+      "adjective",
+      "verb"
+    ],
+    "meaning_en": "a morally unprincipled person; morally depraved; to reject or condemn as unacceptable (formal/rare)",
+    "meaning_bn": [
+      "দুশ্চরিত্র বা নীতিহীন ব্যক্তি",
+      "নৈতিকভাবে অধঃপতিত",
+      "প্রত্যাখ্যান করা (দুর্লভ অর্থে)"
+    ],
+    "synonyms": [
+      {
+        "en": "scoundrel",
+        "bn": "দুর্বৃত্ত"
+      },
+      {
+        "en": "rogue",
+        "bn": "বদমাশ/দুর্বৃত্ত"
+      },
+      {
+        "en": "degenerate",
+        "bn": "নৈতিকভাবে অধঃপতিত ব্যক্তি"
+      },
+      {
+        "en": "Decadent",
+        "bn": "নৈতিকভাবে অধঃপতিত"
+      },
+      {
+        "en": "Atrophy",
+        "bn": "ক্ষয় হয়ে যাওয়া"
+      },
+      {
+        "en": "debase",
+        "bn": "মান বা মূল্য কমিয়ে দেওয়া"
+      },
+      {
+        "en": "degrade",
+        "bn": "অপমান করা"
+      },
+      {
+        "en": "Exacerbate",
+        "bn": "আরও খারাপ করে তোলা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "saint",
+        "bn": "সাধু ব্যক্তি"
+      },
+      {
+        "en": "upright person",
+        "bn": "সৎ ব্যক্তি"
+      },
+      {
+        "en": "Alleviate",
+        "bn": "উপশম করা"
+      },
+      {
+        "en": "Ameliorate",
+        "bn": "উন্নত করা"
+      },
+      {
+        "en": "Austere",
+        "bn": "সাদাসিধে ও অনাড়ম্বর"
+      },
+      {
+        "en": "crescendo",
+        "bn": "ক্রমশ শব্দ বা তীব্রতা বৃদ্ধি"
+      },
+      {
+        "en": "deign",
+        "bn": "নিজের মর্যাদার নিচু মনে করেও কিছু করতে সম্মত হওয়া"
+      }
+    ],
+    "example": "The novel portrays him as a charming but unrepentant reprobate.",
+    "example_bn": "উপন্যাসে তাকে আকর্ষণীয় কিন্তু অনুতাপহীন এক দুশ্চরিত্র ব্যক্তি হিসেবে দেখানো হয়েছে।",
+    "examples": [
+      "The novel portrays him as a charming but unrepentant reprobate. — উপন্যাসে তাকে আকর্ষণীয় কিন্তু অনুতাপহীন এক দুশ্চরিত্র ব্যক্তি হিসেবে দেখানো হয়েছে।",
+      "At dinner, she explained that 'reprobate' means 'a morally unprincipled person', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘reprobate’ শব্দটির অর্থ—দুশ্চরিত্র বা নীতিহীন ব্যক্তি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'reprobate' as 'a morally unprincipled person' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘reprobate’ শব্দটি দুশ্চরিত্র বা নীতিহীন ব্যক্তি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "repugnant",
+    "pronunciation_bn": "রিপাগন্যান্ট",
+    "pronunciation": "/rɪˈpʌɡ.nənt/",
+    "no": 692,
+    "group": 28,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "extremely unpleasant or unacceptable; causing strong dislike",
+    "meaning_bn": [
+      "ঘৃণ্য",
+      "অত্যন্ত অরুচিকর",
+      "তীব্রভাবে অগ্রহণযোগ্য"
+    ],
+    "synonyms": [
+      {
+        "en": "revolting",
+        "bn": "ঘৃণ্য"
+      },
+      {
+        "en": "offensive",
+        "bn": "আপত্তিকর"
+      },
+      {
+        "en": "abhorrent",
+        "bn": "ঘৃণাজনক"
+      },
+      {
+        "en": "noisome",
+        "bn": "দুর্গন্ধযুক্ত"
+      },
+      {
+        "en": "odious",
+        "bn": "ঘৃণ্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "acceptable",
+        "bn": "গ্রহণযোগ্য"
+      },
+      {
+        "en": "pleasant",
+        "bn": "মনোরম"
+      },
+      {
+        "en": "palatable",
+        "bn": "সুস্বাদু"
+      },
+      {
+        "en": "Congenial",
+        "bn": "মনোরম"
+      },
+      {
+        "en": "Innocuous",
+        "bn": "ক্ষতিহীন"
+      }
+    ],
+    "example": "The proposal was repugnant to her sense of fairness.",
+    "example_bn": "প্রস্তাবটি তার ন্যায়বোধের কাছে অত্যন্ত অগ্রহণযোগ্য মনে হয়েছিল।",
+    "examples": [
+      "The proposal was repugnant to her sense of fairness. — প্রস্তাবটি তার ন্যায়বোধের কাছে অত্যন্ত অগ্রহণযোগ্য মনে হয়েছিল।",
+      "At dinner, she explained that 'repugnant' means 'extremely unpleasant or unacceptable', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘repugnant’ শব্দটির অর্থ—ঘৃণ্য—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'repugnant' as 'extremely unpleasant or unacceptable' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘repugnant’ শব্দটি ঘৃণ্য অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "resignation",
+    "pronunciation_bn": "রেজিগনেইশন",
+    "pronunciation": "/ˌrez.ɪɡˈneɪ.ʃən/",
+    "no": 693,
+    "group": 28,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the act of leaving a job or position; acceptance of an unpleasant situation without protest",
+    "meaning_bn": [
+      "পদত্যাগ",
+      "নিরুপায়ভাবে মেনে নেওয়া",
+      "নীরব আত্মসমর্পণ"
+    ],
+    "synonyms": [
+      {
+        "en": "surrender",
+        "bn": "আত্মসমর্পণ"
+      },
+      {
+        "en": "acceptance",
+        "bn": "মেনে নেওয়া"
+      },
+      {
+        "en": "submission",
+        "bn": "বশ্যতা স্বীকার"
+      },
+      {
+        "en": "Deference",
+        "bn": "শ্রদ্ধাপূর্ণ আনুগত্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "resistance",
+        "bn": "প্রতিরোধ"
+      },
+      {
+        "en": "defiance",
+        "bn": "অবাধ্যতা/প্রতিবাদ"
+      },
+      {
+        "en": "Insurrection",
+        "bn": "বিদ্রোহ"
+      },
+      {
+        "en": "rout",
+        "bn": "সম্পূর্ণভাবে পরাজিত করা"
+      }
+    ],
+    "example": "She accepted the disappointing result with resignation.",
+    "example_bn": "সে হতাশাজনক ফলটি নিরুপায়ভাবে মেনে নিল।",
+    "examples": [
+      "She accepted the disappointing result with resignation. — সে হতাশাজনক ফলটি নিরুপায়ভাবে মেনে নিল।",
+      "At dinner, she explained that 'resignation' means 'the act of leaving a job or position', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘resignation’ শব্দটির অর্থ—পদত্যাগ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'resignation' as 'the act of leaving a job or position' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘resignation’ শব্দটি পদত্যাগ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "resplendent",
+    "pronunciation_bn": "রিসপ্লেনডেন্ট",
+    "pronunciation": "/rɪˈsplen.dənt/",
+    "no": 694,
+    "group": 28,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "shining brilliantly; splendid or dazzling in appearance",
+    "meaning_bn": [
+      "দীপ্তিমান",
+      "ঝলমলে",
+      "জাঁকজমকপূর্ণ"
+    ],
+    "synonyms": [
+      {
+        "en": "radiant",
+        "bn": "দীপ্তিময়"
+      },
+      {
+        "en": "dazzling",
+        "bn": "চকচকে"
+      },
+      {
+        "en": "brilliant",
+        "bn": "উজ্জ্বল"
+      },
+      {
+        "en": "Incandescent",
+        "bn": "তাপে দীপ্তিমান"
+      },
+      {
+        "en": "Luminous",
+        "bn": "দীপ্তিমান"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "dull",
+        "bn": "অনুজ্জ্বল"
+      },
+      {
+        "en": "drab",
+        "bn": "নীরস/বর্ণহীন"
+      },
+      {
+        "en": "bland",
+        "bn": "মৃদু"
+      },
+      {
+        "en": "Bovine",
+        "bn": "গবাদি পশু বা গরুসংক্রান্ত"
+      },
+      {
+        "en": "Insipid",
+        "bn": "বিস্বাদ"
+      },
+      {
+        "en": "Obtuse",
+        "bn": "বুদ্ধিতে ধীর"
+      },
+      {
+        "en": "Prosaic",
+        "bn": "সাদামাটা"
+      }
+    ],
+    "example": "The palace looked resplendent under the festival lights.",
+    "example_bn": "উৎসবের আলোয় প্রাসাদটি ঝলমল করছিল।",
+    "examples": [
+      "The palace looked resplendent under the festival lights. — উৎসবের আলোয় প্রাসাদটি ঝলমল করছিল।",
+      "At dinner, she explained that 'resplendent' means 'shining brilliantly', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘resplendent’ শব্দটির অর্থ—দীপ্তিমান—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'resplendent' as 'shining brilliantly' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘resplendent’ শব্দটি দীপ্তিমান অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "resurrection",
+    "pronunciation_bn": "রেজারেকশন",
+    "pronunciation": "/ˌrez.ərˈek.ʃən/",
+    "no": 695,
+    "group": 28,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the act of coming back to life; the revival of something that had disappeared or ended",
+    "meaning_bn": [
+      "পুনরুত্থান",
+      "পুনরুজ্জীবন",
+      "আবার জীবিত বা সক্রিয় হয়ে ওঠা"
+    ],
+    "synonyms": [
+      {
+        "en": "revival",
+        "bn": "পুনরুজ্জীবন"
+      },
+      {
+        "en": "reawakening",
+        "bn": "পুনর্জাগরণ"
+      },
+      {
+        "en": "renewal",
+        "bn": "নবায়ন"
+      },
+      {
+        "en": "Renaissance",
+        "bn": "নবজাগরণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "demise",
+        "bn": "মৃত্যু/অবসান"
+      },
+      {
+        "en": "decline",
+        "bn": "অবনতি"
+      },
+      {
+        "en": "Degenerate",
+        "bn": "অবনতি হওয়া"
+      },
+      {
+        "en": "wane",
+        "bn": "কমে যাওয়া"
+      }
+    ],
+    "example": "The restoration brought about a resurrection of the historic theatre.",
+    "example_bn": "সংস্কারের ফলে ঐতিহাসিক থিয়েটারটি নতুন করে প্রাণ ফিরে পেল।",
+    "examples": [
+      "The restoration brought about a resurrection of the historic theatre. — সংস্কারের ফলে ঐতিহাসিক থিয়েটারটি নতুন করে প্রাণ ফিরে পেল।",
+      "At dinner, she explained that 'resurrection' means 'the act of coming back to life', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘resurrection’ শব্দটির অর্থ—পুনরুত্থান—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'resurrection' as 'the act of coming back to life' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘resurrection’ শব্দটি পুনরুত্থান অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "retort",
+    "pronunciation_bn": "রিটর্ট",
+    "pronunciation": "/rɪˈtɔːt/",
+    "no": 696,
+    "group": 28,
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "meaning_en": "to reply quickly and sharply; a sharp or witty reply",
+    "meaning_bn": [
+      "তীক্ষ্ণ জবাব দেওয়া",
+      "ঝাঁঝালো পাল্টা জবাব"
+    ],
+    "synonyms": [
+      {
+        "en": "reply sharply",
+        "bn": "তীক্ষ্ণভাবে জবাব দেওয়া"
+      },
+      {
+        "en": "counter",
+        "bn": "পাল্টা জবাব দেওয়া"
+      },
+      {
+        "en": "rejoinder",
+        "bn": "পাল্টা উত্তর"
+      },
+      {
+        "en": "sally",
+        "bn": "আকস্মিক আক্রমণ"
+      },
+      {
+        "en": "repartee",
+        "bn": "তাৎক্ষণিক বুদ্ধিদীপ্ত জবাব"
+      },
+      {
+        "en": "Recrimination",
+        "bn": "পাল্টা অভিযোগ"
+      },
+      {
+        "en": "banter",
+        "bn": "রসিকতাপূর্ণ কথাবার্তা"
+      },
+      {
+        "en": "foray",
+        "bn": "নতুন কোনো কাজে স্বল্পমেয়াদি উদ্যোগ"
+      },
+      {
+        "en": "Rebut",
+        "bn": "খণ্ডন করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "concede",
+        "bn": "মেনে নেওয়া"
+      },
+      {
+        "en": "agree",
+        "bn": "একমত হওয়া"
+      },
+      {
+        "en": "Accede",
+        "bn": "সম্মত হওয়া"
+      },
+      {
+        "en": "Amnesty",
+        "bn": "সাধারণ ক্ষমা"
+      },
+      {
+        "en": "Avow",
+        "bn": "প্রকাশ্যে ঘোষণা করা"
+      },
+      {
+        "en": "exodus",
+        "bn": "গণপ্রস্থান"
+      },
+      {
+        "en": "Gravity",
+        "bn": "গাম্ভীর্য"
+      }
+    ],
+    "example": "“That is not what I said,” she retorted.",
+    "example_bn": "“আমি তা বলিনি,” সে তীক্ষ্ণভাবে জবাব দিল।",
+    "examples": [
+      "“That is not what I said,” she retorted. — “আমি তা বলিনি,” সে তীক্ষ্ণভাবে জবাব দিল।",
+      "At dinner, she explained that 'retort' means 'to reply quickly and sharply', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘retort’ শব্দটির অর্থ—তীক্ষ্ণ জবাব দেওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'retort' as 'to reply quickly and sharply' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘retort’ শব্দটি তীক্ষ্ণ জবাব দেওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "retrospect",
+    "pronunciation_bn": "রেট্রোস্পেক্ট",
+    "pronunciation": "/ˈret.rə.spekt/",
+    "no": 697,
+    "group": 28,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a review or consideration of past events; usually used in the phrase 'in retrospect'",
+    "meaning_bn": [
+      "অতীতের দিকে ফিরে দেখা",
+      "অতীত পর্যালোচনা"
+    ],
+    "synonyms": [
+      {
+        "en": "review",
+        "bn": "পর্যালোচনা"
+      },
+      {
+        "en": "reflection",
+        "bn": "চিন্তাভাবনা/পুনর্বিবেচনা"
+      },
+      {
+        "en": "hindsight",
+        "bn": "অতীতের অভিজ্ঞতা থেকে উপলব্ধি"
+      },
+      {
+        "en": "critique",
+        "bn": "সমালোচনামূলক বিশ্লেষণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "foresight",
+        "bn": "দূরদর্শিতা"
+      },
+      {
+        "en": "anticipation",
+        "bn": "পূর্বানুমান"
+      }
+    ],
+    "example": "In retrospect, we should have checked the figures more carefully.",
+    "example_bn": "পেছন ফিরে দেখলে বোঝা যায়, আমাদের সংখ্যাগুলো আরও সতর্কভাবে যাচাই করা উচিত ছিল।",
+    "examples": [
+      "In retrospect, we should have checked the figures more carefully. — পেছন ফিরে দেখলে বোঝা যায়, আমাদের সংখ্যাগুলো আরও সতর্কভাবে যাচাই করা উচিত ছিল।",
+      "At dinner, she explained that 'retrospect' means 'a review or consideration of past events', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘retrospect’ শব্দটির অর্থ—অতীতের দিকে ফিরে দেখা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'retrospect' as 'a review or consideration of past events' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘retrospect’ শব্দটি অতীতের দিকে ফিরে দেখা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "revamp",
+    "pronunciation_bn": "রিভ্যাম্প",
+    "pronunciation": "/ˌriːˈvæmp/",
+    "no": 698,
+    "group": 28,
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "meaning_en": "to improve or renew something by making major changes; a major renovation or redesign",
+    "meaning_bn": [
+      "নতুন করে সাজানো",
+      "সংস্কার বা পুনর্গঠন করা",
+      "নতুন রূপ দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "renovate",
+        "bn": "সংস্কার করা"
+      },
+      {
+        "en": "overhaul",
+        "bn": "আমূল পরিবর্তন করা"
+      },
+      {
+        "en": "redesign",
+        "bn": "নতুন নকশা করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "neglect",
+        "bn": "অবহেলা করা"
+      },
+      {
+        "en": "damage",
+        "bn": "ক্ষতি করা"
+      }
+    ],
+    "example": "The school plans to revamp its science laboratories.",
+    "example_bn": "বিদ্যালয়টি তার বিজ্ঞানাগারগুলো নতুন করে সাজানোর পরিকল্পনা করেছে।",
+    "examples": [
+      "The school plans to revamp its science laboratories. — বিদ্যালয়টি তার বিজ্ঞানাগারগুলো নতুন করে সাজানোর পরিকল্পনা করেছে।",
+      "At dinner, she explained that 'revamp' means 'to improve or renew something by making major', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘revamp’ শব্দটির অর্থ—নতুন করে সাজানো—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'revamp' as 'to improve or renew something by making major' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘revamp’ শব্দটি নতুন করে সাজানো অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "revel",
+    "pronunciation_bn": "রেভেল",
+    "pronunciation": "/ˈrev.əl/",
+    "no": 699,
+    "group": 28,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to take great pleasure in something; to enjoy oneself noisily at a celebration",
+    "meaning_bn": [
+      "প্রাণভরে উপভোগ করা",
+      "আনন্দে মেতে ওঠা"
+    ],
+    "synonyms": [
+      {
+        "en": "delight in",
+        "bn": "আনন্দ পাওয়া"
+      },
+      {
+        "en": "rejoice",
+        "bn": "আনন্দ করা"
+      },
+      {
+        "en": "enjoy",
+        "bn": "উপভোগ করা"
+      },
+      {
+        "en": "Exult",
+        "bn": "উল্লাস করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "lament",
+        "bn": "শোক করা"
+      },
+      {
+        "en": "dislike",
+        "bn": "অপছন্দ করা"
+      },
+      {
+        "en": "bemoan",
+        "bn": "শোক প্রকাশ করা"
+      },
+      {
+        "en": "begrudge",
+        "bn": "অন্যের প্রাপ্তিতে ঈর্ষা বা ক্ষোভ অনুভব করা"
+      },
+      {
+        "en": "rue",
+        "bn": "অনুতাপ করা"
+      },
+      {
+        "en": "deplore",
+        "bn": "তীব্র নিন্দা করা"
+      }
+    ],
+    "example": "She reveled in the success of her students.",
+    "example_bn": "সে তার শিক্ষার্থীদের সাফল্যে আনন্দে মেতে উঠল।",
+    "examples": [
+      "She reveled in the success of her students. — সে তার শিক্ষার্থীদের সাফল্যে আনন্দে মেতে উঠল।",
+      "At dinner, she explained that 'revel' means 'to take great pleasure in something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘revel’ শব্দটির অর্থ—প্রাণভরে উপভোগ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'revel' as 'to take great pleasure in something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘revel’ শব্দটি প্রাণভরে উপভোগ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "revile",
+    "pronunciation_bn": "রিভাইল",
+    "pronunciation": "/rɪˈvaɪl/",
+    "no": 700,
+    "group": 28,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to criticize or insult someone abusively; to speak about someone with contempt",
+    "meaning_bn": [
+      "গালাগাল করা",
+      "তীব্রভাবে নিন্দা করা",
+      "অপমানজনক কথা বলা"
+    ],
+    "synonyms": [
+      {
+        "en": "vilify",
+        "bn": "কুৎসা রটানো"
+      },
+      {
+        "en": "abuse",
+        "bn": "গালাগাল করা"
+      },
+      {
+        "en": "berate",
+        "bn": "কঠোরভাবে ভর্ৎসনা করা"
+      },
+      {
+        "en": "Defame",
+        "bn": "মানহানি করা"
+      },
+      {
+        "en": "Slander",
+        "bn": "মিথ্যা মৌখিক অপবাদ দেওয়া"
+      },
+      {
+        "en": "Castigate",
+        "bn": "কঠোরভাবে সমালোচনা করা"
+      },
+      {
+        "en": "Libel",
+        "bn": "লিখিত বা প্রকাশিত মানহানিকর মিথ্যা বক্তব্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "praise",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "commend",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "laud",
+        "bn": "স্তুতি করা"
+      },
+      {
+        "en": "Acclaim",
+        "bn": "প্রকাশ্যে প্রশংসা করা"
+      },
+      {
+        "en": "Exalt",
+        "bn": "উচ্চ প্রশংসা করা"
+      },
+      {
+        "en": "Extol",
+        "bn": "ভূয়সী প্রশংসা করা"
+      },
+      {
+        "en": "Tout",
+        "bn": "প্রচার করা"
+      },
+      {
+        "en": "Exonerate",
+        "bn": "দোষমুক্ত করা"
+      }
+    ],
+    "example": "The columnist was reviled for spreading false accusations.",
+    "example_bn": "মিথ্যা অভিযোগ ছড়ানোর জন্য কলাম লেখককে তীব্রভাবে নিন্দা করা হয়েছিল।",
+    "examples": [
+      "The columnist was reviled for spreading false accusations. — মিথ্যা অভিযোগ ছড়ানোর জন্য কলাম লেখককে তীব্রভাবে নিন্দা করা হয়েছিল।",
+      "At dinner, she explained that 'revile' means 'to criticize or insult someone abusively', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘revile’ শব্দটির অর্থ—গালাগাল করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'revile' as 'to criticize or insult someone abusively' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘revile’ শব্দটি গালাগাল করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

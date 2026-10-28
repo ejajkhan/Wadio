@@ -1,0 +1,1959 @@
+[
+  {
+    "word": "discrepancy",
+    "pronunciation_bn": "ডিসক্রেপ্যান্সি",
+    "pronunciation": "/dɪˈskrepənsi/",
+    "no": 301,
+    "group": 13,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a difference between two things that should be the same; a lack of consistency",
+    "meaning_bn": [
+      "অমিল",
+      "অসামঞ্জস্য",
+      "পার্থক্য"
+    ],
+    "synonyms": [
+      {
+        "en": "difference",
+        "bn": "পার্থক্য"
+      },
+      {
+        "en": "inconsistency",
+        "bn": "অসামঞ্জস্য"
+      },
+      {
+        "en": "disparity",
+        "bn": "বৈষম্য"
+      },
+      {
+        "en": "Paradox",
+        "bn": "আপাতদৃষ্টিতে স্ববিরোধী বক্তব্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "agreement",
+        "bn": "মিল"
+      },
+      {
+        "en": "consistency",
+        "bn": "সামঞ্জস্য"
+      },
+      {
+        "en": "accord",
+        "bn": "ঐক্য"
+      },
+      {
+        "en": "compromise",
+        "bn": "আপস"
+      },
+      {
+        "en": "Concord",
+        "bn": "সম্প্রীতি"
+      },
+      {
+        "en": "Consensus",
+        "bn": "সাধারণ ঐকমত্য"
+      },
+      {
+        "en": "Covenant",
+        "bn": "আনুষ্ঠানিক চুক্তি"
+      },
+      {
+        "en": "Analogy",
+        "bn": "উপমা"
+      }
+    ],
+    "example": "There was a discrepancy between the figures in the two reports.",
+    "example_bn": "দুটি প্রতিবেদনের পরিসংখ্যানে অমিল ছিল।",
+    "examples": [
+      "There was a discrepancy between the figures in the two reports. — দুটি প্রতিবেদনের পরিসংখ্যানে অমিল ছিল।",
+      "At dinner, she explained that 'discrepancy' means 'a difference between two things that should be', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘discrepancy’ শব্দটির অর্থ—অমিল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'discrepancy' as 'a difference between two things that should be' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘discrepancy’ শব্দটি অমিল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "discursive",
+    "pronunciation_bn": "ডিসকার্সিভ",
+    "pronunciation": "/dɪˈskɜːsɪv/",
+    "no": 302,
+    "group": 13,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "moving from one topic to another, often in a way that is not well organized",
+    "meaning_bn": [
+      "প্রসঙ্গান্তরপ্রবণ",
+      "বিষয় থেকে বিষয়ে ঘুরে বেড়ায় এমন",
+      "অসংলগ্ন"
+    ],
+    "synonyms": [
+      {
+        "en": "digressive",
+        "bn": "প্রসঙ্গান্তরপ্রবণ"
+      },
+      {
+        "en": "rambling",
+        "bn": "এলোমেলোভাবে দীর্ঘায়িত"
+      },
+      {
+        "en": "wandering",
+        "bn": "বিষয়ান্তরে চলে যায় এমন"
+      },
+      {
+        "en": "Itinerant",
+        "bn": "ভ্রাম্যমাণ"
+      },
+      {
+        "en": "Peripatetic",
+        "bn": "ভ্রাম্যমাণ"
+      },
+      {
+        "en": "nomadic",
+        "bn": "যাযাবর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "focused",
+        "bn": "মনোযোগী"
+      },
+      {
+        "en": "coherent",
+        "bn": "সুসংবদ্ধ"
+      },
+      {
+        "en": "concise",
+        "bn": "সংক্ষিপ্ত ও সুসংহত"
+      },
+      {
+        "en": "Laconic",
+        "bn": "অল্পভাষী"
+      },
+      {
+        "en": "Succinct",
+        "bn": "সংক্ষিপ্ত ও স্পষ্ট"
+      },
+      {
+        "en": "Terse",
+        "bn": "সংক্ষিপ্ত"
+      },
+      {
+        "en": "compatible",
+        "bn": "সামঞ্জস্যপূর্ণ"
+      },
+      {
+        "en": "Congenial",
+        "bn": "মনোরম"
+      }
+    ],
+    "example": "His discursive lecture covered far more topics than the students expected.",
+    "example_bn": "তার প্রসঙ্গান্তরপ্রবণ বক্তৃতায় শিক্ষার্থীদের প্রত্যাশার চেয়ে অনেক বেশি বিষয় উঠে এসেছিল।",
+    "examples": [
+      "His discursive lecture covered far more topics than the students expected. — তার প্রসঙ্গান্তরপ্রবণ বক্তৃতায় শিক্ষার্থীদের প্রত্যাশার চেয়ে অনেক বেশি বিষয় উঠে এসেছিল।",
+      "At dinner, she explained that 'discursive' means 'moving from one topic to another, often', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘discursive’ শব্দটির অর্থ—প্রসঙ্গান্তরপ্রবণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'discursive' as 'moving from one topic to another, often' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘discursive’ শব্দটি প্রসঙ্গান্তরপ্রবণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "disgruntle",
+    "pronunciation_bn": "ডিসগ্রান্টল",
+    "pronunciation": "/dɪsˈɡrʌntl/",
+    "no": 303,
+    "group": 13,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to make someone dissatisfied or annoyed",
+    "meaning_bn": [
+      "অসন্তুষ্ট করা",
+      "বিরক্ত করে তোলা"
+    ],
+    "synonyms": [
+      {
+        "en": "discontent",
+        "bn": "অসন্তুষ্ট করা"
+      },
+      {
+        "en": "annoy",
+        "bn": "বিরক্ত করা"
+      },
+      {
+        "en": "displease",
+        "bn": "অসন্তুষ্ট করা"
+      },
+      {
+        "en": "disaffect",
+        "bn": "অসন্তুষ্ট করে তোলা"
+      },
+      {
+        "en": "Alienate",
+        "bn": "বিচ্ছিন্ন করে দেওয়া"
+      },
+      {
+        "en": "Exasperate",
+        "bn": "ভীষণ বিরক্ত করা"
+      },
+      {
+        "en": "Vex",
+        "bn": "বিরক্ত করা"
+      },
+      {
+        "en": "estrange",
+        "bn": "সম্পর্কে দূরত্ব সৃষ্টি করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "satisfy",
+        "bn": "সন্তুষ্ট করা"
+      },
+      {
+        "en": "please",
+        "bn": "খুশি করা"
+      },
+      {
+        "en": "appease",
+        "bn": "শান্ত বা সন্তুষ্ট করা"
+      },
+      {
+        "en": "Prepossess",
+        "bn": "আগেই অনুকূল ধারণা সৃষ্টি করা"
+      },
+      {
+        "en": "fawn",
+        "bn": "তোষামোদ করা"
+      },
+      {
+        "en": "Mediate",
+        "bn": "দুই ব্যক্তি বা পক্ষের মধ্যে হস্তক্ষেপ করে সমঝোতায় পৌঁছাতে সাহায্য করা"
+      },
+      {
+        "en": "Mollify",
+        "bn": "রাগান্বিত বা বিচলিত কাউকে শান্ত করা"
+      },
+      {
+        "en": "Pacify",
+        "bn": "শান্ত করা"
+      }
+    ],
+    "example": "The sudden pay cut disgruntled many employees.",
+    "example_bn": "হঠাৎ বেতন কমিয়ে দেওয়ায় অনেক কর্মী অসন্তুষ্ট হয়ে পড়েন।",
+    "examples": [
+      "The sudden pay cut disgruntled many employees. — হঠাৎ বেতন কমিয়ে দেওয়ায় অনেক কর্মী অসন্তুষ্ট হয়ে পড়েন।",
+      "At dinner, she explained that 'disgruntle' means 'to make someone dissatisfied or annoyed', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘disgruntle’ শব্দটির অর্থ—অসন্তুষ্ট করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'disgruntle' as 'to make someone dissatisfied or annoyed' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘disgruntle’ শব্দটি অসন্তুষ্ট করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "dismal",
+    "pronunciation_bn": "ডিজমাল",
+    "pronunciation": "/ˈdɪzməl/",
+    "no": 304,
+    "group": 13,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "causing or showing sadness; gloomy; also, very poor or unsuccessful",
+    "meaning_bn": [
+      "বিষণ্ণ",
+      "নিরানন্দ",
+      "হতাশাজনক",
+      "খুব খারাপ"
+    ],
+    "synonyms": [
+      {
+        "en": "gloomy",
+        "bn": "বিষণ্ণ"
+      },
+      {
+        "en": "dreary",
+        "bn": "নিরানন্দ"
+      },
+      {
+        "en": "miserable",
+        "bn": "দুঃখজনক"
+      },
+      {
+        "en": "Abject",
+        "bn": "চরম শোচনীয়"
+      },
+      {
+        "en": "Lugubrious",
+        "bn": "অত্যন্ত বিষণ্ণ"
+      },
+      {
+        "en": "Morose",
+        "bn": "অসুখী, বিষণ্ণ ও খিটখিটে মেজাজের"
+      },
+      {
+        "en": "dour",
+        "bn": "গম্ভীর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "cheerful",
+        "bn": "প্রফুল্ল"
+      },
+      {
+        "en": "bright",
+        "bn": "উজ্জ্বল"
+      },
+      {
+        "en": "promising",
+        "bn": "আশাব্যঞ্জক"
+      },
+      {
+        "en": "Auspicious",
+        "bn": "শুভ"
+      },
+      {
+        "en": "Convivial",
+        "bn": "আনন্দময়"
+      },
+      {
+        "en": "Ebullient",
+        "bn": "উচ্ছ্বসিত"
+      },
+      {
+        "en": "Blithe",
+        "bn": "প্রফুল্ল ও নিশ্চিন্ত"
+      }
+    ],
+    "example": "The team gave a dismal performance in the final match.",
+    "example_bn": "ফাইনাল ম্যাচে দলটি অত্যন্ত হতাশাজনক পারফরম্যান্স দেখিয়েছিল।",
+    "examples": [
+      "The team gave a dismal performance in the final match. — ফাইনাল ম্যাচে দলটি অত্যন্ত হতাশাজনক পারফরম্যান্স দেখিয়েছিল।",
+      "At dinner, she explained that 'dismal' means 'causing or showing sadness', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘dismal’ শব্দটির অর্থ—বিষণ্ণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'dismal' as 'causing or showing sadness' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘dismal’ শব্দটি বিষণ্ণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "dismay",
+    "pronunciation_bn": "ডিসমেই",
+    "pronunciation": "/dɪsˈmeɪ/",
+    "no": 305,
+    "group": 13,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "(noun) a feeling of shock, worry, or disappointment; (verb) to cause such a feeling",
+    "meaning_bn": [
+      "হতাশা",
+      "আতঙ্ক বা উদ্বেগ",
+      "হতাশ বা বিচলিত করা"
+    ],
+    "synonyms": [
+      {
+        "en": "distress",
+        "bn": "মানসিক কষ্ট"
+      },
+      {
+        "en": "alarm",
+        "bn": "আতঙ্কিত করা"
+      },
+      {
+        "en": "discourage",
+        "bn": "মনোবল ভেঙে দেওয়া"
+      },
+      {
+        "en": "consternation",
+        "bn": "আতঙ্ক"
+      },
+      {
+        "en": "Affliction",
+        "bn": "দুর্দশা"
+      },
+      {
+        "en": "Anguish",
+        "bn": "তীব্র যন্ত্রণা"
+      },
+      {
+        "en": "Aggrieve",
+        "bn": "অন্যায় আচরণে কষ্ট দেওয়া"
+      },
+      {
+        "en": "Daunt",
+        "bn": "ভীত করা"
+      },
+      {
+        "en": "dispirit",
+        "bn": "হতাশ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "delight",
+        "bn": "আনন্দিত করা"
+      },
+      {
+        "en": "reassure",
+        "bn": "আশ্বস্ত করা"
+      },
+      {
+        "en": "encourage",
+        "bn": "উৎসাহিত করা"
+      },
+      {
+        "en": "Abet",
+        "bn": "অন্যায় কাজে সহায়তা করা"
+      },
+      {
+        "en": "Exhort",
+        "bn": "জোরালোভাবে অনুরোধ করা"
+      },
+      {
+        "en": "Cajole",
+        "bn": "তোষামোদ করে রাজি করানো"
+      },
+      {
+        "en": "Foment",
+        "bn": "উসকে দেওয়া"
+      },
+      {
+        "en": "Proselytize",
+        "bn": "কাউকে অন্য ধর্ম, রাজনৈতিক বিশ্বাস বা জীবনধারা গ্রহণে প্রভাবিত বা রাজি করানোর চেষ্টা করা"
+      }
+    ],
+    "example": "To her dismay, the train had already left.",
+    "example_bn": "তার হতাশার কারণ হলো, ট্রেনটি ইতিমধ্যেই চলে গিয়েছিল।",
+    "examples": [
+      "To her dismay, the train had already left. — তার হতাশার কারণ হলো, ট্রেনটি ইতিমধ্যেই চলে গিয়েছিল।",
+      "At dinner, she explained that 'dismay' means '(noun) a feeling of shock, worry, or disappointment', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘dismay’ শব্দটির অর্থ—হতাশা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'dismay' as '(noun) a feeling of shock, worry, or disappointment' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘dismay’ শব্দটি হতাশা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "dispassionate",
+    "pronunciation_bn": "ডিসপ্যাশনেট",
+    "pronunciation": "/dɪsˈpæʃənət/",
+    "no": 306,
+    "group": 13,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "not influenced by strong feelings; impartial and calm",
+    "meaning_bn": [
+      "আবেগমুক্ত",
+      "নিরপেক্ষ",
+      "শান্ত ও পক্ষপাতহীন"
+    ],
+    "synonyms": [
+      {
+        "en": "impartial",
+        "bn": "নিরপেক্ষ"
+      },
+      {
+        "en": "objective",
+        "bn": "বস্তুনিষ্ঠ"
+      },
+      {
+        "en": "unemotional",
+        "bn": "আবেগহীন"
+      },
+      {
+        "en": "Disinterested",
+        "bn": "নিরপেক্ষ"
+      },
+      {
+        "en": "Egalitarian",
+        "bn": "সাম্যবাদী"
+      },
+      {
+        "en": "Equitable",
+        "bn": "ন্যায়সংগত"
+      },
+      {
+        "en": "Stoic",
+        "bn": "কষ্টেও আবেগ প্রকাশ করে না এমন"
+      },
+      {
+        "en": "Indifferent",
+        "bn": "উদাসীন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "biased",
+        "bn": "পক্ষপাতদুষ্ট"
+      },
+      {
+        "en": "emotional",
+        "bn": "আবেগপ্রবণ"
+      },
+      {
+        "en": "passionate",
+        "bn": "আবেগপূর্ণ"
+      },
+      {
+        "en": "Amorous",
+        "bn": "প্রেমাসক্ত"
+      },
+      {
+        "en": "Ardent",
+        "bn": "প্রগাঢ় আবেগপূর্ণ"
+      },
+      {
+        "en": "Histrionic",
+        "bn": "অতিনাটকীয়"
+      },
+      {
+        "en": "Vehement",
+        "bn": "তীব্র"
+      },
+      {
+        "en": "Partisan",
+        "bn": "কোনো পক্ষ বা দলের একনিষ্ঠ সমর্থক"
+      }
+    ],
+    "example": "The investigator made a dispassionate assessment of the evidence.",
+    "example_bn": "তদন্তকারী প্রমাণগুলোর নিরপেক্ষ মূল্যায়ন করেছিলেন।",
+    "examples": [
+      "The investigator made a dispassionate assessment of the evidence. — তদন্তকারী প্রমাণগুলোর নিরপেক্ষ মূল্যায়ন করেছিলেন।",
+      "At dinner, she explained that 'dispassionate' means 'not influenced by strong feelings', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘dispassionate’ শব্দটির অর্থ—আবেগমুক্ত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'dispassionate' as 'not influenced by strong feelings' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘dispassionate’ শব্দটি আবেগমুক্ত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "disperse",
+    "pronunciation_bn": "ডিসপার্স",
+    "pronunciation": "/dɪˈspɜːs/",
+    "no": 307,
+    "group": 13,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to spread or scatter in different directions; to cause a group to separate",
+    "meaning_bn": [
+      "ছড়িয়ে পড়া",
+      "ছড়িয়ে দেওয়া",
+      "ছত্রভঙ্গ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "scatter",
+        "bn": "ছড়িয়ে দেওয়া"
+      },
+      {
+        "en": "spread",
+        "bn": "বিস্তৃত করা"
+      },
+      {
+        "en": "dissipate",
+        "bn": "ছড়িয়ে বা মিলিয়ে দেওয়া"
+      },
+      {
+        "en": "rout",
+        "bn": "সম্পূর্ণভাবে পরাজিত করা"
+      },
+      {
+        "en": "diffuse",
+        "bn": "ছড়িয়ে পড়া"
+      },
+      {
+        "en": "Disseminate",
+        "bn": "ছড়িয়ে দেওয়া"
+      },
+      {
+        "en": "Squander",
+        "bn": "অপচয় করা"
+      },
+      {
+        "en": "Atrophy",
+        "bn": "ক্ষয় হয়ে যাওয়া"
+      },
+      {
+        "en": "Intersperse",
+        "bn": "মাঝে মাঝে ছড়িয়ে দেওয়া"
+      },
+      {
+        "en": "Inundate",
+        "bn": "প্লাবিত করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "gather",
+        "bn": "জড়ো করা"
+      },
+      {
+        "en": "assemble",
+        "bn": "একত্র করা"
+      },
+      {
+        "en": "concentrate",
+        "bn": "কেন্দ্রীভূত করা"
+      },
+      {
+        "en": "compile",
+        "bn": "সংকলন করা"
+      },
+      {
+        "en": "Marshal",
+        "bn": "সুশৃঙ্খলভাবে সাজানো"
+      },
+      {
+        "en": "deploy",
+        "bn": "কৌশলগতভাবে সেনা বা সরঞ্জাম মোতায়েন করা"
+      },
+      {
+        "en": "Garner",
+        "bn": "সংগ্রহ করা"
+      },
+      {
+        "en": "muster",
+        "bn": "সমবেত করা"
+      },
+      {
+        "en": "Amass",
+        "bn": "জমা করা"
+      },
+      {
+        "en": "convene",
+        "bn": "সভা আহ্বান করা"
+      },
+      {
+        "en": "queue",
+        "bn": "সারি"
+      },
+      {
+        "en": "Infer",
+        "bn": "অনুমান করা"
+      },
+      {
+        "en": "Accrue",
+        "bn": "সময়ের সঙ্গে জমা হওয়া"
+      },
+      {
+        "en": "Succumb",
+        "bn": "নতিস্বীকার করা"
+      },
+      {
+        "en": "Conjure",
+        "bn": "জাদুর মতো হাজির করা"
+      },
+      {
+        "en": "cull",
+        "bn": "বেছে নেওয়া"
+      }
+    ],
+    "example": "The crowd dispersed when the rain began.",
+    "example_bn": "বৃষ্টি শুরু হলে জনতা ছত্রভঙ্গ হয়ে যায়।",
+    "examples": [
+      "The crowd dispersed when the rain began. — বৃষ্টি শুরু হলে জনতা ছত্রভঙ্গ হয়ে যায়।",
+      "At dinner, she explained that 'disperse' means 'to spread or scatter in different directions', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘disperse’ শব্দটির অর্থ—ছড়িয়ে পড়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'disperse' as 'to spread or scatter in different directions' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘disperse’ শব্দটি ছড়িয়ে পড়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "dispirit",
+    "pronunciation_bn": "ডিসপিরিট",
+    "pronunciation": "/dɪˈspɪrɪt/",
+    "no": 308,
+    "group": 13,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to make someone lose enthusiasm, hope, or courage",
+    "meaning_bn": [
+      "হতাশ করা",
+      "মনোবল ভেঙে দেওয়া",
+      "নিরুৎসাহিত করা"
+    ],
+    "synonyms": [
+      {
+        "en": "discourage",
+        "bn": "নিরুৎসাহিত করা"
+      },
+      {
+        "en": "dishearten",
+        "bn": "মনোবল ভেঙে দেওয়া"
+      },
+      {
+        "en": "demoralize",
+        "bn": "মনোবল নষ্ট করা"
+      },
+      {
+        "en": "Daunt",
+        "bn": "ভীত করা"
+      },
+      {
+        "en": "dismay",
+        "bn": "হতাশা"
+      },
+      {
+        "en": "dissuade",
+        "bn": "কোনো কাজ থেকে বিরত থাকতে বোঝানো"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "encourage",
+        "bn": "উৎসাহিত করা"
+      },
+      {
+        "en": "inspire",
+        "bn": "অনুপ্রাণিত করা"
+      },
+      {
+        "en": "hearten",
+        "bn": "মনোবল বাড়ানো"
+      },
+      {
+        "en": "Abet",
+        "bn": "অন্যায় কাজে সহায়তা করা"
+      },
+      {
+        "en": "Exhort",
+        "bn": "জোরালোভাবে অনুরোধ করা"
+      },
+      {
+        "en": "Cajole",
+        "bn": "তোষামোদ করে রাজি করানো"
+      },
+      {
+        "en": "Foment",
+        "bn": "উসকে দেওয়া"
+      },
+      {
+        "en": "Proselytize",
+        "bn": "কাউকে অন্য ধর্ম, রাজনৈতিক বিশ্বাস বা জীবনধারা গ্রহণে প্রভাবিত বা রাজি করানোর চেষ্টা করা"
+      }
+    ],
+    "example": "Repeated setbacks did not dispirit the determined team.",
+    "example_bn": "বারবার বাধা এলেও তা দৃঢ়প্রতিজ্ঞ দলটির মনোবল ভাঙতে পারেনি।",
+    "examples": [
+      "Repeated setbacks did not dispirit the determined team. — বারবার বাধা এলেও তা দৃঢ়প্রতিজ্ঞ দলটির মনোবল ভাঙতে পারেনি।",
+      "At dinner, she explained that 'dispirit' means 'to make someone lose enthusiasm, hope, or courage', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘dispirit’ শব্দটির অর্থ—হতাশ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'dispirit' as 'to make someone lose enthusiasm, hope, or courage' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘dispirit’ শব্দটি হতাশ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "disposition",
+    "pronunciation_bn": "ডিসপোজিশন",
+    "pronunciation": "/ˌdɪspəˈzɪʃən/",
+    "no": 309,
+    "group": 13,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a person's usual character or mood; a tendency; the arrangement or placement of things",
+    "meaning_bn": [
+      "স্বভাব",
+      "মানসিক প্রবণতা",
+      "মনোভাব",
+      "বিন্যাস"
+    ],
+    "synonyms": [
+      {
+        "en": "temperament",
+        "bn": "মেজাজ বা স্বভাব"
+      },
+      {
+        "en": "inclination",
+        "bn": "প্রবণতা"
+      },
+      {
+        "en": "arrangement",
+        "bn": "বিন্যাস"
+      },
+      {
+        "en": "configuration",
+        "bn": "বিন্যাস"
+      },
+      {
+        "en": "Penchant",
+        "bn": "বিশেষ ঝোঁক"
+      },
+      {
+        "en": "Predilection",
+        "bn": "বিশেষ পছন্দ"
+      },
+      {
+        "en": "Propensity",
+        "bn": "স্বাভাবিক প্রবণতা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "aversion",
+        "bn": "অনাগ্রহ বা বিরাগ"
+      },
+      {
+        "en": "disinclination",
+        "bn": "অনিচ্ছা"
+      },
+      {
+        "en": "Antipathy",
+        "bn": "তীব্র অপছন্দ"
+      }
+    ],
+    "example": "Her cheerful disposition made new students feel welcome.",
+    "example_bn": "তার প্রফুল্ল স্বভাব নতুন শিক্ষার্থীদের স্বাচ্ছন্দ্য বোধ করাত।",
+    "examples": [
+      "Her cheerful disposition made new students feel welcome. — তার প্রফুল্ল স্বভাব নতুন শিক্ষার্থীদের স্বাচ্ছন্দ্য বোধ করাত।",
+      "At dinner, she explained that 'disposition' means 'a person's usual character or mood', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘disposition’ শব্দটির অর্থ—স্বভাব—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'disposition' as 'a person's usual character or mood' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘disposition’ শব্দটি স্বভাব অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "disproportionate",
+    "pronunciation_bn": "ডিসপ্রোপোরশনেট",
+    "pronunciation": "/ˌdɪsprəˈpɔːʃənət/",
+    "no": 310,
+    "group": 13,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "too large or too small in comparison with something else; not in the correct proportion",
+    "meaning_bn": [
+      "অনুপাতহীন",
+      "অসামঞ্জস্যপূর্ণ",
+      "তুলনায় অতিরিক্ত বা অপর্যাপ্ত"
+    ],
+    "synonyms": [
+      {
+        "en": "excessive",
+        "bn": "অতিরিক্ত"
+      },
+      {
+        "en": "unequal",
+        "bn": "অসম"
+      },
+      {
+        "en": "incommensurate",
+        "bn": "অনুপাতের সঙ্গে অসামঞ্জস্যপূর্ণ"
+      },
+      {
+        "en": "Inordinate",
+        "bn": "অতিরিক্ত"
+      },
+      {
+        "en": "exorbitant",
+        "bn": "অত্যধিক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "proportionate",
+        "bn": "অনুপাতসঙ্গত"
+      },
+      {
+        "en": "commensurate",
+        "bn": "সামঞ্জস্যপূর্ণ"
+      },
+      {
+        "en": "balanced",
+        "bn": "ভারসাম্যপূর্ণ"
+      },
+      {
+        "en": "Tantamount",
+        "bn": "সমতুল্য"
+      },
+      {
+        "en": "Reciprocal",
+        "bn": "পারস্পরিক"
+      },
+      {
+        "en": "Temperate",
+        "bn": "সংযমী"
+      }
+    ],
+    "example": "The penalty seemed disproportionate to the minor offence.",
+    "example_bn": "সামান্য অপরাধের তুলনায় শাস্তিটি অতিরিক্ত বলে মনে হয়েছিল।",
+    "examples": [
+      "The penalty seemed disproportionate to the minor offence. — সামান্য অপরাধের তুলনায় শাস্তিটি অতিরিক্ত বলে মনে হয়েছিল।",
+      "At dinner, she explained that 'disproportionate' means 'too large or too small in comparison', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘disproportionate’ শব্দটির অর্থ—অনুপাতহীন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'disproportionate' as 'too large or too small in comparison' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘disproportionate’ শব্দটি অনুপাতহীন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "disquiet",
+    "pronunciation_bn": "ডিসকোয়াইয়েট",
+    "pronunciation": "/dɪsˈkwaɪət/",
+    "no": 311,
+    "group": 13,
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "meaning_en": "(verb) to make someone anxious or uneasy; (noun) a feeling of worry or unease",
+    "meaning_bn": [
+      "উদ্বিগ্ন করা",
+      "অস্থির করা",
+      "উদ্বেগ",
+      "অস্বস্তি"
+    ],
+    "synonyms": [
+      {
+        "en": "unsettle",
+        "bn": "অস্থির করা"
+      },
+      {
+        "en": "trouble",
+        "bn": "উদ্বিগ্ন করা"
+      },
+      {
+        "en": "unease",
+        "bn": "অস্বস্তি"
+      },
+      {
+        "en": "Beleaguer",
+        "bn": "অবরোধ করা"
+      },
+      {
+        "en": "Beset",
+        "bn": "ঘিরে ফেলা"
+      },
+      {
+        "en": "discomfit",
+        "bn": "বিব্রত করা"
+      },
+      {
+        "en": "disconcert",
+        "bn": "বিচলিত করা"
+      },
+      {
+        "en": "Malaise",
+        "bn": "অস্বস্তি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "reassure",
+        "bn": "আশ্বস্ত করা"
+      },
+      {
+        "en": "comfort",
+        "bn": "সান্ত্বনা দেওয়া"
+      },
+      {
+        "en": "calm",
+        "bn": "শান্ত করা"
+      },
+      {
+        "en": "Amenity",
+        "bn": "সুযোগ-সুবিধা"
+      },
+      {
+        "en": "Habituate",
+        "bn": "অভ্যস্ত করানো"
+      },
+      {
+        "en": "solace",
+        "bn": "সান্ত্বনা"
+      }
+    ],
+    "example": "The lack of reliable information disquieted the residents.",
+    "example_bn": "নির্ভরযোগ্য তথ্যের অভাব বাসিন্দাদের উদ্বিগ্ন করে তুলেছিল।",
+    "examples": [
+      "The lack of reliable information disquieted the residents. — নির্ভরযোগ্য তথ্যের অভাব বাসিন্দাদের উদ্বিগ্ন করে তুলেছিল।",
+      "At dinner, she explained that 'disquiet' means '(verb) to make someone anxious or uneasy', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘disquiet’ শব্দটির অর্থ—উদ্বিগ্ন করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'disquiet' as '(verb) to make someone anxious or uneasy' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘disquiet’ শব্দটি উদ্বিগ্ন করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "dissemble",
+    "pronunciation_bn": "ডিসেম্বল",
+    "pronunciation": "/dɪˈsembl/",
+    "no": 312,
+    "group": 13,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to hide one's true feelings, intentions, or beliefs by pretending",
+    "meaning_bn": [
+      "প্রকৃত অনুভূতি বা উদ্দেশ্য গোপন করা",
+      "ভান করা",
+      "ছলনা করা"
+    ],
+    "synonyms": [
+      {
+        "en": "pretend",
+        "bn": "ভান করা"
+      },
+      {
+        "en": "feign",
+        "bn": "কৃত্রিমভাবে প্রকাশ করা"
+      },
+      {
+        "en": "disguise",
+        "bn": "আড়াল করা"
+      },
+      {
+        "en": "Belie",
+        "bn": "মিথ্যা ধারণা দেওয়া"
+      },
+      {
+        "en": "concoct",
+        "bn": "বিভিন্ন উপাদান মিশিয়ে তৈরি করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "reveal",
+        "bn": "প্রকাশ করা"
+      },
+      {
+        "en": "confess",
+        "bn": "স্বীকার করা"
+      },
+      {
+        "en": "disclose",
+        "bn": "ফাঁস করা"
+      },
+      {
+        "en": "divulge",
+        "bn": "প্রকাশ করা"
+      }
+    ],
+    "example": "He tried to dissemble his disappointment with a polite smile.",
+    "example_bn": "সে ভদ্র হাসির আড়ালে নিজের হতাশা লুকানোর চেষ্টা করেছিল।",
+    "examples": [
+      "He tried to dissemble his disappointment with a polite smile. — সে ভদ্র হাসির আড়ালে নিজের হতাশা লুকানোর চেষ্টা করেছিল।",
+      "At dinner, she explained that 'dissemble' means 'to hide one's true feelings, intentions, or beliefs', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘dissemble’ শব্দটির অর্থ—প্রকৃত অনুভূতি বা উদ্দেশ্য গোপন করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'dissemble' as 'to hide one's true feelings, intentions, or beliefs' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘dissemble’ শব্দটি প্রকৃত অনুভূতি বা উদ্দেশ্য গোপন করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "dissent",
+    "pronunciation_bn": "ডিসেন্ট",
+    "pronunciation": "/dɪˈsent/",
+    "no": 313,
+    "group": 13,
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "meaning_en": "(verb) to disagree with an opinion or decision; (noun) disagreement with an accepted view",
+    "meaning_bn": [
+      "অসম্মতি জানানো",
+      "মতভেদ প্রকাশ করা",
+      "ভিন্নমত"
+    ],
+    "synonyms": [
+      {
+        "en": "disagree",
+        "bn": "দ্বিমত পোষণ করা"
+      },
+      {
+        "en": "differ",
+        "bn": "মতভেদ হওয়া"
+      },
+      {
+        "en": "object",
+        "bn": "আপত্তি করা"
+      },
+      {
+        "en": "Heresy",
+        "bn": "ধর্মমতের বিরোধী মতবাদ"
+      },
+      {
+        "en": "demur",
+        "bn": "আপত্তি তোলা"
+      },
+      {
+        "en": "Remonstrate",
+        "bn": "প্রতিবাদ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "agree",
+        "bn": "একমত হওয়া"
+      },
+      {
+        "en": "assent",
+        "bn": "সম্মতি জানানো"
+      },
+      {
+        "en": "concur",
+        "bn": "একমত হওয়া"
+      },
+      {
+        "en": "Consensus",
+        "bn": "সাধারণ ঐকমত্য"
+      },
+      {
+        "en": "Accede",
+        "bn": "সম্মত হওয়া"
+      },
+      {
+        "en": "Accord",
+        "bn": "চুক্তি"
+      },
+      {
+        "en": "compromise",
+        "bn": "আপস"
+      },
+      {
+        "en": "concert",
+        "bn": "সম্মিলিত উদ্যোগ"
+      },
+      {
+        "en": "Concord",
+        "bn": "সম্প্রীতি"
+      }
+    ],
+    "example": "One member dissented from the committee's final decision.",
+    "example_bn": "কমিটির চূড়ান্ত সিদ্ধান্তের সঙ্গে একজন সদস্য দ্বিমত পোষণ করেছিলেন।",
+    "examples": [
+      "One member dissented from the committee's final decision. — কমিটির চূড়ান্ত সিদ্ধান্তের সঙ্গে একজন সদস্য দ্বিমত পোষণ করেছিলেন।",
+      "At dinner, she explained that 'dissent' means '(verb) to disagree with an opinion or decision', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘dissent’ শব্দটির অর্থ—অসম্মতি জানানো—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'dissent' as '(verb) to disagree with an opinion or decision' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘dissent’ শব্দটি অসম্মতি জানানো অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "disservice",
+    "pronunciation_bn": "ডিসার্ভিস",
+    "pronunciation": "/ˌdɪsˈsɜːvɪs/",
+    "no": 314,
+    "group": 13,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "an action that harms someone or does not help them",
+    "meaning_bn": [
+      "অপকার",
+      "ক্ষতিকর কাজ",
+      "অনিষ্ট"
+    ],
+    "synonyms": [
+      {
+        "en": "harm",
+        "bn": "ক্ষতি"
+      },
+      {
+        "en": "injury",
+        "bn": "ক্ষতি"
+      },
+      {
+        "en": "detriment",
+        "bn": "অপকার"
+      },
+      {
+        "en": "trauma",
+        "bn": "গভীর মানসিক আঘাত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "service",
+        "bn": "উপকার বা সেবা"
+      },
+      {
+        "en": "benefit",
+        "bn": "সুবিধা"
+      },
+      {
+        "en": "help",
+        "bn": "সাহায্য"
+      },
+      {
+        "en": "Avail",
+        "bn": "উপকারে আসা"
+      },
+      {
+        "en": "boon",
+        "bn": "আশীর্বাদস্বরূপ বিষয়"
+      },
+      {
+        "en": "Perquisite",
+        "bn": "চাকরির অতিরিক্ত সুবিধা"
+      },
+      {
+        "en": "Reparation",
+        "bn": "ক্ষতিপূরণ"
+      }
+    ],
+    "example": "By hiding the facts, you do the public a disservice.",
+    "example_bn": "তথ্য গোপন করে আপনি জনসাধারণের অপকার করছেন।",
+    "examples": [
+      "By hiding the facts, you do the public a disservice. — তথ্য গোপন করে আপনি জনসাধারণের অপকার করছেন।",
+      "At dinner, she explained that 'disservice' means 'an action that harms someone or does not', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘disservice’ শব্দটির অর্থ—অপকার—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'disservice' as 'an action that harms someone or does not' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘disservice’ শব্দটি অপকার অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "dissident",
+    "pronunciation_bn": "ডিসিডেন্ট",
+    "pronunciation": "/ˈdɪsɪdənt/",
+    "no": 315,
+    "group": 13,
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "meaning_en": "(noun) a person who publicly disagrees with an established political or religious system; (adjective) expressing such disagreement",
+    "meaning_bn": [
+      "ভিন্নমতাবলম্বী ব্যক্তি",
+      "প্রতিষ্ঠিত মতের বিরোধী"
+    ],
+    "synonyms": [
+      {
+        "en": "opponent",
+        "bn": "বিরোধী"
+      },
+      {
+        "en": "dissenting person",
+        "bn": "ভিন্নমত পোষণকারী ব্যক্তি"
+      },
+      {
+        "en": "rebel",
+        "bn": "বিদ্রোহী"
+      },
+      {
+        "en": "Iconoclast",
+        "bn": "প্রচলিত বিশ্বাস ও প্রথার বিরোধিতাকারী ব্যক্তি"
+      },
+      {
+        "en": "Insurgent",
+        "bn": "বিদ্রোহী"
+      },
+      {
+        "en": "Maverick",
+        "bn": "যিনি প্রচলিত নিয়ম বা দলের মত অনুসরণ না করে স্বাধীনভাবে চিন্তা বা কাজ করেন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "supporter",
+        "bn": "সমর্থক"
+      },
+      {
+        "en": "conformist",
+        "bn": "প্রচলিত মত মেনে চলে এমন ব্যক্তি"
+      },
+      {
+        "en": "Adherent",
+        "bn": "অনুসারী"
+      },
+      {
+        "en": "Advocate",
+        "bn": "সমর্থক"
+      },
+      {
+        "en": "Benefactor",
+        "bn": "দাতা"
+      },
+      {
+        "en": "Proponent",
+        "bn": "কোনো ধারণা, পরিকল্পনা বা উদ্দেশ্যের সমর্থক"
+      },
+      {
+        "en": "chameleon",
+        "bn": "রং পরিবর্তন করতে পারে এমন গিরগিটি"
+      }
+    ],
+    "example": "The dissident writer criticized the government's policy.",
+    "example_bn": "ভিন্নমতাবলম্বী লেখক সরকারী নীতির সমালোচনা করেছিলেন।",
+    "examples": [
+      "The dissident writer criticized the government's policy. — ভিন্নমতাবলম্বী লেখক সরকারী নীতির সমালোচনা করেছিলেন।",
+      "At dinner, she explained that 'dissident' means '(noun) a person who publicly disagrees', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘dissident’ শব্দটির অর্থ—ভিন্নমতাবলম্বী ব্যক্তি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'dissident' as '(noun) a person who publicly disagrees' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘dissident’ শব্দটি ভিন্নমতাবলম্বী ব্যক্তি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "dissuade",
+    "pronunciation_bn": "ডিসুয়েইড",
+    "pronunciation": "/dɪˈsweɪd/",
+    "no": 316,
+    "group": 13,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to persuade someone not to do something",
+    "meaning_bn": [
+      "কোনো কাজ থেকে বিরত থাকতে বোঝানো",
+      "নিরুৎসাহিত করা"
+    ],
+    "synonyms": [
+      {
+        "en": "deter",
+        "bn": "নিবারণ করা"
+      },
+      {
+        "en": "discourage",
+        "bn": "নিরুৎসাহিত করা"
+      },
+      {
+        "en": "talk out of",
+        "bn": "কোনো কাজ না করতে বোঝানো"
+      },
+      {
+        "en": "Daunt",
+        "bn": "ভীত করা"
+      },
+      {
+        "en": "dispirit",
+        "bn": "হতাশ করা"
+      },
+      {
+        "en": "dismay",
+        "bn": "হতাশা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "persuade",
+        "bn": "রাজি করানো"
+      },
+      {
+        "en": "encourage",
+        "bn": "উৎসাহিত করা"
+      },
+      {
+        "en": "urge",
+        "bn": "তাগিদ দেওয়া"
+      },
+      {
+        "en": "Proselytize",
+        "bn": "কাউকে অন্য ধর্ম, রাজনৈতিক বিশ্বাস বা জীবনধারা গ্রহণে প্রভাবিত বা রাজি করানোর চেষ্টা করা"
+      },
+      {
+        "en": "Exhort",
+        "bn": "জোরালোভাবে অনুরোধ করা"
+      },
+      {
+        "en": "Cajole",
+        "bn": "তোষামোদ করে রাজি করানো"
+      },
+      {
+        "en": "Lobby",
+        "bn": "কর্তৃপক্ষকে প্রভাবিত করার চেষ্টা করা"
+      },
+      {
+        "en": "Abet",
+        "bn": "অন্যায় কাজে সহায়তা করা"
+      },
+      {
+        "en": "Instigate",
+        "bn": "উসকে দেওয়া"
+      },
+      {
+        "en": "foster",
+        "bn": "লালন করা"
+      },
+      {
+        "en": "Induce",
+        "bn": "প্ররোচিত করা"
+      },
+      {
+        "en": "Foment",
+        "bn": "উসকে দেওয়া"
+      }
+    ],
+    "example": "Her friends tried to dissuade her from making a hasty decision.",
+    "example_bn": "বন্ধুরা তাকে তাড়াহুড়ো করে সিদ্ধান্ত নেওয়া থেকে বিরত রাখতে চেষ্টা করেছিল।",
+    "examples": [
+      "Her friends tried to dissuade her from making a hasty decision. — বন্ধুরা তাকে তাড়াহুড়ো করে সিদ্ধান্ত নেওয়া থেকে বিরত রাখতে চেষ্টা করেছিল।",
+      "At dinner, she explained that 'dissuade' means 'to persuade someone not to do something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘dissuade’ শব্দটির অর্থ—কোনো কাজ থেকে বিরত থাকতে বোঝানো—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'dissuade' as 'to persuade someone not to do something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘dissuade’ শব্দটি কোনো কাজ থেকে বিরত থাকতে বোঝানো অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "distinct",
+    "pronunciation_bn": "ডিস্টিংক্ট",
+    "pronunciation": "/dɪˈstɪŋkt/",
+    "no": 317,
+    "group": 13,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "clearly different or separate; easy to recognize or understand",
+    "meaning_bn": [
+      "স্বতন্ত্র",
+      "আলাদা",
+      "স্পষ্ট"
+    ],
+    "synonyms": [
+      {
+        "en": "separate",
+        "bn": "পৃথক"
+      },
+      {
+        "en": "different",
+        "bn": "ভিন্ন"
+      },
+      {
+        "en": "clear",
+        "bn": "স্পষ্ট"
+      },
+      {
+        "en": "Discrete",
+        "bn": "পৃথক"
+      },
+      {
+        "en": "Disparate",
+        "bn": "ভিন্ন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "similar",
+        "bn": "সদৃশ"
+      },
+      {
+        "en": "identical",
+        "bn": "অভিন্ন"
+      },
+      {
+        "en": "indistinct",
+        "bn": "অস্পষ্ট"
+      },
+      {
+        "en": "Contiguous",
+        "bn": "সংলগ্ন"
+      },
+      {
+        "en": "Homogeneous",
+        "bn": "সমজাতীয়"
+      },
+      {
+        "en": "Uniform",
+        "bn": "একরূপ"
+      },
+      {
+        "en": "Incessant",
+        "bn": "অবিরাম"
+      },
+      {
+        "en": "parallel",
+        "bn": "সমান্তরাল"
+      }
+    ],
+    "example": "The two proposals have distinct advantages.",
+    "example_bn": "প্রস্তাব দুটির স্বতন্ত্র সুবিধা রয়েছে।",
+    "examples": [
+      "The two proposals have distinct advantages. — প্রস্তাব দুটির স্বতন্ত্র সুবিধা রয়েছে।",
+      "At dinner, she explained that 'distinct' means 'clearly different or separate', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘distinct’ শব্দটির অর্থ—স্বতন্ত্র—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'distinct' as 'clearly different or separate' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘distinct’ শব্দটি স্বতন্ত্র অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "diurnal",
+    "pronunciation_bn": "ডাইআর্নাল",
+    "pronunciation": "/daɪˈɜːnəl/",
+    "no": 318,
+    "group": 13,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "active or occurring during the day rather than at night; happening every day",
+    "meaning_bn": [
+      "দিবাচর",
+      "দিনের বেলায় ঘটে এমন",
+      "দৈনিক"
+    ],
+    "synonyms": [
+      {
+        "en": "daytime",
+        "bn": "দিনের বেলাসংক্রান্ত"
+      },
+      {
+        "en": "daily",
+        "bn": "দৈনিক"
+      },
+      {
+        "en": "day-active",
+        "bn": "দিনে সক্রিয়"
+      },
+      {
+        "en": "quotidian",
+        "bn": "দৈনন্দিন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "nocturnal",
+        "bn": "নিশাচর"
+      },
+      {
+        "en": "nightly",
+        "bn": "রাত্রিকালীন"
+      }
+    ],
+    "example": "Owls are generally nocturnal, whereas many songbirds are diurnal.",
+    "example_bn": "পেঁচা সাধারণত নিশাচর, অন্যদিকে অনেক গায়ক পাখি দিবাচর।",
+    "examples": [
+      "Owls are generally nocturnal, whereas many songbirds are diurnal. — পেঁচা সাধারণত নিশাচর, অন্যদিকে অনেক গায়ক পাখি দিবাচর।",
+      "At dinner, she explained that 'diurnal' means 'active or occurring during the day rather than', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘diurnal’ শব্দটির অর্থ—দিবাচর—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'diurnal' as 'active or occurring during the day rather than' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘diurnal’ শব্দটি দিবাচর অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "divine",
+    "pronunciation_bn": "ডিভাইন",
+    "pronunciation": "/dɪˈvaɪn/",
+    "no": 319,
+    "group": 13,
+    "pos": [
+      "verb",
+      "adjective"
+    ],
+    "meaning_en": "(verb) to discover or guess something by intuition; to foresee; (adjective) relating to a god or God",
+    "meaning_bn": [
+      "অন্তর্দৃষ্টি দিয়ে বুঝতে পারা",
+      "অনুমান করা",
+      "ভবিষ্যদ্বাণী করা",
+      "ঐশ্বরিক"
+    ],
+    "synonyms": [
+      {
+        "en": "deduce",
+        "bn": "অনুমান করে সিদ্ধান্তে পৌঁছানো"
+      },
+      {
+        "en": "foresee",
+        "bn": "আগে থেকে বুঝতে পারা"
+      },
+      {
+        "en": "predict",
+        "bn": "পূর্বাভাস দেওয়া"
+      },
+      {
+        "en": "Augur",
+        "bn": "ভবিষ্যতের লক্ষণ হওয়া"
+      },
+      {
+        "en": "Extrapolate",
+        "bn": "জ্ঞাত তথ্য থেকে অজ্ঞাত বিষয়ে অনুমান করা"
+      },
+      {
+        "en": "Infer",
+        "bn": "অনুমান করা"
+      },
+      {
+        "en": "envision",
+        "bn": "কল্পনা করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "overlook",
+        "bn": "লক্ষ্য না করা"
+      },
+      {
+        "en": "miss",
+        "bn": "বুঝতে ব্যর্থ হওয়া"
+      },
+      {
+        "en": "Condone",
+        "bn": "অন্যায় আচরণ মেনে নেওয়া"
+      },
+      {
+        "en": "Conjecture",
+        "bn": "অনুমান"
+      }
+    ],
+    "example": "She seemed to divine what he was about to say.",
+    "example_bn": "সে কী বলতে যাচ্ছে, তা সে যেন আগেই বুঝতে পেরেছিল।",
+    "examples": [
+      "She seemed to divine what he was about to say. — সে কী বলতে যাচ্ছে, তা সে যেন আগেই বুঝতে পেরেছিল।",
+      "At dinner, she explained that 'divine' means '(verb) to discover or guess something by intuition', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘divine’ শব্দটির অর্থ—অন্তর্দৃষ্টি দিয়ে বুঝতে পারা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'divine' as '(verb) to discover or guess something by intuition' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘divine’ শব্দটি অন্তর্দৃষ্টি দিয়ে বুঝতে পারা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "divulge",
+    "pronunciation_bn": "ডিভাল্জ",
+    "pronunciation": "/daɪˈvʌldʒ/",
+    "no": 320,
+    "group": 13,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to give information that was previously secret or unknown",
+    "meaning_bn": [
+      "প্রকাশ করা",
+      "গোপন তথ্য ফাঁস করা"
+    ],
+    "synonyms": [
+      {
+        "en": "reveal",
+        "bn": "প্রকাশ করা"
+      },
+      {
+        "en": "disclose",
+        "bn": "ফাঁস করা"
+      },
+      {
+        "en": "make known",
+        "bn": "জানিয়ে দেওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "conceal",
+        "bn": "গোপন করা"
+      },
+      {
+        "en": "hide",
+        "bn": "লুকানো"
+      },
+      {
+        "en": "withhold",
+        "bn": "গোপন রাখা"
+      },
+      {
+        "en": "dissemble",
+        "bn": "প্রকৃত অনুভূতি বা উদ্দেশ্য গোপন করা"
+      },
+      {
+        "en": "cache",
+        "bn": "গোপন ভান্ডার"
+      },
+      {
+        "en": "concoct",
+        "bn": "বিভিন্ন উপাদান মিশিয়ে তৈরি করা"
+      },
+      {
+        "en": "feign",
+        "bn": "ভান করা"
+      },
+      {
+        "en": "Belie",
+        "bn": "মিথ্যা ধারণা দেওয়া"
+      }
+    ],
+    "example": "The witness refused to divulge the source of the information.",
+    "example_bn": "সাক্ষী তথ্যটির উৎস প্রকাশ করতে অস্বীকার করেছিলেন।",
+    "examples": [
+      "The witness refused to divulge the source of the information. — সাক্ষী তথ্যটির উৎস প্রকাশ করতে অস্বীকার করেছিলেন।",
+      "At dinner, she explained that 'divulge' means 'to give information that was previously secret', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘divulge’ শব্দটির অর্থ—প্রকাশ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'divulge' as 'to give information that was previously secret' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘divulge’ শব্দটি প্রকাশ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "document",
+    "pronunciation_bn": "ডকিউমেন্ট",
+    "pronunciation": "/ˈdɒkjument/",
+    "no": 321,
+    "group": 13,
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "meaning_en": "(verb) to record or support something with written or other evidence; (noun) an official or written record",
+    "meaning_bn": [
+      "নথিবদ্ধ করা",
+      "প্রমাণসহ লিপিবদ্ধ করা",
+      "নথি",
+      "দলিল"
+    ],
+    "synonyms": [
+      {
+        "en": "record",
+        "bn": "লিপিবদ্ধ করা"
+      },
+      {
+        "en": "register",
+        "bn": "নথিভুক্ত করা"
+      },
+      {
+        "en": "substantiate",
+        "bn": "প্রমাণ দিয়ে সমর্থন করা"
+      },
+      {
+        "en": "Chronicle",
+        "bn": "কালানুক্রমিক বিবরণ"
+      },
+      {
+        "en": "Corroborate",
+        "bn": "প্রমাণ দিয়ে সমর্থন করা"
+      },
+      {
+        "en": "Matriculate",
+        "bn": "কলেজ বা বিশ্ববিদ্যালয়ে আনুষ্ঠানিকভাবে শিক্ষার্থী হিসেবে ভর্তি হওয়া"
+      },
+      {
+        "en": "Ascertain",
+        "bn": "নিশ্চিতভাবে নির্ধারণ করা"
+      },
+      {
+        "en": "Attest",
+        "bn": "প্রমাণ দেওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "erase",
+        "bn": "মুছে ফেলা"
+      },
+      {
+        "en": "suppress",
+        "bn": "চেপে রাখা"
+      },
+      {
+        "en": "Efface",
+        "bn": "মুছে ফেলা"
+      },
+      {
+        "en": "Rebut",
+        "bn": "খণ্ডন করা"
+      },
+      {
+        "en": "Refute",
+        "bn": "খণ্ডন করা"
+      },
+      {
+        "en": "expunge",
+        "bn": "সম্পূর্ণ মুছে ফেলা"
+      },
+      {
+        "en": "debunk",
+        "bn": "ভুল বা মিথ্যা প্রমাণ করা"
+      }
+    ],
+    "example": "Researchers documented every stage of the experiment.",
+    "example_bn": "গবেষকেরা পরীক্ষাটির প্রতিটি ধাপ নথিবদ্ধ করেছিলেন।",
+    "examples": [
+      "Researchers documented every stage of the experiment. — গবেষকেরা পরীক্ষাটির প্রতিটি ধাপ নথিবদ্ধ করেছিলেন।",
+      "At dinner, she explained that 'document' means '(verb) to record or support something with written', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘document’ শব্দটির অর্থ—নথিবদ্ধ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'document' as '(verb) to record or support something with written' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘document’ শব্দটি নথিবদ্ধ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "doldrums",
+    "pronunciation_bn": "ডোলড্রাম্‌জ",
+    "pronunciation": "/ˈdəʊldrəmz/",
+    "no": 322,
+    "group": 13,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a state of low spirits, inactivity, or lack of progress; also a region of calm winds near the equator",
+    "meaning_bn": [
+      "হতাশা",
+      "স্থবিরতা",
+      "নিষ্ক্রিয় অবস্থা"
+    ],
+    "synonyms": [
+      {
+        "en": "stagnation",
+        "bn": "স্থবিরতা"
+      },
+      {
+        "en": "slump",
+        "bn": "মন্দা"
+      },
+      {
+        "en": "depression",
+        "bn": "মনমরা অবস্থা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "progress",
+        "bn": "অগ্রগতি"
+      },
+      {
+        "en": "activity",
+        "bn": "সক্রিয়তা"
+      },
+      {
+        "en": "high spirits",
+        "bn": "প্রফুল্লতা"
+      },
+      {
+        "en": "Renaissance",
+        "bn": "নবজাগরণ"
+      },
+      {
+        "en": "cascade",
+        "bn": "ছোট জলপ্রপাত"
+      },
+      {
+        "en": "Metamorphosis",
+        "bn": "রূপ, গঠন বা চরিত্রের বড় পরিবর্তন"
+      },
+      {
+        "en": "Momentum",
+        "bn": "গতিবেগ"
+      }
+    ],
+    "example": "After months of weak sales, the business was in the doldrums.",
+    "example_bn": "কয়েক মাস ধরে বিক্রি কম থাকায় ব্যবসাটি স্থবির অবস্থায় ছিল।",
+    "examples": [
+      "After months of weak sales, the business was in the doldrums. — কয়েক মাস ধরে বিক্রি কম থাকায় ব্যবসাটি স্থবির অবস্থায় ছিল।",
+      "At dinner, she explained that 'doldrums' means 'a state of low spirits, inactivity, or lack', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘doldrums’ শব্দটির অর্থ—হতাশা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'doldrums' as 'a state of low spirits, inactivity, or lack' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘doldrums’ শব্দটি হতাশা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "doleful",
+    "pronunciation_bn": "ডোলফুল",
+    "pronunciation": "/ˈdəʊlfəl/",
+    "no": 323,
+    "group": 13,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "very sad or expressing sorrow",
+    "meaning_bn": [
+      "শোকাকুল",
+      "বিষণ্ণ",
+      "দুঃখভরা"
+    ],
+    "synonyms": [
+      {
+        "en": "sorrowful",
+        "bn": "দুঃখভারাক্রান্ত"
+      },
+      {
+        "en": "mournful",
+        "bn": "শোকাতুর"
+      },
+      {
+        "en": "forlorn",
+        "bn": "হতাশ ও নিঃসঙ্গ"
+      },
+      {
+        "en": "Lugubrious",
+        "bn": "অত্যন্ত বিষণ্ণ"
+      },
+      {
+        "en": "Plaintive",
+        "bn": "করুণ"
+      },
+      {
+        "en": "dismal",
+        "bn": "বিষণ্ণ"
+      },
+      {
+        "en": "Morose",
+        "bn": "অসুখী, বিষণ্ণ ও খিটখিটে মেজাজের"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "cheerful",
+        "bn": "প্রফুল্ল"
+      },
+      {
+        "en": "joyful",
+        "bn": "আনন্দিত"
+      },
+      {
+        "en": "upbeat",
+        "bn": "উৎসাহপূর্ণ"
+      },
+      {
+        "en": "Blithe",
+        "bn": "প্রফুল্ল ও নিশ্চিন্ত"
+      }
+    ],
+    "example": "She gave a doleful account of the family's losses.",
+    "example_bn": "পরিবারের ক্ষয়ক্ষতির কথা তিনি বিষণ্ণভাবে বর্ণনা করেছিলেন।",
+    "examples": [
+      "She gave a doleful account of the family's losses. — পরিবারের ক্ষয়ক্ষতির কথা তিনি বিষণ্ণভাবে বর্ণনা করেছিলেন।",
+      "At dinner, she explained that 'doleful' means 'very sad or expressing sorrow', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘doleful’ শব্দটির অর্থ—শোকাকুল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'doleful' as 'very sad or expressing sorrow' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘doleful’ শব্দটি শোকাকুল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "dolt",
+    "pronunciation_bn": "ডোল্ট",
+    "pronunciation": "/dəʊlt/",
+    "no": 324,
+    "group": 13,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a stupid or foolish person",
+    "meaning_bn": [
+      "বোকা ব্যক্তি",
+      "নির্বোধ"
+    ],
+    "synonyms": [
+      {
+        "en": "fool",
+        "bn": "বোকা"
+      },
+      {
+        "en": "idiot",
+        "bn": "নির্বোধ"
+      },
+      {
+        "en": "dunce",
+        "bn": "মূর্খ"
+      },
+      {
+        "en": "buffoon",
+        "bn": "ভাঁড়"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "genius",
+        "bn": "প্রতিভাবান ব্যক্তি"
+      },
+      {
+        "en": "intellectual",
+        "bn": "বুদ্ধিজীবী"
+      },
+      {
+        "en": "Prodigy",
+        "bn": "অসাধারণ প্রতিভাধর ব্যক্তি, বিশেষত অল্পবয়সে"
+      }
+    ],
+    "example": "Only a dolt would ignore such clear instructions.",
+    "example_bn": "এত স্পষ্ট নির্দেশ উপেক্ষা করবে কেবল একজন বোকাই।",
+    "examples": [
+      "Only a dolt would ignore such clear instructions. — এত স্পষ্ট নির্দেশ উপেক্ষা করবে কেবল একজন বোকাই।",
+      "At dinner, she explained that 'dolt' means 'a stupid or foolish person', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘dolt’ শব্দটির অর্থ—বোকা ব্যক্তি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'dolt' as 'a stupid or foolish person' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘dolt’ শব্দটি বোকা ব্যক্তি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "dotage",
+    "pronunciation_bn": "ডোটিজ",
+    "pronunciation": "/ˈdəʊtɪdʒ/",
+    "no": 325,
+    "group": 13,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the mental weakness or foolishness sometimes associated with old age; excessive fondness",
+    "meaning_bn": [
+      "বার্ধক্যজনিত মানসিক দুর্বলতা",
+      "বৃদ্ধ বয়সের শিশুসুলভ আচরণ",
+      "অতিরিক্ত স্নেহ"
+    ],
+    "synonyms": [
+      {
+        "en": "senility",
+        "bn": "বার্ধক্যজনিত মানসিক দুর্বলতা"
+      },
+      {
+        "en": "second childhood",
+        "bn": "বার্ধক্যে শিশুসুলভ আচরণ"
+      },
+      {
+        "en": "infatuation",
+        "bn": "অন্ধ অনুরাগ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "youthful vigor",
+        "bn": "যৌবনের প্রাণশক্তি"
+      },
+      {
+        "en": "clear-mindedness",
+        "bn": "স্বচ্ছ চিন্তাশক্তি"
+      }
+    ],
+    "example": "In his dotage, he often retold the same stories.",
+    "example_bn": "বার্ধক্যজনিত মানসিক দুর্বলতার কারণে তিনি প্রায়ই একই গল্প বারবার বলতেন।",
+    "examples": [
+      "In his dotage, he often retold the same stories. — বার্ধক্যজনিত মানসিক দুর্বলতার কারণে তিনি প্রায়ই একই গল্প বারবার বলতেন।",
+      "At dinner, she explained that 'dotage' means 'the mental weakness or foolishness sometimes associated', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘dotage’ শব্দটির অর্থ—বার্ধক্যজনিত মানসিক দুর্বলতা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'dotage' as 'the mental weakness or foolishness sometimes associated' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘dotage’ শব্দটি বার্ধক্যজনিত মানসিক দুর্বলতা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

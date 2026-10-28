@@ -1,35 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
-
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" android:maxSdkVersion="32" />
-    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
-    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
-    <uses-permission android:name="android.permission.READ_MEDIA_VISUAL_USER_SELECTED" />
-
-    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
-    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
-
     <application
-        android:name=".WadioApplication"
-        android:label="Wadio"
-        android:icon="@drawable/ic_wadio"
-        android:allowBackup="false"
-        android:fullBackupContent="false"
+        android:allowBackup="true"
+        android:label="Wordsmart"
+        android:icon="@mipmap/ic_launcher"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Wadio">
-
-        <activity
-            android:name=".InternalVideoActivity"
-            android:excludeFromRecents="true"
-            android:taskAffinity=""
-            android:configChanges="orientation|keyboardHidden|screenSize|screenLayout|smallestScreenSize|density|uiMode"
-            android:exported="false"
-            android:screenOrientation="sensor" />
-
+        android:theme="@style/Theme.Wordsmart">
         <activity
             android:name=".MainActivity"
-            android:label="Wadio"
-            android:configChanges="orientation|keyboardHidden|screenSize|screenLayout|smallestScreenSize|density|uiMode"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -1,0 +1,1741 @@
+[
+  {
+    "word": "Soporific",
+    "pronunciation_bn": "সপ-অ-রিফ-ইক",
+    "pronunciation": "/ˌsɒp.əˈrɪf.ɪk/",
+    "no": 751,
+    "group": 31,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "causing sleep or making someone feel sleepy",
+    "meaning_bn": [
+      "ঘুমপাড়ানি",
+      "নিদ্রা উদ্রেককারী",
+      "ঘুমঘুম ভাব সৃষ্টি করে এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "sleep-inducing",
+        "bn": "ঘুম উদ্রেককারী"
+      },
+      {
+        "en": "drowsy",
+        "bn": "তন্দ্রাচ্ছন্নকারী"
+      },
+      {
+        "en": "sedative",
+        "bn": "শান্তকারী বা ঘুম-উদ্রেককারী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "stimulating",
+        "bn": "উদ্দীপক"
+      },
+      {
+        "en": "invigorating",
+        "bn": "সতেজতাদায়ক"
+      },
+      {
+        "en": "bracing",
+        "bn": "সতেজতাদায়ক"
+      }
+    ],
+    "example": "The soporific lecture put half the class to sleep.",
+    "example_bn": "ঘুমপাড়ানি বক্তৃতায় ক্লাসের অর্ধেক শিক্ষার্থী ঘুমিয়ে পড়েছিল।",
+    "examples": [
+      "The soporific lecture put half the class to sleep. — ঘুমপাড়ানি বক্তৃতায় ক্লাসের অর্ধেক শিক্ষার্থী ঘুমিয়ে পড়েছিল।",
+      "At dinner, she explained that 'Soporific' means 'causing sleep or making someone feel sleepy', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Soporific’ শব্দটির অর্থ—ঘুমপাড়ানি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Soporific' as 'causing sleep or making someone feel sleepy' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Soporific’ শব্দটি ঘুমপাড়ানি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Sordid",
+    "pronunciation_bn": "সর-ডিড",
+    "pronunciation": "/ˈsɔː.dɪd/",
+    "no": 752,
+    "group": 31,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "dirty and unpleasant; morally wrong, shameful, or shocking",
+    "meaning_bn": [
+      "নোংরা ও অরুচিকর",
+      "জঘন্য",
+      "নৈতিকভাবে নীচ বা কলঙ্কজনক"
+    ],
+    "synonyms": [
+      {
+        "en": "squalid",
+        "bn": "নোংরা ও দুর্দশাগ্রস্ত"
+      },
+      {
+        "en": "shameful",
+        "bn": "লজ্জাজনক"
+      },
+      {
+        "en": "degrading",
+        "bn": "মর্যাদাহানিকর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "clean",
+        "bn": "পরিষ্কার"
+      },
+      {
+        "en": "honorable",
+        "bn": "সম্মানজনক"
+      }
+    ],
+    "example": "The sordid details of the case shocked the public.",
+    "example_bn": "মামলার জঘন্য বিবরণ জনসাধারণকে হতবাক করেছিল।",
+    "examples": [
+      "The sordid details of the case shocked the public. — মামলার জঘন্য বিবরণ জনসাধারণকে হতবাক করেছিল।",
+      "At dinner, she explained that 'Sordid' means 'dirty and unpleasant', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Sordid’ শব্দটির অর্থ—নোংরা ও অরুচিকর—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Sordid' as 'dirty and unpleasant' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Sordid’ শব্দটি নোংরা ও অরুচিকর অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Spawn",
+    "pronunciation_bn": "স্পন",
+    "pronunciation": "/spɔːn/",
+    "no": 753,
+    "group": 31,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to produce or cause a large number of something; for fish and other animals, to produce eggs",
+    "meaning_bn": [
+      "উৎপন্ন করা",
+      "বিপুল সংখ্যায় সৃষ্টি করা",
+      "ডিম পাড়া"
+    ],
+    "synonyms": [
+      {
+        "en": "generate",
+        "bn": "উৎপন্ন করা"
+      },
+      {
+        "en": "produce",
+        "bn": "উৎপাদন করা"
+      },
+      {
+        "en": "give rise to",
+        "bn": "সৃষ্টি করা"
+      },
+      {
+        "en": "Beget",
+        "bn": "জন্ম দেওয়া"
+      },
+      {
+        "en": "Engender",
+        "bn": "সৃষ্টি করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "destroy",
+        "bn": "ধ্বংস করা"
+      },
+      {
+        "en": "suppress",
+        "bn": "দমন করা"
+      },
+      {
+        "en": "quell",
+        "bn": "দমন করা"
+      },
+      {
+        "en": "repress",
+        "bn": "দমন করা"
+      }
+    ],
+    "example": "The internet spawned thousands of new businesses.",
+    "example_bn": "ইন্টারনেটের ফলে হাজার হাজার নতুন ব্যবসার সৃষ্টি হয়েছে।",
+    "examples": [
+      "The internet spawned thousands of new businesses. — ইন্টারনেটের ফলে হাজার হাজার নতুন ব্যবসার সৃষ্টি হয়েছে।",
+      "At dinner, she explained that 'Spawn' means 'to produce or cause a large number', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Spawn’ শব্দটির অর্থ—উৎপন্ন করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Spawn' as 'to produce or cause a large number' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Spawn’ শব্দটি উৎপন্ন করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Specious",
+    "pronunciation_bn": "স্পী-শাস",
+    "pronunciation": "/ˈspiː.ʃəs/",
+    "no": 754,
+    "group": 31,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "seeming to be correct or true, but actually wrong or false",
+    "meaning_bn": [
+      "আপাতদৃষ্টিতে সঠিক মনে হয় এমন কিন্তু প্রকৃতপক্ষে ভুল",
+      "কপটভাবে বিশ্বাসযোগ্য"
+    ],
+    "synonyms": [
+      {
+        "en": "misleading",
+        "bn": "বিভ্রান্তিকর"
+      },
+      {
+        "en": "fallacious",
+        "bn": "ভ্রান্ত যুক্তিনির্ভর"
+      },
+      {
+        "en": "deceptive",
+        "bn": "প্রতারণামূলক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "valid",
+        "bn": "যুক্তিসংগত"
+      },
+      {
+        "en": "sound",
+        "bn": "সঠিক ও যুক্তিসম্মত"
+      }
+    ],
+    "example": "His specious argument fooled many listeners.",
+    "example_bn": "তার আপাতদৃষ্টিতে বিশ্বাসযোগ্য কিন্তু ভ্রান্ত যুক্তি অনেক শ্রোতাকে বিভ্রান্ত করেছিল।",
+    "examples": [
+      "His specious argument fooled many listeners. — তার আপাতদৃষ্টিতে বিশ্বাসযোগ্য কিন্তু ভ্রান্ত যুক্তি অনেক শ্রোতাকে বিভ্রান্ত করেছিল।",
+      "At dinner, she explained that 'Specious' means 'seeming to be correct or true, but actually', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Specious’ শব্দটির অর্থ—আপাতদৃষ্টিতে সঠিক মনে হয় এমন কিন্তু প্রকৃতপক্ষে ভুল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Specious' as 'seeming to be correct or true, but actually' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Specious’ শব্দটি আপাতদৃষ্টিতে সঠিক মনে হয় এমন কিন্তু প্রকৃতপক্ষে ভুল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Sporadic",
+    "pronunciation_bn": "স্পə-র‍্যাড-ইক",
+    "pronunciation": "/spəˈræd.ɪk/",
+    "no": 755,
+    "group": 31,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "happening occasionally and at irregular intervals, rather than continuously or regularly",
+    "meaning_bn": [
+      "বিক্ষিপ্ত",
+      "অনিয়মিত বিরতিতে ঘটে এমন",
+      "মাঝেমধ্যে ঘটে এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "occasional",
+        "bn": "মাঝেমধ্যে ঘটে এমন"
+      },
+      {
+        "en": "intermittent",
+        "bn": "থেমে থেমে ঘটে এমন"
+      },
+      {
+        "en": "infrequent",
+        "bn": "কদাচিৎ ঘটে এমন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "constant",
+        "bn": "অবিরাম"
+      },
+      {
+        "en": "continuous",
+        "bn": "নিরবচ্ছিন্ন"
+      },
+      {
+        "en": "regular",
+        "bn": "নিয়মিত"
+      },
+      {
+        "en": "Incessant",
+        "bn": "অবিরাম"
+      },
+      {
+        "en": "Unremitting",
+        "bn": "অবিরাম"
+      },
+      {
+        "en": "Relentless",
+        "bn": "অবিরাম"
+      },
+      {
+        "en": "Inexorable",
+        "bn": "অনিবার্য"
+      },
+      {
+        "en": "Inveterate",
+        "bn": "দীর্ঘদিনের অভ্যাসে অভ্যস্ত"
+      },
+      {
+        "en": "Intransigent",
+        "bn": "অনমনীয়"
+      },
+      {
+        "en": "Resolute",
+        "bn": "দৃঢ়প্রতিজ্ঞ"
+      }
+    ],
+    "example": "There were sporadic clashes throughout the night.",
+    "example_bn": "সারা রাত ধরে বিক্ষিপ্ত সংঘর্ষ ঘটেছিল।",
+    "examples": [
+      "There were sporadic clashes throughout the night. — সারা রাত ধরে বিক্ষিপ্ত সংঘর্ষ ঘটেছিল।",
+      "At dinner, she explained that 'Sporadic' means 'happening occasionally and at irregular intervals, rather than', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Sporadic’ শব্দটির অর্থ—বিক্ষিপ্ত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Sporadic' as 'happening occasionally and at irregular intervals, rather than' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Sporadic’ শব্দটি বিক্ষিপ্ত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Spurious",
+    "pronunciation_bn": "স্পিউরিয়াস",
+    "pronunciation": "/ˈspjʊə.ri.əs/",
+    "no": 756,
+    "group": 31,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "false or not genuine, although appearing to be real or correct",
+    "meaning_bn": [
+      "মিথ্যা",
+      "জাল",
+      "আসল নয় এমন",
+      "ভুয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "false",
+        "bn": "মিথ্যা"
+      },
+      {
+        "en": "fake",
+        "bn": "নকল"
+      },
+      {
+        "en": "bogus",
+        "bn": "ভুয়া"
+      },
+      {
+        "en": "Apocryphal",
+        "bn": "অবিশ্বাস্য সত্যতার"
+      },
+      {
+        "en": "Dubious",
+        "bn": "সন্দেহজনক"
+      },
+      {
+        "en": "faux",
+        "bn": "নকল"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "genuine",
+        "bn": "আসল"
+      },
+      {
+        "en": "authentic",
+        "bn": "প্রামাণিক"
+      },
+      {
+        "en": "valid",
+        "bn": "বৈধ বা গ্রহণযোগ্য"
+      }
+    ],
+    "example": "He was exposed for spreading spurious claims.",
+    "example_bn": "মিথ্যা দাবি ছড়ানোর কারণে তার প্রতারণা প্রকাশ পেয়ে যায়।",
+    "examples": [
+      "He was exposed for spreading spurious claims. — মিথ্যা দাবি ছড়ানোর কারণে তার প্রতারণা প্রকাশ পেয়ে যায়।",
+      "At dinner, she explained that 'Spurious' means 'false or not genuine, although appearing to be', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Spurious’ শব্দটির অর্থ—মিথ্যা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Spurious' as 'false or not genuine, although appearing to be' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Spurious’ শব্দটি মিথ্যা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Squalor",
+    "pronunciation_bn": "স্কোয়াল-অর",
+    "pronunciation": "/ˈskwɒl.ər/",
+    "no": 757,
+    "group": 31,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the condition of being extremely dirty and unpleasant, often because of poverty",
+    "meaning_bn": [
+      "অত্যন্ত নোংরা ও অস্বাস্থ্যকর অবস্থা",
+      "দারিদ্র্যজনিত দুর্দশা"
+    ],
+    "synonyms": [
+      {
+        "en": "filth",
+        "bn": "ময়লা-আবর্জনা"
+      },
+      {
+        "en": "squalidness",
+        "bn": "নোংরা ও দুর্দশাগ্রস্ত অবস্থা"
+      },
+      {
+        "en": "wretchedness",
+        "bn": "দুর্দশা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "cleanliness",
+        "bn": "পরিচ্ছন্নতা"
+      },
+      {
+        "en": "comfort",
+        "bn": "স্বাচ্ছন্দ্য"
+      },
+      {
+        "en": "Amenity",
+        "bn": "সুযোগ-সুবিধা"
+      },
+      {
+        "en": "solace",
+        "bn": "সান্ত্বনা"
+      }
+    ],
+    "example": "They lived in squalor after losing their home.",
+    "example_bn": "বাড়ি হারানোর পর তারা অত্যন্ত নোংরা ও দুর্দশাগ্রস্ত পরিবেশে বাস করেছিল।",
+    "examples": [
+      "They lived in squalor after losing their home. — বাড়ি হারানোর পর তারা অত্যন্ত নোংরা ও দুর্দশাগ্রস্ত পরিবেশে বাস করেছিল।",
+      "At dinner, she explained that 'Squalor' means 'the condition of being extremely dirty and unpleasant', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Squalor’ শব্দটির অর্থ—অত্যন্ত নোংরা ও অস্বাস্থ্যকর অবস্থা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Squalor' as 'the condition of being extremely dirty and unpleasant' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Squalor’ শব্দটি অত্যন্ত নোংরা ও অস্বাস্থ্যকর অবস্থা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Squander",
+    "pronunciation_bn": "স্কোয়ন-ডার",
+    "pronunciation": "/ˈskwɒn.dər/",
+    "no": 758,
+    "group": 31,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to waste money, time, opportunities, or other resources foolishly",
+    "meaning_bn": [
+      "অপচয় করা",
+      "অবিবেচকের মতো নষ্ট করা",
+      "সুযোগ নষ্ট করা"
+    ],
+    "synonyms": [
+      {
+        "en": "waste",
+        "bn": "অপচয় করা"
+      },
+      {
+        "en": "dissipate",
+        "bn": "অপব্যয় করা"
+      },
+      {
+        "en": "fritter away",
+        "bn": "অল্প অল্প করে অপচয় করা"
+      },
+      {
+        "en": "disperse",
+        "bn": "ছড়িয়ে পড়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "save",
+        "bn": "সঞ্চয় করা"
+      },
+      {
+        "en": "conserve",
+        "bn": "সংরক্ষণ করা"
+      },
+      {
+        "en": "utilize",
+        "bn": "কাজে লাগানো"
+      },
+      {
+        "en": "Accrue",
+        "bn": "সময়ের সঙ্গে জমা হওয়া"
+      },
+      {
+        "en": "deploy",
+        "bn": "কৌশলগতভাবে সেনা বা সরঞ্জাম মোতায়েন করা"
+      },
+      {
+        "en": "Infer",
+        "bn": "অনুমান করা"
+      },
+      {
+        "en": "Marshal",
+        "bn": "সুশৃঙ্খলভাবে সাজানো"
+      }
+    ],
+    "example": "He squandered his inheritance on gambling.",
+    "example_bn": "সে জুয়া খেলায় তার উত্তরাধিকারসূত্রে পাওয়া সম্পদ অপচয় করেছিল।",
+    "examples": [
+      "He squandered his inheritance on gambling. — সে জুয়া খেলায় তার উত্তরাধিকারসূত্রে পাওয়া সম্পদ অপচয় করেছিল।",
+      "At dinner, she explained that 'Squander' means 'to waste money, time, opportunities, or other resources', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Squander’ শব্দটির অর্থ—অপচয় করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Squander' as 'to waste money, time, opportunities, or other resources' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Squander’ শব্দটি অপচয় করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Stagnation",
+    "pronunciation_bn": "স্ট্যাগ-নেই-শন",
+    "pronunciation": "/stæɡˈneɪ.ʃən/",
+    "no": 759,
+    "group": 31,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a state in which there is little or no movement, growth, development, or progress",
+    "meaning_bn": [
+      "স্থবিরতা",
+      "অচলাবস্থা",
+      "অগ্রগতিহীনতা"
+    ],
+    "synonyms": [
+      {
+        "en": "inactivity",
+        "bn": "নিষ্ক্রিয়তা"
+      },
+      {
+        "en": "standstill",
+        "bn": "অচল অবস্থা"
+      },
+      {
+        "en": "stasis",
+        "bn": "স্থিতাবস্থা"
+      },
+      {
+        "en": "doldrums",
+        "bn": "হতাশা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "growth",
+        "bn": "বৃদ্ধি"
+      },
+      {
+        "en": "development",
+        "bn": "উন্নয়ন"
+      },
+      {
+        "en": "progress",
+        "bn": "অগ্রগতি"
+      },
+      {
+        "en": "Renaissance",
+        "bn": "নবজাগরণ"
+      },
+      {
+        "en": "Momentum",
+        "bn": "গতিবেগ"
+      },
+      {
+        "en": "Metamorphosis",
+        "bn": "রূপ, গঠন বা চরিত্রের বড় পরিবর্তন"
+      },
+      {
+        "en": "cascade",
+        "bn": "ছোট জলপ্রপাত"
+      },
+      {
+        "en": "Catalyst",
+        "bn": "অনুঘটক"
+      },
+      {
+        "en": "odyssey",
+        "bn": "দীর্ঘ ও ঘটনাবহুল যাত্রা"
+      }
+    ],
+    "example": "Economic stagnation affected millions.",
+    "example_bn": "অর্থনৈতিক স্থবিরতা লাখ লাখ মানুষকে প্রভাবিত করেছিল।",
+    "examples": [
+      "Economic stagnation affected millions. — অর্থনৈতিক স্থবিরতা লাখ লাখ মানুষকে প্রভাবিত করেছিল।",
+      "At dinner, she explained that 'Stagnation' means 'a state in which there is little', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Stagnation’ শব্দটির অর্থ—স্থবিরতা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Stagnation' as 'a state in which there is little' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Stagnation’ শব্দটি স্থবিরতা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Static",
+    "pronunciation_bn": "স্ট্যাট-ইক",
+    "pronunciation": "/ˈstæt.ɪk/",
+    "no": 760,
+    "group": 31,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "not moving, changing, or developing",
+    "meaning_bn": [
+      "স্থির",
+      "অপরিবর্তনশীল",
+      "বিকাশহীন"
+    ],
+    "synonyms": [
+      {
+        "en": "unchanging",
+        "bn": "অপরিবর্তিত"
+      },
+      {
+        "en": "stationary",
+        "bn": "স্থির"
+      },
+      {
+        "en": "fixed",
+        "bn": "নির্দিষ্ট বা স্থির"
+      },
+      {
+        "en": "Immutable",
+        "bn": "অপরিবর্তনীয়"
+      },
+      {
+        "en": "Monolithic",
+        "bn": "অত্যন্ত বড় ও একরূপ, প্রায়ই অনমনীয় ও পরিবর্তন করা কঠিন"
+      },
+      {
+        "en": "sedentary",
+        "bn": "বেশিরভাগ সময় বসে থাকা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "dynamic",
+        "bn": "গতিশীল"
+      },
+      {
+        "en": "changing",
+        "bn": "পরিবর্তনশীল"
+      },
+      {
+        "en": "mobile",
+        "bn": "চলমান"
+      },
+      {
+        "en": "Kinetic",
+        "bn": "গতিসংক্রান্ত"
+      },
+      {
+        "en": "Itinerant",
+        "bn": "ভ্রাম্যমাণ"
+      },
+      {
+        "en": "Peripatetic",
+        "bn": "ভ্রাম্যমাণ"
+      },
+      {
+        "en": "Poignant",
+        "bn": "মর্মস্পর্শী"
+      }
+    ],
+    "example": "The situation remained static for months.",
+    "example_bn": "পরিস্থিতি কয়েক মাস ধরে অপরিবর্তিত ছিল।",
+    "examples": [
+      "The situation remained static for months. — পরিস্থিতি কয়েক মাস ধরে অপরিবর্তিত ছিল।",
+      "At dinner, she explained that 'Static' means 'not moving, changing, or developing', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Static’ শব্দটির অর্থ—স্থির—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Static' as 'not moving, changing, or developing' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Static’ শব্দটি স্থির অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Staunch",
+    "pronunciation_bn": "স্টন্টশ",
+    "pronunciation": "/stɔːntʃ/",
+    "no": 761,
+    "group": 31,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "very loyal to a person, organization, or belief",
+    "meaning_bn": [
+      "একনিষ্ঠ",
+      "দৃঢ়ভাবে অনুগত",
+      "অটল সমর্থক"
+    ],
+    "synonyms": [
+      {
+        "en": "steadfast",
+        "bn": "অবিচল"
+      },
+      {
+        "en": "loyal",
+        "bn": "বিশ্বস্ত"
+      },
+      {
+        "en": "devoted",
+        "bn": "নিবেদিতপ্রাণ"
+      },
+      {
+        "en": "stalwart",
+        "bn": "অবিচল ও বিশ্বস্ত"
+      },
+      {
+        "en": "Adamant",
+        "bn": "অনড়"
+      },
+      {
+        "en": "Resolute",
+        "bn": "দৃঢ়প্রতিজ্ঞ"
+      },
+      {
+        "en": "Zealous",
+        "bn": "অত্যন্ত উৎসাহী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "disloyal",
+        "bn": "বিশ্বাসঘাতক বা অবিশ্বস্ত"
+      },
+      {
+        "en": "unfaithful",
+        "bn": "অবিশ্বস্ত"
+      },
+      {
+        "en": "fickle",
+        "bn": "খামখেয়ালি"
+      },
+      {
+        "en": "Capricious",
+        "bn": "খামখেয়ালি"
+      },
+      {
+        "en": "Subversive",
+        "bn": "প্রচলিত ব্যবস্থা বা কর্তৃত্বকে দুর্বল বা উৎখাত করার উদ্দেশ্যে পরিচালিত"
+      }
+    ],
+    "example": "She is a staunch defender of human rights.",
+    "example_bn": "তিনি মানবাধিকারের একনিষ্ঠ রক্ষক।",
+    "examples": [
+      "She is a staunch defender of human rights. — তিনি মানবাধিকারের একনিষ্ঠ রক্ষক।",
+      "At dinner, she explained that 'Staunch' means 'very loyal to a person, organization, or belief', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Staunch’ শব্দটির অর্থ—একনিষ্ঠ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Staunch' as 'very loyal to a person, organization, or belief' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Staunch’ শব্দটি একনিষ্ঠ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Steadfast",
+    "pronunciation_bn": "স্টেড-ফাস্ট",
+    "pronunciation": "/ˈsted.fɑːst/",
+    "no": 762,
+    "group": 31,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "firm and unwavering in purpose, loyalty, or belief",
+    "meaning_bn": [
+      "অবিচল",
+      "দৃঢ়প্রতিজ্ঞ",
+      "অটল",
+      "বিশ্বস্ত"
+    ],
+    "synonyms": [
+      {
+        "en": "resolute",
+        "bn": "দৃঢ়প্রতিজ্ঞ"
+      },
+      {
+        "en": "unwavering",
+        "bn": "অটল"
+      },
+      {
+        "en": "loyal",
+        "bn": "বিশ্বস্ত"
+      },
+      {
+        "en": "Staunch",
+        "bn": "একনিষ্ঠ"
+      },
+      {
+        "en": "stalwart",
+        "bn": "অবিচল ও বিশ্বস্ত"
+      },
+      {
+        "en": "Adamant",
+        "bn": "অনড়"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "wavering",
+        "bn": "দোদুল্যমান"
+      },
+      {
+        "en": "fickle",
+        "bn": "চঞ্চলমতি"
+      },
+      {
+        "en": "inconstant",
+        "bn": "অস্থির"
+      },
+      {
+        "en": "Capricious",
+        "bn": "খামখেয়ালি"
+      },
+      {
+        "en": "Arbitrary",
+        "bn": "খেয়ালখুশিমতো"
+      },
+      {
+        "en": "Mercurial",
+        "bn": "হঠাৎ ও অনিশ্চিতভাবে মেজাজ বা আচরণ বদলায় এমন"
+      },
+      {
+        "en": "Sporadic",
+        "bn": "বিক্ষিপ্ত"
+      },
+      {
+        "en": "Subversive",
+        "bn": "প্রচলিত ব্যবস্থা বা কর্তৃত্বকে দুর্বল বা উৎখাত করার উদ্দেশ্যে পরিচালিত"
+      }
+    ],
+    "example": "He remained steadfast in his beliefs.",
+    "example_bn": "সে তার বিশ্বাসে অবিচল ছিল।",
+    "examples": [
+      "He remained steadfast in his beliefs. — সে তার বিশ্বাসে অবিচল ছিল।",
+      "At dinner, she explained that 'Steadfast' means 'firm and unwavering in purpose, loyalty, or belief', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Steadfast’ শব্দটির অর্থ—অবিচল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Steadfast' as 'firm and unwavering in purpose, loyalty, or belief' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Steadfast’ শব্দটি অবিচল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Stigmatize",
+    "pronunciation_bn": "স্টিগ-মə-টাইজ",
+    "pronunciation": "/ˈstɪɡ.mə.taɪz/",
+    "no": 763,
+    "group": 31,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to treat someone unfairly by publicly disapproving of them or making them feel disgraced",
+    "meaning_bn": [
+      "কলঙ্কিত করা",
+      "সামাজিকভাবে হেয় করা",
+      "নিন্দার চিহ্ন আরোপ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "discredit",
+        "bn": "সুনাম নষ্ট করা"
+      },
+      {
+        "en": "brand",
+        "bn": "কলঙ্ক আরোপ করা"
+      },
+      {
+        "en": "shame",
+        "bn": "লজ্জিত করা"
+      },
+      {
+        "en": "Mortify",
+        "bn": "কাউকে অত্যন্ত বিব্রত বা লজ্জিত করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "respect",
+        "bn": "সম্মান করা"
+      },
+      {
+        "en": "accept",
+        "bn": "গ্রহণ করা"
+      },
+      {
+        "en": "vindicate",
+        "bn": "দোষমুক্ত বা নির্দোষ প্রমাণ করা"
+      },
+      {
+        "en": "Acquit",
+        "bn": "অপরাধের অভিযোগ থেকে খালাস দেওয়া"
+      },
+      {
+        "en": "Exonerate",
+        "bn": "দোষমুক্ত করা"
+      },
+      {
+        "en": "Absolve",
+        "bn": "দায়মুক্ত করা"
+      },
+      {
+        "en": "Revere",
+        "bn": "গভীরভাবে শ্রদ্ধা করা"
+      },
+      {
+        "en": "Venerate",
+        "bn": "গভীর শ্রদ্ধা করা"
+      }
+    ],
+    "example": "Mental illness is often unfairly stigmatized.",
+    "example_bn": "মানসিক অসুস্থতাকে প্রায়ই অন্যায়ভাবে কলঙ্কের বিষয় হিসেবে দেখা হয়।",
+    "examples": [
+      "Mental illness is often unfairly stigmatized. — মানসিক অসুস্থতাকে প্রায়ই অন্যায়ভাবে কলঙ্কের বিষয় হিসেবে দেখা হয়।",
+      "At dinner, she explained that 'Stigmatize' means 'to treat someone unfairly by publicly disapproving', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Stigmatize’ শব্দটির অর্থ—কলঙ্কিত করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Stigmatize' as 'to treat someone unfairly by publicly disapproving' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Stigmatize’ শব্দটি কলঙ্কিত করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Stipulate",
+    "pronunciation_bn": "স্টিপ-ইউ-লেইট",
+    "pronunciation": "/ˈstɪp.jə.leɪt/",
+    "no": 764,
+    "group": 31,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to state clearly that something must be done or provided as part of an agreement",
+    "meaning_bn": [
+      "চুক্তির শর্ত হিসেবে নির্দিষ্ট করা",
+      "স্পষ্টভাবে শর্ত আরোপ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "specify",
+        "bn": "নির্দিষ্ট করে বলা"
+      },
+      {
+        "en": "require",
+        "bn": "শর্ত বা দাবি করা"
+      },
+      {
+        "en": "prescribe",
+        "bn": "বিধিবদ্ধ করে নির্ধারণ করা"
+      },
+      {
+        "en": "entail",
+        "bn": "অনিবার্যভাবে জড়িত থাকা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "waive",
+        "bn": "শর্ত বা অধিকার পরিত্যাগ করা"
+      },
+      {
+        "en": "omit",
+        "bn": "বাদ দেওয়া"
+      },
+      {
+        "en": "Forgo",
+        "bn": "ত্যাগ করা"
+      },
+      {
+        "en": "Relinquish",
+        "bn": "ত্যাগ করা"
+      }
+    ],
+    "example": "The contract stipulates a three-month notice period.",
+    "example_bn": "চুক্তিতে তিন মাসের নোটিশ দেওয়ার শর্ত নির্দিষ্ট করা হয়েছে।",
+    "examples": [
+      "The contract stipulates a three-month notice period. — চুক্তিতে তিন মাসের নোটিশ দেওয়ার শর্ত নির্দিষ্ট করা হয়েছে।",
+      "At dinner, she explained that 'Stipulate' means 'to state clearly that something must be done', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Stipulate’ শব্দটির অর্থ—চুক্তির শর্ত হিসেবে নির্দিষ্ট করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Stipulate' as 'to state clearly that something must be done' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Stipulate’ শব্দটি চুক্তির শর্ত হিসেবে নির্দিষ্ট করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Stoic",
+    "pronunciation_bn": "স্টো-ইক",
+    "pronunciation": "/ˈstəʊ.ɪk/",
+    "no": 765,
+    "group": 31,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "not showing pain or emotion, especially when experiencing difficulty",
+    "meaning_bn": [
+      "কষ্টেও আবেগ প্রকাশ করে না এমন",
+      "নির্বিকার",
+      "সহিষ্ণু"
+    ],
+    "synonyms": [
+      {
+        "en": "unemotional",
+        "bn": "আবেগপ্রকাশে সংযত"
+      },
+      {
+        "en": "impassive",
+        "bn": "ভাবলেশহীন"
+      },
+      {
+        "en": "resigned",
+        "bn": "পরিস্থিতি মেনে নেওয়া"
+      },
+      {
+        "en": "stolid",
+        "bn": "নির্বিকার"
+      },
+      {
+        "en": "dispassionate",
+        "bn": "আবেগমুক্ত"
+      },
+      {
+        "en": "phlegmatic",
+        "bn": "শান্ত ও নির্বিকার"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "emotional",
+        "bn": "আবেগপ্রবণ"
+      },
+      {
+        "en": "demonstrative",
+        "bn": "আবেগ প্রকাশ করে এমন"
+      },
+      {
+        "en": "Histrionic",
+        "bn": "অতিনাটকীয়"
+      }
+    ],
+    "example": "She bore the pain with stoic composure.",
+    "example_bn": "সে নির্বিকার সংযমের সঙ্গে ব্যথা সহ্য করেছিল।",
+    "examples": [
+      "She bore the pain with stoic composure. — সে নির্বিকার সংযমের সঙ্গে ব্যথা সহ্য করেছিল।",
+      "At dinner, she explained that 'Stoic' means 'not showing pain or emotion, especially when experiencing', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Stoic’ শব্দটির অর্থ—কষ্টেও আবেগ প্রকাশ করে না এমন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Stoic' as 'not showing pain or emotion, especially when experiencing' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Stoic’ শব্দটি কষ্টেও আবেগ প্রকাশ করে না এমন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Stratum",
+    "pronunciation_bn": "স্ট্রে-টাম",
+    "pronunciation": "/ˈstrɑː.təm/",
+    "no": 766,
+    "group": 31,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a layer or level, especially one of several layers or social groups",
+    "meaning_bn": [
+      "স্তর",
+      "সামাজিক শ্রেণি",
+      "পরত"
+    ],
+    "synonyms": [
+      {
+        "en": "layer",
+        "bn": "স্তর বা পরত"
+      },
+      {
+        "en": "level",
+        "bn": "স্তর"
+      },
+      {
+        "en": "social class",
+        "bn": "সামাজিক শ্রেণি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "whole",
+        "bn": "সমগ্র"
+      },
+      {
+        "en": "totality",
+        "bn": "সমগ্রতা"
+      }
+    ],
+    "example": "People from every stratum of society attended.",
+    "example_bn": "সমাজের প্রতিটি স্তরের মানুষ অনুষ্ঠানে উপস্থিত হয়েছিল।",
+    "examples": [
+      "People from every stratum of society attended. — সমাজের প্রতিটি স্তরের মানুষ অনুষ্ঠানে উপস্থিত হয়েছিল।",
+      "At dinner, she explained that 'Stratum' means 'a layer or level, especially one of several', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Stratum’ শব্দটির অর্থ—স্তর—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Stratum' as 'a layer or level, especially one of several' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Stratum’ শব্দটি স্তর অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Stricture",
+    "pronunciation_bn": "স্ট্রিক-চার",
+    "pronunciation": "/ˈstrɪk.tʃər/",
+    "no": 767,
+    "group": 31,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a restriction or limitation; also, a severe criticism",
+    "meaning_bn": [
+      "নিষেধাজ্ঞা বা সীমাবদ্ধতা",
+      "কঠোর সমালোচনা"
+    ],
+    "synonyms": [
+      {
+        "en": "restriction",
+        "bn": "নিষেধাজ্ঞা"
+      },
+      {
+        "en": "constraint",
+        "bn": "বাধা বা সীমাবদ্ধতা"
+      },
+      {
+        "en": "criticism",
+        "bn": "সমালোচনা"
+      },
+      {
+        "en": "sanction",
+        "bn": "আনুষ্ঠানিক অনুমোদন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "freedom",
+        "bn": "স্বাধীনতা"
+      },
+      {
+        "en": "approval",
+        "bn": "অনুমোদন বা সমর্থন"
+      },
+      {
+        "en": "Prerogative",
+        "bn": "বিশেষ অধিকার"
+      },
+      {
+        "en": "Approbation",
+        "bn": "অনুমোদন"
+      },
+      {
+        "en": "blandishment",
+        "bn": "তোষামোদ"
+      },
+      {
+        "en": "eulogy",
+        "bn": "প্রশস্তিমূলক ভাষণ"
+      },
+      {
+        "en": "panegyric",
+        "bn": "আড়ম্বরপূর্ণ প্রশংসাবাণী"
+      }
+    ],
+    "example": "The judge placed strictures on media coverage.",
+    "example_bn": "বিচারক সংবাদমাধ্যমের প্রতিবেদন প্রকাশের ওপর সীমাবদ্ধতা আরোপ করেছিলেন।",
+    "examples": [
+      "The judge placed strictures on media coverage. — বিচারক সংবাদমাধ্যমের প্রতিবেদন প্রকাশের ওপর সীমাবদ্ধতা আরোপ করেছিলেন।",
+      "At dinner, she explained that 'Stricture' means 'a restriction or limitation', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Stricture’ শব্দটির অর্থ—নিষেধাজ্ঞা বা সীমাবদ্ধতা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Stricture' as 'a restriction or limitation' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Stricture’ শব্দটি নিষেধাজ্ঞা বা সীমাবদ্ধতা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Strife",
+    "pronunciation_bn": "স্ট্রাইফ",
+    "pronunciation": "/straɪf/",
+    "no": 768,
+    "group": 31,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "angry or violent disagreement or conflict",
+    "meaning_bn": [
+      "দ্বন্দ্ব",
+      "কলহ",
+      "সংঘাত"
+    ],
+    "synonyms": [
+      {
+        "en": "conflict",
+        "bn": "সংঘাত"
+      },
+      {
+        "en": "discord",
+        "bn": "মতবিরোধ"
+      },
+      {
+        "en": "dissension",
+        "bn": "বিরোধ"
+      },
+      {
+        "en": "Cacophony",
+        "bn": "কর্কশ শব্দমিশ্রণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "harmony",
+        "bn": "সম্প্রীতি"
+      },
+      {
+        "en": "peace",
+        "bn": "শান্তি"
+      },
+      {
+        "en": "accord",
+        "bn": "সমঝোতা"
+      },
+      {
+        "en": "Concord",
+        "bn": "সম্প্রীতি"
+      },
+      {
+        "en": "Consensus",
+        "bn": "সাধারণ ঐকমত্য"
+      },
+      {
+        "en": "concert",
+        "bn": "সম্মিলিত উদ্যোগ"
+      },
+      {
+        "en": "Covenant",
+        "bn": "আনুষ্ঠানিক চুক্তি"
+      },
+      {
+        "en": "nirvana",
+        "bn": "বৌদ্ধধর্মে দুঃখ ও পুনর্জন্মের চক্র থেকে মুক্তির পরম অবস্থা"
+      }
+    ],
+    "example": "Civil strife tore the country apart.",
+    "example_bn": "অভ্যন্তরীণ সংঘাত দেশটিকে বিভক্ত করে ফেলেছিল।",
+    "examples": [
+      "Civil strife tore the country apart. — অভ্যন্তরীণ সংঘাত দেশটিকে বিভক্ত করে ফেলেছিল।",
+      "At dinner, she explained that 'Strife' means 'angry or violent disagreement or conflict', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Strife’ শব্দটির অর্থ—দ্বন্দ্ব—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Strife' as 'angry or violent disagreement or conflict' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Strife’ শব্দটি দ্বন্দ্ব অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Stringent",
+    "pronunciation_bn": "স্ট্রিন-জেন্ট",
+    "pronunciation": "/ˈstrɪn.dʒənt/",
+    "no": 769,
+    "group": 31,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "very strict, exact, and demanding; difficult to satisfy or obey",
+    "meaning_bn": [
+      "কঠোর",
+      "কড়াকড়িপূর্ণ",
+      "কঠোরভাবে নিয়ন্ত্রিত"
+    ],
+    "synonyms": [
+      {
+        "en": "strict",
+        "bn": "কঠোর"
+      },
+      {
+        "en": "rigorous",
+        "bn": "কঠোর ও নির্ভুল"
+      },
+      {
+        "en": "exacting",
+        "bn": "উচ্চ মান দাবি করে এমন"
+      },
+      {
+        "en": "draconian",
+        "bn": "অত্যন্ত কঠোর"
+      },
+      {
+        "en": "Arduous",
+        "bn": "কঠিন"
+      },
+      {
+        "en": "Exhaustive",
+        "bn": "পুঙ্খানুপুঙ্খ"
+      },
+      {
+        "en": "Onerous",
+        "bn": "দুরূহ"
+      },
+      {
+        "en": "Austere",
+        "bn": "সাদাসিধে ও অনাড়ম্বর"
+      },
+      {
+        "en": "Comprehensive",
+        "bn": "সর্বাঙ্গীণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "lenient",
+        "bn": "নমনীয়"
+      },
+      {
+        "en": "lax",
+        "bn": "শিথিল"
+      },
+      {
+        "en": "permissive",
+        "bn": "ছাড় দেয় এমন"
+      },
+      {
+        "en": "Indulgent",
+        "bn": "প্রশ্রয়দাতা"
+      },
+      {
+        "en": "Idyllic",
+        "bn": "অত্যন্ত মনোরম"
+      },
+      {
+        "en": "Mellifluous",
+        "bn": "শুনতে মধুর, মসৃণ ও সুরেলা"
+      }
+    ],
+    "example": "The company enforced stringent safety rules.",
+    "example_bn": "কোম্পানিটি কঠোর নিরাপত্তাবিধি কার্যকর করেছিল।",
+    "examples": [
+      "The company enforced stringent safety rules. — কোম্পানিটি কঠোর নিরাপত্তাবিধি কার্যকর করেছিল।",
+      "At dinner, she explained that 'Stringent' means 'very strict, exact, and demanding', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Stringent’ শব্দটির অর্থ—কঠোর—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Stringent' as 'very strict, exact, and demanding' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Stringent’ শব্দটি কঠোর অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Stymie",
+    "pronunciation_bn": "স্টাই-মি",
+    "pronunciation": "/ˈstaɪ.mi/",
+    "no": 770,
+    "group": 31,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to prevent someone from achieving a goal or to obstruct progress",
+    "meaning_bn": [
+      "বাধাগ্রস্ত করা",
+      "অগ্রগতি আটকে দেওয়া",
+      "ব্যাহত করা"
+    ],
+    "synonyms": [
+      {
+        "en": "obstruct",
+        "bn": "বাধা দেওয়া"
+      },
+      {
+        "en": "thwart",
+        "bn": "ব্যর্থ করে দেওয়া"
+      },
+      {
+        "en": "hinder",
+        "bn": "প্রতিবন্ধকতা সৃষ্টি করা"
+      },
+      {
+        "en": "Impede",
+        "bn": "বাধা দেওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "assist",
+        "bn": "সহায়তা করা"
+      },
+      {
+        "en": "facilitate",
+        "bn": "সহজতর করা"
+      },
+      {
+        "en": "advance",
+        "bn": "এগিয়ে নেওয়া"
+      },
+      {
+        "en": "Expedite",
+        "bn": "দ্রুততর করা"
+      },
+      {
+        "en": "Abet",
+        "bn": "অন্যায় কাজে সহায়তা করা"
+      },
+      {
+        "en": "Avail",
+        "bn": "উপকারে আসা"
+      },
+      {
+        "en": "foster",
+        "bn": "লালন করা"
+      },
+      {
+        "en": "propound",
+        "bn": "প্রস্তাব করা"
+      }
+    ],
+    "example": "The lack of funding stymied the research project.",
+    "example_bn": "অর্থের অভাবে গবেষণা প্রকল্পটির অগ্রগতি বাধাগ্রস্ত হয়েছিল।",
+    "examples": [
+      "The lack of funding stymied the research project. — অর্থের অভাবে গবেষণা প্রকল্পটির অগ্রগতি বাধাগ্রস্ত হয়েছিল।",
+      "At dinner, she explained that 'Stymie' means 'to prevent someone from achieving a goal', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Stymie’ শব্দটির অর্থ—বাধাগ্রস্ত করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Stymie' as 'to prevent someone from achieving a goal' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Stymie’ শব্দটি বাধাগ্রস্ত করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Subjugate",
+    "pronunciation_bn": "সাব-জু-গেইট",
+    "pronunciation": "/ˈsʌb.dʒʊ.ɡeɪt/",
+    "no": 771,
+    "group": 31,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to bring a person or group under domination or control, often by force",
+    "meaning_bn": [
+      "পরাধীন করা",
+      "বশীভূত করা",
+      "দমন করে অধীনস্থ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "dominate",
+        "bn": "আধিপত্য বিস্তার করা"
+      },
+      {
+        "en": "conquer",
+        "bn": "জয় করে অধীন করা"
+      },
+      {
+        "en": "enslave",
+        "bn": "দাসে পরিণত করা"
+      },
+      {
+        "en": "vanquish",
+        "bn": "সম্পূর্ণভাবে পরাজিত করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "liberate",
+        "bn": "মুক্ত করা"
+      },
+      {
+        "en": "emancipate",
+        "bn": "পরাধীনতা থেকে মুক্ত করা"
+      },
+      {
+        "en": "free",
+        "bn": "স্বাধীন করা"
+      },
+      {
+        "en": "Extricate",
+        "bn": "বিপদ বা জটিল অবস্থা থেকে মুক্ত করা"
+      }
+    ],
+    "example": "The empire subjugated neighboring peoples.",
+    "example_bn": "সাম্রাজ্যটি প্রতিবেশী জনগোষ্ঠীগুলোকে পরাধীন করেছিল।",
+    "examples": [
+      "The empire subjugated neighboring peoples. — সাম্রাজ্যটি প্রতিবেশী জনগোষ্ঠীগুলোকে পরাধীন করেছিল।",
+      "At dinner, she explained that 'Subjugate' means 'to bring a person or group under domination', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Subjugate’ শব্দটির অর্থ—পরাধীন করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Subjugate' as 'to bring a person or group under domination' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Subjugate’ শব্দটি পরাধীন করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Sublime",
+    "pronunciation_bn": "সা-ব্লাইম",
+    "pronunciation": "/səˈblaɪm/",
+    "no": 772,
+    "group": 31,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "extremely beautiful, impressive, or great, inspiring admiration",
+    "meaning_bn": [
+      "মহিমান্বিত",
+      "অসাধারণ সুন্দর",
+      "মহত্ত্বপূর্ণ",
+      "অতুলনীয়"
+    ],
+    "synonyms": [
+      {
+        "en": "magnificent",
+        "bn": "চমৎকার"
+      },
+      {
+        "en": "exalted",
+        "bn": "মহিমান্বিত"
+      },
+      {
+        "en": "magnanimous",
+        "bn": "মহৎ"
+      },
+      {
+        "en": "Grandiose",
+        "bn": "জাঁকজমকপূর্ণ"
+      },
+      {
+        "en": "Munificent",
+        "bn": "বিশেষত অর্থ বা উপহার দেওয়ার ক্ষেত্রে অত্যন্ত উদার"
+      },
+      {
+        "en": "Benevolent",
+        "bn": "দয়ালু"
+      },
+      {
+        "en": "Opulent",
+        "bn": "বিলাসবহুল"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "inferior",
+        "bn": "নিকৃষ্ট"
+      },
+      {
+        "en": "ordinary",
+        "bn": "সাধারণ"
+      },
+      {
+        "en": "trivial",
+        "bn": "তুচ্ছ"
+      },
+      {
+        "en": "Acquisitive",
+        "bn": "অর্জন করতে আগ্রহী"
+      },
+      {
+        "en": "Misanthropic",
+        "bn": "অন্য মানুষ বা সমগ্র মানবজাতিকে অপছন্দ বা অবিশ্বাস করে এমন"
+      },
+      {
+        "en": "Mundane",
+        "bn": "সাধারণ ও অনাকর্ষণীয়"
+      },
+      {
+        "en": "Paltry",
+        "bn": "নগণ্য"
+      },
+      {
+        "en": "Parsimonious",
+        "bn": "অত্যন্ত কৃপণ"
+      }
+    ],
+    "example": "The mountain scenery was simply sublime.",
+    "example_bn": "পাহাড়ের দৃশ্যটি ছিল সত্যিই অপূর্ব।",
+    "examples": [
+      "The mountain scenery was simply sublime. — পাহাড়ের দৃশ্যটি ছিল সত্যিই অপূর্ব।",
+      "At dinner, she explained that 'Sublime' means 'extremely beautiful, impressive, or great, inspiring admiration', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Sublime’ শব্দটির অর্থ—মহিমান্বিত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Sublime' as 'extremely beautiful, impressive, or great, inspiring admiration' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Sublime’ শব্দটি মহিমান্বিত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Subordinate",
+    "pronunciation_bn": "সə-বোর-ডি-নেট",
+    "pronunciation": "/səˈbɔː.dɪ.nət/",
+    "no": 773,
+    "group": 31,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "lower in rank or position; less important than something else",
+    "meaning_bn": [
+      "অধীনস্থ",
+      "নিম্নপদস্থ",
+      "গৌণ"
+    ],
+    "synonyms": [
+      {
+        "en": "junior",
+        "bn": "পদমর্যাদায় নিম্ন"
+      },
+      {
+        "en": "inferior",
+        "bn": "নিম্নতর"
+      },
+      {
+        "en": "lesser",
+        "bn": "কম গুরুত্বপূর্ণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "senior",
+        "bn": "জ্যেষ্ঠ বা উচ্চপদস্থ"
+      },
+      {
+        "en": "superior",
+        "bn": "উচ্চতর"
+      },
+      {
+        "en": "dominant",
+        "bn": "প্রধান বা প্রভাবশালী"
+      },
+      {
+        "en": "Autonomous",
+        "bn": "স্বায়ত্তশাসিত"
+      },
+      {
+        "en": "predominant",
+        "bn": "প্রধান"
+      },
+      {
+        "en": "sovereign",
+        "bn": "সর্বোচ্চ শাসক"
+      },
+      {
+        "en": "Magnate",
+        "bn": "ধনী ও প্রভাবশালী ব্যক্তি (pos change)"
+      },
+      {
+        "en": "Preeminent",
+        "bn": "সর্বশ্রেষ্ঠ"
+      },
+      {
+        "en": "Sublime",
+        "bn": "মহিমান্বিত"
+      }
+    ],
+    "example": "He was subordinate to the regional manager.",
+    "example_bn": "তিনি আঞ্চলিক ব্যবস্থাপকের অধীনস্থ ছিলেন।",
+    "examples": [
+      "He was subordinate to the regional manager. — তিনি আঞ্চলিক ব্যবস্থাপকের অধীনস্থ ছিলেন।",
+      "At dinner, she explained that 'Subordinate' means 'lower in rank or position', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Subordinate’ শব্দটির অর্থ—অধীনস্থ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Subordinate' as 'lower in rank or position' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Subordinate’ শব্দটি অধীনস্থ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Substantive",
+    "pronunciation_bn": "সাব-স্ট্যান-টিভ",
+    "pronunciation": "/ˈsʌb.stən.tɪv/",
+    "no": 774,
+    "group": 31,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "important, real, or involving the essential facts or meaning of something",
+    "meaning_bn": [
+      "মৌলিক",
+      "বাস্তব ও গুরুত্বপূর্ণ",
+      "সারবস্তুসম্পর্কিত",
+      "সারগর্ভ"
+    ],
+    "synonyms": [
+      {
+        "en": "substantial",
+        "bn": "যথেষ্ট ও গুরুত্বপূর্ণ"
+      },
+      {
+        "en": "meaningful",
+        "bn": "অর্থবহ"
+      },
+      {
+        "en": "significant",
+        "bn": "তাৎপর্যপূর্ণ"
+      },
+      {
+        "en": "pregnant",
+        "bn": "গর্ভবতী"
+      },
+      {
+        "en": "voluminous",
+        "bn": "বৃহৎ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "trivial",
+        "bn": "তুচ্ছ"
+      },
+      {
+        "en": "superficial",
+        "bn": "অগভীর"
+      },
+      {
+        "en": "insubstantial",
+        "bn": "সারবস্তুহীন"
+      },
+      {
+        "en": "titular",
+        "bn": "নামমাত্র পদে থাকা"
+      },
+      {
+        "en": "Nominal",
+        "bn": "নামমাত্র"
+      },
+      {
+        "en": "Paltry",
+        "bn": "নগণ্য"
+      },
+      {
+        "en": "Infinitesimal",
+        "bn": "অতি ক্ষুদ্র"
+      },
+      {
+        "en": "cursory",
+        "bn": "দ্রুত ও উপর উপর করা"
+      },
+      {
+        "en": "Facile",
+        "bn": "অতি সহজে করা হলেও যথেষ্ট চিন্তাভাবনাহীন"
+      }
+    ],
+    "example": "We need substantive progress in negotiations.",
+    "example_bn": "আলোচনায় আমাদের বাস্তব ও উল্লেখযোগ্য অগ্রগতি দরকার।",
+    "examples": [
+      "We need substantive progress in negotiations. — আলোচনায় আমাদের বাস্তব ও উল্লেখযোগ্য অগ্রগতি দরকার।",
+      "At dinner, she explained that 'Substantive' means 'important, real, or involving the essential facts', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Substantive’ শব্দটির অর্থ—মৌলিক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Substantive' as 'important, real, or involving the essential facts' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Substantive’ শব্দটি মৌলিক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Subtle",
+    "pronunciation_bn": "সাট-ল",
+    "pronunciation": "/ˈsʌt.əl/",
+    "no": 775,
+    "group": 31,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "not obvious or easy to notice; delicate or slight",
+    "meaning_bn": [
+      "সূক্ষ্ম",
+      "সহজে চোখে পড়ে না এমন",
+      "অল্প কিন্তু তাৎপর্যপূর্ণ"
+    ],
+    "synonyms": [
+      {
+        "en": "delicate",
+        "bn": "সূক্ষ্ম"
+      },
+      {
+        "en": "nuanced",
+        "bn": "সূক্ষ্ম পার্থক্যপূর্ণ"
+      },
+      {
+        "en": "faint",
+        "bn": "মৃদু"
+      },
+      {
+        "en": "Ethereal",
+        "bn": "অতিলৌকিক"
+      },
+      {
+        "en": "exquisite",
+        "bn": "অসাধারণ সুন্দর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "obvious",
+        "bn": "স্পষ্ট"
+      },
+      {
+        "en": "blatant",
+        "bn": "প্রকাশ্য"
+      },
+      {
+        "en": "noticeable",
+        "bn": "সহজে চোখে পড়ে এমন"
+      },
+      {
+        "en": "Flagrant",
+        "bn": "প্রকাশ্য ও গুরুতর"
+      },
+      {
+        "en": "stark",
+        "bn": "কঠোর"
+      },
+      {
+        "en": "obtrusive",
+        "bn": "অনধিকারভাবে চোখে পড়ে এমন"
+      },
+      {
+        "en": "Egregious",
+        "bn": "চরম জঘন্য"
+      },
+      {
+        "en": "conspicuous",
+        "bn": "সহজে চোখে পড়ে এমন"
+      },
+      {
+        "en": "Manifest",
+        "bn": "স্পষ্ট"
+      },
+      {
+        "en": "Palpable",
+        "bn": "স্পর্শযোগ্য"
+      },
+      {
+        "en": "Patent",
+        "bn": "সুস্পষ্ট"
+      }
+    ],
+    "example": "She made a subtle change to her hairstyle.",
+    "example_bn": "সে তার চুলের সাজে সূক্ষ্ম একটি পরিবর্তন এনেছিল।",
+    "examples": [
+      "She made a subtle change to her hairstyle. — সে তার চুলের সাজে সূক্ষ্ম একটি পরিবর্তন এনেছিল।",
+      "At dinner, she explained that 'Subtle' means 'not obvious or easy to notice', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Subtle’ শব্দটির অর্থ—সূক্ষ্ম—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Subtle' as 'not obvious or easy to notice' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Subtle’ শব্দটি সূক্ষ্ম অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

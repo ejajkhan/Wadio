@@ -1,2 +1,0 @@
--keep class com.wadio.app.** { *; }
--keep class org.bouncycastle.** { *; }

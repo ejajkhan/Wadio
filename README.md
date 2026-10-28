@@ -1,94 +1,77 @@
-# Wadio (native Kotlin port)
+# Wordsmart Vocabulary (Android)
 
-Native Kotlin + Jetpack Compose rewrite of the original Rust / egui Wadio app.
+An offline-first Android vocabulary app for the supplied Wordsmart 1 and Wordsmart 2 JSON collections.
 
-Every user-visible feature and every documented durability guarantee of the
-original is preserved. See "Intentional differences" below for the three
-internal implementation choices that differ (none are user-facing).
+## Features
 
-## Feature parity
+- Home screen with **Wordsmart 1** and **Wordsmart 2**.
+- 34 groups per collection; group names map to the supplied `ws1_group_XX.json` and `ws2_group_XX.json` files.
+- Full word details: English word, IPA and Bangla pronunciation, part of speech, English and Bangla meanings, synonyms, antonyms, example, Bangla example, and additional examples when present.
+- Swipe left/right or use Previous/Next buttons to move between words in a group.
+- Add synonyms and antonyms with optional Bangla meanings; remove entries you added or no longer want.
+- All edits are saved to the app's private local copy. Original JSON assets in the source project are not modified.
+- **Export** creates a `words.zip` containing the two original folder names and all JSON files with your local edits included.
+- Works offline; no account, ads, or network permission is needed.
 
-- **Audio Manager** – Media / System / Alarm sliders bound to the live
-  `AudioManager` streams. Matches `src/ui/audio_view.rs`.
-- **Stealth trigger** – press and hold "Wadio" for **3.0 s**. Matches
-  `AuthEngine::update_header_touch`.
-- **4-digit PIN** – set on first run (with confirmation), verified with
-  **Argon2id**, parameters matched to `argon2` crate defaults
-  (`m=19456, t=2, p=1`). Verifier is stored as a PHC string in `meta.vault_pw`;
-  the PIN itself is never persisted.
-- **Exponential PIN lockout** – `2^min(attempts,6)` capped at 60 s,
-  persisted via `meta.pin_fail_count` / `meta.pin_lock_until`. Matches
-  `src/app.rs`.
-- **Biometric unlock** – `BiometricPrompt` with `DEVICE_CREDENTIAL | BIOMETRIC_STRONG`,
-  only shown when a PIN is already configured. Mirrors
-  `MainActivity::launchBiometricPrompt`.
-- **FLAG_SECURE** – applied on the PIN prompt, the vault, the image viewer,
-  and on `onPause`/`onStop` so Recents never shows plaintext. On resume,
-  re-applied to match the current auth state.
-- **Background lock** – `ProcessLifecycleOwner.ON_STOP` → `requestLock()`.
-  Suspended while a biometric prompt is active (matching
-  `biometricPromptActive` in the Rust code).
-- **60 s idle lock** – suspended while viewing a photo (parity with
-  `viewing_photo` logic). `IDLE_RESET` fires on `onResume` so returning from
-  the video task doesn't trigger a false lock.
-- **Video playback** – separate `InternalVideoActivity` with
-  `excludeFromRecents`, `taskAffinity=""`, `FLAG_ACTIVITY_NEW_TASK`, and
-  `FLAG_SECURE`. Uses Media3 ExoPlayer (the original used ExoPlayer too).
-- **Album system** – `default` album seeded on DB create, protected from
-  deletion. Missing album folders are recreated on startup. When the DB
-  reports more than one album, unknown folders are **moved** to `.orphaned/`
-  — never deleted.
-- **Import** – SAF multi-pick (`image/*, video/*`). Streams in 64 KB chunks,
-  hashes with SHA-256, rejects duplicates by content hash, checks available
-  disk space (`1.15× + 15 MB`), and validates image dimensions (≤ 50 megapixels,
-  ≤ 30 000 px per side) using `BitmapFactory` header decode.
-- **Durable pending markers** – before the staging→media rename, a JSON
-  marker is written to `.pending/{id}.json`. Startup recovery:
-  (1) attempts the rename if the staging file is still present,
-  (2) attempts the DB insert,
-  (3) removes the marker+file on duplicate-if-uncommitted,
-  (4) leaves the marker on transient SQL failure for later retry.
-- **Orphan recovery** – unreferenced files older than 24 h are **moved**
-  into `.orphaned/` (never deleted). `.orphaned/` is purged only after 30 days.
-  If the DB reports zero referenced paths, recovery is a no-op (fresh install
-  or partial restore safety).
-- **Interrupted import recovery** – stale `.tmp` files > 24 h old are removed
-  from `.staging/`. Staging files whose IDs appear in a valid pending marker
-  are protected.
-- **Copy / Move / Delete**
-  - Copy: independent file under destination album with a fresh UUID, DB
-    insert bypasses the duplicate check (copies deliberately share hashes).
-  - Move: transactional DB update + file rename; on filesystem failure, the
-    DB is rolled back.
-  - Delete: transactional DB delete; files are only removed when no row
-    references them.
-- **Sort** – Name / Size / Date created, ascending or descending.
-- **Multi-select** – 2 s long-press in the gallery grid.
+## Source data
 
-## Intentional differences (internal only)
+The 68 JSON files from the supplied `Wordsmart_Research_Revision-1.zip` are included unchanged under `app/src/main/assets/word_smart_1/` and `app/src/main/assets/word_smart_2/`. The app copies these into private app storage on first launch and edits those copies. Each collection contains 34 groups; the supplied data has 850 Wordsmart 1 entries and 829 Wordsmart 2 entries.
 
-These do not remove any user-visible feature, but they are not line-for-line
-ports of the original implementation:
+## Build on GitHub Actions
 
-1. **Thumbnails** – the original spawned a worker thread and built a
-   pre-sampled animated `.gif` per item. The Kotlin port generates a static
-   96 px JPEG on import (used as album cover and grid fallback), and the
-   Compose grid renders animated GIFs live via Coil-gif. Feature parity is
-   preserved; the internal 20-frame pre-sampling is not.
-2. **Exotic image formats** – DDS, EXR, HDR, ICO, QOI, TGA, TIFF are still
-   *accepted on import* (validation uses `BitmapFactory` headers, so these
-   formats with valid headers will import), but the viewer shows a
-   "Preview not supported" card for them because Android has no built-in
-   decoder. JPEG, PNG, WebP, GIF, BMP, HEIC/HEIF and AVIF all display
-   correctly. This is an Android platform limitation, not a missing feature
-   in the port.
-3. **HEIC/HEIF** – the original Kotlin side already converted HEIC/HEIF to
-   JPEG on Android 9+. That code is preserved here (`MainActivity` was
-   already Kotlin in the original repo). If you import HEIC on Android 8.x,
-   the import will fail the same way it does in the original app.
+1. Create a new GitHub repository and upload/push the contents of this project (the files in this folder, not the outer ZIP).
+2. Ensure the default branch is named `main` or `master`.
+3. Push a commit. The workflow at `.github/workflows/android.yml` builds a debug APK on each push or pull request to those branches.
+4. Open the repository's **Actions** tab, select **Build Wordsmart Android App**, open the completed run, and download the **Wordsmart-debug-apk** artifact.
+5. Extract the artifact ZIP and install `app-debug.apk` on an Android device. For Android's security prompt, allow installation from the app used to open the APK.
 
-## Building
+You can also start a build manually from **Actions → Build Wordsmart Android App → Run workflow**.
+
+## Build locally
+
+Requires JDK 17 and Android SDK platform 35. The included `gradlew` / `gradlew.bat` scripts bootstrap the pinned Gradle 8.9 distribution automatically on first run; an existing system Gradle installation is not required. Internet access is needed on first run.
+
+Linux/macOS:
 
 ```bash
-gradle wrapper --gradle-version 8.7
-./gradlew :app:assembleDebug
+./gradlew assembleDebug
+```
+
+Windows:
+
+```bat
+gradlew.bat assembleDebug
+```
+
+The APK is written to `app/build/outputs/apk/debug/app-debug.apk`. The project includes `settings.gradle.kts`, root and app `build.gradle.kts`, `gradle.properties`, a pinned Gradle version in `gradle/wrapper/gradle-wrapper.properties`, and cross-platform bootstrap scripts.
+
+## Notes
+
+- This is a debug build configuration, intended for testing and personal use. A release APK for distribution should be built with a private signing key; never commit that key or its passwords to GitHub.
+- Export writes the JSON files using the same relative directory layout as the input archive. It exports the full collection data, including edits, rather than just the currently selected group.
+- The app edits the local copy of the supplied JSON data. If you reinstall after clearing app data, any unsaved-to-export edits in app storage are lost; export regularly for backup.
+
+## Open-source UI references
+
+The interface takes general inspiration from common open-source vocabulary/flashcard patterns, including list-first navigation and swipeable word cards. References reviewed during implementation:
+
+- https://github.com/tianjianfeng/VocabApp
+- https://f-droid.org/en/packages/vocabletrainer.heinecke.aron.vocabletrainer/
+
+No source code from these projects is bundled into this app.
+
+
+## Latest feature update
+
+- Dark theme is the default; change to light theme in Settings.
+- Settings contains Export and Import actions. Import accepts only a ZIP containing all 68 group JSON files with the exact `word_smart_1/ws1_group_01.json` through `ws1_group_34.json` and `word_smart_2/ws2_group_01.json` through `ws2_group_34.json` paths. The ZIP is validated before replacing local data.
+- Bookmark any word from its word-detail screen. Bookmarks persist locally, can be filtered within a group, and are available from the home screen.
+- Android system back and edge-back gestures navigate to the previous app screen.
+- The app remembers the last open screen, collection, group, and word index.
+- Launcher icon uses the `Wrd` mark.
+
+The UI direction references open-source Compose vocabulary apps such as [VocabApp](https://github.com/tianjianfeng/VocabApp) (multiple lists, word navigation, progress memory) and [Palabra](https://github.com/Erik-Donath/Palabra) (mobile-first vocabulary UI and dark-theme polish). This project is an independent implementation and does not copy their source code.
+
+## Vocabulary examples display
+
+The word detail screen displays the primary `example` + `example_bn` pair and entries from `examples` as a compact numbered list (`Example 1`, `Example 2`, etc.). If an entry in `examples` repeats the primary English example, it is shown only once. The JSON data itself is not modified by this display formatting.

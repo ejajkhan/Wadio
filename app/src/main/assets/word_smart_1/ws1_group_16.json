@@ -1,0 +1,1704 @@
+[
+  {
+    "word": "Fatuous",
+    "pronunciation_bn": "ফ্যুচুয়াস",
+    "pronunciation": "/ˈfætʃ.u.əs/",
+    "no": 376,
+    "group": 16,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "silly or stupid, especially in a way that shows poor judgment",
+    "meaning_bn": [
+      "নির্বোধ",
+      "মূর্খতাপূর্ণ",
+      "অবিবেচনাপ্রসূত"
+    ],
+    "synonyms": [
+      {
+        "en": "silly",
+        "bn": "নির্বোধ"
+      },
+      {
+        "en": "foolish",
+        "bn": "বোকামিপূর্ণ"
+      },
+      {
+        "en": "asinine",
+        "bn": "গর্দভসুলভ"
+      },
+      {
+        "en": "Inane",
+        "bn": "নির্বোধ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "sensible",
+        "bn": "বুদ্ধিমান ও যুক্তিসংগত"
+      },
+      {
+        "en": "wise",
+        "bn": "জ্ঞানী"
+      },
+      {
+        "en": "intelligent",
+        "bn": "বুদ্ধিমান"
+      },
+      {
+        "en": "Astute",
+        "bn": "বিচক্ষণ"
+      },
+      {
+        "en": "Judicious",
+        "bn": "বিচক্ষণ"
+      },
+      {
+        "en": "Prudent",
+        "bn": "বিচক্ষণ"
+      },
+      {
+        "en": "Sagacious",
+        "bn": "প্রজ্ঞাবান"
+      },
+      {
+        "en": "Pragmatic",
+        "bn": "বাস্তবসম্মত"
+      }
+    ],
+    "example": "His fatuous remark showed that he had not understood the issue.",
+    "example_bn": "তার নির্বোধ মন্তব্যটি দেখিয়ে দিল যে সে বিষয়টি বুঝতে পারেনি.",
+    "examples": [
+      "His fatuous remark showed that he had not understood the issue. — তার নির্বোধ মন্তব্যটি দেখিয়ে দিল যে সে বিষয়টি বুঝতে পারেনি.",
+      "At dinner, she explained that 'Fatuous' means 'silly or stupid, especially in a way that', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Fatuous’ শব্দটির অর্থ—নির্বোধ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Fatuous' as 'silly or stupid, especially in a way that' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Fatuous’ শব্দটি নির্বোধ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Fauna",
+    "pronunciation_bn": "ফনা",
+    "pronunciation": "/ˈfɔː.nə/",
+    "no": 377,
+    "group": 16,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the animals of a particular region, habitat, or geological period",
+    "meaning_bn": [
+      "কোনো অঞ্চল বা পরিবেশের প্রাণিকুল",
+      "প্রাণিজগৎ"
+    ],
+    "synonyms": [
+      {
+        "en": "animal life",
+        "bn": "প্রাণিকুল"
+      },
+      {
+        "en": "wildlife",
+        "bn": "বন্যপ্রাণী"
+      },
+      {
+        "en": "animals",
+        "bn": "প্রাণীরা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "flora",
+        "bn": "উদ্ভিদকুল"
+      }
+    ],
+    "example": "The national park protects the region's diverse fauna.",
+    "example_bn": "জাতীয় উদ্যানটি অঞ্চলের বৈচিত্র্যময় প্রাণিকুলকে রক্ষা করে।",
+    "examples": [
+      "The national park protects the region's diverse fauna. — জাতীয় উদ্যানটি অঞ্চলের বৈচিত্র্যময় প্রাণিকুলকে রক্ষা করে।",
+      "At dinner, she explained that 'Fauna' means 'the animals of a particular region, habitat', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Fauna’ শব্দটির অর্থ—কোনো অঞ্চল বা পরিবেশের প্রাণিকুল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Fauna' as 'the animals of a particular region, habitat' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Fauna’ শব্দটি কোনো অঞ্চল বা পরিবেশের প্রাণিকুল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Fecund",
+    "pronunciation_bn": "ফিকান্ড",
+    "pronunciation": "/ˈfek.ənd/",
+    "no": 378,
+    "group": 16,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "producing many offspring, fruits, or results; fertile or highly productive",
+    "meaning_bn": [
+      "উর্বর",
+      "প্রচুর ফলনশীল",
+      "সৃজনশীল"
+    ],
+    "synonyms": [
+      {
+        "en": "fertile",
+        "bn": "উর্বর"
+      },
+      {
+        "en": "productive",
+        "bn": "উৎপাদনশীল"
+      },
+      {
+        "en": "fruitful",
+        "bn": "ফলপ্রসূ"
+      },
+      {
+        "en": "Prolific",
+        "bn": "প্রচুর সৃষ্টি বা উৎপাদন করে এমন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "infertile",
+        "bn": "অনুর্বর"
+      },
+      {
+        "en": "barren",
+        "bn": "বন্ধ্যা বা অনুর্বর"
+      },
+      {
+        "en": "unproductive",
+        "bn": "অনুৎপাদনশীল"
+      },
+      {
+        "en": "Arid",
+        "bn": "শুষ্ক"
+      },
+      {
+        "en": "Abortive",
+        "bn": "ব্যর্থ"
+      },
+      {
+        "en": "Futile",
+        "bn": "নিষ্ফল"
+      }
+    ],
+    "example": "The fecund soil produced an abundant harvest.",
+    "example_bn": "উর্বর মাটিতে প্রচুর ফসল ফলেছিল।",
+    "examples": [
+      "The fecund soil produced an abundant harvest. — উর্বর মাটিতে প্রচুর ফসল ফলেছিল।",
+      "At dinner, she explained that 'Fecund' means 'producing many offspring, fruits, or results', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Fecund’ শব্দটির অর্থ—উর্বর—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Fecund' as 'producing many offspring, fruits, or results' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Fecund’ শব্দটি উর্বর অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Felicity",
+    "pronunciation_bn": "ফি-লিসিটি",
+    "pronunciation": "/fəˈlɪs.ə.ti/",
+    "no": 379,
+    "group": 16,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "great happiness; also, the ability to express something aptly and effectively",
+    "meaning_bn": [
+      "পরম সুখ",
+      "আনন্দ",
+      "যথাযথ ও সুন্দরভাবে প্রকাশের দক্ষতা"
+    ],
+    "synonyms": [
+      {
+        "en": "happiness",
+        "bn": "সুখ"
+      },
+      {
+        "en": "bliss",
+        "bn": "পরম আনন্দ"
+      },
+      {
+        "en": "contentment",
+        "bn": "তৃপ্তি"
+      },
+      {
+        "en": "elation",
+        "bn": "প্রবল আনন্দ"
+      },
+      {
+        "en": "nirvana",
+        "bn": "বৌদ্ধধর্মে দুঃখ ও পুনর্জন্মের চক্র থেকে মুক্তির পরম অবস্থা"
+      },
+      {
+        "en": "rapture",
+        "bn": "পরম আনন্দ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "misery",
+        "bn": "দুর্দশা"
+      },
+      {
+        "en": "unhappiness",
+        "bn": "অসুখ"
+      },
+      {
+        "en": "distress",
+        "bn": "মানসিক কষ্ট"
+      },
+      {
+        "en": "Affliction",
+        "bn": "দুর্দশা"
+      },
+      {
+        "en": "Anguish",
+        "bn": "তীব্র যন্ত্রণা"
+      },
+      {
+        "en": "Avarice",
+        "bn": "অতিরিক্ত লোভ"
+      },
+      {
+        "en": "woe",
+        "bn": "দুঃখ"
+      },
+      {
+        "en": "consternation",
+        "bn": "আতঙ্ক"
+      }
+    ],
+    "example": "She found felicity in the simple pleasures of family life.",
+    "example_bn": "পারিবারিক জীবনের সাধারণ আনন্দগুলোর মধ্যেই সে পরম সুখ খুঁজে পেয়েছিল।",
+    "examples": [
+      "She found felicity in the simple pleasures of family life. — পারিবারিক জীবনের সাধারণ আনন্দগুলোর মধ্যেই সে পরম সুখ খুঁজে পেয়েছিল।",
+      "At dinner, she explained that 'Felicity' means 'great happiness', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Felicity’ শব্দটির অর্থ—পরম সুখ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Felicity' as 'great happiness' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Felicity’ শব্দটি পরম সুখ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Fervor",
+    "pronunciation_bn": "ফার্ভার",
+    "pronunciation": "/ˈfɜː.vər/",
+    "no": 380,
+    "group": 16,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "intense and passionate feeling or enthusiasm",
+    "meaning_bn": [
+      "প্রবল আবেগ",
+      "উদ্দীপনা",
+      "প্রগাঢ় উৎসাহ"
+    ],
+    "synonyms": [
+      {
+        "en": "passion",
+        "bn": "আবেগ"
+      },
+      {
+        "en": "ardor",
+        "bn": "প্রবল উৎসাহ"
+      },
+      {
+        "en": "zeal",
+        "bn": "উদ্যম"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "apathy",
+        "bn": "উদাসীনতা"
+      },
+      {
+        "en": "indifference",
+        "bn": "নির্লিপ্ততা"
+      },
+      {
+        "en": "coolness",
+        "bn": "অনাগ্রহ"
+      }
+    ],
+    "example": "He spoke about independence with great fervor.",
+    "example_bn": "তিনি প্রবল আবেগ ও উদ্দীপনার সঙ্গে স্বাধীনতার কথা বলেছিলেন।",
+    "examples": [
+      "He spoke about independence with great fervor. — তিনি প্রবল আবেগ ও উদ্দীপনার সঙ্গে স্বাধীনতার কথা বলেছিলেন।",
+      "At dinner, she explained that 'Fervor' means 'intense and passionate feeling or enthusiasm', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Fervor’ শব্দটির অর্থ—প্রবল আবেগ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Fervor' as 'intense and passionate feeling or enthusiasm' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Fervor’ শব্দটি প্রবল আবেগ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Fetter",
+    "pronunciation_bn": "ফেটার",
+    "pronunciation": "/ˈfet.ər/",
+    "no": 381,
+    "group": 16,
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "meaning_en": "to restrain or restrict; a chain or shackle used to restrain someone",
+    "meaning_bn": [
+      "শৃঙ্খলিত করা",
+      "বাধা দেওয়া",
+      "নিয়ন্ত্রণ করা",
+      "শিকল বা বেড়ি"
+    ],
+    "synonyms": [
+      {
+        "en": "restrain",
+        "bn": "সংযত বা আটকে রাখা"
+      },
+      {
+        "en": "hamper",
+        "bn": "বাধাগ্রস্ত করা"
+      },
+      {
+        "en": "shackle",
+        "bn": "শিকল দিয়ে বাঁধা"
+      },
+      {
+        "en": "curb",
+        "bn": "নিয়ন্ত্রণ করা"
+      },
+      {
+        "en": "Impede",
+        "bn": "বাধা দেওয়া"
+      },
+      {
+        "en": "repress",
+        "bn": "দমন করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "free",
+        "bn": "মুক্ত করা"
+      },
+      {
+        "en": "liberate",
+        "bn": "স্বাধীন করা"
+      },
+      {
+        "en": "unshackle",
+        "bn": "শিকলমুক্ত করা"
+      },
+      {
+        "en": "Extricate",
+        "bn": "বিপদ বা জটিল অবস্থা থেকে মুক্ত করা"
+      },
+      {
+        "en": "emancipate",
+        "bn": "মুক্ত করা"
+      }
+    ],
+    "example": "Outdated rules can fetter creativity and progress.",
+    "example_bn": "সেকেলে নিয়ম সৃজনশীলতা ও অগ্রগতিকে বাধাগ্রস্ত করতে পারে।",
+    "examples": [
+      "Outdated rules can fetter creativity and progress. — সেকেলে নিয়ম সৃজনশীলতা ও অগ্রগতিকে বাধাগ্রস্ত করতে পারে।",
+      "At dinner, she explained that 'Fetter' means 'to restrain or restrict', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Fetter’ শব্দটির অর্থ—শৃঙ্খলিত করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Fetter' as 'to restrain or restrict' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Fetter’ শব্দটি শৃঙ্খলিত করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Fidelity",
+    "pronunciation_bn": "ফি-ডেলিটি",
+    "pronunciation": "/fɪˈdel.ə.ti/",
+    "no": 382,
+    "group": 16,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "faithfulness to a person, cause, belief, or duty; accuracy in reproducing something",
+    "meaning_bn": [
+      "বিশ্বস্ততা",
+      "আনুগত্য",
+      "বিশুদ্ধতা বা যথাযথতার মাত্রা"
+    ],
+    "synonyms": [
+      {
+        "en": "faithfulness",
+        "bn": "বিশ্বস্ততা"
+      },
+      {
+        "en": "loyalty",
+        "bn": "আনুগত্য"
+      },
+      {
+        "en": "devotion",
+        "bn": "নিষ্ঠা"
+      },
+      {
+        "en": "Allegiance",
+        "bn": "আনুগত্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "disloyalty",
+        "bn": "বিশ্বাসঘাতকতা"
+      },
+      {
+        "en": "infidelity",
+        "bn": "অবিশ্বস্ততা"
+      },
+      {
+        "en": "betrayal",
+        "bn": "বিশ্বাসভঙ্গ"
+      },
+      {
+        "en": "Blasphemy",
+        "bn": "ঈশ্বর বা পবিত্র বিষয়ের অবমাননা"
+      },
+      {
+        "en": "Perfidy",
+        "bn": "বিশ্বাসঘাতকতা"
+      },
+      {
+        "en": "Sedition",
+        "bn": "রাষ্ট্রদ্রোহমূলক উসকানি"
+      }
+    ],
+    "example": "Dogs are known for their fidelity to their owners.",
+    "example_bn": "মালিকের প্রতি বিশ্বস্ততার জন্য কুকুর পরিচিত।",
+    "examples": [
+      "Dogs are known for their fidelity to their owners. — মালিকের প্রতি বিশ্বস্ততার জন্য কুকুর পরিচিত।",
+      "At dinner, she explained that 'Fidelity' means 'faithfulness to a person, cause, belief, or duty', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Fidelity’ শব্দটির অর্থ—বিশ্বস্ততা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Fidelity' as 'faithfulness to a person, cause, belief, or duty' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Fidelity’ শব্দটি বিশ্বস্ততা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Figurative",
+    "pronunciation_bn": "ফিগারেটিভ",
+    "pronunciation": "/ˈfɪɡ.ər.ə.tɪv/",
+    "no": 383,
+    "group": 16,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "using words or expressions in an imaginative, non-literal sense",
+    "meaning_bn": [
+      "রূপকধর্মী",
+      "আলংকারিক",
+      "আক্ষরিক নয় এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "metaphorical",
+        "bn": "রূপকধর্মী"
+      },
+      {
+        "en": "symbolic",
+        "bn": "প্রতীকী"
+      },
+      {
+        "en": "অ-literal",
+        "bn": "আক্ষরিক নয় এমন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "literal",
+        "bn": "আক্ষরিক"
+      },
+      {
+        "en": "exact",
+        "bn": "হুবহু"
+      },
+      {
+        "en": "direct",
+        "bn": "সরাসরি"
+      },
+      {
+        "en": "Ironic",
+        "bn": "পরিহাসমূলক"
+      }
+    ],
+    "example": "The poet used figurative language to describe grief.",
+    "example_bn": "কবি শোক বর্ণনা করতে রূপকধর্মী ভাষা ব্যবহার করেছেন।",
+    "examples": [
+      "The poet used figurative language to describe grief. — কবি শোক বর্ণনা করতে রূপকধর্মী ভাষা ব্যবহার করেছেন।",
+      "At dinner, she explained that 'Figurative' means 'using words or expressions in an imaginative, non-literal', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Figurative’ শব্দটির অর্থ—রূপকধর্মী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Figurative' as 'using words or expressions in an imaginative, non-literal' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Figurative’ শব্দটি রূপকধর্মী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Finesse",
+    "pronunciation_bn": "ফিনেস",
+    "pronunciation": "/fɪˈnes/",
+    "no": 384,
+    "group": 16,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "great skill, delicacy, or tact in handling a situation; to handle something skillfully",
+    "meaning_bn": [
+      "নৈপুণ্য",
+      "সূক্ষ্ম দক্ষতা",
+      "কৌশলীভাবে সামলানো"
+    ],
+    "synonyms": [
+      {
+        "en": "skill",
+        "bn": "দক্ষতা"
+      },
+      {
+        "en": "tact",
+        "bn": "বিচক্ষণতা"
+      },
+      {
+        "en": "adroitness",
+        "bn": "হাতের কাজের নিপুণতা"
+      },
+      {
+        "en": "prowess",
+        "bn": "অসাধারণ দক্ষতা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "clumsiness",
+        "bn": "আনাড়িপনা"
+      },
+      {
+        "en": "ineptitude",
+        "bn": "অদক্ষতা"
+      },
+      {
+        "en": "awkwardness",
+        "bn": "কৌশলহীনতা"
+      },
+      {
+        "en": "contretemps",
+        "bn": "বিব্রতকর ঘটনা"
+      }
+    ],
+    "example": "She handled the difficult negotiation with great finesse.",
+    "example_bn": "তিনি অত্যন্ত দক্ষতা ও কৌশলে কঠিন আলোচনা সামলেছিলেন।",
+    "examples": [
+      "She handled the difficult negotiation with great finesse. — তিনি অত্যন্ত দক্ষতা ও কৌশলে কঠিন আলোচনা সামলেছিলেন।",
+      "At dinner, she explained that 'Finesse' means 'great skill, delicacy, or tact in handling', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Finesse’ শব্দটির অর্থ—নৈপুণ্য—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Finesse' as 'great skill, delicacy, or tact in handling' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Finesse’ শব্দটি নৈপুণ্য অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Flagrant",
+    "pronunciation_bn": "ফ্লেইগ্রান্ট",
+    "pronunciation": "/ˈfleɪ.ɡrənt/",
+    "no": 385,
+    "group": 16,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "(of an action or situation) shockingly obvious and showing no respect for rules or standards",
+    "meaning_bn": [
+      "প্রকাশ্য ও গুরুতর",
+      "ধৃষ্টতাপূর্ণ",
+      "নির্লজ্জভাবে নিয়মভঙ্গকারী"
+    ],
+    "synonyms": [
+      {
+        "en": "blatant",
+        "bn": "নির্লজ্জভাবে প্রকাশ্য"
+      },
+      {
+        "en": "glaring",
+        "bn": "চোখে পড়ার মতো স্পষ্ট"
+      },
+      {
+        "en": "outrageous",
+        "bn": "চরম আপত্তিকর"
+      },
+      {
+        "en": "Egregious",
+        "bn": "চরম জঘন্য"
+      },
+      {
+        "en": "exorbitant",
+        "bn": "অত্যধিক"
+      },
+      {
+        "en": "Unconscionable",
+        "bn": "বিবেকবর্জিত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "subtle",
+        "bn": "সূক্ষ্ম"
+      },
+      {
+        "en": "minor",
+        "bn": "সামান্য"
+      },
+      {
+        "en": "inconspicuous",
+        "bn": "সহজে চোখে পড়ে না এমন"
+      },
+      {
+        "en": "Discreet",
+        "bn": "বিচক্ষণ"
+      },
+      {
+        "en": "Circumspect",
+        "bn": "সতর্ক"
+      },
+      {
+        "en": "Cryptic",
+        "bn": "রহস্যময়"
+      },
+      {
+        "en": "Elusive",
+        "bn": "অধরা"
+      },
+      {
+        "en": "Esoteric",
+        "bn": "দুর্বোধ্য"
+      }
+    ],
+    "example": "His flagrant disregard for the rules led to his expulsion.",
+    "example_bn": "নিয়মের প্রতি তার প্রকাশ্য অবজ্ঞার কারণে তাকে বহিষ্কার করা হয়েছিল।",
+    "examples": [
+      "His flagrant disregard for the rules led to his expulsion. — নিয়মের প্রতি তার প্রকাশ্য অবজ্ঞার কারণে তাকে বহিষ্কার করা হয়েছিল।",
+      "At dinner, she explained that 'Flagrant' means '(of an action or situation) shockingly obvious', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Flagrant’ শব্দটির অর্থ—প্রকাশ্য ও গুরুতর—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Flagrant' as '(of an action or situation) shockingly obvious' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Flagrant’ শব্দটি প্রকাশ্য ও গুরুতর অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Flaunt",
+    "pronunciation_bn": "ফ্লন্ট",
+    "pronunciation": "/flɔːnt/",
+    "no": 386,
+    "group": 16,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to display something proudly or ostentatiously to attract attention or admiration",
+    "meaning_bn": [
+      "জাহির করা",
+      "দম্ভভরে প্রদর্শন করা",
+      "লোকদেখানোভাবে দেখানো"
+    ],
+    "synonyms": [
+      {
+        "en": "show off",
+        "bn": "জাহির করা"
+      },
+      {
+        "en": "display",
+        "bn": "প্রদর্শন করা"
+      },
+      {
+        "en": "parade",
+        "bn": "লোকদেখানোভাবে প্রদর্শন করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "hide",
+        "bn": "লুকানো"
+      },
+      {
+        "en": "conceal",
+        "bn": "গোপন করা"
+      },
+      {
+        "en": "keep discreet",
+        "bn": "আড়ালে রাখা"
+      }
+    ],
+    "example": "She flaunted her new car in front of her neighbors.",
+    "example_bn": "সে প্রতিবেশীদের সামনে তার নতুন গাড়িটি দম্ভভরে প্রদর্শন করল।",
+    "examples": [
+      "She flaunted her new car in front of her neighbors. — সে প্রতিবেশীদের সামনে তার নতুন গাড়িটি দম্ভভরে প্রদর্শন করল।",
+      "At dinner, she explained that 'Flaunt' means 'to display something proudly or ostentatiously to attract', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Flaunt’ শব্দটির অর্থ—জাহির করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Flaunt' as 'to display something proudly or ostentatiously to attract' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Flaunt’ শব্দটি জাহির করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Flout",
+    "pronunciation_bn": "ফ্লাউট",
+    "pronunciation": "/flaʊt/",
+    "no": 387,
+    "group": 16,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to openly disregard or disobey a law, rule, or convention",
+    "meaning_bn": [
+      "অমান্য করা",
+      "অবজ্ঞাভরে লঙ্ঘন করা",
+      "তোয়াক্কা না করা"
+    ],
+    "synonyms": [
+      {
+        "en": "defy",
+        "bn": "অমান্য করা"
+      },
+      {
+        "en": "disregard",
+        "bn": "উপেক্ষা করা"
+      },
+      {
+        "en": "disobey",
+        "bn": "অবাধ্য হওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "obey",
+        "bn": "মেনে চলা"
+      },
+      {
+        "en": "respect",
+        "bn": "সম্মান করা"
+      },
+      {
+        "en": "comply with",
+        "bn": "অনুসরণ করা"
+      },
+      {
+        "en": "comply",
+        "bn": "মেনে চলা"
+      },
+      {
+        "en": "canvass",
+        "bn": "ভোট বা সমর্থন চাওয়া"
+      },
+      {
+        "en": "cogitate",
+        "bn": "গভীরভাবে চিন্তা করা"
+      },
+      {
+        "en": "commemorate",
+        "bn": "স্মরণ করা"
+      },
+      {
+        "en": "deem",
+        "bn": "মনে করা"
+      }
+    ],
+    "example": "He flouted the dress code at the formal event.",
+    "example_bn": "আনুষ্ঠানিক অনুষ্ঠানে সে পোশাকবিধি অমান্য করেছিল।",
+    "examples": [
+      "He flouted the dress code at the formal event. — আনুষ্ঠানিক অনুষ্ঠানে সে পোশাকবিধি অমান্য করেছিল।",
+      "At dinner, she explained that 'Flout' means 'to openly disregard or disobey a law, rule', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Flout’ শব্দটির অর্থ—অমান্য করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Flout' as 'to openly disregard or disobey a law, rule' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Flout’ শব্দটি অমান্য করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Foible",
+    "pronunciation_bn": "ফয়েবল",
+    "pronunciation": "/ˈfɔɪ.bəl/",
+    "no": 388,
+    "group": 16,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a small weakness or eccentricity in a person's character",
+    "meaning_bn": [
+      "ছোটখাটো দোষ",
+      "চরিত্রের সামান্য দুর্বলতা",
+      "খেয়ালিপনা"
+    ],
+    "synonyms": [
+      {
+        "en": "weakness",
+        "bn": "দুর্বলতা"
+      },
+      {
+        "en": "failing",
+        "bn": "ত্রুটি"
+      },
+      {
+        "en": "quirk",
+        "bn": "অদ্ভুত স্বভাব"
+      },
+      {
+        "en": "Idiosyncrasy",
+        "bn": "ব্যক্তিবিশেষের স্বতন্ত্র বৈশিষ্ট্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "strength",
+        "bn": "শক্তি বা গুণ"
+      },
+      {
+        "en": "virtue",
+        "bn": "সদ্গুণ"
+      },
+      {
+        "en": "merit",
+        "bn": "যোগ্যতা"
+      },
+      {
+        "en": "Bastion",
+        "bn": "দুর্গ বা সুরক্ষিত ঘাঁটি"
+      },
+      {
+        "en": "brawn",
+        "bn": "পেশিশক্তি"
+      },
+      {
+        "en": "forte",
+        "bn": "বিশেষ দক্ষতা"
+      },
+      {
+        "en": "bulwark",
+        "bn": "প্রতিরক্ষাপ্রাচীর"
+      }
+    ],
+    "example": "His only foible is that he is occasionally late.",
+    "example_bn": "তার একমাত্র ছোটখাটো দুর্বলতা হলো, সে মাঝে মাঝে দেরি করে।",
+    "examples": [
+      "His only foible is that he is occasionally late. — তার একমাত্র ছোটখাটো দুর্বলতা হলো, সে মাঝে মাঝে দেরি করে।",
+      "At dinner, she explained that 'Foible' means 'a small weakness or eccentricity in a person's', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Foible’ শব্দটির অর্থ—ছোটখাটো দোষ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Foible' as 'a small weakness or eccentricity in a person's' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Foible’ শব্দটি ছোটখাটো দোষ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Foment",
+    "pronunciation_bn": "ফোমেন্ট",
+    "pronunciation": "/fəʊˈment/",
+    "no": 389,
+    "group": 16,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to encourage or stir up trouble, rebellion, or other undesirable activity",
+    "meaning_bn": [
+      "উসকে দেওয়া",
+      "প্ররোচিত করা",
+      "অশান্তি সৃষ্টি করতে ইন্ধন জোগানো"
+    ],
+    "synonyms": [
+      {
+        "en": "incite",
+        "bn": "উসকে দেওয়া"
+      },
+      {
+        "en": "instigate",
+        "bn": "প্ররোচনা দেওয়া"
+      },
+      {
+        "en": "stir up",
+        "bn": "উত্তেজিত করে তোলা"
+      },
+      {
+        "en": "Abet",
+        "bn": "অন্যায় কাজে সহায়তা করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "pacify",
+        "bn": "শান্ত করা"
+      },
+      {
+        "en": "calm",
+        "bn": "শান্ত করা"
+      },
+      {
+        "en": "discourage",
+        "bn": "নিরুৎসাহিত করা"
+      },
+      {
+        "en": "Appease",
+        "bn": "শান্ত করা"
+      },
+      {
+        "en": "Daunt",
+        "bn": "ভীত করা"
+      },
+      {
+        "en": "Assuage",
+        "bn": "প্রশমিত করা"
+      },
+      {
+        "en": "dismay",
+        "bn": "হতাশা"
+      },
+      {
+        "en": "dispirit",
+        "bn": "হতাশ করা"
+      }
+    ],
+    "example": "The agent tried to foment rebellion among the workers.",
+    "example_bn": "এজেন্টটি শ্রমিকদের মধ্যে বিদ্রোহ উসকে দেওয়ার চেষ্টা করেছিল।",
+    "examples": [
+      "The agent tried to foment rebellion among the workers. — এজেন্টটি শ্রমিকদের মধ্যে বিদ্রোহ উসকে দেওয়ার চেষ্টা করেছিল।",
+      "At dinner, she explained that 'Foment' means 'to encourage or stir up trouble, rebellion', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Foment’ শব্দটির অর্থ—উসকে দেওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Foment' as 'to encourage or stir up trouble, rebellion' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Foment’ শব্দটি উসকে দেওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Forbear",
+    "pronunciation_bn": "ফরবেয়ার",
+    "pronunciation": "/fɔːˈbeər/",
+    "no": 390,
+    "group": 16,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to refrain from doing something; to patiently control an impulse",
+    "meaning_bn": [
+      "বিরত থাকা",
+      "সংযত থাকা",
+      "ধৈর্য ধরে নিজেকে নিয়ন্ত্রণ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "refrain",
+        "bn": "বিরত থাকা"
+      },
+      {
+        "en": "abstain",
+        "bn": "নিবৃত্ত থাকা"
+      },
+      {
+        "en": "restrain oneself",
+        "bn": "নিজেকে সংযত রাখা"
+      },
+      {
+        "en": "desist",
+        "bn": "বিরত থাকা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "indulge",
+        "bn": "ইচ্ছামতো করে ফেলা"
+      },
+      {
+        "en": "persist",
+        "bn": "চালিয়ে যাওয়া"
+      },
+      {
+        "en": "proceed",
+        "bn": "এগিয়ে যাওয়া"
+      },
+      {
+        "en": "Importune",
+        "bn": "বারবার অনুরোধ করা"
+      },
+      {
+        "en": "Intervene",
+        "bn": "হস্তক্ষেপ করা"
+      }
+    ],
+    "example": "He forbore from commenting despite his frustration.",
+    "example_bn": "হতাশ হওয়া সত্ত্বেও তিনি মন্তব্য করা থেকে বিরত ছিলেন।",
+    "examples": [
+      "He forbore from commenting despite his frustration. — হতাশ হওয়া সত্ত্বেও তিনি মন্তব্য করা থেকে বিরত ছিলেন।",
+      "At dinner, she explained that 'Forbear' means 'to refrain from doing something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Forbear’ শব্দটির অর্থ—বিরত থাকা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Forbear' as 'to refrain from doing something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Forbear’ শব্দটি বিরত থাকা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Forgo",
+    "pronunciation_bn": "ফরগো",
+    "pronunciation": "/fɔːˈɡəʊ/",
+    "no": 391,
+    "group": 16,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to decide not to have or do something; to go without",
+    "meaning_bn": [
+      "ত্যাগ করা",
+      "না নেওয়ার সিদ্ধান্ত করা",
+      "বর্জন করা"
+    ],
+    "synonyms": [
+      {
+        "en": "give up",
+        "bn": "ত্যাগ করা"
+      },
+      {
+        "en": "do without",
+        "bn": "ছাড়া চলা"
+      },
+      {
+        "en": "relinquish",
+        "bn": "ছেড়ে দেওয়া"
+      },
+      {
+        "en": "waive",
+        "bn": "অধিকার ত্যাগ করা"
+      },
+      {
+        "en": "Abdicate",
+        "bn": "সিংহাসন ত্যাগ করা"
+      },
+      {
+        "en": "Abjure",
+        "bn": "আনুষ্ঠানিকভাবে ত্যাগ করা"
+      },
+      {
+        "en": "Abnegate",
+        "bn": "নিজের ইচ্ছা বা অধিকার ত্যাগ করা"
+      },
+      {
+        "en": "Capitulate",
+        "bn": "আত্মসমর্পণ করা"
+      },
+      {
+        "en": "Renounce",
+        "bn": "আনুষ্ঠানিকভাবে ত্যাগ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "keep",
+        "bn": "রেখে দেওয়া"
+      },
+      {
+        "en": "retain",
+        "bn": "ধরে রাখা"
+      },
+      {
+        "en": "choose",
+        "bn": "বেছে নেওয়া"
+      },
+      {
+        "en": "Appropriate",
+        "bn": "নিজের কাজে নেওয়া"
+      },
+      {
+        "en": "Allocate",
+        "bn": "বরাদ্দ করা"
+      },
+      {
+        "en": "Covet",
+        "bn": "লোভ করা"
+      },
+      {
+        "en": "cull",
+        "bn": "বেছে নেওয়া"
+      },
+      {
+        "en": "Invoke",
+        "bn": "উল্লেখ করে প্রয়োগ করা"
+      }
+    ],
+    "example": "She decided to forgo dessert to maintain a healthy diet.",
+    "example_bn": "স্বাস্থ্যকর খাদ্যাভ্যাস বজায় রাখতে সে মিষ্টান্ন না খাওয়ার সিদ্ধান্ত নিল।",
+    "examples": [
+      "She decided to forgo dessert to maintain a healthy diet. — স্বাস্থ্যকর খাদ্যাভ্যাস বজায় রাখতে সে মিষ্টান্ন না খাওয়ার সিদ্ধান্ত নিল।",
+      "At dinner, she explained that 'Forgo' means 'to decide not to have or do something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Forgo’ শব্দটির অর্থ—ত্যাগ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Forgo' as 'to decide not to have or do something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Forgo’ শব্দটি ত্যাগ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Forsake",
+    "pronunciation_bn": "ফরসেইক",
+    "pronunciation": "/fəˈseɪk/",
+    "no": 392,
+    "group": 16,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to abandon or leave someone or something, especially when support is needed",
+    "meaning_bn": [
+      "পরিত্যাগ করা",
+      "ত্যাগ করা",
+      "সহায়তা থেকে সরে দাঁড়ানো"
+    ],
+    "synonyms": [
+      {
+        "en": "abandon",
+        "bn": "পরিত্যাগ করা"
+      },
+      {
+        "en": "desert",
+        "bn": "ফেলে চলে যাওয়া"
+      },
+      {
+        "en": "leave behind",
+        "bn": "পেছনে ফেলে যাওয়া"
+      },
+      {
+        "en": "Renounce",
+        "bn": "আনুষ্ঠানিকভাবে ত্যাগ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "support",
+        "bn": "সমর্থন করা"
+      },
+      {
+        "en": "remain with",
+        "bn": "সঙ্গে থাকা"
+      },
+      {
+        "en": "stay loyal to",
+        "bn": "অনুগত থাকা"
+      },
+      {
+        "en": "Implement",
+        "bn": "বাস্তবায়ন করা"
+      }
+    ],
+    "example": "He refused to forsake his friends in their time of need.",
+    "example_bn": "প্রয়োজনের সময় সে তার বন্ধুদের পরিত্যাগ করতে অস্বীকার করল।",
+    "examples": [
+      "He refused to forsake his friends in their time of need. — প্রয়োজনের সময় সে তার বন্ধুদের পরিত্যাগ করতে অস্বীকার করল।",
+      "At dinner, she explained that 'Forsake' means 'to abandon or leave someone or something, especially', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Forsake’ শব্দটির অর্থ—পরিত্যাগ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Forsake' as 'to abandon or leave someone or something, especially' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Forsake’ শব্দটি পরিত্যাগ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Fortuitous",
+    "pronunciation_bn": "ফর-চু-ই-টাস",
+    "pronunciation": "/fɔːˈtʃuː.ɪ.təs/",
+    "no": 393,
+    "group": 16,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "happening by chance, especially in a way that is fortunate or advantageous",
+    "meaning_bn": [
+      "আকস্মিক",
+      "দৈবক্রমে ঘটে যাওয়া",
+      "সৌভাগ্যজনক"
+    ],
+    "synonyms": [
+      {
+        "en": "chance",
+        "bn": "দৈবক্রমে ঘটা"
+      },
+      {
+        "en": "accidental",
+        "bn": "আকস্মিক"
+      },
+      {
+        "en": "lucky",
+        "bn": "সৌভাগ্যজনক"
+      },
+      {
+        "en": "Adventitious",
+        "bn": "আকস্মিক"
+      },
+      {
+        "en": "Inadvertent",
+        "bn": "অনিচ্ছাকৃত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "planned",
+        "bn": "পরিকল্পিত"
+      },
+      {
+        "en": "deliberate",
+        "bn": "ইচ্ছাকৃত"
+      },
+      {
+        "en": "intentional",
+        "bn": "সজ্ঞানে করা"
+      },
+      {
+        "en": "Willful",
+        "bn": "ইচ্ছাকৃত"
+      },
+      {
+        "en": "premeditated",
+        "bn": "পূর্বপরিকল্পিত"
+      },
+      {
+        "en": "Hapless",
+        "bn": "দুর্ভাগা"
+      }
+    ],
+    "example": "Their fortuitous meeting at the airport led to a new partnership.",
+    "example_bn": "বিমানবন্দরে তাদের দৈবক্রমে দেখা হওয়া একটি নতুন অংশীদারত্বের সূচনা করেছিল।",
+    "examples": [
+      "Their fortuitous meeting at the airport led to a new partnership. — বিমানবন্দরে তাদের দৈবক্রমে দেখা হওয়া একটি নতুন অংশীদারত্বের সূচনা করেছিল।",
+      "At dinner, she explained that 'Fortuitous' means 'happening by chance, especially in a way that', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Fortuitous’ শব্দটির অর্থ—আকস্মিক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Fortuitous' as 'happening by chance, especially in a way that' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Fortuitous’ শব্দটি আকস্মিক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Founder",
+    "pronunciation_bn": "ফাউন্ডার",
+    "pronunciation": "/ˈfaʊn.dər/",
+    "no": 394,
+    "group": 16,
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "meaning_en": "(verb) to fill with water and sink or fail; (noun) a person who establishes an organization",
+    "meaning_bn": [
+      "(ক্রিয়া) পানি ঢুকে ডুবে যাওয়া",
+      "(ক্রিয়া) ব্যর্থ হওয়া",
+      "(বিশেষ্য) প্রতিষ্ঠাতা"
+    ],
+    "synonyms": [
+      {
+        "en": "sink",
+        "bn": "ডুবে যাওয়া"
+      },
+      {
+        "en": "fail",
+        "bn": "ব্যর্থ হওয়া"
+      },
+      {
+        "en": "collapse",
+        "bn": "ধসে পড়া"
+      },
+      {
+        "en": "entrepreneur",
+        "bn": "উদ্যোক্তা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "succeed",
+        "bn": "সফল হওয়া"
+      },
+      {
+        "en": "flourish",
+        "bn": "সমৃদ্ধ হওয়া"
+      },
+      {
+        "en": "establish",
+        "bn": "প্রতিষ্ঠা করা"
+      },
+      {
+        "en": "Abound",
+        "bn": "প্রচুর পরিমাণে থাকা"
+      },
+      {
+        "en": "Prevail",
+        "bn": "জয়ী হওয়া"
+      },
+      {
+        "en": "Avail",
+        "bn": "উপকারে আসা"
+      },
+      {
+        "en": "brandish",
+        "bn": "হুমকিসূচকভাবে নাড়ানো"
+      },
+      {
+        "en": "Burgeon",
+        "bn": "দ্রুত বৃদ্ধি পাওয়া"
+      }
+    ],
+    "example": "The business foundered because of poor management.",
+    "example_bn": "দুর্বল ব্যবস্থাপনার কারণে ব্যবসাটি ব্যর্থ হয়ে পড়েছিল।",
+    "examples": [
+      "The business foundered because of poor management. — দুর্বল ব্যবস্থাপনার কারণে ব্যবসাটি ব্যর্থ হয়ে পড়েছিল।",
+      "At dinner, she explained that 'Founder' means '(verb) to fill with water and sink', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Founder’ শব্দটির অর্থ—(ক্রিয়া) পানি ঢুকে ডুবে যাওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Founder' as '(verb) to fill with water and sink' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Founder’ শব্দটি (ক্রিয়া) পানি ঢুকে ডুবে যাওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Fraternal",
+    "pronunciation_bn": "ফ্রা-টার্নাল",
+    "pronunciation": "/frəˈtɜː.nəl/",
+    "no": 395,
+    "group": 16,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "relating to brothers or characterized by brotherly affection and solidarity",
+    "meaning_bn": [
+      "ভ্রাতৃসুলভ",
+      "ভাইদের মধ্যে সম্পর্কিত",
+      "ভ্রাতৃত্বপূর্ণ"
+    ],
+    "synonyms": [
+      {
+        "en": "brotherly",
+        "bn": "ভ্রাতৃসুলভ"
+      },
+      {
+        "en": "fraternal",
+        "bn": "ভ্রাতৃত্বপূর্ণ"
+      },
+      {
+        "en": "friendly",
+        "bn": "বন্ধুত্বপূর্ণ"
+      },
+      {
+        "en": "Amiable",
+        "bn": "বন্ধুত্বপূর্ণ"
+      },
+      {
+        "en": "cordial",
+        "bn": "আন্তরিক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "hostile",
+        "bn": "শত্রুভাবাপন্ন"
+      },
+      {
+        "en": "unfriendly",
+        "bn": "বন্ধুত্বহীন"
+      },
+      {
+        "en": "antagonistic",
+        "bn": "বিরোধী"
+      },
+      {
+        "en": "Belligerent",
+        "bn": "ঝগড়াটে"
+      },
+      {
+        "en": "Acrimonious",
+        "bn": "তিক্ততাপূর্ণ"
+      },
+      {
+        "en": "Inimical",
+        "bn": "ক্ষতিকর"
+      },
+      {
+        "en": "Aloof",
+        "bn": "নির্লিপ্ত"
+      },
+      {
+        "en": "dour",
+        "bn": "গম্ভীর"
+      }
+    ],
+    "example": "They shared a fraternal bond despite not being related.",
+    "example_bn": "রক্তের সম্পর্ক না থাকলেও তাদের মধ্যে ভ্রাতৃত্বপূর্ণ বন্ধন ছিল।",
+    "examples": [
+      "They shared a fraternal bond despite not being related. — রক্তের সম্পর্ক না থাকলেও তাদের মধ্যে ভ্রাতৃত্বপূর্ণ বন্ধন ছিল।",
+      "At dinner, she explained that 'Fraternal' means 'relating to brothers or characterized by brotherly affection', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Fraternal’ শব্দটির অর্থ—ভ্রাতৃসুলভ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Fraternal' as 'relating to brothers or characterized by brotherly affection' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Fraternal’ শব্দটি ভ্রাতৃসুলভ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Frenetic",
+    "pronunciation_bn": "ফ্রা-নেটিক",
+    "pronunciation": "/frəˈnet.ɪk/",
+    "no": 396,
+    "group": 16,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "very fast, energetic, and often uncontrolled",
+    "meaning_bn": [
+      "উন্মত্ত গতির",
+      "অস্থির ও ব্যস্ত",
+      "উদ্দাম"
+    ],
+    "synonyms": [
+      {
+        "en": "frantic",
+        "bn": "উন্মত্ত"
+      },
+      {
+        "en": "hectic",
+        "bn": "ব্যস্ত ও বিশৃঙ্খল"
+      },
+      {
+        "en": "feverish",
+        "bn": "উত্তেজনাপূর্ণ ও অস্থির"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "calm",
+        "bn": "শান্ত"
+      },
+      {
+        "en": "unhurried",
+        "bn": "ধীরস্থির"
+      },
+      {
+        "en": "leisurely",
+        "bn": "আরামদায়ক ধীরগতির"
+      },
+      {
+        "en": "composed",
+        "bn": "শান্ত"
+      },
+      {
+        "en": "phlegmatic",
+        "bn": "শান্ত ও নির্বিকার"
+      },
+      {
+        "en": "serene",
+        "bn": "শান্ত"
+      }
+    ],
+    "example": "The office was in a frenetic rush before the deadline.",
+    "example_bn": "সময়সীমার আগে অফিসে চরম ব্যস্ততা ও অস্থিরতা দেখা দিয়েছিল।",
+    "examples": [
+      "The office was in a frenetic rush before the deadline. — সময়সীমার আগে অফিসে চরম ব্যস্ততা ও অস্থিরতা দেখা দিয়েছিল।",
+      "At dinner, she explained that 'Frenetic' means 'very fast, energetic, and often uncontrolled', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Frenetic’ শব্দটির অর্থ—উন্মত্ত গতির—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Frenetic' as 'very fast, energetic, and often uncontrolled' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Frenetic’ শব্দটি উন্মত্ত গতির অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Frugal",
+    "pronunciation_bn": "ফ্রুগাল",
+    "pronunciation": "/ˈfruː.ɡəl/",
+    "no": 397,
+    "group": 16,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "careful to use money, food, or other resources without waste",
+    "meaning_bn": [
+      "মিতব্যয়ী",
+      "অপচয়বিমুখ",
+      "সাশ্রয়ী"
+    ],
+    "synonyms": [
+      {
+        "en": "thrifty",
+        "bn": "মিতব্যয়ী"
+      },
+      {
+        "en": "economical",
+        "bn": "সাশ্রয়ী"
+      },
+      {
+        "en": "sparing",
+        "bn": "পরিমিত ব্যবহারকারী"
+      },
+      {
+        "en": "Parsimonious",
+        "bn": "অত্যন্ত কৃপণ"
+      },
+      {
+        "en": "Provident",
+        "bn": "ভবিষ্যতের জন্য সতর্ক পরিকল্পনাকারী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "wasteful",
+        "bn": "অপচয়ী"
+      },
+      {
+        "en": "extravagant",
+        "bn": "অমিতব্যয়ী"
+      },
+      {
+        "en": "lavish",
+        "bn": "বিলাসী ও অপব্যয়ী"
+      },
+      {
+        "en": "Prodigal",
+        "bn": "অপচয়ী"
+      },
+      {
+        "en": "Profligate",
+        "bn": "অপচয়ী"
+      },
+      {
+        "en": "copious",
+        "bn": "প্রচুর"
+      },
+      {
+        "en": "Munificent",
+        "bn": "বিশেষত অর্থ বা উপহার দেওয়ার ক্ষেত্রে অত্যন্ত উদার"
+      },
+      {
+        "en": "Opulent",
+        "bn": "বিলাসবহুল"
+      },
+      {
+        "en": "sumptuous",
+        "bn": "বিলাসবহুল"
+      }
+    ],
+    "example": "His frugal lifestyle allowed him to save money.",
+    "example_bn": "মিতব্যয়ী জীবনযাপনের ফলে সে অর্থ সঞ্চয় করতে পেরেছিল।",
+    "examples": [
+      "His frugal lifestyle allowed him to save money. — মিতব্যয়ী জীবনযাপনের ফলে সে অর্থ সঞ্চয় করতে পেরেছিল।",
+      "At dinner, she explained that 'Frugal' means 'careful to use money, food, or other resources', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Frugal’ শব্দটির অর্থ—মিতব্যয়ী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Frugal' as 'careful to use money, food, or other resources' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Frugal’ শব্দটি মিতব্যয়ী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Furtive",
+    "pronunciation_bn": "ফার্টিভ",
+    "pronunciation": "/ˈfɜː.tɪv/",
+    "no": 398,
+    "group": 16,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "done secretly or stealthily, often because the person wants to avoid being noticed",
+    "meaning_bn": [
+      "গোপন",
+      "চোরাগোপ্তা",
+      "লুকিয়ে করা"
+    ],
+    "synonyms": [
+      {
+        "en": "secretive",
+        "bn": "গোপনপ্রবণ"
+      },
+      {
+        "en": "stealthy",
+        "bn": "চুপিসারে করা"
+      },
+      {
+        "en": "sly",
+        "bn": "ধূর্ত"
+      },
+      {
+        "en": "Insidious",
+        "bn": "গোপনে ক্ষতিকর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "open",
+        "bn": "প্রকাশ্য"
+      },
+      {
+        "en": "overt",
+        "bn": "খোলাখুলি"
+      },
+      {
+        "en": "frank",
+        "bn": "স্পষ্টবাদী"
+      },
+      {
+        "en": "forthright",
+        "bn": "স্পষ্টবাদী"
+      }
+    ],
+    "example": "He cast a furtive glance around before entering the room.",
+    "example_bn": "ঘরে ঢোকার আগে সে চারদিকে একবার চোরাগোপ্তা দৃষ্টিতে তাকাল।",
+    "examples": [
+      "He cast a furtive glance around before entering the room. — ঘরে ঢোকার আগে সে চারদিকে একবার চোরাগোপ্তা দৃষ্টিতে তাকাল।",
+      "At dinner, she explained that 'Furtive' means 'done secretly or stealthily, often because the person', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Furtive’ শব্দটির অর্থ—গোপন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Furtive' as 'done secretly or stealthily, often because the person' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Furtive’ শব্দটি গোপন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Futile",
+    "pronunciation_bn": "ফিউটাইল",
+    "pronunciation": "/ˈfjuː.taɪl/",
+    "no": 399,
+    "group": 16,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "having no useful result; incapable of producing the desired effect",
+    "meaning_bn": [
+      "নিষ্ফল",
+      "বৃথা",
+      "ফলহীন"
+    ],
+    "synonyms": [
+      {
+        "en": "useless",
+        "bn": "অকাজের"
+      },
+      {
+        "en": "vain",
+        "bn": "বৃথা"
+      },
+      {
+        "en": "ineffective",
+        "bn": "অকার্যকর"
+      },
+      {
+        "en": "Abortive",
+        "bn": "ব্যর্থ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "effective",
+        "bn": "কার্যকর"
+      },
+      {
+        "en": "successful",
+        "bn": "সফল"
+      },
+      {
+        "en": "productive",
+        "bn": "ফলপ্রসূ"
+      },
+      {
+        "en": "Fecund",
+        "bn": "উর্বর"
+      },
+      {
+        "en": "effectual",
+        "bn": "কার্যকর"
+      },
+      {
+        "en": "fruitful",
+        "bn": "ফলপ্রসূ"
+      },
+      {
+        "en": "Prolific",
+        "bn": "প্রচুর সৃষ্টি বা উৎপাদন করে এমন"
+      }
+    ],
+    "example": "All attempts to save the sinking ship proved futile.",
+    "example_bn": "ডুবতে থাকা জাহাজটি বাঁচানোর সব চেষ্টাই নিষ্ফল প্রমাণিত হলো।",
+    "examples": [
+      "All attempts to save the sinking ship proved futile. — ডুবতে থাকা জাহাজটি বাঁচানোর সব চেষ্টাই নিষ্ফল প্রমাণিত হলো।",
+      "At dinner, she explained that 'Futile' means 'having no useful result', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Futile’ শব্দটির অর্থ—নিষ্ফল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Futile' as 'having no useful result' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Futile’ শব্দটি নিষ্ফল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Garrulous",
+    "pronunciation_bn": "গ্যারুলাস",
+    "pronunciation": "/ˈɡær.əl.əs/",
+    "no": 400,
+    "group": 16,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "excessively talkative, especially about unimportant things",
+    "meaning_bn": [
+      "বাচাল",
+      "অতিরিক্ত কথা বলে এমন",
+      "অনর্গল কথা বলতে অভ্যস্ত"
+    ],
+    "synonyms": [
+      {
+        "en": "talkative",
+        "bn": "বাচাল"
+      },
+      {
+        "en": "loquacious",
+        "bn": "বাকপটু ও অতিবাচাল"
+      },
+      {
+        "en": "chatty",
+        "bn": "গল্পপ্রিয়"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "taciturn",
+        "bn": "স্বল্পভাষী"
+      },
+      {
+        "en": "reticent",
+        "bn": "মিতভাষী"
+      },
+      {
+        "en": "quiet",
+        "bn": "চুপচাপ"
+      },
+      {
+        "en": "Aloof",
+        "bn": "নির্লিপ্ত"
+      },
+      {
+        "en": "demure",
+        "bn": "লাজুক ও সংযত"
+      }
+    ],
+    "example": "The garrulous neighbor talked for hours without stopping.",
+    "example_bn": "বাচাল প্রতিবেশীটি বিরতিহীনভাবে ঘণ্টার পর ঘণ্টা কথা বলল।",
+    "examples": [
+      "The garrulous neighbor talked for hours without stopping. — বাচাল প্রতিবেশীটি বিরতিহীনভাবে ঘণ্টার পর ঘণ্টা কথা বলল।",
+      "At dinner, she explained that 'Garrulous' means 'excessively talkative, especially about unimportant things', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Garrulous’ শব্দটির অর্থ—বাচাল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Garrulous' as 'excessively talkative, especially about unimportant things' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Garrulous’ শব্দটি বাচাল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

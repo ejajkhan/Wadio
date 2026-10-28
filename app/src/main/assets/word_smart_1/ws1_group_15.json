@@ -1,0 +1,1844 @@
+[
+  {
+    "word": "Exalt",
+    "pronunciation_bn": "ইগজল্ট",
+    "pronunciation": "/ɪɡˈzɔːlt/",
+    "no": 351,
+    "group": 15,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to praise someone or something highly, or to raise someone to a high rank or position",
+    "meaning_bn": [
+      "উচ্চ প্রশংসা করা",
+      "মর্যাদা বা পদমর্যাদায় উন্নীত করা",
+      "গৌরবান্বিত করা"
+    ],
+    "synonyms": [
+      {
+        "en": "praise",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "glorify",
+        "bn": "মহিমান্বিত করা"
+      },
+      {
+        "en": "elevate",
+        "bn": "উন্নীত করা"
+      },
+      {
+        "en": "Aggrandize",
+        "bn": "মহিমান্বিত করা"
+      },
+      {
+        "en": "Acclaim",
+        "bn": "প্রকাশ্যে প্রশংসা করা"
+      },
+      {
+        "en": "Distend",
+        "bn": "ফুলে ওঠা"
+      },
+      {
+        "en": "Extol",
+        "bn": "ভূয়সী প্রশংসা করা"
+      },
+      {
+        "en": "Laud",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "Tout",
+        "bn": "প্রচার করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "humiliate",
+        "bn": "অপমান করা"
+      },
+      {
+        "en": "degrade",
+        "bn": "মর্যাদা হ্রাস করা"
+      },
+      {
+        "en": "Belittle",
+        "bn": "তুচ্ছ করা"
+      },
+      {
+        "en": "Abase",
+        "bn": "অপমান করা"
+      },
+      {
+        "en": "Admonish",
+        "bn": "সতর্ক করা"
+      },
+      {
+        "en": "Burlesque",
+        "bn": "উপহাসমূলক অনুকরণ"
+      },
+      {
+        "en": "Castigate",
+        "bn": "কঠোরভাবে সমালোচনা করা"
+      }
+    ],
+    "example": "The speech exalted the courage of the rescue workers.",
+    "example_bn": "বক্তৃতায় উদ্ধারকর্মীদের সাহসের ভূয়সী প্রশংসা করা হয়েছিল.",
+    "examples": [
+      "The speech exalted the courage of the rescue workers. — বক্তৃতায় উদ্ধারকর্মীদের সাহসের ভূয়সী প্রশংসা করা হয়েছিল.",
+      "At dinner, she explained that 'Exalt' means 'to praise someone or something highly', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Exalt’ শব্দটির অর্থ—উচ্চ প্রশংসা করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Exalt' as 'to praise someone or something highly' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Exalt’ শব্দটি উচ্চ প্রশংসা করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Exasperate",
+    "pronunciation_bn": "ইগজ্যাসপারেইট",
+    "pronunciation": "/ɪɡˈzɑː.spə.reɪt/",
+    "no": 352,
+    "group": 15,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to make someone very annoyed, especially by repeatedly doing something unpleasant",
+    "meaning_bn": [
+      "ভীষণ বিরক্ত করা",
+      "ক্ষুব্ধ করা",
+      "রাগিয়ে তোলা"
+    ],
+    "synonyms": [
+      {
+        "en": "irritate",
+        "bn": "বিরক্ত করা"
+      },
+      {
+        "en": "annoy",
+        "bn": "উত্যক্ত করা"
+      },
+      {
+        "en": "infuriate",
+        "bn": "ভীষণ রাগিয়ে দেওয়া"
+      },
+      {
+        "en": "Vex",
+        "bn": "বিরক্ত করা"
+      },
+      {
+        "en": "disgruntle",
+        "bn": "অসন্তুষ্ট করা"
+      },
+      {
+        "en": "Incense",
+        "bn": "ক্রুদ্ধ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "soothe",
+        "bn": "শান্ত করা"
+      },
+      {
+        "en": "appease",
+        "bn": "প্রশমিত করা"
+      },
+      {
+        "en": "placate",
+        "bn": "ক্ষোভ প্রশমিত করা"
+      },
+      {
+        "en": "Assuage",
+        "bn": "প্রশমিত করা"
+      },
+      {
+        "en": "Mollify",
+        "bn": "রাগান্বিত বা বিচলিত কাউকে শান্ত করা"
+      },
+      {
+        "en": "Pacify",
+        "bn": "শান্ত করা"
+      }
+    ],
+    "example": "His constant interruptions began to exasperate the speaker.",
+    "example_bn": "তার বারবার বাধা দেওয়া বক্তাকে ভীষণ বিরক্ত করতে শুরু করল.",
+    "examples": [
+      "His constant interruptions began to exasperate the speaker. — তার বারবার বাধা দেওয়া বক্তাকে ভীষণ বিরক্ত করতে শুরু করল.",
+      "At dinner, she explained that 'Exasperate' means 'to make someone very annoyed, especially by repeatedly', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Exasperate’ শব্দটির অর্থ—ভীষণ বিরক্ত করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Exasperate' as 'to make someone very annoyed, especially by repeatedly' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Exasperate’ শব্দটি ভীষণ বিরক্ত করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Exemplify",
+    "pronunciation_bn": "ইগজেমপ্লিফাই",
+    "pronunciation": "/ɪɡˈzem.plɪ.faɪ/",
+    "no": 353,
+    "group": 15,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to be a typical example of something, or to illustrate something by giving an example",
+    "meaning_bn": [
+      "দৃষ্টান্ত হিসেবে তুলে ধরা",
+      "কোনো কিছুর আদর্শ উদাহরণ হওয়া",
+      "উদাহরণ দিয়ে ব্যাখ্যা করা"
+    ],
+    "synonyms": [
+      {
+        "en": "illustrate",
+        "bn": "উদাহরণ দিয়ে বোঝানো"
+      },
+      {
+        "en": "demonstrate",
+        "bn": "প্রদর্শন করা"
+      },
+      {
+        "en": "typify",
+        "bn": "প্রতিনিধিত্ব করা"
+      },
+      {
+        "en": "depict",
+        "bn": "চিত্রিত করা"
+      },
+      {
+        "en": "evince",
+        "bn": "স্পষ্টভাবে প্রকাশ করা"
+      },
+      {
+        "en": "Manifest",
+        "bn": "স্পষ্ট"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "misrepresent",
+        "bn": "ভুলভাবে উপস্থাপন করা"
+      },
+      {
+        "en": "contradict",
+        "bn": "বিরোধিতা করা"
+      },
+      {
+        "en": "Belie",
+        "bn": "মিথ্যা ধারণা দেওয়া"
+      },
+      {
+        "en": "Infer",
+        "bn": "অনুমান করা"
+      },
+      {
+        "en": "Postulate",
+        "bn": "যুক্তি বা তত্ত্বের ভিত্তি হিসেবে কোনো কিছুকে সত্য ধরে নেওয়া"
+      }
+    ],
+    "example": "Her dedication exemplifies the qualities of an excellent teacher.",
+    "example_bn": "তাঁর নিষ্ঠা একজন আদর্শ শিক্ষকের গুণাবলির দৃষ্টান্ত তুলে ধরে.",
+    "examples": [
+      "Her dedication exemplifies the qualities of an excellent teacher. — তাঁর নিষ্ঠা একজন আদর্শ শিক্ষকের গুণাবলির দৃষ্টান্ত তুলে ধরে.",
+      "At dinner, she explained that 'Exemplify' means 'to be a typical example of something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Exemplify’ শব্দটির অর্থ—দৃষ্টান্ত হিসেবে তুলে ধরা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Exemplify' as 'to be a typical example of something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Exemplify’ শব্দটি দৃষ্টান্ত হিসেবে তুলে ধরা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Exhaustive",
+    "pronunciation_bn": "ইগজস্টিভ",
+    "pronunciation": "/ɪɡˈzɔː.stɪv/",
+    "no": 354,
+    "group": 15,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "including or considering all the important details; thorough and complete",
+    "meaning_bn": [
+      "পুঙ্খানুপুঙ্খ",
+      "সম্পূর্ণ",
+      "সব দিক বিবেচনাকারী"
+    ],
+    "synonyms": [
+      {
+        "en": "comprehensive",
+        "bn": "সর্বাঙ্গীণ"
+      },
+      {
+        "en": "thorough",
+        "bn": "পুঙ্খানুপুঙ্খ"
+      },
+      {
+        "en": "complete",
+        "bn": "সম্পূর্ণ"
+      },
+      {
+        "en": "Catholic",
+        "bn": "বিস্তৃত রুচিসম্পন্ন"
+      },
+      {
+        "en": "Exacting",
+        "bn": "অত্যন্ত পরিশ্রমসাপেক্ষ"
+      },
+      {
+        "en": "Meticulous",
+        "bn": "খুঁটিনাটিতে অত্যন্ত যত্নশীল"
+      },
+      {
+        "en": "Painstaking",
+        "bn": "অত্যন্ত যত্নসহকারে করা"
+      },
+      {
+        "en": "Rigorous",
+        "bn": "কঠোর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "partial",
+        "bn": "আংশিক"
+      },
+      {
+        "en": "incomplete",
+        "bn": "অসম্পূর্ণ"
+      },
+      {
+        "en": "superficial",
+        "bn": "উপর উপর করা"
+      },
+      {
+        "en": "cursory",
+        "bn": "দ্রুত ও উপর উপর করা"
+      },
+      {
+        "en": "fragmentary",
+        "bn": "খণ্ডিত"
+      },
+      {
+        "en": "Perfunctory",
+        "bn": "দায়সারা"
+      },
+      {
+        "en": "Facile",
+        "bn": "অতি সহজে করা হলেও যথেষ্ট চিন্তাভাবনাহীন"
+      }
+    ],
+    "example": "The police conducted an exhaustive investigation into the case.",
+    "example_bn": "পুলিশ মামলাটি নিয়ে পুঙ্খানুপুঙ্খ তদন্ত করেছিল.",
+    "examples": [
+      "The police conducted an exhaustive investigation into the case. — পুলিশ মামলাটি নিয়ে পুঙ্খানুপুঙ্খ তদন্ত করেছিল.",
+      "At dinner, she explained that 'Exhaustive' means 'including or considering all the important details', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Exhaustive’ শব্দটির অর্থ—পুঙ্খানুপুঙ্খ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Exhaustive' as 'including or considering all the important details' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Exhaustive’ শব্দটি পুঙ্খানুপুঙ্খ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Exhort",
+    "pronunciation_bn": "ইগজোর্ট",
+    "pronunciation": "/ɪɡˈzɔːt/",
+    "no": 355,
+    "group": 15,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to strongly encourage or urge someone to do something",
+    "meaning_bn": [
+      "জোরালোভাবে অনুরোধ করা",
+      "উৎসাহিত করা",
+      "দৃঢ়ভাবে তাগিদ দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "urge",
+        "bn": "তাগিদ দেওয়া"
+      },
+      {
+        "en": "encourage",
+        "bn": "উৎসাহিত করা"
+      },
+      {
+        "en": "implore",
+        "bn": "আকুল অনুরোধ করা"
+      },
+      {
+        "en": "Abet",
+        "bn": "অন্যায় কাজে সহায়তা করা"
+      },
+      {
+        "en": "entreat",
+        "bn": "আকুলভাবে অনুরোধ করা"
+      },
+      {
+        "en": "foster",
+        "bn": "লালন করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "discourage",
+        "bn": "নিরুৎসাহিত করা"
+      },
+      {
+        "en": "dissuade",
+        "bn": "বিরত করার চেষ্টা করা"
+      },
+      {
+        "en": "Daunt",
+        "bn": "ভীত করা"
+      },
+      {
+        "en": "dismay",
+        "bn": "হতাশা"
+      },
+      {
+        "en": "dispirit",
+        "bn": "হতাশ করা"
+      },
+      {
+        "en": "curb",
+        "bn": "নিয়ন্ত্রণ করা"
+      },
+      {
+        "en": "suppress",
+        "bn": "দমন করা"
+      }
+    ],
+    "example": "The coach exhorted the players to keep fighting until the final whistle.",
+    "example_bn": "কোচ শেষ বাঁশি বাজা পর্যন্ত লড়াই চালিয়ে যেতে খেলোয়াড়দের জোরালোভাবে উৎসাহিত করলেন.",
+    "examples": [
+      "The coach exhorted the players to keep fighting until the final whistle. — কোচ শেষ বাঁশি বাজা পর্যন্ত লড়াই চালিয়ে যেতে খেলোয়াড়দের জোরালোভাবে উৎসাহিত করলেন.",
+      "At dinner, she explained that 'Exhort' means 'to strongly encourage or urge someone to do', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Exhort’ শব্দটির অর্থ—জোরালোভাবে অনুরোধ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Exhort' as 'to strongly encourage or urge someone to do' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Exhort’ শব্দটি জোরালোভাবে অনুরোধ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Exigency",
+    "pronunciation_bn": "এক্সিজেন্সি",
+    "pronunciation": "/ˈek.sɪ.dʒən.si/",
+    "no": 356,
+    "group": 15,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "an urgent need or demand, especially in a difficult situation",
+    "meaning_bn": [
+      "জরুরি প্রয়োজন",
+      "সংকটজনিত দাবি",
+      "জরুরি পরিস্থিতি"
+    ],
+    "synonyms": [
+      {
+        "en": "emergency",
+        "bn": "জরুরি অবস্থা"
+      },
+      {
+        "en": "urgency",
+        "bn": "জরুরিতা"
+      },
+      {
+        "en": "necessity",
+        "bn": "প্রয়োজনীয়তা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "nonessential",
+        "bn": "অপ্রয়োজনীয় বিষয়"
+      },
+      {
+        "en": "triviality",
+        "bn": "তুচ্ছ বিষয়"
+      },
+      {
+        "en": "bauble",
+        "bn": "ছোটখাটো সাজসজ্জার বস্তু"
+      }
+    ],
+    "example": "The exigency of the situation required an immediate decision.",
+    "example_bn": "পরিস্থিতির জরুরিতা তাৎক্ষণিক সিদ্ধান্ত নেওয়ার দাবি জানিয়েছিল.",
+    "examples": [
+      "The exigency of the situation required an immediate decision. — পরিস্থিতির জরুরিতা তাৎক্ষণিক সিদ্ধান্ত নেওয়ার দাবি জানিয়েছিল.",
+      "At dinner, she explained that 'Exigency' means 'an urgent need or demand, especially', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Exigency’ শব্দটির অর্থ—জরুরি প্রয়োজন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Exigency' as 'an urgent need or demand, especially' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Exigency’ শব্দটি জরুরি প্রয়োজন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Existential",
+    "pronunciation_bn": "এগজিস্টেনশাল",
+    "pronunciation": "/ˌeɡ.zɪˈsten.ʃəl/",
+    "no": 357,
+    "group": 15,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "relating to existence, especially human existence and the meaning or purpose of life",
+    "meaning_bn": [
+      "অস্তিত্বসংক্রান্ত",
+      "মানবজীবনের অর্থ বা উদ্দেশ্যসংক্রান্ত",
+      "অস্তিত্ববাদী"
+    ],
+    "synonyms": [
+      {
+        "en": "existence-related",
+        "bn": "অস্তিত্ব-সম্পর্কিত"
+      },
+      {
+        "en": "ontological",
+        "bn": "সত্তাতাত্ত্বিক"
+      },
+      {
+        "en": "philosophical",
+        "bn": "দার্শনিক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "nonexistent",
+        "bn": "অস্তিত্বহীন"
+      },
+      {
+        "en": "unreal",
+        "bn": "অবাস্তব"
+      },
+      {
+        "en": "surreal",
+        "bn": "অবাস্তব"
+      }
+    ],
+    "example": "The sudden loss led him to question the meaning of life and face an existential crisis.",
+    "example_bn": "হঠাৎ ক্ষতির ঘটনা তাঁকে জীবনের অর্থ নিয়ে প্রশ্ন করতে এবং অস্তিত্বসংকটের মুখোমুখি হতে বাধ্য করল.",
+    "examples": [
+      "The sudden loss led him to question the meaning of life and face an existential crisis. — হঠাৎ ক্ষতির ঘটনা তাঁকে জীবনের অর্থ নিয়ে প্রশ্ন করতে এবং অস্তিত্বসংকটের মুখোমুখি হতে বাধ্য করল.",
+      "At dinner, she explained that 'Existential' means 'relating to existence, especially human existence', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Existential’ শব্দটির অর্থ—অস্তিত্বসংক্রান্ত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Existential' as 'relating to existence, especially human existence' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Existential’ শব্দটি অস্তিত্বসংক্রান্ত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Exonerate",
+    "pronunciation_bn": "ইগজোনারেইট",
+    "pronunciation": "/ɪɡˈzɒn.ə.reɪt/",
+    "no": 358,
+    "group": 15,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to officially clear someone of blame or responsibility for wrongdoing",
+    "meaning_bn": [
+      "দোষমুক্ত করা",
+      "দায়মুক্ত করা",
+      "অভিযোগ থেকে অব্যাহতি দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "absolve",
+        "bn": "দায়মুক্ত করা"
+      },
+      {
+        "en": "acquit",
+        "bn": "খালাস দেওয়া"
+      },
+      {
+        "en": "clear",
+        "bn": "নির্দোষ প্রমাণ করা"
+      },
+      {
+        "en": "Vindicate",
+        "bn": "নির্দোষ প্রমাণ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "incriminate",
+        "bn": "অপরাধে জড়িত বলে প্রমাণ করা"
+      },
+      {
+        "en": "convict",
+        "bn": "দোষী সাব্যস্ত করা"
+      },
+      {
+        "en": "blame",
+        "bn": "দোষারোপ করা"
+      },
+      {
+        "en": "Slander",
+        "bn": "মিথ্যা মৌখিক অপবাদ দেওয়া"
+      },
+      {
+        "en": "Impeach",
+        "bn": "অভিশংসন করা"
+      },
+      {
+        "en": "Arraign",
+        "bn": "অভিযোগের জবাব দিতে আদালতে হাজির করা"
+      },
+      {
+        "en": "Indict",
+        "bn": "অপরাধের আনুষ্ঠানিক অভিযোগ আনা"
+      },
+      {
+        "en": "taint",
+        "bn": "দূষিত করা"
+      },
+      {
+        "en": "Defame",
+        "bn": "মানহানি করা"
+      },
+      {
+        "en": "Impugn",
+        "bn": "সততা নিয়ে প্রশ্ন তোলা"
+      },
+      {
+        "en": "Stigmatize",
+        "bn": "কলঙ্কিত করা"
+      },
+      {
+        "en": "Vilify",
+        "bn": "নিন্দা করা"
+      }
+    ],
+    "example": "New evidence helped exonerate the man who had been wrongly accused.",
+    "example_bn": "নতুন প্রমাণ ভুলভাবে অভিযুক্ত ব্যক্তিকে দোষমুক্ত করতে সাহায্য করল.",
+    "examples": [
+      "New evidence helped exonerate the man who had been wrongly accused. — নতুন প্রমাণ ভুলভাবে অভিযুক্ত ব্যক্তিকে দোষমুক্ত করতে সাহায্য করল.",
+      "At dinner, she explained that 'Exonerate' means 'to officially clear someone of blame or responsibility', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Exonerate’ শব্দটির অর্থ—দোষমুক্ত করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Exonerate' as 'to officially clear someone of blame or responsibility' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Exonerate’ শব্দটি দোষমুক্ত করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Expatriate",
+    "pronunciation_bn": "এক্সপ্যাট্রিয়েট",
+    "pronunciation": "/ˌek.sˈpeɪ.tri.ət/",
+    "no": 359,
+    "group": 15,
+    "pos": [
+      "noun",
+      "verb",
+      "adjective"
+    ],
+    "meaning_en": "a person living outside their native country; also, to leave one's native country to live elsewhere",
+    "meaning_bn": [
+      "নিজ দেশ ছেড়ে বিদেশে বসবাসকারী ব্যক্তি",
+      "প্রবাসী",
+      "স্বদেশত্যাগ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "emigrant",
+        "bn": "দেশত্যাগী"
+      },
+      {
+        "en": "migrant",
+        "bn": "অভিবাসী"
+      },
+      {
+        "en": "overseas resident",
+        "bn": "বিদেশে বসবাসকারী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "native resident",
+        "bn": "নিজ দেশের বাসিন্দা"
+      },
+      {
+        "en": "repatriate",
+        "bn": "নিজ দেশে ফিরিয়ে আনা ব্যক্তি"
+      }
+    ],
+    "example": "After accepting the position, she lived as an expatriate in Dubai for several years.",
+    "example_bn": "পদটি গ্রহণ করার পর তিনি কয়েক বছর দুবাইয়ে প্রবাসী হিসেবে বসবাস করেছিলেন.",
+    "examples": [
+      "After accepting the position, she lived as an expatriate in Dubai for several years. — পদটি গ্রহণ করার পর তিনি কয়েক বছর দুবাইয়ে প্রবাসী হিসেবে বসবাস করেছিলেন.",
+      "At dinner, she explained that 'Expatriate' means 'a person living outside their native country', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Expatriate’ শব্দটির অর্থ—নিজ দেশ ছেড়ে বিদেশে বসবাসকারী ব্যক্তি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Expatriate' as 'a person living outside their native country' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Expatriate’ শব্দটি নিজ দেশ ছেড়ে বিদেশে বসবাসকারী ব্যক্তি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Expedient",
+    "pronunciation_bn": "ইকস্পিডিয়েন্ট",
+    "pronunciation": "/ɪkˈspiː.di.ənt/",
+    "no": 360,
+    "group": 15,
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "meaning_en": "useful or convenient for a particular purpose, sometimes without regard to what is right; a practical means to an end",
+    "meaning_bn": [
+      "সুবিধাজনক",
+      "উদ্দেশ্যসাধনে কার্যকর",
+      "সুবিধা অর্জনের উপায়"
+    ],
+    "synonyms": [
+      {
+        "en": "practical",
+        "bn": "ব্যবহারিক"
+      },
+      {
+        "en": "convenient",
+        "bn": "সুবিধাজনক"
+      },
+      {
+        "en": "advantageous",
+        "bn": "সুবিধাজনক"
+      },
+      {
+        "en": "Pragmatic",
+        "bn": "বাস্তবসম্মত"
+      },
+      {
+        "en": "tactical",
+        "bn": "কৌশলগত"
+      },
+      {
+        "en": "Utilitarian",
+        "bn": "উপযোগবাদী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "impractical",
+        "bn": "অবাস্তব বা অকার্যকর"
+      },
+      {
+        "en": "inexpedient",
+        "bn": "অনুপযোগী"
+      },
+      {
+        "en": "disadvantageous",
+        "bn": "অসুবিধাজনক"
+      },
+      {
+        "en": "Deleterious",
+        "bn": "ক্ষতিকর"
+      },
+      {
+        "en": "Quixotic",
+        "bn": "অবাস্তব আদর্শবাদী"
+      },
+      {
+        "en": "Pedantic",
+        "bn": "খুঁটিনাটি নিয়ে অতিরিক্ত ব্যস্ত"
+      }
+    ],
+    "example": "It seemed expedient to postpone the meeting until everyone was available.",
+    "example_bn": "সবার উপস্থিতি নিশ্চিত না হওয়া পর্যন্ত সভা স্থগিত করাই সুবিধাজনক মনে হয়েছিল.",
+    "examples": [
+      "It seemed expedient to postpone the meeting until everyone was available. — সবার উপস্থিতি নিশ্চিত না হওয়া পর্যন্ত সভা স্থগিত করাই সুবিধাজনক মনে হয়েছিল.",
+      "At dinner, she explained that 'Expedient' means 'useful or convenient for a particular purpose, sometimes', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Expedient’ শব্দটির অর্থ—সুবিধাজনক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Expedient' as 'useful or convenient for a particular purpose, sometimes' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Expedient’ শব্দটি সুবিধাজনক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Expedite",
+    "pronunciation_bn": "এক্সপিডাইট",
+    "pronunciation": "/ˈek.spə.daɪt/",
+    "no": 361,
+    "group": 15,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to make a process or action happen more quickly or easily",
+    "meaning_bn": [
+      "দ্রুততর করা",
+      "ত্বরান্বিত করা",
+      "কাজ এগিয়ে নিতে সহায়তা করা"
+    ],
+    "synonyms": [
+      {
+        "en": "accelerate",
+        "bn": "গতি বাড়ানো"
+      },
+      {
+        "en": "speed up",
+        "bn": "দ্রুত করা"
+      },
+      {
+        "en": "hasten",
+        "bn": "ত্বরান্বিত করা"
+      },
+      {
+        "en": "Precipitate",
+        "bn": "হঠাৎ ঘটিয়ে তোলা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "delay",
+        "bn": "বিলম্বিত করা"
+      },
+      {
+        "en": "hinder",
+        "bn": "বাধা দেওয়া"
+      },
+      {
+        "en": "slow down",
+        "bn": "ধীর করা"
+      },
+      {
+        "en": "Impede",
+        "bn": "বাধা দেওয়া"
+      },
+      {
+        "en": "Stymie",
+        "bn": "বাধাগ্রস্ত করা"
+      },
+      {
+        "en": "thwart",
+        "bn": "ব্যর্থ করে দেওয়া"
+      }
+    ],
+    "example": "She contacted the office to expedite the processing of her application.",
+    "example_bn": "আবেদন প্রক্রিয়াকরণ দ্রুত করার জন্য তিনি অফিসে যোগাযোগ করেছিলেন.",
+    "examples": [
+      "She contacted the office to expedite the processing of her application. — আবেদন প্রক্রিয়াকরণ দ্রুত করার জন্য তিনি অফিসে যোগাযোগ করেছিলেন.",
+      "At dinner, she explained that 'Expedite' means 'to make a process or action happen', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Expedite’ শব্দটির অর্থ—দ্রুততর করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Expedite' as 'to make a process or action happen' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Expedite’ শব্দটি দ্রুততর করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Explicit",
+    "pronunciation_bn": "এক্সপ্লিসিট",
+    "pronunciation": "/ɪkˈsplɪs.ɪt/",
+    "no": 362,
+    "group": 15,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "stated clearly and in detail, leaving no room for doubt or confusion",
+    "meaning_bn": [
+      "সুস্পষ্ট",
+      "দ্ব্যর্থহীন",
+      "স্পষ্টভাবে প্রকাশিত"
+    ],
+    "synonyms": [
+      {
+        "en": "clear",
+        "bn": "স্পষ্ট"
+      },
+      {
+        "en": "specific",
+        "bn": "নির্দিষ্ট"
+      },
+      {
+        "en": "unambiguous",
+        "bn": "দ্ব্যর্থহীন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "implicit",
+        "bn": "অন্তর্নিহিত"
+      },
+      {
+        "en": "vague",
+        "bn": "অস্পষ্ট"
+      },
+      {
+        "en": "ambiguous",
+        "bn": "দ্ব্যর্থক"
+      },
+      {
+        "en": "Nebulous",
+        "bn": "অস্পষ্ট"
+      },
+      {
+        "en": "Elliptical",
+        "bn": "ইঙ্গিতপূর্ণ ও পরোক্ষ"
+      },
+      {
+        "en": "Oblique",
+        "bn": "পরোক্ষ"
+      },
+      {
+        "en": "Tacit",
+        "bn": "অব্যক্ত"
+      },
+      {
+        "en": "Cryptic",
+        "bn": "রহস্যময়"
+      },
+      {
+        "en": "Equivocal",
+        "bn": "দ্ব্যর্থক"
+      },
+      {
+        "en": "Abstract",
+        "bn": "বিমূর্ত"
+      },
+      {
+        "en": "Arcane",
+        "bn": "অল্প কয়েকজনের জানা"
+      },
+      {
+        "en": "Esoteric",
+        "bn": "দুর্বোধ্য"
+      },
+      {
+        "en": "Obscure",
+        "bn": "অস্পষ্ট"
+      }
+    ],
+    "example": "The instructions were explicit about how the equipment should be used.",
+    "example_bn": "সরঞ্জামটি কীভাবে ব্যবহার করতে হবে, সে বিষয়ে নির্দেশনাগুলো সুস্পষ্ট ছিল.",
+    "examples": [
+      "The instructions were explicit about how the equipment should be used. — সরঞ্জামটি কীভাবে ব্যবহার করতে হবে, সে বিষয়ে নির্দেশনাগুলো সুস্পষ্ট ছিল.",
+      "At dinner, she explained that 'Explicit' means 'stated clearly and in detail, leaving no room', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Explicit’ শব্দটির অর্থ—সুস্পষ্ট—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Explicit' as 'stated clearly and in detail, leaving no room' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Explicit’ শব্দটি সুস্পষ্ট অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Extol",
+    "pronunciation_bn": "ইকস্টোল",
+    "pronunciation": "/ɪkˈstəʊl/",
+    "no": 363,
+    "group": 15,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to praise someone or something enthusiastically and highly",
+    "meaning_bn": [
+      "ভূয়সী প্রশংসা করা",
+      "উচ্চ প্রশংসা করা",
+      "গুণগান করা"
+    ],
+    "synonyms": [
+      {
+        "en": "praise",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "laud",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "celebrate",
+        "bn": "গুণগান করা"
+      },
+      {
+        "en": "Acclaim",
+        "bn": "প্রকাশ্যে প্রশংসা করা"
+      },
+      {
+        "en": "Exalt",
+        "bn": "উচ্চ প্রশংসা করা"
+      },
+      {
+        "en": "Exult",
+        "bn": "উল্লাস করা"
+      },
+      {
+        "en": "Tout",
+        "bn": "প্রচার করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "criticize",
+        "bn": "সমালোচনা করা"
+      },
+      {
+        "en": "condemn",
+        "bn": "নিন্দা করা"
+      },
+      {
+        "en": "disparage",
+        "bn": "হেয় করা"
+      },
+      {
+        "en": "Belittle",
+        "bn": "তুচ্ছ করা"
+      },
+      {
+        "en": "Censure",
+        "bn": "কঠোর নিন্দা করা"
+      },
+      {
+        "en": "Deprecate",
+        "bn": "কোনো কিছুর প্রতি অসম্মতি প্রকাশ করা"
+      },
+      {
+        "en": "Admonish",
+        "bn": "সতর্ক করা"
+      },
+      {
+        "en": "Burlesque",
+        "bn": "উপহাসমূলক অনুকরণ"
+      }
+    ],
+    "example": "The media extolled her achievements in science and public service.",
+    "example_bn": "গণমাধ্যম বিজ্ঞান ও জনসেবায় তাঁর সাফল্যের ভূয়সী প্রশংসা করেছিল.",
+    "examples": [
+      "The media extolled her achievements in science and public service. — গণমাধ্যম বিজ্ঞান ও জনসেবায় তাঁর সাফল্যের ভূয়সী প্রশংসা করেছিল.",
+      "At dinner, she explained that 'Extol' means 'to praise someone or something enthusiastically and highly', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Extol’ শব্দটির অর্থ—ভূয়সী প্রশংসা করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Extol' as 'to praise someone or something enthusiastically and highly' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Extol’ শব্দটি ভূয়সী প্রশংসা করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Extraneous",
+    "pronunciation_bn": "এক্সট্রেইনিয়াস",
+    "pronunciation": "/ɪkˈstreɪ.ni.əs/",
+    "no": 364,
+    "group": 15,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "not relevant or essential to the subject being dealt with",
+    "meaning_bn": [
+      "অপ্রাসঙ্গিক",
+      "অপ্রয়োজনীয়",
+      "বহিরাগত"
+    ],
+    "synonyms": [
+      {
+        "en": "irrelevant",
+        "bn": "অপ্রাসঙ্গিক"
+      },
+      {
+        "en": "unnecessary",
+        "bn": "অপ্রয়োজনীয়"
+      },
+      {
+        "en": "inessential",
+        "bn": "অত্যাবশ্যক নয় এমন"
+      },
+      {
+        "en": "Gratuitous",
+        "bn": "অপ্রয়োজনীয়"
+      },
+      {
+        "en": "Redundant",
+        "bn": "অপ্রয়োজনীয়"
+      },
+      {
+        "en": "Superfluous",
+        "bn": "অপ্রয়োজনীয়"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "relevant",
+        "bn": "প্রাসঙ্গিক"
+      },
+      {
+        "en": "essential",
+        "bn": "অত্যাবশ্যক"
+      },
+      {
+        "en": "pertinent",
+        "bn": "সংশ্লিষ্ট"
+      },
+      {
+        "en": "Integral",
+        "bn": "অপরিহার্য"
+      },
+      {
+        "en": "Apposite",
+        "bn": "যথোপযুক্ত"
+      },
+      {
+        "en": "Germane",
+        "bn": "প্রাসঙ্গিক"
+      },
+      {
+        "en": "Requisite",
+        "bn": "প্রয়োজনীয়"
+      },
+      {
+        "en": "Apropos",
+        "bn": "প্রাসঙ্গিক"
+      },
+      {
+        "en": "Imperative",
+        "bn": "অত্যাবশ্যক"
+      }
+    ],
+    "example": "Please remove extraneous details from the report.",
+    "example_bn": "অনুগ্রহ করে প্রতিবেদন থেকে অপ্রাসঙ্গিক বিবরণগুলো বাদ দিন.",
+    "examples": [
+      "Please remove extraneous details from the report. — অনুগ্রহ করে প্রতিবেদন থেকে অপ্রাসঙ্গিক বিবরণগুলো বাদ দিন.",
+      "At dinner, she explained that 'Extraneous' means 'not relevant or essential to the subject being', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Extraneous’ শব্দটির অর্থ—অপ্রাসঙ্গিক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Extraneous' as 'not relevant or essential to the subject being' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Extraneous’ শব্দটি অপ্রাসঙ্গিক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Extrapolate",
+    "pronunciation_bn": "এক্সট্রাপোলেইট",
+    "pronunciation": "/ɪkˈstræp.ə.leɪt/",
+    "no": 365,
+    "group": 15,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to estimate or infer something unknown from known facts, trends, or data",
+    "meaning_bn": [
+      "জ্ঞাত তথ্য থেকে অজ্ঞাত বিষয়ে অনুমান করা",
+      "তথ্য বা প্রবণতা থেকে পূর্বাভাস দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "infer",
+        "bn": "অনুমান করা"
+      },
+      {
+        "en": "project",
+        "bn": "প্রক্ষেপণ করা"
+      },
+      {
+        "en": "deduce",
+        "bn": "নিগমন করা"
+      },
+      {
+        "en": "Conjecture",
+        "bn": "অনুমান"
+      },
+      {
+        "en": "divine",
+        "bn": "অন্তর্দৃষ্টি দিয়ে বুঝতে পারা"
+      },
+      {
+        "en": "surmise",
+        "bn": "অনুমান করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "measure directly",
+        "bn": "সরাসরি পরিমাপ করা"
+      },
+      {
+        "en": "verify",
+        "bn": "যাচাই করা"
+      },
+      {
+        "en": "Corroborate",
+        "bn": "প্রমাণ দিয়ে সমর্থন করা"
+      },
+      {
+        "en": "Ascertain",
+        "bn": "নিশ্চিতভাবে নির্ধারণ করা"
+      },
+      {
+        "en": "Attest",
+        "bn": "প্রমাণ দেওয়া"
+      },
+      {
+        "en": "Exemplify",
+        "bn": "দৃষ্টান্ত হিসেবে তুলে ধরা"
+      },
+      {
+        "en": "substantiate",
+        "bn": "প্রমাণ করা"
+      }
+    ],
+    "example": "Researchers used the current data to extrapolate future demand.",
+    "example_bn": "গবেষকেরা বর্তমান তথ্য ব্যবহার করে ভবিষ্যৎ চাহিদার পূর্বাভাস দিয়েছিলেন.",
+    "examples": [
+      "Researchers used the current data to extrapolate future demand. — গবেষকেরা বর্তমান তথ্য ব্যবহার করে ভবিষ্যৎ চাহিদার পূর্বাভাস দিয়েছিলেন.",
+      "At dinner, she explained that 'Extrapolate' means 'to estimate or infer something unknown from known', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Extrapolate’ শব্দটির অর্থ—জ্ঞাত তথ্য থেকে অজ্ঞাত বিষয়ে অনুমান করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Extrapolate' as 'to estimate or infer something unknown from known' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Extrapolate’ শব্দটি জ্ঞাত তথ্য থেকে অজ্ঞাত বিষয়ে অনুমান করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Extricate",
+    "pronunciation_bn": "এক্সট্রিকেট",
+    "pronunciation": "/ˈek.strɪ.keɪt/",
+    "no": 366,
+    "group": 15,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to free someone or something from a difficult, dangerous, or complicated situation",
+    "meaning_bn": [
+      "বিপদ বা জটিল অবস্থা থেকে মুক্ত করা",
+      "উদ্ধার করা",
+      "জট ছাড়ানো"
+    ],
+    "synonyms": [
+      {
+        "en": "free",
+        "bn": "মুক্ত করা"
+      },
+      {
+        "en": "disentangle",
+        "bn": "জট ছাড়ানো"
+      },
+      {
+        "en": "rescue",
+        "bn": "উদ্ধার করা"
+      },
+      {
+        "en": "emancipate",
+        "bn": "মুক্ত করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "entangle",
+        "bn": "জড়িয়ে ফেলা"
+      },
+      {
+        "en": "ensnare",
+        "bn": "ফাঁদে ফেলা"
+      },
+      {
+        "en": "involve",
+        "bn": "জড়িত করা"
+      },
+      {
+        "en": "embroil",
+        "bn": "বিরোধে জড়িয়ে ফেলা"
+      },
+      {
+        "en": "Beleaguer",
+        "bn": "অবরোধ করা"
+      },
+      {
+        "en": "Beset",
+        "bn": "ঘিরে ফেলা"
+      },
+      {
+        "en": "entail",
+        "bn": "অনিবার্যভাবে জড়িত থাকা"
+      },
+      {
+        "en": "Fetter",
+        "bn": "শৃঙ্খলিত করা"
+      },
+      {
+        "en": "shackle",
+        "bn": "বেড়ি"
+      }
+    ],
+    "example": "The firefighters worked carefully to extricate the driver from the wreckage.",
+    "example_bn": "দমকলকর্মীরা ধ্বংসস্তূপ থেকে চালককে উদ্ধার করতে সতর্কতার সঙ্গে কাজ করেছিলেন.",
+    "examples": [
+      "The firefighters worked carefully to extricate the driver from the wreckage. — দমকলকর্মীরা ধ্বংসস্তূপ থেকে চালককে উদ্ধার করতে সতর্কতার সঙ্গে কাজ করেছিলেন.",
+      "At dinner, she explained that 'Extricate' means 'to free someone or something from a difficult', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Extricate’ শব্দটির অর্থ—বিপদ বা জটিল অবস্থা থেকে মুক্ত করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Extricate' as 'to free someone or something from a difficult' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Extricate’ শব্দটি বিপদ বা জটিল অবস্থা থেকে মুক্ত করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Extrovert",
+    "pronunciation_bn": "এক্সট্রোভার্ট",
+    "pronunciation": "/ˈek.strə.vɜːt/",
+    "no": 367,
+    "group": 15,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "an outgoing person who enjoys being with other people",
+    "meaning_bn": [
+      "বহির্মুখী ব্যক্তি",
+      "সহজে মেলামেশা করতে পছন্দ করেন এমন ব্যক্তি"
+    ],
+    "synonyms": [
+      {
+        "en": "outgoing person",
+        "bn": "মিশুক ব্যক্তি"
+      },
+      {
+        "en": "sociable person",
+        "bn": "সামাজিকভাবে মেলামেশাপ্রিয় ব্যক্তি"
+      },
+      {
+        "en": "gregarious person",
+        "bn": "জনসমাগমপ্রিয় ব্যক্তি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "introvert",
+        "bn": "অন্তর্মুখী ব্যক্তি"
+      },
+      {
+        "en": "reserved person",
+        "bn": "স্বল্পভাষী বা সংযত ব্যক্তি"
+      }
+    ],
+    "example": "As an extrovert, Rina enjoys meeting new people and joining group activities.",
+    "example_bn": "বহির্মুখী হওয়ায় রিনা নতুন মানুষের সঙ্গে পরিচিত হতে এবং দলীয় কার্যক্রমে অংশ নিতে পছন্দ করে.",
+    "examples": [
+      "As an extrovert, Rina enjoys meeting new people and joining group activities. — বহির্মুখী হওয়ায় রিনা নতুন মানুষের সঙ্গে পরিচিত হতে এবং দলীয় কার্যক্রমে অংশ নিতে পছন্দ করে.",
+      "At dinner, she explained that 'Extrovert' means 'an outgoing person who enjoys being with other', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Extrovert’ শব্দটির অর্থ—বহির্মুখী ব্যক্তি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Extrovert' as 'an outgoing person who enjoys being with other' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Extrovert’ শব্দটি বহির্মুখী ব্যক্তি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Exult",
+    "pronunciation_bn": "ইগজাল্ট",
+    "pronunciation": "/ɪɡˈzʌlt/",
+    "no": 368,
+    "group": 15,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to show or feel great happiness, especially because of success",
+    "meaning_bn": [
+      "উল্লাস করা",
+      "আনন্দে আত্মহারা হওয়া",
+      "বিজয়ে আনন্দ প্রকাশ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "rejoice",
+        "bn": "আনন্দ করা"
+      },
+      {
+        "en": "celebrate",
+        "bn": "উদ্‌যাপন করা"
+      },
+      {
+        "en": "triumph",
+        "bn": "বিজয়ের আনন্দ প্রকাশ করা"
+      },
+      {
+        "en": "Extol",
+        "bn": "ভূয়সী প্রশংসা করা"
+      },
+      {
+        "en": "Prevail",
+        "bn": "জয়ী হওয়া"
+      },
+      {
+        "en": "revel",
+        "bn": "প্রাণভরে উপভোগ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "mourn",
+        "bn": "শোক করা"
+      },
+      {
+        "en": "lament",
+        "bn": "বিলাপ করা"
+      },
+      {
+        "en": "grieve",
+        "bn": "দুঃখ করা"
+      },
+      {
+        "en": "bemoan",
+        "bn": "শোক প্রকাশ করা"
+      },
+      {
+        "en": "rue",
+        "bn": "অনুতাপ করা"
+      },
+      {
+        "en": "begrudge",
+        "bn": "অন্যের প্রাপ্তিতে ঈর্ষা বা ক্ষোভ অনুভব করা"
+      },
+      {
+        "en": "deplore",
+        "bn": "তীব্র নিন্দা করা"
+      },
+      {
+        "en": "Lampoon",
+        "bn": "ব্যঙ্গ করা"
+      }
+    ],
+    "example": "The supporters exulted when their team scored the winning goal.",
+    "example_bn": "তাদের দল জয়সূচক গোল করলে সমর্থকেরা উল্লাসে মেতে উঠলেন.",
+    "examples": [
+      "The supporters exulted when their team scored the winning goal. — তাদের দল জয়সূচক গোল করলে সমর্থকেরা উল্লাসে মেতে উঠলেন.",
+      "At dinner, she explained that 'Exult' means 'to show or feel great happiness, especially because', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Exult’ শব্দটির অর্থ—উল্লাস করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Exult' as 'to show or feel great happiness, especially because' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Exult’ শব্দটি উল্লাস করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Fabrication",
+    "pronunciation_bn": "ফ্যাব্রিকেইশন",
+    "pronunciation": "/ˌfæb.rɪˈkeɪ.ʃən/",
+    "no": 369,
+    "group": 15,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a story or statement that is invented and intended to deceive; the act of making something",
+    "meaning_bn": [
+      "মনগড়া মিথ্যা কাহিনি",
+      "জাল তথ্য",
+      "কিছু তৈরি করার প্রক্রিয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "falsehood",
+        "bn": "মিথ্যা কথা"
+      },
+      {
+        "en": "invention",
+        "bn": "মনগড়া কাহিনি"
+      },
+      {
+        "en": "falsification",
+        "bn": "তথ্য জালকরণ"
+      },
+      {
+        "en": "figment",
+        "bn": "কল্পনার সৃষ্টি"
+      },
+      {
+        "en": "Chimera",
+        "bn": "অলীক কল্পনা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "truth",
+        "bn": "সত্য"
+      },
+      {
+        "en": "fact",
+        "bn": "বাস্তব তথ্য"
+      },
+      {
+        "en": "authenticity",
+        "bn": "সত্যতা"
+      },
+      {
+        "en": "Chronicle",
+        "bn": "কালানুক্রমিক বিবরণ"
+      },
+      {
+        "en": "Axiom",
+        "bn": "স্বতঃসিদ্ধ সত্য"
+      },
+      {
+        "en": "verity",
+        "bn": "সত্যতা"
+      },
+      {
+        "en": "Maxim",
+        "bn": "সাধারণ সত্য, আচরণবিধি বা নীতি প্রকাশকারী সংক্ষিপ্ত উক্তি"
+      },
+      {
+        "en": "Veracity",
+        "bn": "সত্যতা"
+      },
+      {
+        "en": "Verisimilitude",
+        "bn": "সত্য বলে মনে হওয়ার গুণ"
+      }
+    ],
+    "example": "The investigators discovered that his alibi was a complete fabrication.",
+    "example_bn": "তদন্তকারীরা আবিষ্কার করলেন যে তার অজুহাতটি সম্পূর্ণ মনগড়া ছিল.",
+    "examples": [
+      "The investigators discovered that his alibi was a complete fabrication. — তদন্তকারীরা আবিষ্কার করলেন যে তার অজুহাতটি সম্পূর্ণ মনগড়া ছিল.",
+      "At dinner, she explained that 'Fabrication' means 'a story or statement that is invented', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Fabrication’ শব্দটির অর্থ—মনগড়া মিথ্যা কাহিনি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Fabrication' as 'a story or statement that is invented' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Fabrication’ শব্দটি মনগড়া মিথ্যা কাহিনি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Facetious",
+    "pronunciation_bn": "ফাসিশাস",
+    "pronunciation": "/fəˈsiː.ʃəs/",
+    "no": 370,
+    "group": 15,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "treating a serious subject in a deliberately humorous or inappropriate way",
+    "meaning_bn": [
+      "গুরুতর বিষয় নিয়ে অনুপযুক্ত রসিকতাপূর্ণ",
+      "ঠাট্টাচ্ছলে বলা",
+      "রসিকতাপূর্ণ"
+    ],
+    "synonyms": [
+      {
+        "en": "flippant",
+        "bn": "গুরুত্বহীন ভঙ্গিতে বলা"
+      },
+      {
+        "en": "jocular",
+        "bn": "রসিকতাপূর্ণ"
+      },
+      {
+        "en": "playful",
+        "bn": "কৌতুকপূর্ণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "serious",
+        "bn": "গম্ভীর"
+      },
+      {
+        "en": "earnest",
+        "bn": "আন্তরিক ও গম্ভীর"
+      },
+      {
+        "en": "solemn",
+        "bn": "গুরুগম্ভীর"
+      },
+      {
+        "en": "Grievous",
+        "bn": "গুরুতর"
+      }
+    ],
+    "example": "Please stop being facetious and answer the question seriously.",
+    "example_bn": "অনুগ্রহ করে ঠাট্টা বন্ধ করে প্রশ্নটির গম্ভীরভাবে উত্তর দিন.",
+    "examples": [
+      "Please stop being facetious and answer the question seriously. — অনুগ্রহ করে ঠাট্টা বন্ধ করে প্রশ্নটির গম্ভীরভাবে উত্তর দিন.",
+      "At dinner, she explained that 'Facetious' means 'treating a serious subject in a deliberately humorous', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Facetious’ শব্দটির অর্থ—গুরুতর বিষয় নিয়ে অনুপযুক্ত রসিকতাপূর্ণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Facetious' as 'treating a serious subject in a deliberately humorous' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Facetious’ শব্দটি গুরুতর বিষয় নিয়ে অনুপযুক্ত রসিকতাপূর্ণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Facile",
+    "pronunciation_bn": "ফ্যাসাইল",
+    "pronunciation": "/ˈfæs.aɪl/",
+    "no": 371,
+    "group": 15,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "achieved or expressed too easily and without enough thought; also, fluent or effortless",
+    "meaning_bn": [
+      "অতি সহজে করা হলেও যথেষ্ট চিন্তাভাবনাহীন",
+      "অগভীর",
+      "সাবলীল বা অনায়াস"
+    ],
+    "synonyms": [
+      {
+        "en": "superficial",
+        "bn": "অগভীর"
+      },
+      {
+        "en": "simplistic",
+        "bn": "অতিরিক্ত সরলীকৃত"
+      },
+      {
+        "en": "effortless",
+        "bn": "অনায়াস"
+      },
+      {
+        "en": "cursory",
+        "bn": "দ্রুত ও উপর উপর করা"
+      },
+      {
+        "en": "Perfunctory",
+        "bn": "দায়সারা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "thoughtful",
+        "bn": "চিন্তাশীল"
+      },
+      {
+        "en": "profound",
+        "bn": "গভীর"
+      },
+      {
+        "en": "difficult",
+        "bn": "কঠিন"
+      },
+      {
+        "en": "Arduous",
+        "bn": "কঠিন"
+      },
+      {
+        "en": "Cerebral",
+        "bn": "মস্তিষ্কসংক্রান্ত"
+      },
+      {
+        "en": "Exhaustive",
+        "bn": "পুঙ্খানুপুঙ্খ"
+      },
+      {
+        "en": "Acute",
+        "bn": "তীব্র"
+      },
+      {
+        "en": "Comprehensive",
+        "bn": "সর্বাঙ্গীণ"
+      }
+    ],
+    "example": "His facile explanation ignored the complexity of the problem.",
+    "example_bn": "তার অগভীর ব্যাখ্যাটি সমস্যাটির জটিলতা উপেক্ষা করেছিল.",
+    "examples": [
+      "His facile explanation ignored the complexity of the problem. — তার অগভীর ব্যাখ্যাটি সমস্যাটির জটিলতা উপেক্ষা করেছিল.",
+      "At dinner, she explained that 'Facile' means 'achieved or expressed too easily and without enough', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Facile’ শব্দটির অর্থ—অতি সহজে করা হলেও যথেষ্ট চিন্তাভাবনাহীন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Facile' as 'achieved or expressed too easily and without enough' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Facile’ শব্দটি অতি সহজে করা হলেও যথেষ্ট চিন্তাভাবনাহীন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Faction",
+    "pronunciation_bn": "ফ্যাকশন",
+    "pronunciation": "/ˈfæk.ʃən/",
+    "no": 372,
+    "group": 15,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a smaller group within a larger group, especially one with different opinions or aims",
+    "meaning_bn": [
+      "বৃহত্তর দলের অভ্যন্তরীণ উপদল",
+      "ভিন্ন মত বা লক্ষ্যসম্পন্ন গোষ্ঠী"
+    ],
+    "synonyms": [
+      {
+        "en": "clique",
+        "bn": "স্বার্থসংশ্লিষ্ট ছোট গোষ্ঠী"
+      },
+      {
+        "en": "group",
+        "bn": "গোষ্ঠী"
+      },
+      {
+        "en": "bloc",
+        "bn": "জোটবদ্ধ গোষ্ঠী"
+      },
+      {
+        "en": "sect",
+        "bn": "ধর্মীয় উপদল"
+      },
+      {
+        "en": "cabal",
+        "bn": "গোপন ষড়যন্ত্রকারী গোষ্ঠী"
+      },
+      {
+        "en": "cohort",
+        "bn": "একই বৈশিষ্ট্য বা অভিজ্ঞতাসম্পন্ন মানুষের দল"
+      },
+      {
+        "en": "Collusion",
+        "bn": "গোপন আঁতাত"
+      },
+      {
+        "en": "coterie",
+        "bn": "ঘনিষ্ঠ ছোট গোষ্ঠী"
+      },
+      {
+        "en": "denomination",
+        "bn": "শ্রেণি বা গোষ্ঠী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "whole",
+        "bn": "সম্পূর্ণ দল"
+      },
+      {
+        "en": "unity",
+        "bn": "ঐক্য"
+      },
+      {
+        "en": "consensus",
+        "bn": "ঐকমত্য"
+      },
+      {
+        "en": "Accord",
+        "bn": "চুক্তি"
+      },
+      {
+        "en": "Concord",
+        "bn": "সম্প্রীতি"
+      },
+      {
+        "en": "Covenant",
+        "bn": "আনুষ্ঠানিক চুক্তি"
+      },
+      {
+        "en": "solidarity",
+        "bn": "সংহতি"
+      }
+    ],
+    "example": "A faction within the party opposed the proposed reforms.",
+    "example_bn": "দলের ভেতরের একটি উপদল প্রস্তাবিত সংস্কারের বিরোধিতা করেছিল.",
+    "examples": [
+      "A faction within the party opposed the proposed reforms. — দলের ভেতরের একটি উপদল প্রস্তাবিত সংস্কারের বিরোধিতা করেছিল.",
+      "At dinner, she explained that 'Faction' means 'a smaller group within a larger group, especially', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Faction’ শব্দটির অর্থ—বৃহত্তর দলের অভ্যন্তরীণ উপদল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Faction' as 'a smaller group within a larger group, especially' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Faction’ শব্দটি বৃহত্তর দলের অভ্যন্তরীণ উপদল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Farcical",
+    "pronunciation_bn": "ফারসিক্যাল",
+    "pronunciation": "/ˈfɑː.sɪ.kəl/",
+    "no": 373,
+    "group": 15,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "so absurd or ridiculous that it resembles a farce",
+    "meaning_bn": [
+      "হাস্যকর",
+      "প্রহসনমূলক",
+      "অযৌক্তিক ও উদ্ভট"
+    ],
+    "synonyms": [
+      {
+        "en": "ridiculous",
+        "bn": "হাস্যকর"
+      },
+      {
+        "en": "absurd",
+        "bn": "অযৌক্তিক"
+      },
+      {
+        "en": "ludicrous",
+        "bn": "উদ্ভট ও হাস্যকর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "serious",
+        "bn": "গম্ভীর"
+      },
+      {
+        "en": "sensible",
+        "bn": "যুক্তিসংগত"
+      },
+      {
+        "en": "credible",
+        "bn": "বিশ্বাসযোগ্য"
+      },
+      {
+        "en": "Grievous",
+        "bn": "গুরুতর"
+      },
+      {
+        "en": "Judicious",
+        "bn": "বিচক্ষণ"
+      },
+      {
+        "en": "plausible",
+        "bn": "বিশ্বাসযোগ্য"
+      },
+      {
+        "en": "Pragmatic",
+        "bn": "বাস্তবসম্মত"
+      },
+      {
+        "en": "Prudent",
+        "bn": "বিচক্ষণ"
+      }
+    ],
+    "example": "The hearing became farcical when the witnesses repeatedly contradicted one another.",
+    "example_bn": "সাক্ষীরা বারবার পরস্পরবিরোধী কথা বলায় শুনানিটি প্রহসনে পরিণত হয়েছিল.",
+    "examples": [
+      "The hearing became farcical when the witnesses repeatedly contradicted one another. — সাক্ষীরা বারবার পরস্পরবিরোধী কথা বলায় শুনানিটি প্রহসনে পরিণত হয়েছিল.",
+      "At dinner, she explained that 'Farcical' means 'so absurd or ridiculous that it resembles', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Farcical’ শব্দটির অর্থ—হাস্যকর—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Farcical' as 'so absurd or ridiculous that it resembles' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Farcical’ শব্দটি হাস্যকর অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Fastidious",
+    "pronunciation_bn": "ফাস্টিডিয়াস",
+    "pronunciation": "/fæˈstɪd.i.əs/",
+    "no": 374,
+    "group": 15,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "giving great attention to detail and being difficult to please, especially about cleanliness or accuracy",
+    "meaning_bn": [
+      "খুঁতখুঁতে",
+      "খুঁটিনাটির ব্যাপারে অত্যন্ত সতর্ক",
+      "পরিচ্ছন্নতা বা নির্ভুলতার বিষয়ে কঠোর"
+    ],
+    "synonyms": [
+      {
+        "en": "meticulous",
+        "bn": "খুঁটিনাটিতে অত্যন্ত সতর্ক"
+      },
+      {
+        "en": "fussy",
+        "bn": "খুঁতখুঁতে"
+      },
+      {
+        "en": "particular",
+        "bn": "বিশেষভাবে বাছবিচারকারী"
+      },
+      {
+        "en": "Comprehensive",
+        "bn": "সর্বাঙ্গীণ"
+      },
+      {
+        "en": "Exhaustive",
+        "bn": "পুঙ্খানুপুঙ্খ"
+      },
+      {
+        "en": "Painstaking",
+        "bn": "অত্যন্ত যত্নসহকারে করা"
+      },
+      {
+        "en": "Pedantic",
+        "bn": "খুঁটিনাটি নিয়ে অতিরিক্ত ব্যস্ত"
+      },
+      {
+        "en": "punctilious",
+        "bn": "খুঁটিনাটি বিষয়ে অত্যন্ত যত্নশীল"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "careless",
+        "bn": "অসতর্ক"
+      },
+      {
+        "en": "sloppy",
+        "bn": "অগোছালো"
+      },
+      {
+        "en": "undemanding",
+        "bn": "কম দাবি করেন এমন"
+      },
+      {
+        "en": "cursory",
+        "bn": "দ্রুত ও উপর উপর করা"
+      },
+      {
+        "en": "Lax",
+        "bn": "শিথিল"
+      },
+      {
+        "en": "Perfunctory",
+        "bn": "দায়সারা"
+      }
+    ],
+    "example": "She is fastidious about keeping her notes accurate and well organized.",
+    "example_bn": "নিজের নোট নির্ভুল ও সুশৃঙ্খল রাখার ব্যাপারে তিনি অত্যন্ত সতর্ক.",
+    "examples": [
+      "She is fastidious about keeping her notes accurate and well organized. — নিজের নোট নির্ভুল ও সুশৃঙ্খল রাখার ব্যাপারে তিনি অত্যন্ত সতর্ক.",
+      "At dinner, she explained that 'Fastidious' means 'giving great attention to detail and being difficult', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Fastidious’ শব্দটির অর্থ—খুঁতখুঁতে—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Fastidious' as 'giving great attention to detail and being difficult' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Fastidious’ শব্দটি খুঁতখুঁতে অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Fatalist",
+    "pronunciation_bn": "ফেইটালিস্ট",
+    "pronunciation": "/ˈfeɪ.təl.ɪst/",
+    "no": 375,
+    "group": 15,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a person who believes that events are determined by fate and cannot be changed by human action",
+    "meaning_bn": [
+      "ভাগ্যবাদী",
+      "যিনি বিশ্বাস করেন যে ঘটনাবলি ভাগ্য দ্বারা পূর্বনির্ধারিত"
+    ],
+    "synonyms": [
+      {
+        "en": "determinist",
+        "bn": "নিয়তিবাদী"
+      },
+      {
+        "en": "believer in fate",
+        "bn": "ভাগ্যে বিশ্বাসী ব্যক্তি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "free-will advocate",
+        "bn": "স্বাধীন ইচ্ছায় বিশ্বাসী ব্যক্তি"
+      },
+      {
+        "en": "voluntarist",
+        "bn": "মানব-ইচ্ছার ভূমিকার প্রবক্তা"
+      }
+    ],
+    "example": "As a fatalist, he believed that no effort could change the course of events.",
+    "example_bn": "ভাগ্যবাদী হওয়ায় তিনি বিশ্বাস করতেন, কোনো প্রচেষ্টাই ঘটনার গতিপথ বদলাতে পারে না.",
+    "examples": [
+      "As a fatalist, he believed that no effort could change the course of events. — ভাগ্যবাদী হওয়ায় তিনি বিশ্বাস করতেন, কোনো প্রচেষ্টাই ঘটনার গতিপথ বদলাতে পারে না.",
+      "At dinner, she explained that 'Fatalist' means 'a person who believes that events are determined', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Fatalist’ শব্দটির অর্থ—ভাগ্যবাদী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Fatalist' as 'a person who believes that events are determined' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Fatalist’ শব্দটি ভাগ্যবাদী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

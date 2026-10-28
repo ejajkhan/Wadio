@@ -1,0 +1,1737 @@
+[
+  {
+    "word": "shibboleth",
+    "pronunciation_bn": "শিবোলেথ",
+    "pronunciation": "/ˈʃɪb.ə.leθ/",
+    "no": 726,
+    "group": 30,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a word, phrase, custom, or belief that identifies a group; an outdated or unquestioned slogan or idea",
+    "meaning_bn": [
+      "কোনো গোষ্ঠীকে চিহ্নিত করে এমন শব্দ, বাক্যাংশ বা রীতি",
+      "সেকেলে বা প্রশ্নাতীতভাবে মেনে নেওয়া স্লোগান বা ধারণা"
+    ],
+    "synonyms": [
+      {
+        "en": "password",
+        "bn": "গোষ্ঠী-পরিচয়ের সংকেতশব্দ"
+      },
+      {
+        "en": "slogan",
+        "bn": "স্লোগান"
+      },
+      {
+        "en": "catchword",
+        "bn": "বহুল ব্যবহৃত আকর্ষণীয় বাক্যাংশ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "individuality",
+        "bn": "স্বাতন্ত্র্য"
+      },
+      {
+        "en": "novelty",
+        "bn": "নতুনত্ব"
+      }
+    ],
+    "example": "The phrase had become a political shibboleth that few people questioned.",
+    "example_bn": "বাক্যাংশটি এমন এক রাজনৈতিক স্লোগানে পরিণত হয়েছিল, যা খুব কম মানুষই প্রশ্ন করত।",
+    "examples": [
+      "The phrase had become a political shibboleth that few people questioned. — বাক্যাংশটি এমন এক রাজনৈতিক স্লোগানে পরিণত হয়েছিল, যা খুব কম মানুষই প্রশ্ন করত।",
+      "At dinner, she explained that 'shibboleth' means 'a word, phrase, custom, or belief that identifies', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘shibboleth’ শব্দটির অর্থ—কোনো গোষ্ঠীকে চিহ্নিত করে এমন শব্দ, বাক্যাংশ বা রীতি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'shibboleth' as 'a word, phrase, custom, or belief that identifies' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘shibboleth’ শব্দটি কোনো গোষ্ঠীকে চিহ্নিত করে এমন শব্দ, বাক্যাংশ বা রীতি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "shrewd",
+    "pronunciation_bn": "শ্রুড",
+    "pronunciation": "/ʃruːd/",
+    "no": 727,
+    "group": 30,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "having or showing good judgment and practical understanding; clever in assessing situations",
+    "meaning_bn": [
+      "বিচক্ষণ",
+      "তীক্ষ্ণবুদ্ধিসম্পন্ন",
+      "বাস্তব পরিস্থিতি বুঝে সঠিক সিদ্ধান্ত নিতে সক্ষম"
+    ],
+    "synonyms": [
+      {
+        "en": "astute",
+        "bn": "তীক্ষ্ণবুদ্ধিসম্পন্ন"
+      },
+      {
+        "en": "sagacious",
+        "bn": "প্রজ্ঞাবান"
+      },
+      {
+        "en": "perceptive",
+        "bn": "সূক্ষ্মবোধসম্পন্ন"
+      },
+      {
+        "en": "Incisive",
+        "bn": "তীক্ষ্ণ বিশ্লেষণী"
+      },
+      {
+        "en": "Judicious",
+        "bn": "বিচক্ষণ"
+      },
+      {
+        "en": "Prudent",
+        "bn": "বিচক্ষণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "naive",
+        "bn": "সরলবিশ্বাসী"
+      },
+      {
+        "en": "foolish",
+        "bn": "বোকা"
+      },
+      {
+        "en": "gullible",
+        "bn": "সহজে প্রতারিত হয় এমন"
+      },
+      {
+        "en": "Credulous",
+        "bn": "সহজে বিশ্বাস করে এমন"
+      },
+      {
+        "en": "Ingenuous",
+        "bn": "সরল"
+      },
+      {
+        "en": "Obtuse",
+        "bn": "বুদ্ধিতে ধীর"
+      },
+      {
+        "en": "Fatuous",
+        "bn": "নির্বোধ"
+      },
+      {
+        "en": "purblind",
+        "bn": "ক্ষীণদৃষ্টিসম্পন্ন"
+      }
+    ],
+    "example": "The shrewd negotiator secured a better deal for the company.",
+    "example_bn": "বিচক্ষণ আলোচকটি কোম্পানির জন্য আরও ভালো চুক্তি নিশ্চিত করেছিলেন।",
+    "examples": [
+      "The shrewd negotiator secured a better deal for the company. — বিচক্ষণ আলোচকটি কোম্পানির জন্য আরও ভালো চুক্তি নিশ্চিত করেছিলেন।",
+      "At dinner, she explained that 'shrewd' means 'having or showing good judgment and practical understanding', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘shrewd’ শব্দটির অর্থ—বিচক্ষণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'shrewd' as 'having or showing good judgment and practical understanding' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘shrewd’ শব্দটি বিচক্ষণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "singular",
+    "pronunciation_bn": "সিঙ্গিউলার",
+    "pronunciation": "/ˈsɪŋ.ɡjə.lər/",
+    "no": 728,
+    "group": 30,
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "meaning_en": "exceptional or unusual; unique; (grammar) denoting one person or thing",
+    "meaning_bn": [
+      "অসাধারণ",
+      "অনন্য",
+      "অস্বাভাবিক",
+      "(ব্যাকরণে) একবচন"
+    ],
+    "synonyms": [
+      {
+        "en": "unique",
+        "bn": "অনন্য"
+      },
+      {
+        "en": "exceptional",
+        "bn": "ব্যতিক্রমী"
+      },
+      {
+        "en": "remarkable",
+        "bn": "উল্লেখযোগ্য"
+      },
+      {
+        "en": "Inimitable",
+        "bn": "অনুকরণ-অযোগ্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "ordinary",
+        "bn": "সাধারণ"
+      },
+      {
+        "en": "common",
+        "bn": "প্রচলিত"
+      },
+      {
+        "en": "usual",
+        "bn": "স্বাভাবিক"
+      },
+      {
+        "en": "Mundane",
+        "bn": "সাধারণ ও অনাকর্ষণীয়"
+      },
+      {
+        "en": "Conventional",
+        "bn": "প্রচলিত"
+      },
+      {
+        "en": "Pedestrian",
+        "bn": "গতানুগতিক"
+      },
+      {
+        "en": "Plebeian",
+        "bn": "সাধারণ মানুষের সঙ্গে সম্পর্কিত"
+      },
+      {
+        "en": "quotidian",
+        "bn": "দৈনন্দিন"
+      }
+    ],
+    "example": "Her singular talent made her stand out among the other performers.",
+    "example_bn": "তার অনন্য প্রতিভা তাকে অন্য পরিবেশকদের মধ্যে আলাদা করে তুলেছিল।",
+    "examples": [
+      "Her singular talent made her stand out among the other performers. — তার অনন্য প্রতিভা তাকে অন্য পরিবেশকদের মধ্যে আলাদা করে তুলেছিল।",
+      "At dinner, she explained that 'singular' means 'exceptional or unusual', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘singular’ শব্দটির অর্থ—অসাধারণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'singular' as 'exceptional or unusual' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘singular’ শব্দটি অসাধারণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "skirmish",
+    "pronunciation_bn": "স্কারমিশ",
+    "pronunciation": "/ˈskɜː.mɪʃ/",
+    "no": 729,
+    "group": 30,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "a short, usually unplanned fight between small groups; to engage in such a fight or a brief argument",
+    "meaning_bn": [
+      "অল্পসংখ্যক সৈন্য বা মানুষের মধ্যে স্বল্পস্থায়ী সংঘর্ষ",
+      "স্বল্প সময়ের ঝগড়া বা তর্ক",
+      "সংক্ষিপ্ত সংঘর্ষে লিপ্ত হওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "clash",
+        "bn": "সংঘর্ষ"
+      },
+      {
+        "en": "brush",
+        "bn": "স্বল্পস্থায়ী সংঘাত"
+      },
+      {
+        "en": "fray",
+        "bn": "হাতাহাতি বা সংঘর্ষ"
+      },
+      {
+        "en": "Melee",
+        "bn": "হট্টগোলপূর্ণ সংঘর্ষ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "truce",
+        "bn": "যুদ্ধবিরতি"
+      },
+      {
+        "en": "peace",
+        "bn": "শান্তি"
+      },
+      {
+        "en": "Armistice",
+        "bn": "যুদ্ধবিরতি"
+      },
+      {
+        "en": "nirvana",
+        "bn": "বৌদ্ধধর্মে দুঃখ ও পুনর্জন্মের চক্র থেকে মুক্তির পরম অবস্থা"
+      }
+    ],
+    "example": "A brief skirmish broke out near the border before the troops withdrew.",
+    "example_bn": "সেনারা সরে যাওয়ার আগে সীমান্তের কাছে একটি সংক্ষিপ্ত সংঘর্ষ শুরু হয়েছিল।",
+    "examples": [
+      "A brief skirmish broke out near the border before the troops withdrew. — সেনারা সরে যাওয়ার আগে সীমান্তের কাছে একটি সংক্ষিপ্ত সংঘর্ষ শুরু হয়েছিল।",
+      "At dinner, she explained that 'skirmish' means 'a short, usually unplanned fight between small groups', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘skirmish’ শব্দটির অর্থ—অল্পসংখ্যক সৈন্য বা মানুষের মধ্যে স্বল্পস্থায়ী সংঘর্ষ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'skirmish' as 'a short, usually unplanned fight between small groups' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘skirmish’ শব্দটি অল্পসংখ্যক সৈন্য বা মানুষের মধ্যে স্বল্পস্থায়ী সংঘর্ষ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "skittish",
+    "pronunciation_bn": "স্কিটিশ",
+    "pronunciation": "/ˈskɪt.ɪʃ/",
+    "no": 730,
+    "group": 30,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "nervous or easily frightened; unpredictable or restless",
+    "meaning_bn": [
+      "সহজেই ভয় পায় এমন",
+      "চঞ্চল",
+      "অস্থির বা অনিশ্চিত আচরণ করে এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "jumpy",
+        "bn": "চমকে ওঠে এমন"
+      },
+      {
+        "en": "nervous",
+        "bn": "উদ্বিগ্ন"
+      },
+      {
+        "en": "fidgety",
+        "bn": "অস্থির"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "calm",
+        "bn": "শান্ত"
+      },
+      {
+        "en": "composed",
+        "bn": "সংযত"
+      },
+      {
+        "en": "steady",
+        "bn": "স্থির"
+      },
+      {
+        "en": "phlegmatic",
+        "bn": "শান্ত ও নির্বিকার"
+      },
+      {
+        "en": "serene",
+        "bn": "শান্ত"
+      }
+    ],
+    "example": "The skittish horse startled at the sudden clap of thunder.",
+    "example_bn": "হঠাৎ বজ্রধ্বনিতে ভীতু ঘোড়াটি চমকে উঠল।",
+    "examples": [
+      "The skittish horse startled at the sudden clap of thunder. — হঠাৎ বজ্রধ্বনিতে ভীতু ঘোড়াটি চমকে উঠল।",
+      "At dinner, she explained that 'skittish' means 'nervous or easily frightened', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘skittish’ শব্দটির অর্থ—সহজেই ভয় পায় এমন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'skittish' as 'nervous or easily frightened' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘skittish’ শব্দটি সহজেই ভয় পায় এমন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "slake",
+    "pronunciation_bn": "স্লেক",
+    "pronunciation": "/sleɪk/",
+    "no": 731,
+    "group": 30,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to satisfy thirst, a need, or a desire",
+    "meaning_bn": [
+      "তৃষ্ণা মেটানো",
+      "চাহিদা পূরণ করা",
+      "আকাঙ্ক্ষা প্রশমিত করা"
+    ],
+    "synonyms": [
+      {
+        "en": "quench",
+        "bn": "তৃষ্ণা নিবারণ করা"
+      },
+      {
+        "en": "satisfy",
+        "bn": "সন্তুষ্ট করা"
+      },
+      {
+        "en": "assuage",
+        "bn": "প্রশমিত করা"
+      },
+      {
+        "en": "Alleviate",
+        "bn": "উপশম করা"
+      },
+      {
+        "en": "Ameliorate",
+        "bn": "উন্নত করা"
+      },
+      {
+        "en": "Mitigate",
+        "bn": "কোনো কিছুর তীব্রতা, ক্ষতি বা কষ্ট কমানো"
+      },
+      {
+        "en": "Mollify",
+        "bn": "রাগান্বিত বা বিচলিত কাউকে শান্ত করা"
+      },
+      {
+        "en": "Pacify",
+        "bn": "শান্ত করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "arouse",
+        "bn": "জাগিয়ে তোলা"
+      },
+      {
+        "en": "intensify",
+        "bn": "তীব্র করা"
+      },
+      {
+        "en": "Exacerbate",
+        "bn": "আরও খারাপ করে তোলা"
+      },
+      {
+        "en": "fuel",
+        "bn": "জ্বালানি"
+      },
+      {
+        "en": "Beleaguer",
+        "bn": "অবরোধ করা"
+      },
+      {
+        "en": "Beset",
+        "bn": "ঘিরে ফেলা"
+      },
+      {
+        "en": "disgruntle",
+        "bn": "অসন্তুষ্ট করা"
+      }
+    ],
+    "example": "After the long walk, she stopped at a fountain to slake her thirst.",
+    "example_bn": "দীর্ঘ পথ হাঁটার পর তৃষ্ণা মেটাতে সে একটি পানির ফোয়ারার কাছে থামল।",
+    "examples": [
+      "After the long walk, she stopped at a fountain to slake her thirst. — দীর্ঘ পথ হাঁটার পর তৃষ্ণা মেটাতে সে একটি পানির ফোয়ারার কাছে থামল।",
+      "At dinner, she explained that 'slake' means 'to satisfy thirst, a need, or a desire', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘slake’ শব্দটির অর্থ—তৃষ্ণা মেটানো—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'slake' as 'to satisfy thirst, a need, or a desire' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘slake’ শব্দটি তৃষ্ণা মেটানো অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "solace",
+    "pronunciation_bn": "সলিস",
+    "pronunciation": "/ˈsɒl.ɪs/",
+    "no": 732,
+    "group": 30,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "comfort or consolation in sadness or distress; to comfort someone",
+    "meaning_bn": [
+      "সান্ত্বনা",
+      "দুঃখের সময় স্বস্তি",
+      "সান্ত্বনা দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "comfort",
+        "bn": "স্বস্তি"
+      },
+      {
+        "en": "consolation",
+        "bn": "সান্ত্বনা"
+      },
+      {
+        "en": "consoling",
+        "bn": "সান্ত্বনাদায়ক"
+      },
+      {
+        "en": "Amenity",
+        "bn": "সুযোগ-সুবিধা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "distress",
+        "bn": "মানসিক কষ্ট"
+      },
+      {
+        "en": "grief",
+        "bn": "শোক"
+      },
+      {
+        "en": "anguish",
+        "bn": "তীব্র যন্ত্রণা"
+      },
+      {
+        "en": "Affliction",
+        "bn": "দুর্দশা"
+      },
+      {
+        "en": "Aggrieve",
+        "bn": "অন্যায় আচরণে কষ্ট দেওয়া"
+      },
+      {
+        "en": "consternation",
+        "bn": "আতঙ্ক"
+      },
+      {
+        "en": "Abash",
+        "bn": "বিব্রত করা"
+      },
+      {
+        "en": "discomfit",
+        "bn": "বিব্রত করা"
+      }
+    ],
+    "example": "She found solace in music after a difficult week.",
+    "example_bn": "কঠিন একটি সপ্তাহের পর সে সংগীতের মধ্যে সান্ত্বনা খুঁজে পেল।",
+    "examples": [
+      "She found solace in music after a difficult week. — কঠিন একটি সপ্তাহের পর সে সংগীতের মধ্যে সান্ত্বনা খুঁজে পেল।",
+      "At dinner, she explained that 'solace' means 'comfort or consolation in sadness or distress', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘solace’ শব্দটির অর্থ—সান্ত্বনা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'solace' as 'comfort or consolation in sadness or distress' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘solace’ শব্দটি সান্ত্বনা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "solidarity",
+    "pronunciation_bn": "সলিড্যারিটি",
+    "pronunciation": "/ˌsɒl.ɪˈdær.ə.ti/",
+    "no": 733,
+    "group": 30,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "unity and mutual support among people with a shared interest, purpose, or responsibility",
+    "meaning_bn": [
+      "সংহতি",
+      "ঐক্য",
+      "অভিন্ন স্বার্থ বা লক্ষ্য থাকা মানুষের পারস্পরিক সমর্থন"
+    ],
+    "synonyms": [
+      {
+        "en": "unity",
+        "bn": "ঐক্য"
+      },
+      {
+        "en": "mutual support",
+        "bn": "পারস্পরিক সমর্থন"
+      },
+      {
+        "en": "fellowship",
+        "bn": "সৌহার্দ্যপূর্ণ ঐক্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "division",
+        "bn": "বিভাজন"
+      },
+      {
+        "en": "discord",
+        "bn": "মতবিরোধ"
+      },
+      {
+        "en": "disunity",
+        "bn": "অনৈক্য"
+      },
+      {
+        "en": "dichotomy",
+        "bn": "দ্বিবিভাজন"
+      },
+      {
+        "en": "schism",
+        "bn": "বিভক্তি"
+      },
+      {
+        "en": "Cacophony",
+        "bn": "কর্কশ শব্দমিশ্রণ"
+      },
+      {
+        "en": "Faction",
+        "bn": "বৃহত্তর দলের অভ্যন্তরীণ উপদল"
+      },
+      {
+        "en": "partition",
+        "bn": "বিভাজন"
+      }
+    ],
+    "example": "The workers showed solidarity by supporting one another during the strike.",
+    "example_bn": "ধর্মঘটের সময় একে অপরকে সমর্থন করে শ্রমিকেরা সংহতি প্রকাশ করেছিলেন।",
+    "examples": [
+      "The workers showed solidarity by supporting one another during the strike. — ধর্মঘটের সময় একে অপরকে সমর্থন করে শ্রমিকেরা সংহতি প্রকাশ করেছিলেন।",
+      "At dinner, she explained that 'solidarity' means 'unity and mutual support among people', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘solidarity’ শব্দটির অর্থ—সংহতি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'solidarity' as 'unity and mutual support among people' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘solidarity’ শব্দটি সংহতি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "sophomoric",
+    "pronunciation_bn": "সফোমোরিক",
+    "pronunciation": "/ˌsɒf.əˈmɒr.ɪk/",
+    "no": 734,
+    "group": 30,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "immature, overconfident, or foolish in the manner associated with an inexperienced student",
+    "meaning_bn": [
+      "অপরিণত",
+      "অনভিজ্ঞ শিক্ষার্থীর মতো অতিরিক্ত আত্মবিশ্বাসী",
+      "ছেলেমানুষি"
+    ],
+    "synonyms": [
+      {
+        "en": "immature",
+        "bn": "অপরিণত"
+      },
+      {
+        "en": "juvenile",
+        "bn": "শিশুসুলভ"
+      },
+      {
+        "en": "inexperienced",
+        "bn": "অনভিজ্ঞ"
+      },
+      {
+        "en": "Callow",
+        "bn": "অপরিপক্ব"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "mature",
+        "bn": "পরিণত"
+      },
+      {
+        "en": "sensible",
+        "bn": "বিবেচক"
+      },
+      {
+        "en": "seasoned",
+        "bn": "অভিজ্ঞ"
+      },
+      {
+        "en": "precocious",
+        "bn": "অকালপক্ব"
+      },
+      {
+        "en": "Inveterate",
+        "bn": "দীর্ঘদিনের অভ্যাসে অভ্যস্ত"
+      },
+      {
+        "en": "Judicious",
+        "bn": "বিচক্ষণ"
+      },
+      {
+        "en": "Pragmatic",
+        "bn": "বাস্তবসম্মত"
+      },
+      {
+        "en": "Prudent",
+        "bn": "বিচক্ষণ"
+      }
+    ],
+    "example": "His sophomoric remarks made the serious discussion uncomfortable.",
+    "example_bn": "তার অপরিণত মন্তব্যগুলো গুরুতর আলোচনাকে অস্বস্তিকর করে তুলেছিল।",
+    "examples": [
+      "His sophomoric remarks made the serious discussion uncomfortable. — তার অপরিণত মন্তব্যগুলো গুরুতর আলোচনাকে অস্বস্তিকর করে তুলেছিল।",
+      "At dinner, she explained that 'sophomoric' means 'immature, overconfident, or foolish in the manner associated', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘sophomoric’ শব্দটির অর্থ—অপরিণত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'sophomoric' as 'immature, overconfident, or foolish in the manner associated' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘sophomoric’ শব্দটি অপরিণত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "sordid",
+    "pronunciation_bn": "সর্ডিড",
+    "pronunciation": "/ˈsɔː.dɪd/",
+    "no": 735,
+    "group": 30,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "morally disgusting or dishonorable; dirty, squalid, or involving shameful details",
+    "meaning_bn": [
+      "নৈতিকভাবে জঘন্য",
+      "কলুষিত বা অসম্মানজনক",
+      "নোংরা ও অস্বাস্থ্যকর"
+    ],
+    "synonyms": [
+      {
+        "en": "vile",
+        "bn": "জঘন্য"
+      },
+      {
+        "en": "shameful",
+        "bn": "লজ্জাজনক"
+      },
+      {
+        "en": "squalid",
+        "bn": "নোংরা ও মানবেতর"
+      },
+      {
+        "en": "Reprehensible",
+        "bn": "নিন্দনীয়"
+      },
+      {
+        "en": "odious",
+        "bn": "ঘৃণ্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "honorable",
+        "bn": "সম্মানজনক"
+      },
+      {
+        "en": "noble",
+        "bn": "মহৎ"
+      },
+      {
+        "en": "decent",
+        "bn": "শালীন"
+      },
+      {
+        "en": "Aristocratic",
+        "bn": "অভিজাত"
+      },
+      {
+        "en": "Patrician",
+        "bn": "অভিজাত ব্যক্তি"
+      }
+    ],
+    "example": "The investigation exposed the sordid details of the bribery scheme.",
+    "example_bn": "তদন্তে ঘুষের পরিকল্পনার জঘন্য বিবরণ প্রকাশ পেয়েছিল।",
+    "examples": [
+      "The investigation exposed the sordid details of the bribery scheme. — তদন্তে ঘুষের পরিকল্পনার জঘন্য বিবরণ প্রকাশ পেয়েছিল।",
+      "At dinner, she explained that 'sordid' means 'morally disgusting or dishonorable', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘sordid’ শব্দটির অর্থ—নৈতিকভাবে জঘন্য—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'sordid' as 'morally disgusting or dishonorable' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘sordid’ শব্দটি নৈতিকভাবে জঘন্য অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "sovereign",
+    "pronunciation_bn": "সভরিন",
+    "pronunciation": "/ˈsɒv.rɪn/",
+    "no": 736,
+    "group": 30,
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "meaning_en": "a supreme ruler, especially a monarch; possessing supreme authority or independence",
+    "meaning_bn": [
+      "সর্বোচ্চ শাসক",
+      "রাজা বা সম্রাট",
+      "সার্বভৌম ও স্বাধীন কর্তৃত্বসম্পন্ন"
+    ],
+    "synonyms": [
+      {
+        "en": "monarch",
+        "bn": "রাজা বা সম্রাট"
+      },
+      {
+        "en": "ruler",
+        "bn": "শাসক"
+      },
+      {
+        "en": "supreme authority",
+        "bn": "সর্বোচ্চ কর্তৃপক্ষ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "subject",
+        "bn": "প্রজা"
+      },
+      {
+        "en": "subordinate",
+        "bn": "অধস্তন"
+      }
+    ],
+    "example": "The sovereign addressed the people during a national crisis.",
+    "example_bn": "জাতীয় সংকটের সময় সার্বভৌম শাসক জনগণের উদ্দেশে ভাষণ দিলেন।",
+    "examples": [
+      "The sovereign addressed the people during a national crisis. — জাতীয় সংকটের সময় সার্বভৌম শাসক জনগণের উদ্দেশে ভাষণ দিলেন।",
+      "At dinner, she explained that 'sovereign' means 'a supreme ruler, especially a monarch', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘sovereign’ শব্দটির অর্থ—সর্বোচ্চ শাসক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'sovereign' as 'a supreme ruler, especially a monarch' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘sovereign’ শব্দটি সর্বোচ্চ শাসক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "spate",
+    "pronunciation_bn": "স্পেইট",
+    "pronunciation": "/speɪt/",
+    "no": 737,
+    "group": 30,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a sudden or unusually large number of events, especially unpleasant ones; a river in flood",
+    "meaning_bn": [
+      "হঠাৎ একসঙ্গে অনেক ঘটনা ঘটা",
+      "ঘটনার ঢল",
+      "পানিতে ফুলে ওঠা নদীর প্রবাহ"
+    ],
+    "synonyms": [
+      {
+        "en": "surge",
+        "bn": "হঠাৎ বৃদ্ধি"
+      },
+      {
+        "en": "outbreak",
+        "bn": "হঠাৎ প্রাদুর্ভাব"
+      },
+      {
+        "en": "wave",
+        "bn": "ঢেউ বা ধারাবাহিকতা"
+      },
+      {
+        "en": "pandemic",
+        "bn": "বিশ্বব্যাপী বা বিস্তীর্ণ অঞ্চলে ছড়িয়ে পড়া মহামারি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "dearth",
+        "bn": "অভাব"
+      },
+      {
+        "en": "scarcity",
+        "bn": "স্বল্পতা"
+      },
+      {
+        "en": "Paucity",
+        "bn": "স্বল্পতা"
+      },
+      {
+        "en": "deficit",
+        "bn": "ঘাটতি"
+      },
+      {
+        "en": "ebb",
+        "bn": "কমে যাওয়া"
+      }
+    ],
+    "example": "A spate of complaints followed the sudden increase in fees.",
+    "example_bn": "ফি হঠাৎ বেড়ে যাওয়ার পর একের পর এক অভিযোগ আসতে লাগল।",
+    "examples": [
+      "A spate of complaints followed the sudden increase in fees. — ফি হঠাৎ বেড়ে যাওয়ার পর একের পর এক অভিযোগ আসতে লাগল।",
+      "At dinner, she explained that 'spate' means 'a sudden or unusually large number of events', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘spate’ শব্দটির অর্থ—হঠাৎ একসঙ্গে অনেক ঘটনা ঘটা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'spate' as 'a sudden or unusually large number of events' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘spate’ শব্দটি হঠাৎ একসঙ্গে অনেক ঘটনা ঘটা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "specious",
+    "pronunciation_bn": "স্পীশাস",
+    "pronunciation": "/ˈspiː.ʃəs/",
+    "no": 738,
+    "group": 30,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "seeming to be true, reasonable, or convincing but actually false or misleading",
+    "meaning_bn": [
+      "আপাতদৃষ্টিতে সত্য বা যুক্তিসংগত মনে হয় এমন",
+      "প্রকৃতপক্ষে ভ্রান্ত",
+      "বিভ্রান্তিকর"
+    ],
+    "synonyms": [
+      {
+        "en": "misleading",
+        "bn": "বিভ্রান্তিকর"
+      },
+      {
+        "en": "deceptive",
+        "bn": "প্রতারণামূলক"
+      },
+      {
+        "en": "fallacious",
+        "bn": "ভ্রান্ত যুক্তিনির্ভর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "valid",
+        "bn": "বৈধ বা যুক্তিসংগত"
+      },
+      {
+        "en": "sound",
+        "bn": "যুক্তিসংগত"
+      },
+      {
+        "en": "genuine",
+        "bn": "প্রকৃত"
+      }
+    ],
+    "example": "The report relied on a specious argument that collapsed under scrutiny.",
+    "example_bn": "প্রতিবেদনটি এমন একটি আপাত-যুক্তিসংগত যুক্তির ওপর নির্ভর করেছিল, যা যাচাই করতেই টেকেনি।",
+    "examples": [
+      "The report relied on a specious argument that collapsed under scrutiny. — প্রতিবেদনটি এমন একটি আপাত-যুক্তিসংগত যুক্তির ওপর নির্ভর করেছিল, যা যাচাই করতেই টেকেনি।",
+      "At dinner, she explained that 'specious' means 'seeming to be true, reasonable, or convincing but', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘specious’ শব্দটির অর্থ—আপাতদৃষ্টিতে সত্য বা যুক্তিসংগত মনে হয় এমন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'specious' as 'seeming to be true, reasonable, or convincing but' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘specious’ শব্দটি আপাতদৃষ্টিতে সত্য বা যুক্তিসংগত মনে হয় এমন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "specter",
+    "pronunciation_bn": "স্পেক্টার",
+    "pronunciation": "/ˈspek.tər/",
+    "no": 739,
+    "group": 30,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a ghost or phantom; a frightening possibility or threat",
+    "meaning_bn": [
+      "ভূত বা প্রেতচ্ছায়া",
+      "আতঙ্কজনক সম্ভাবনা বা আশঙ্কা"
+    ],
+    "synonyms": [
+      {
+        "en": "ghost",
+        "bn": "ভূত"
+      },
+      {
+        "en": "phantom",
+        "bn": "প্রেতচ্ছায়া"
+      },
+      {
+        "en": "apparition",
+        "bn": "অলৌকিক আবির্ভাব"
+      },
+      {
+        "en": "phantasm",
+        "bn": "ভ্রমদৃশ্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "reality",
+        "bn": "বাস্তবতা"
+      },
+      {
+        "en": "presence",
+        "bn": "উপস্থিতি"
+      }
+    ],
+    "example": "The specter of unemployment worried many families in the town.",
+    "example_bn": "বেকারত্বের আশঙ্কা শহরের অনেক পরিবারকে উদ্বিগ্ন করেছিল।",
+    "examples": [
+      "The specter of unemployment worried many families in the town. — বেকারত্বের আশঙ্কা শহরের অনেক পরিবারকে উদ্বিগ্ন করেছিল।",
+      "At dinner, she explained that 'specter' means 'a ghost or phantom', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘specter’ শব্দটির অর্থ—ভূত বা প্রেতচ্ছায়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'specter' as 'a ghost or phantom' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘specter’ শব্দটি ভূত বা প্রেতচ্ছায়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "spectrum",
+    "pronunciation_bn": "স্পেকট্রাম",
+    "pronunciation": "/ˈspek.trəm/",
+    "no": 740,
+    "group": 30,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a continuous range of related qualities, ideas, or types; a band of colors or wavelengths",
+    "meaning_bn": [
+      "বিস্তৃত পরিসর",
+      "সম্পর্কিত ধারণা বা বৈশিষ্ট্যের ধারাবাহিক ব্যাপ্তি",
+      "বর্ণালি"
+    ],
+    "synonyms": [
+      {
+        "en": "range",
+        "bn": "পরিসর"
+      },
+      {
+        "en": "range of options",
+        "bn": "বিকল্পের পরিসর"
+      },
+      {
+        "en": "continuum",
+        "bn": "ধারাবাহিক পরিসর"
+      },
+      {
+        "en": "Gamut",
+        "bn": "সম্পূর্ণ পরিসর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "specific point",
+        "bn": "নির্দিষ্ট বিন্দু"
+      },
+      {
+        "en": "narrow range",
+        "bn": "সংকীর্ণ পরিসর"
+      },
+      {
+        "en": "dichotomy",
+        "bn": "দ্বিবিভাজন"
+      },
+      {
+        "en": "Hiatus",
+        "bn": "বিরতি"
+      },
+      {
+        "en": "Infraction",
+        "bn": "নিয়মভঙ্গ"
+      },
+      {
+        "en": "Interlude",
+        "bn": "মধ্যবর্তী বিরতি"
+      },
+      {
+        "en": "Metamorphosis",
+        "bn": "রূপ, গঠন বা চরিত্রের বড় পরিবর্তন"
+      }
+    ],
+    "example": "The panel included experts from across the political spectrum.",
+    "example_bn": "প্যানেলে রাজনৈতিক মতাদর্শের বিস্তৃত পরিসর থেকে বিশেষজ্ঞরা ছিলেন।",
+    "examples": [
+      "The panel included experts from across the political spectrum. — প্যানেলে রাজনৈতিক মতাদর্শের বিস্তৃত পরিসর থেকে বিশেষজ্ঞরা ছিলেন।",
+      "At dinner, she explained that 'spectrum' means 'a continuous range of related qualities, ideas', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘spectrum’ শব্দটির অর্থ—বিস্তৃত পরিসর—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'spectrum' as 'a continuous range of related qualities, ideas' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘spectrum’ শব্দটি বিস্তৃত পরিসর অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "spurn",
+    "pronunciation_bn": "স্পার্ন",
+    "pronunciation": "/spɜːn/",
+    "no": 741,
+    "group": 30,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to reject or refuse someone or something with contempt",
+    "meaning_bn": [
+      "অবজ্ঞাভরে প্রত্যাখ্যান করা",
+      "ঘৃণাভরে ফিরিয়ে দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "reject",
+        "bn": "প্রত্যাখ্যান করা"
+      },
+      {
+        "en": "scorn",
+        "bn": "অবজ্ঞা করা"
+      },
+      {
+        "en": "snub",
+        "bn": "অবজ্ঞা করে উপেক্ষা করা"
+      },
+      {
+        "en": "rebuff",
+        "bn": "রূঢ়ভাবে প্রত্যাখ্যান করা"
+      },
+      {
+        "en": "Deride",
+        "bn": "উপহাস করা"
+      },
+      {
+        "en": "Disdain",
+        "bn": "তাচ্ছিল্য"
+      },
+      {
+        "en": "Repudiate",
+        "bn": "প্রত্যাখ্যান করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "accept",
+        "bn": "গ্রহণ করা"
+      },
+      {
+        "en": "welcome",
+        "bn": "সাদরে গ্রহণ করা"
+      },
+      {
+        "en": "embrace",
+        "bn": "সাদরে গ্রহণ করা"
+      },
+      {
+        "en": "Assimilate",
+        "bn": "আত্মস্থ করা"
+      },
+      {
+        "en": "Countenance",
+        "bn": "মুখমণ্ডল"
+      },
+      {
+        "en": "Espouse",
+        "bn": "সমর্থন করা"
+      },
+      {
+        "en": "ratify",
+        "bn": "আনুষ্ঠানিকভাবে অনুমোদন করা"
+      },
+      {
+        "en": "Revere",
+        "bn": "গভীরভাবে শ্রদ্ধা করা"
+      }
+    ],
+    "example": "She chose to spurn the offer because it violated her principles.",
+    "example_bn": "প্রস্তাবটি তার নীতির পরিপন্থী হওয়ায় সে তা অবজ্ঞাভরে প্রত্যাখ্যান করল।",
+    "examples": [
+      "She chose to spurn the offer because it violated her principles. — প্রস্তাবটি তার নীতির পরিপন্থী হওয়ায় সে তা অবজ্ঞাভরে প্রত্যাখ্যান করল।",
+      "At dinner, she explained that 'spurn' means 'to reject or refuse someone or something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘spurn’ শব্দটির অর্থ—অবজ্ঞাভরে প্রত্যাখ্যান করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'spurn' as 'to reject or refuse someone or something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘spurn’ শব্দটি অবজ্ঞাভরে প্রত্যাখ্যান করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "stalwart",
+    "pronunciation_bn": "স্টলওয়াট",
+    "pronunciation": "/ˈstɔːl.wət/",
+    "no": 742,
+    "group": 30,
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "meaning_en": "loyal and dependable; physically strong; a person who gives steadfast support",
+    "meaning_bn": [
+      "অবিচল ও বিশ্বস্ত",
+      "বলিষ্ঠ",
+      "দীর্ঘদিনের নিষ্ঠাবান সমর্থক"
+    ],
+    "synonyms": [
+      {
+        "en": "staunch",
+        "bn": "অটল"
+      },
+      {
+        "en": "steadfast",
+        "bn": "অবিচল"
+      },
+      {
+        "en": "devoted",
+        "bn": "নিবেদিত"
+      },
+      {
+        "en": "Zealous",
+        "bn": "অত্যন্ত উৎসাহী"
+      },
+      {
+        "en": "Adamant",
+        "bn": "অনড়"
+      },
+      {
+        "en": "Resolute",
+        "bn": "দৃঢ়প্রতিজ্ঞ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "disloyal",
+        "bn": "অবিশ্বস্ত"
+      },
+      {
+        "en": "fickle",
+        "bn": "ক্ষণে ক্ষণে মত বদলায় এমন"
+      },
+      {
+        "en": "weak",
+        "bn": "দুর্বল"
+      },
+      {
+        "en": "Capricious",
+        "bn": "খামখেয়ালি"
+      },
+      {
+        "en": "Subversive",
+        "bn": "প্রচলিত ব্যবস্থা বা কর্তৃত্বকে দুর্বল বা উৎখাত করার উদ্দেশ্যে পরিচালিত"
+      },
+      {
+        "en": "Arbitrary",
+        "bn": "খেয়ালখুশিমতো"
+      },
+      {
+        "en": "Mercurial",
+        "bn": "হঠাৎ ও অনিশ্চিতভাবে মেজাজ বা আচরণ বদলায় এমন"
+      },
+      {
+        "en": "Volatile",
+        "bn": "অস্থিতিশীল"
+      }
+    ],
+    "example": "She remained a stalwart supporter of the school throughout the campaign.",
+    "example_bn": "পুরো প্রচারাভিযানজুড়ে তিনি বিদ্যালয়ের একজন অবিচল সমর্থক ছিলেন।",
+    "examples": [
+      "She remained a stalwart supporter of the school throughout the campaign. — পুরো প্রচারাভিযানজুড়ে তিনি বিদ্যালয়ের একজন অবিচল সমর্থক ছিলেন।",
+      "At dinner, she explained that 'stalwart' means 'loyal and dependable', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘stalwart’ শব্দটির অর্থ—অবিচল ও বিশ্বস্ত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'stalwart' as 'loyal and dependable' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘stalwart’ শব্দটি অবিচল ও বিশ্বস্ত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "stark",
+    "pronunciation_bn": "স্টার্ক",
+    "pronunciation": "/stɑːk/",
+    "no": 743,
+    "group": 30,
+    "pos": [
+      "adjective",
+      "adverb"
+    ],
+    "meaning_en": "severe, bare, or sharply clear; complete or utter; in stark contrast means in strong opposition",
+    "meaning_bn": [
+      "কঠোর",
+      "নিরাবরণ বা অনাড়ম্বর",
+      "স্পষ্ট ও তীব্র",
+      "সম্পূর্ণ"
+    ],
+    "synonyms": [
+      {
+        "en": "harsh",
+        "bn": "কঠোর"
+      },
+      {
+        "en": "bare",
+        "bn": "নিরাবরণ"
+      },
+      {
+        "en": "utter",
+        "bn": "সম্পূর্ণ"
+      },
+      {
+        "en": "Arrant",
+        "bn": "চরম"
+      },
+      {
+        "en": "raucous",
+        "bn": "কর্কশ"
+      },
+      {
+        "en": "Astringent",
+        "bn": "কঠোর"
+      },
+      {
+        "en": "draconian",
+        "bn": "অত্যন্ত কঠোর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "mild",
+        "bn": "মৃদু"
+      },
+      {
+        "en": "decorated",
+        "bn": "সাজানো"
+      },
+      {
+        "en": "subtle",
+        "bn": "সূক্ষ্ম"
+      },
+      {
+        "en": "Mellifluous",
+        "bn": "শুনতে মধুর, মসৃণ ও সুরেলা"
+      },
+      {
+        "en": "Benign",
+        "bn": "ক্ষতিকর নয় এমন"
+      },
+      {
+        "en": "bland",
+        "bn": "মৃদু"
+      },
+      {
+        "en": "Ethereal",
+        "bn": "অতিলৌকিক"
+      },
+      {
+        "en": "exquisite",
+        "bn": "অসাধারণ সুন্দর"
+      }
+    ],
+    "example": "The stark difference between the two proposals was obvious to everyone.",
+    "example_bn": "দুটি প্রস্তাবের তীব্র পার্থক্য সবার কাছেই স্পষ্ট ছিল।",
+    "examples": [
+      "The stark difference between the two proposals was obvious to everyone. — দুটি প্রস্তাবের তীব্র পার্থক্য সবার কাছেই স্পষ্ট ছিল।",
+      "At dinner, she explained that 'stark' means 'severe, bare, or sharply clear', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘stark’ শব্দটির অর্থ—কঠোর—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'stark' as 'severe, bare, or sharply clear' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘stark’ শব্দটি কঠোর অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "stint",
+    "pronunciation_bn": "স্টিন্ট",
+    "pronunciation": "/stɪnt/",
+    "no": 744,
+    "group": 30,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "a fixed period spent doing a job or activity; to limit or use only a small amount of something",
+    "meaning_bn": [
+      "নির্দিষ্ট কাজের সময়কাল",
+      "সীমিত পরিমাণে দেওয়া বা ব্যবহার করা",
+      "কৃপণতা করে কম দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "period",
+        "bn": "সময়কাল"
+      },
+      {
+        "en": "term",
+        "bn": "নির্দিষ্ট মেয়াদ"
+      },
+      {
+        "en": "restrict",
+        "bn": "সীমিত করা"
+      },
+      {
+        "en": "Circumscribe",
+        "bn": "সীমাবদ্ধ করা"
+      },
+      {
+        "en": "Curtail",
+        "bn": "কমানো"
+      },
+      {
+        "en": "epoch",
+        "bn": "যুগ"
+      },
+      {
+        "en": "Qualify",
+        "bn": "কোনো বক্তব্যের অর্থ সীমিত বা শর্তযুক্ত করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "abundance",
+        "bn": "প্রাচুর্য"
+      },
+      {
+        "en": "lavish",
+        "bn": "প্রচুরভাবে ব্যয় করা"
+      },
+      {
+        "en": "provide generously",
+        "bn": "উদারভাবে সরবরাহ করা"
+      },
+      {
+        "en": "Plethora",
+        "bn": "প্রাচুর্য"
+      }
+    ],
+    "example": "During her stint as a teacher, she helped hundreds of students.",
+    "example_bn": "শিক্ষক হিসেবে তার কর্মকালীন সময়ে তিনি শত শত শিক্ষার্থীকে সাহায্য করেছিলেন।",
+    "examples": [
+      "During her stint as a teacher, she helped hundreds of students. — শিক্ষক হিসেবে তার কর্মকালীন সময়ে তিনি শত শত শিক্ষার্থীকে সাহায্য করেছিলেন।",
+      "At dinner, she explained that 'stint' means 'a fixed period spent doing a job', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘stint’ শব্দটির অর্থ—নির্দিষ্ট কাজের সময়কাল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'stint' as 'a fixed period spent doing a job' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘stint’ শব্দটি নির্দিষ্ট কাজের সময়কাল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "stipend",
+    "pronunciation_bn": "স্টাইপেন্ড",
+    "pronunciation": "/ˈstaɪ.pend/",
+    "no": 745,
+    "group": 30,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a fixed amount of money paid regularly, often for study, training, or a particular role",
+    "meaning_bn": [
+      "নিয়মিত দেওয়া নির্দিষ্ট অর্থ",
+      "ভাতা",
+      "প্রশিক্ষণ বা পড়াশোনার জন্য আর্থিক সহায়তা"
+    ],
+    "synonyms": [
+      {
+        "en": "allowance",
+        "bn": "ভাতা"
+      },
+      {
+        "en": "grant",
+        "bn": "অনুদান"
+      },
+      {
+        "en": "remuneration",
+        "bn": "পারিশ্রমিক"
+      },
+      {
+        "en": "Accord",
+        "bn": "চুক্তি"
+      },
+      {
+        "en": "Annuity",
+        "bn": "নিয়মিত বিরতিতে প্রদেয় নির্দিষ্ট অর্থ"
+      },
+      {
+        "en": "Reparation",
+        "bn": "ক্ষতিপূরণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "expense",
+        "bn": "ব্যয়"
+      },
+      {
+        "en": "payment owed",
+        "bn": "প্রদেয় অর্থ"
+      },
+      {
+        "en": "ratiocination",
+        "bn": "যুক্তিনির্ভর চিন্তা"
+      },
+      {
+        "en": "sanction",
+        "bn": "আনুষ্ঠানিক অনুমোদন"
+      }
+    ],
+    "example": "The research student received a monthly stipend to cover basic expenses.",
+    "example_bn": "মৌলিক খরচ মেটাতে গবেষক শিক্ষার্থীটি মাসিক ভাতা পেতেন।",
+    "examples": [
+      "The research student received a monthly stipend to cover basic expenses. — মৌলিক খরচ মেটাতে গবেষক শিক্ষার্থীটি মাসিক ভাতা পেতেন।",
+      "At dinner, she explained that 'stipend' means 'a fixed amount of money paid regularly, often', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘stipend’ শব্দটির অর্থ—নিয়মিত দেওয়া নির্দিষ্ট অর্থ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'stipend' as 'a fixed amount of money paid regularly, often' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘stipend’ শব্দটি নিয়মিত দেওয়া নির্দিষ্ট অর্থ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "stolid",
+    "pronunciation_bn": "স্টলিড",
+    "pronunciation": "/ˈstɒl.ɪd/",
+    "no": 746,
+    "group": 30,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "calm and showing little emotion or excitement; not lively or interesting",
+    "meaning_bn": [
+      "নির্বিকার",
+      "আবেগ বা উত্তেজনা প্রকাশ করে না এমন",
+      "নিরস"
+    ],
+    "synonyms": [
+      {
+        "en": "impassive",
+        "bn": "ভাবলেশহীন"
+      },
+      {
+        "en": "unemotional",
+        "bn": "আবেগহীন"
+      },
+      {
+        "en": "phlegmatic",
+        "bn": "শান্ত ও নির্বিকার"
+      },
+      {
+        "en": "Stoic",
+        "bn": "কষ্টেও আবেগ প্রকাশ করে না এমন"
+      },
+      {
+        "en": "composed",
+        "bn": "শান্ত"
+      },
+      {
+        "en": "dispassionate",
+        "bn": "আবেগমুক্ত"
+      },
+      {
+        "en": "serene",
+        "bn": "শান্ত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "emotional",
+        "bn": "আবেগপ্রবণ"
+      },
+      {
+        "en": "excitable",
+        "bn": "সহজে উত্তেজিত হয় এমন"
+      },
+      {
+        "en": "animated",
+        "bn": "প্রাণবন্ত"
+      },
+      {
+        "en": "Histrionic",
+        "bn": "অতিনাটকীয়"
+      },
+      {
+        "en": "Choleric",
+        "bn": "বদমেজাজি"
+      },
+      {
+        "en": "Frenetic",
+        "bn": "উন্মত্ত গতির"
+      },
+      {
+        "en": "Livid",
+        "bn": "প্রচণ্ড রাগান্বিত"
+      },
+      {
+        "en": "skittish",
+        "bn": "সহজেই ভয় পায় এমন"
+      }
+    ],
+    "example": "He remained stolid while the crowd reacted with alarm.",
+    "example_bn": "জনতা আতঙ্কিত প্রতিক্রিয়া দেখালেও তিনি নির্বিকার রইলেন।",
+    "examples": [
+      "He remained stolid while the crowd reacted with alarm. — জনতা আতঙ্কিত প্রতিক্রিয়া দেখালেও তিনি নির্বিকার রইলেন।",
+      "At dinner, she explained that 'stolid' means 'calm and showing little emotion or excitement', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘stolid’ শব্দটির অর্থ—নির্বিকার—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'stolid' as 'calm and showing little emotion or excitement' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘stolid’ শব্দটি নির্বিকার অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "stout",
+    "pronunciation_bn": "স্টাউট",
+    "pronunciation": "/staʊt/",
+    "no": 747,
+    "group": 30,
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "meaning_en": "strong and thickly built; (of a person) rather heavy; determined and courageous; a type of dark beer",
+    "meaning_bn": [
+      "মজবুত ও শক্তপোক্ত",
+      "স্থূলকায় বা হৃষ্টপুষ্ট",
+      "দৃঢ়প্রতিজ্ঞ ও সাহসী",
+      "এক ধরনের গাঢ় বিয়ার"
+    ],
+    "synonyms": [
+      {
+        "en": "robust",
+        "bn": "বলিষ্ঠ"
+      },
+      {
+        "en": "sturdy",
+        "bn": "মজবুত"
+      },
+      {
+        "en": "stocky",
+        "bn": "খাটো ও শক্তপোক্ত গড়নের"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "frail",
+        "bn": "দুর্বল"
+      },
+      {
+        "en": "slender",
+        "bn": "ছিপছিপে"
+      },
+      {
+        "en": "weak",
+        "bn": "দুর্বল"
+      }
+    ],
+    "example": "They built a stout fence to protect the garden from animals.",
+    "example_bn": "প্রাণীদের হাত থেকে বাগান রক্ষা করতে তারা একটি মজবুত বেড়া তৈরি করেছিল।",
+    "examples": [
+      "They built a stout fence to protect the garden from animals. — প্রাণীদের হাত থেকে বাগান রক্ষা করতে তারা একটি মজবুত বেড়া তৈরি করেছিল।",
+      "At dinner, she explained that 'stout' means 'strong and thickly built', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘stout’ শব্দটির অর্থ—মজবুত ও শক্তপোক্ত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'stout' as 'strong and thickly built' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘stout’ শব্দটি মজবুত ও শক্তপোক্ত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "stratagem",
+    "pronunciation_bn": "স্ট্র্যাটাজেম",
+    "pronunciation": "/ˈstræt.ə.dʒəm/",
+    "no": 748,
+    "group": 30,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a carefully planned scheme or trick used to achieve a goal, especially to outwit an opponent",
+    "meaning_bn": [
+      "সুনিপুণভাবে পরিকল্পিত কৌশল",
+      "প্রতিপক্ষকে বোকা বানানোর ফন্দি",
+      "কৌশলী পরিকল্পনা"
+    ],
+    "synonyms": [
+      {
+        "en": "ploy",
+        "bn": "কৌশল"
+      },
+      {
+        "en": "ruse",
+        "bn": "ছলনা"
+      },
+      {
+        "en": "scheme",
+        "bn": "পরিকল্পনা বা ফন্দি"
+      },
+      {
+        "en": "Artifice",
+        "bn": "কূটকৌশল"
+      },
+      {
+        "en": "Gambit",
+        "bn": "সুবিধা আদায়ের কৌশল"
+      },
+      {
+        "en": "Machination",
+        "bn": "ষড়যন্ত্র"
+      },
+      {
+        "en": "subterfuge",
+        "bn": "ছলচাতুরি"
+      },
+      {
+        "en": "Chicanery",
+        "bn": "কূটচাল"
+      },
+      {
+        "en": "Intrigue",
+        "bn": "কৌতূহলী করে তোলা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "candor",
+        "bn": "খোলামেলা সততা"
+      },
+      {
+        "en": "forthrightness",
+        "bn": "সোজাসাপ্টা আচরণ"
+      },
+      {
+        "en": "Veracity",
+        "bn": "সত্যতা"
+      },
+      {
+        "en": "gaffe",
+        "bn": "বিব্রতকর ভুল"
+      }
+    ],
+    "example": "The general devised a stratagem to draw the enemy away from the bridge.",
+    "example_bn": "সেনাপতি শত্রুকে সেতু থেকে দূরে সরিয়ে নিতে একটি কৌশল উদ্ভাবন করলেন।",
+    "examples": [
+      "The general devised a stratagem to draw the enemy away from the bridge. — সেনাপতি শত্রুকে সেতু থেকে দূরে সরিয়ে নিতে একটি কৌশল উদ্ভাবন করলেন।",
+      "At dinner, she explained that 'stratagem' means 'a carefully planned scheme or trick used', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘stratagem’ শব্দটির অর্থ—সুনিপুণভাবে পরিকল্পিত কৌশল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'stratagem' as 'a carefully planned scheme or trick used' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘stratagem’ শব্দটি সুনিপুণভাবে পরিকল্পিত কৌশল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "stupendous",
+    "pronunciation_bn": "স্টুপেন্ডাস",
+    "pronunciation": "/stjuːˈpen.dəs/",
+    "no": 749,
+    "group": 30,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "extremely impressive, often because of great size, amount, or quality",
+    "meaning_bn": [
+      "বিস্ময়কর",
+      "অসাধারণ",
+      "আকার, পরিমাণ বা গুণে বিপুল"
+    ],
+    "synonyms": [
+      {
+        "en": "enormous",
+        "bn": "বিশাল"
+      },
+      {
+        "en": "colossal",
+        "bn": "বিপুলাকার"
+      },
+      {
+        "en": "tremendous",
+        "bn": "অত্যন্ত বড় বা চমৎকার"
+      },
+      {
+        "en": "Prodigious",
+        "bn": "অসাধারণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "tiny",
+        "bn": "ক্ষুদ্র"
+      },
+      {
+        "en": "insignificant",
+        "bn": "নগণ্য"
+      },
+      {
+        "en": "ordinary",
+        "bn": "সাধারণ"
+      },
+      {
+        "en": "Minuscule",
+        "bn": "অত্যন্ত ক্ষুদ্র"
+      },
+      {
+        "en": "Infinitesimal",
+        "bn": "অতি ক্ষুদ্র"
+      },
+      {
+        "en": "Mundane",
+        "bn": "সাধারণ ও অনাকর্ষণীয়"
+      },
+      {
+        "en": "Nominal",
+        "bn": "নামমাত্র"
+      },
+      {
+        "en": "Paltry",
+        "bn": "নগণ্য"
+      }
+    ],
+    "example": "The team made a stupendous effort to finish the project on time.",
+    "example_bn": "সময়মতো প্রকল্প শেষ করতে দলটি অসাধারণ প্রচেষ্টা চালিয়েছিল।",
+    "examples": [
+      "The team made a stupendous effort to finish the project on time. — সময়মতো প্রকল্প শেষ করতে দলটি অসাধারণ প্রচেষ্টা চালিয়েছিল।",
+      "At dinner, she explained that 'stupendous' means 'extremely impressive, often because of great size, amount', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘stupendous’ শব্দটির অর্থ—বিস্ময়কর—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'stupendous' as 'extremely impressive, often because of great size, amount' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘stupendous’ শব্দটি বিস্ময়কর অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "stupor",
+    "pronunciation_bn": "স্টুপার",
+    "pronunciation": "/ˈstjuː.pə/",
+    "no": 750,
+    "group": 30,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a state of near-unconsciousness or mental dullness in which a person is barely responsive",
+    "meaning_bn": [
+      "প্রায় অচেতন অবস্থা",
+      "হতবুদ্ধি ও জড়তাপূর্ণ অবস্থা",
+      "সাড়া দেওয়ার ক্ষমতা কমে যাওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "torpor",
+        "bn": "জড়তা"
+      },
+      {
+        "en": "daze",
+        "bn": "হতবুদ্ধি অবস্থা"
+      },
+      {
+        "en": "numbness",
+        "bn": "অবশতা"
+      },
+      {
+        "en": "Lethargy",
+        "bn": "অবসন্নতা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "alertness",
+        "bn": "সতর্কতা"
+      },
+      {
+        "en": "awareness",
+        "bn": "সচেতনতা"
+      },
+      {
+        "en": "lucidity",
+        "bn": "স্বচ্ছ চিন্তাশক্তি"
+      },
+      {
+        "en": "Momentum",
+        "bn": "গতিবেগ"
+      }
+    ],
+    "example": "After the shock, he sat in a stupor and could barely answer questions.",
+    "example_bn": "ধাক্কাটি খাওয়ার পর সে হতবুদ্ধি অবস্থায় বসে ছিল এবং প্রশ্নের উত্তরও ঠিকমতো দিতে পারছিল না।",
+    "examples": [
+      "After the shock, he sat in a stupor and could barely answer questions. — ধাক্কাটি খাওয়ার পর সে হতবুদ্ধি অবস্থায় বসে ছিল এবং প্রশ্নের উত্তরও ঠিকমতো দিতে পারছিল না।",
+      "At dinner, she explained that 'stupor' means 'a state of near-unconsciousness or mental dullness', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘stupor’ শব্দটির অর্থ—প্রায় অচেতন অবস্থা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'stupor' as 'a state of near-unconsciousness or mental dullness' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘stupor’ শব্দটি প্রায় অচেতন অবস্থা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

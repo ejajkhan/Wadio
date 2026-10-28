@@ -1,0 +1,1733 @@
+[
+  {
+    "word": "fiasco",
+    "pronunciation_bn": "ফি-অ্যাসকো",
+    "pronunciation": "/fiˈæs.kəʊ/",
+    "no": 401,
+    "group": 17,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a complete failure, especially one that is embarrassing or badly managed",
+    "meaning_bn": [
+      "সম্পূর্ণ ব্যর্থতা",
+      "বিব্রতকর বিপর্যয়",
+      "ভীষণভাবে ব্যর্থ কোনো উদ্যোগ"
+    ],
+    "synonyms": [
+      {
+        "en": "debacle",
+        "bn": "মহাব্যর্থতা"
+      },
+      {
+        "en": "failure",
+        "bn": "ব্যর্থতা"
+      },
+      {
+        "en": "disaster",
+        "bn": "বিপর্যয়"
+      },
+      {
+        "en": "Apocalypse",
+        "bn": "মহাবিপর্যয়"
+      },
+      {
+        "en": "calamity",
+        "bn": "বিপর্যয়"
+      },
+      {
+        "en": "cataclysm",
+        "bn": "প্রলয়ংকরী বিপর্যয়"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "success",
+        "bn": "সাফল্য"
+      },
+      {
+        "en": "triumph",
+        "bn": "বিজয় বা বড় সাফল্য"
+      },
+      {
+        "en": "Coup",
+        "bn": "সামরিক অভ্যুত্থান"
+      }
+    ],
+    "example": "The poorly organized event turned into a public fiasco.",
+    "example_bn": "দুর্বল আয়োজনের কারণে অনুষ্ঠানটি প্রকাশ্য ব্যর্থতায় পরিণত হয়েছিল।",
+    "examples": [
+      "The poorly organized event turned into a public fiasco. — দুর্বল আয়োজনের কারণে অনুষ্ঠানটি প্রকাশ্য ব্যর্থতায় পরিণত হয়েছিল।",
+      "At dinner, she explained that 'fiasco' means 'a complete failure, especially one that is embarrassing', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘fiasco’ শব্দটির অর্থ—সম্পূর্ণ ব্যর্থতা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'fiasco' as 'a complete failure, especially one that is embarrassing' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘fiasco’ শব্দটি সম্পূর্ণ ব্যর্থতা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "fiat",
+    "pronunciation_bn": "ফি-অ্যাট",
+    "pronunciation": "/ˈfiː.æt/",
+    "no": 402,
+    "group": 17,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "an official order or authorization, often issued by someone with authority",
+    "meaning_bn": [
+      "কর্তৃপক্ষের আনুষ্ঠানিক আদেশ",
+      "ফরমান",
+      "একতরফা নির্দেশ"
+    ],
+    "synonyms": [
+      {
+        "en": "decree",
+        "bn": "ফরমান"
+      },
+      {
+        "en": "edict",
+        "bn": "রাজাদেশ বা আনুষ্ঠানিক আদেশ"
+      },
+      {
+        "en": "order",
+        "bn": "আদেশ"
+      },
+      {
+        "en": "Injunction",
+        "bn": "আদালতের নিষেধাজ্ঞা বা নির্দেশ"
+      },
+      {
+        "en": "behest",
+        "bn": "আদেশ"
+      },
+      {
+        "en": "Mandate",
+        "bn": "আনুষ্ঠানিক আদেশ"
+      },
+      {
+        "en": "ordinance",
+        "bn": "আইন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "request",
+        "bn": "অনুরোধ"
+      },
+      {
+        "en": "suggestion",
+        "bn": "প্রস্তাব"
+      },
+      {
+        "en": "Anarchy",
+        "bn": "অরাজকতা"
+      },
+      {
+        "en": "bedlam",
+        "bn": "হট্টগোল"
+      },
+      {
+        "en": "disarray",
+        "bn": "বিশৃঙ্খলা"
+      },
+      {
+        "en": "Implication",
+        "bn": "সম্ভাব্য পরিণতি"
+      },
+      {
+        "en": "supplication",
+        "bn": "বিনীত প্রার্থনা"
+      }
+    ],
+    "example": "The policy was introduced by executive fiat without public consultation.",
+    "example_bn": "জনসাধারণের সঙ্গে আলোচনা ছাড়াই নির্বাহী আদেশে নীতিটি চালু করা হয়েছিল।",
+    "examples": [
+      "The policy was introduced by executive fiat without public consultation. — জনসাধারণের সঙ্গে আলোচনা ছাড়াই নির্বাহী আদেশে নীতিটি চালু করা হয়েছিল।",
+      "At dinner, she explained that 'fiat' means 'an official order or authorization, often issued', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘fiat’ শব্দটির অর্থ—কর্তৃপক্ষের আনুষ্ঠানিক আদেশ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'fiat' as 'an official order or authorization, often issued' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘fiat’ শব্দটি কর্তৃপক্ষের আনুষ্ঠানিক আদেশ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "fickle",
+    "pronunciation_bn": "ফিকল",
+    "pronunciation": "/ˈfɪk.əl/",
+    "no": 403,
+    "group": 17,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "changing opinions, interests, or feelings frequently and unpredictably",
+    "meaning_bn": [
+      "খামখেয়ালি",
+      "সহজে মত বা মন বদলায় এমন",
+      "অস্থিরমতি"
+    ],
+    "synonyms": [
+      {
+        "en": "changeable",
+        "bn": "পরিবর্তনশীল"
+      },
+      {
+        "en": "inconstant",
+        "bn": "অস্থির"
+      },
+      {
+        "en": "capricious",
+        "bn": "খামখেয়ালি"
+      },
+      {
+        "en": "Mercurial",
+        "bn": "হঠাৎ ও অনিশ্চিতভাবে মেজাজ বা আচরণ বদলায় এমন"
+      },
+      {
+        "en": "Volatile",
+        "bn": "অস্থিতিশীল"
+      },
+      {
+        "en": "Arbitrary",
+        "bn": "খেয়ালখুশিমতো"
+      },
+      {
+        "en": "droll",
+        "bn": "অদ্ভুতভাবে মজার"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "constant",
+        "bn": "স্থির"
+      },
+      {
+        "en": "steadfast",
+        "bn": "অটল"
+      },
+      {
+        "en": "loyal",
+        "bn": "বিশ্বস্ত"
+      },
+      {
+        "en": "stalwart",
+        "bn": "অবিচল ও বিশ্বস্ত"
+      },
+      {
+        "en": "Staunch",
+        "bn": "একনিষ্ঠ"
+      },
+      {
+        "en": "Immutable",
+        "bn": "অপরিবর্তনীয়"
+      },
+      {
+        "en": "Irrevocable",
+        "bn": "অপরিবর্তনযোগ্য"
+      },
+      {
+        "en": "Unremitting",
+        "bn": "অবিরাম"
+      },
+      {
+        "en": "Incessant",
+        "bn": "অবিরাম"
+      }
+    ],
+    "example": "Investors can be fickle when market conditions change.",
+    "example_bn": "বাজারের পরিস্থিতি বদলালে বিনিয়োগকারীরা সহজেই মত বদলাতে পারেন।",
+    "examples": [
+      "Investors can be fickle when market conditions change. — বাজারের পরিস্থিতি বদলালে বিনিয়োগকারীরা সহজেই মত বদলাতে পারেন।",
+      "At dinner, she explained that 'fickle' means 'changing opinions, interests, or feelings frequently and unpredictably', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘fickle’ শব্দটির অর্থ—খামখেয়ালি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'fickle' as 'changing opinions, interests, or feelings frequently and unpredictably' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘fickle’ শব্দটি খামখেয়ালি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "figment",
+    "pronunciation_bn": "ফিগমেন্ট",
+    "pronunciation": "/ˈfɪɡ.mənt/",
+    "no": 404,
+    "group": 17,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "something invented by the imagination rather than something real",
+    "meaning_bn": [
+      "কল্পনার সৃষ্টি",
+      "মনগড়া বিষয়",
+      "অবাস্তব কল্পনা"
+    ],
+    "synonyms": [
+      {
+        "en": "illusion",
+        "bn": "ভ্রম"
+      },
+      {
+        "en": "invention",
+        "bn": "উদ্ভাবিত বা মনগড়া বিষয়"
+      },
+      {
+        "en": "fabrication",
+        "bn": "মনগড়া কাহিনি"
+      },
+      {
+        "en": "Chimera",
+        "bn": "অলীক কল্পনা"
+      },
+      {
+        "en": "phantasm",
+        "bn": "ভ্রমদৃশ্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "reality",
+        "bn": "বাস্তবতা"
+      },
+      {
+        "en": "fact",
+        "bn": "সত্য ঘটনা"
+      },
+      {
+        "en": "Chronicle",
+        "bn": "কালানুক্রমিক বিবরণ"
+      },
+      {
+        "en": "Axiom",
+        "bn": "স্বতঃসিদ্ধ সত্য"
+      },
+      {
+        "en": "Maxim",
+        "bn": "সাধারণ সত্য, আচরণবিধি বা নীতি প্রকাশকারী সংক্ষিপ্ত উক্তি"
+      },
+      {
+        "en": "Precept",
+        "bn": "আচরণনির্দেশক নীতি"
+      },
+      {
+        "en": "Veracity",
+        "bn": "সত্যতা"
+      }
+    ],
+    "example": "The supposed threat was only a figment of his imagination.",
+    "example_bn": "কথিত হুমকিটি ছিল তার কল্পনার সৃষ্টি মাত্র।",
+    "examples": [
+      "The supposed threat was only a figment of his imagination. — কথিত হুমকিটি ছিল তার কল্পনার সৃষ্টি মাত্র।",
+      "At dinner, she explained that 'figment' means 'something invented by the imagination rather than something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘figment’ শব্দটির অর্থ—কল্পনার সৃষ্টি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'figment' as 'something invented by the imagination rather than something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘figment’ শব্দটি কল্পনার সৃষ্টি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "fiscal",
+    "pronunciation_bn": "ফিসকাল",
+    "pronunciation": "/ˈfɪs.kəl/",
+    "no": 405,
+    "group": 17,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "relating to government revenue, public money, or financial matters",
+    "meaning_bn": [
+      "আর্থিক",
+      "রাজস্বসংক্রান্ত",
+      "সরকারি অর্থব্যবস্থাসংক্রান্ত"
+    ],
+    "synonyms": [
+      {
+        "en": "financial",
+        "bn": "আর্থিক"
+      },
+      {
+        "en": "budgetary",
+        "bn": "বাজেট-সংক্রান্ত"
+      },
+      {
+        "en": "monetary",
+        "bn": "মুদ্রা বা অর্থ-সংক্রান্ত"
+      }
+    ],
+    "antonyms": [],
+    "example": "The government announced a new fiscal plan for the coming year.",
+    "example_bn": "সরকার আগামী বছরের জন্য নতুন আর্থিক পরিকল্পনা ঘোষণা করেছে।",
+    "examples": [
+      "The government announced a new fiscal plan for the coming year. — সরকার আগামী বছরের জন্য নতুন আর্থিক পরিকল্পনা ঘোষণা করেছে।",
+      "At dinner, she explained that 'fiscal' means 'relating to government revenue, public money, or financial', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘fiscal’ শব্দটির অর্থ—আর্থিক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'fiscal' as 'relating to government revenue, public money, or financial' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘fiscal’ শব্দটি আর্থিক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "fledgling",
+    "pronunciation_bn": "ফ্লেজলিং",
+    "pronunciation": "/ˈfledʒ.lɪŋ/",
+    "no": 406,
+    "group": 17,
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "meaning_en": "a young bird that has just developed feathers for flight; a person or organization that is new and inexperienced",
+    "meaning_bn": [
+      "সদ্য উড়তে শেখা পাখি",
+      "নবীন ব্যক্তি",
+      "নতুন ও অনভিজ্ঞ প্রতিষ্ঠান"
+    ],
+    "synonyms": [
+      {
+        "en": "beginner",
+        "bn": "শিক্ষানবিশ"
+      },
+      {
+        "en": "novice",
+        "bn": "নবীন"
+      },
+      {
+        "en": "newcomer",
+        "bn": "নতুন আগত ব্যক্তি"
+      },
+      {
+        "en": "neophyte",
+        "bn": "নবাগত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "veteran",
+        "bn": "অভিজ্ঞ ব্যক্তি"
+      },
+      {
+        "en": "expert",
+        "bn": "বিশেষজ্ঞ"
+      },
+      {
+        "en": "Virtuoso",
+        "bn": "অসাধারণ দক্ষ ব্যক্তি"
+      },
+      {
+        "en": "Artisan",
+        "bn": "কারুশিল্পী"
+      },
+      {
+        "en": "Connoisseur",
+        "bn": "রসজ্ঞ"
+      },
+      {
+        "en": "pundit",
+        "bn": "বিশেষজ্ঞ"
+      },
+      {
+        "en": "savant",
+        "bn": "অত্যন্ত জ্ঞানী ব্যক্তি"
+      }
+    ],
+    "example": "The fledgling company is still learning how to compete in the market.",
+    "example_bn": "নবীন কোম্পানিটি এখনো বাজারে প্রতিযোগিতা করতে শিখছে।",
+    "examples": [
+      "The fledgling company is still learning how to compete in the market. — নবীন কোম্পানিটি এখনো বাজারে প্রতিযোগিতা করতে শিখছে।",
+      "At dinner, she explained that 'fledgling' means 'a young bird that has just developed feathers', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘fledgling’ শব্দটির অর্থ—সদ্য উড়তে শেখা পাখি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'fledgling' as 'a young bird that has just developed feathers' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘fledgling’ শব্দটি সদ্য উড়তে শেখা পাখি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "flippant",
+    "pronunciation_bn": "ফ্লিপ্যান্ট",
+    "pronunciation": "/ˈflɪp.ənt/",
+    "no": 407,
+    "group": 17,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "not showing a serious or respectful attitude, especially toward something important",
+    "meaning_bn": [
+      "তুচ্ছতাচ্ছিল্যপূর্ণ",
+      "গুরুত্বপূর্ণ বিষয়ে অবজ্ঞাপূর্ণ",
+      "অসম্মানজনকভাবে হালকা"
+    ],
+    "synonyms": [
+      {
+        "en": "facetious",
+        "bn": "গম্ভীর বিষয়েও রসিকতাপূর্ণ"
+      },
+      {
+        "en": "irreverent",
+        "bn": "শ্রদ্ধাহীন"
+      },
+      {
+        "en": "glib",
+        "bn": "চটপটে কিন্তু অগভীর বা অসতর্ক"
+      },
+      {
+        "en": "Profane",
+        "bn": "ধর্মীয় বা পবিত্র বিষয়ের সঙ্গে সম্পর্কহীন"
+      },
+      {
+        "en": "Jocular",
+        "bn": "রসিক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "serious",
+        "bn": "গম্ভীর"
+      },
+      {
+        "en": "respectful",
+        "bn": "শ্রদ্ধাশীল"
+      },
+      {
+        "en": "solemn",
+        "bn": "গম্ভীর ও মর্যাদাপূর্ণ"
+      },
+      {
+        "en": "Grievous",
+        "bn": "গুরুতর"
+      }
+    ],
+    "example": "His flippant response upset people who took the issue seriously.",
+    "example_bn": "বিষয়টিকে গুরুত্ব দিয়ে দেখা মানুষদের তার তুচ্ছতাচ্ছিল্যপূর্ণ উত্তর কষ্ট দিয়েছিল।",
+    "examples": [
+      "His flippant response upset people who took the issue seriously. — বিষয়টিকে গুরুত্ব দিয়ে দেখা মানুষদের তার তুচ্ছতাচ্ছিল্যপূর্ণ উত্তর কষ্ট দিয়েছিল।",
+      "At dinner, she explained that 'flippant' means 'not showing a serious or respectful attitude, especially', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘flippant’ শব্দটির অর্থ—তুচ্ছতাচ্ছিল্যপূর্ণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'flippant' as 'not showing a serious or respectful attitude, especially' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘flippant’ শব্দটি তুচ্ছতাচ্ছিল্যপূর্ণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "florid",
+    "pronunciation_bn": "ফ্লোরিড",
+    "pronunciation": "/ˈflɒr.ɪd/",
+    "no": 408,
+    "group": 17,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "having a red or flushed complexion; also, excessively elaborate in style",
+    "meaning_bn": [
+      "লালচে মুখমণ্ডলবিশিষ্ট",
+      "অতিরিক্ত অলংকারপূর্ণ",
+      "আড়ম্বরপূর্ণ"
+    ],
+    "synonyms": [
+      {
+        "en": "ruddy",
+        "bn": "লালচে"
+      },
+      {
+        "en": "ornate",
+        "bn": "অলংকারপূর্ণ"
+      },
+      {
+        "en": "elaborate",
+        "bn": "বিস্তারিত ও কারুকার্যময়"
+      },
+      {
+        "en": "baroque",
+        "bn": "অতিমাত্রায় অলংকৃত"
+      },
+      {
+        "en": "Intricate",
+        "bn": "জটিল"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "plain",
+        "bn": "সাদামাটা"
+      },
+      {
+        "en": "simple",
+        "bn": "সরল"
+      },
+      {
+        "en": "restrained",
+        "bn": "সংযত"
+      },
+      {
+        "en": "Austere",
+        "bn": "সাদাসিধে ও অনাড়ম্বর"
+      },
+      {
+        "en": "Abstinent",
+        "bn": "বিরত থাকা"
+      },
+      {
+        "en": "chaste",
+        "bn": "যৌনসংযমী"
+      },
+      {
+        "en": "Rustic",
+        "bn": "গ্রামীণ"
+      },
+      {
+        "en": "Temperate",
+        "bn": "সংযমী"
+      }
+    ],
+    "example": "The critic found the novel's florid prose distracting.",
+    "example_bn": "সমালোচকের কাছে উপন্যাসটির অতিরিক্ত অলংকারপূর্ণ গদ্য মনোযোগ-বিঘ্নকারী মনে হয়েছিল।",
+    "examples": [
+      "The critic found the novel's florid prose distracting. — সমালোচকের কাছে উপন্যাসটির অতিরিক্ত অলংকারপূর্ণ গদ্য মনোযোগ-বিঘ্নকারী মনে হয়েছিল।",
+      "At dinner, she explained that 'florid' means 'having a red or flushed complexion', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘florid’ শব্দটির অর্থ—লালচে মুখমণ্ডলবিশিষ্ট—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'florid' as 'having a red or flushed complexion' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘florid’ শব্দটি লালচে মুখমণ্ডলবিশিষ্ট অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "fodder",
+    "pronunciation_bn": "ফডার",
+    "pronunciation": "/ˈfɒd.ə(r)/",
+    "no": 409,
+    "group": 17,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "food for farm animals; figuratively, material used for a particular purpose",
+    "meaning_bn": [
+      "পশুখাদ্য",
+      "গবাদিপশুর খাদ্য",
+      "কোনো কাজে ব্যবহৃত উপাদান"
+    ],
+    "synonyms": [
+      {
+        "en": "feed",
+        "bn": "খাদ্য"
+      },
+      {
+        "en": "forage",
+        "bn": "পশুর চারণখাদ্য"
+      },
+      {
+        "en": "material",
+        "bn": "উপাদান"
+      }
+    ],
+    "antonyms": [],
+    "example": "The scandal provided fodder for newspaper headlines for weeks.",
+    "example_bn": "কেলেঙ্কারিটি কয়েক সপ্তাহ ধরে সংবাদপত্রের শিরোনামের উপাদান জুগিয়েছিল।",
+    "examples": [
+      "The scandal provided fodder for newspaper headlines for weeks. — কেলেঙ্কারিটি কয়েক সপ্তাহ ধরে সংবাদপত্রের শিরোনামের উপাদান জুগিয়েছিল।",
+      "At dinner, she explained that 'fodder' means 'food for farm animals', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘fodder’ শব্দটির অর্থ—পশুখাদ্য—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'fodder' as 'food for farm animals' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘fodder’ শব্দটি পশুখাদ্য অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "folly",
+    "pronunciation_bn": "ফলি",
+    "pronunciation": "/ˈfɒl.i/",
+    "no": 410,
+    "group": 17,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "foolishness or a foolish action, idea, or decision",
+    "meaning_bn": [
+      "মূর্খতা",
+      "অবিবেচনা",
+      "বোকামিপূর্ণ কাজ বা সিদ্ধান্ত"
+    ],
+    "synonyms": [
+      {
+        "en": "foolishness",
+        "bn": "মূর্খতা"
+      },
+      {
+        "en": "imprudence",
+        "bn": "অবিবেচনা"
+      },
+      {
+        "en": "absurdity",
+        "bn": "অযৌক্তিকতা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "wisdom",
+        "bn": "প্রজ্ঞা"
+      },
+      {
+        "en": "prudence",
+        "bn": "বিচক্ষণতা"
+      },
+      {
+        "en": "good sense",
+        "bn": "বুদ্ধিমত্তা"
+      }
+    ],
+    "example": "It was folly to ignore the warnings before the storm.",
+    "example_bn": "ঝড়ের আগে সতর্কবার্তাগুলো উপেক্ষা করা ছিল অবিবেচনার কাজ।",
+    "examples": [
+      "It was folly to ignore the warnings before the storm. — ঝড়ের আগে সতর্কবার্তাগুলো উপেক্ষা করা ছিল অবিবেচনার কাজ।",
+      "At dinner, she explained that 'folly' means 'foolishness or a foolish action, idea, or decision', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘folly’ শব্দটির অর্থ—মূর্খতা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'folly' as 'foolishness or a foolish action, idea, or decision' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘folly’ শব্দটি মূর্খতা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "foray",
+    "pronunciation_bn": "ফোরে",
+    "pronunciation": "/ˈfɒr.eɪ/",
+    "no": 411,
+    "group": 17,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "a short attempt to become involved in a new activity; historically, a sudden raid",
+    "meaning_bn": [
+      "নতুন কোনো কাজে স্বল্পমেয়াদি উদ্যোগ",
+      "প্রথম পদক্ষেপ",
+      "আকস্মিক অভিযান বা হানা"
+    ],
+    "synonyms": [
+      {
+        "en": "venture",
+        "bn": "উদ্যোগ"
+      },
+      {
+        "en": "attempt",
+        "bn": "চেষ্টা"
+      },
+      {
+        "en": "raid",
+        "bn": "হানা বা অভিযান"
+      },
+      {
+        "en": "sally",
+        "bn": "আকস্মিক আক্রমণ"
+      },
+      {
+        "en": "Incursion",
+        "bn": "অনুপ্রবেশ"
+      },
+      {
+        "en": "Recrimination",
+        "bn": "পাল্টা অভিযোগ"
+      },
+      {
+        "en": "retort",
+        "bn": "তীক্ষ্ণ জবাব দেওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "exodus",
+        "bn": "গণপ্রস্থান"
+      }
+    ],
+    "example": "Her first foray into politics attracted considerable attention.",
+    "example_bn": "রাজনীতিতে তার প্রথম পদক্ষেপ যথেষ্ট মনোযোগ আকর্ষণ করেছিল।",
+    "examples": [
+      "Her first foray into politics attracted considerable attention. — রাজনীতিতে তার প্রথম পদক্ষেপ যথেষ্ট মনোযোগ আকর্ষণ করেছিল।",
+      "At dinner, she explained that 'foray' means 'a short attempt to become involved', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘foray’ শব্দটির অর্থ—নতুন কোনো কাজে স্বল্পমেয়াদি উদ্যোগ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'foray' as 'a short attempt to become involved' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘foray’ শব্দটি নতুন কোনো কাজে স্বল্পমেয়াদি উদ্যোগ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "forebode",
+    "pronunciation_bn": "ফোরবোড",
+    "pronunciation": "/fɔːˈbəʊd/",
+    "no": 412,
+    "group": 17,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to indicate or predict that something bad is likely to happen",
+    "meaning_bn": [
+      "অশুভ ঘটনার পূর্বাভাস দেওয়া",
+      "আগাম অমঙ্গলের ইঙ্গিত দেওয়া",
+      "পূর্বলক্ষণ হওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "portend",
+        "bn": "পূর্বলক্ষণ হওয়া"
+      },
+      {
+        "en": "presage",
+        "bn": "পূর্বাভাস দেওয়া"
+      },
+      {
+        "en": "foreshadow",
+        "bn": "আগাম ইঙ্গিত দেওয়া"
+      },
+      {
+        "en": "Augur",
+        "bn": "ভবিষ্যতের লক্ষণ হওয়া"
+      },
+      {
+        "en": "Herald",
+        "bn": "ঘোষক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "promise",
+        "bn": "সম্ভাবনার আশ্বাস দেওয়া"
+      },
+      {
+        "en": "augur well",
+        "bn": "শুভ লক্ষণ দেখানো"
+      },
+      {
+        "en": "ensue",
+        "bn": "পরবর্তী সময়ে ঘটা"
+      },
+      {
+        "en": "Prevail",
+        "bn": "জয়ী হওয়া"
+      }
+    ],
+    "example": "The sudden silence seemed to forebode trouble.",
+    "example_bn": "হঠাৎ নেমে আসা নীরবতা যেন বিপদের পূর্বাভাস দিচ্ছিল।",
+    "examples": [
+      "The sudden silence seemed to forebode trouble. — হঠাৎ নেমে আসা নীরবতা যেন বিপদের পূর্বাভাস দিচ্ছিল।",
+      "At dinner, she explained that 'forebode' means 'to indicate or predict that something bad is', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘forebode’ শব্দটির অর্থ—অশুভ ঘটনার পূর্বাভাস দেওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'forebode' as 'to indicate or predict that something bad is' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘forebode’ শব্দটি অশুভ ঘটনার পূর্বাভাস দেওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "foreclose",
+    "pronunciation_bn": "ফোরক্লোজ",
+    "pronunciation": "/fɔːˈkləʊz/",
+    "no": 413,
+    "group": 17,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to take possession of mortgaged property when the borrower fails to meet the terms; to rule out a possibility",
+    "meaning_bn": [
+      "ঋণ পরিশোধে ব্যর্থ হলে বন্ধকী সম্পত্তি দখল করা",
+      "কোনো সম্ভাবনা বন্ধ করে দেওয়া",
+      "বাতিল বা অসম্ভব করে তোলা"
+    ],
+    "synonyms": [
+      {
+        "en": "repossess",
+        "bn": "পুনর্দখল করা"
+      },
+      {
+        "en": "seize",
+        "bn": "দখল করা"
+      },
+      {
+        "en": "preclude",
+        "bn": "সম্ভাবনা রুদ্ধ করা"
+      },
+      {
+        "en": "Usurp",
+        "bn": "জবরদখল করা"
+      },
+      {
+        "en": "Appropriate",
+        "bn": "নিজের কাজে নেওয়া"
+      },
+      {
+        "en": "Preempt",
+        "bn": "আগেভাগে পদক্ষেপ নিয়ে ঠেকানো"
+      },
+      {
+        "en": "Avert",
+        "bn": "প্রতিরোধ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "allow",
+        "bn": "অনুমতি দেওয়া"
+      },
+      {
+        "en": "permit",
+        "bn": "অনুমোদন করা"
+      },
+      {
+        "en": "Afford",
+        "bn": "সামর্থ্য থাকা"
+      },
+      {
+        "en": "Beget",
+        "bn": "জন্ম দেওয়া"
+      },
+      {
+        "en": "connive",
+        "bn": "গোপনে ষড়যন্ত্রে সহযোগিতা করা"
+      },
+      {
+        "en": "empower",
+        "bn": "ক্ষমতা প্রদান করা"
+      },
+      {
+        "en": "Engender",
+        "bn": "সৃষ্টি করা"
+      }
+    ],
+    "example": "The lender threatened to foreclose on the house after months of missed payments.",
+    "example_bn": "কয়েক মাস কিস্তি বাকি পড়ার পর ঋণদাতা বাড়িটি দখল করার হুমকি দিয়েছিল।",
+    "examples": [
+      "The lender threatened to foreclose on the house after months of missed payments. — কয়েক মাস কিস্তি বাকি পড়ার পর ঋণদাতা বাড়িটি দখল করার হুমকি দিয়েছিল।",
+      "At dinner, she explained that 'foreclose' means 'to take possession of mortgaged property when', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘foreclose’ শব্দটির অর্থ—ঋণ পরিশোধে ব্যর্থ হলে বন্ধকী সম্পত্তি দখল করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'foreclose' as 'to take possession of mortgaged property when' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘foreclose’ শব্দটি ঋণ পরিশোধে ব্যর্থ হলে বন্ধকী সম্পত্তি দখল করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "forensic",
+    "pronunciation_bn": "ফরেনসিক",
+    "pronunciation": "/fəˈren.zɪk/",
+    "no": 414,
+    "group": 17,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "relating to the use of scientific methods to investigate crimes or to legal proceedings",
+    "meaning_bn": [
+      "ফরেনসিক-সংক্রান্ত",
+      "অপরাধ তদন্তে বৈজ্ঞানিক পদ্ধতির ব্যবহার-সম্পর্কিত",
+      "আদালত বা আইনগত কার্যক্রম-সংক্রান্ত"
+    ],
+    "synonyms": [
+      {
+        "en": "legal",
+        "bn": "আইনগত"
+      },
+      {
+        "en": "criminal-investigative",
+        "bn": "অপরাধ তদন্ত-সংক্রান্ত"
+      },
+      {
+        "en": "scientific",
+        "bn": "বৈজ্ঞানিক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "Illicit",
+        "bn": "অবৈধ"
+      },
+      {
+        "en": "occult",
+        "bn": "অতিপ্রাকৃত বা গুপ্তবিদ্যা-সম্পর্কিত"
+      }
+    ],
+    "example": "Forensic analysis linked the fibers to the suspect's clothing.",
+    "example_bn": "ফরেনসিক বিশ্লেষণে তন্তুগুলোর সঙ্গে সন্দেহভাজনের পোশাকের যোগসূত্র পাওয়া গেল।",
+    "examples": [
+      "Forensic analysis linked the fibers to the suspect's clothing. — ফরেনসিক বিশ্লেষণে তন্তুগুলোর সঙ্গে সন্দেহভাজনের পোশাকের যোগসূত্র পাওয়া গেল।",
+      "At dinner, she explained that 'forensic' means 'relating to the use of scientific methods', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘forensic’ শব্দটির অর্থ—ফরেনসিক-সংক্রান্ত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'forensic' as 'relating to the use of scientific methods' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘forensic’ শব্দটি ফরেনসিক-সংক্রান্ত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "forestall",
+    "pronunciation_bn": "ফোরস্টল",
+    "pronunciation": "/fɔːˈstɔːl/",
+    "no": 415,
+    "group": 17,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to prevent something from happening by acting before it occurs",
+    "meaning_bn": [
+      "আগেভাগে ঠেকানো",
+      "পূর্বেই প্রতিরোধ করা",
+      "ঘটনা ঘটার আগেই ব্যবস্থা নেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "prevent",
+        "bn": "প্রতিরোধ করা"
+      },
+      {
+        "en": "avert",
+        "bn": "বিপদ এড়ানো"
+      },
+      {
+        "en": "pre-empt",
+        "bn": "আগেই পদক্ষেপ নিয়ে ঠেকানো"
+      },
+      {
+        "en": "Preempt",
+        "bn": "আগেভাগে পদক্ষেপ নিয়ে ঠেকানো"
+      },
+      {
+        "en": "Preclude",
+        "bn": "ঘটতে বাধা দেওয়া"
+      },
+      {
+        "en": "foreclose",
+        "bn": "ঋণ পরিশোধে ব্যর্থ হলে বন্ধকী সম্পত্তি দখল করা"
+      },
+      {
+        "en": "obviate",
+        "bn": "অপ্রয়োজনীয় করে তোলা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "cause",
+        "bn": "ঘটানো"
+      },
+      {
+        "en": "provoke",
+        "bn": "উসকে দেওয়া"
+      },
+      {
+        "en": "Beget",
+        "bn": "জন্ম দেওয়া"
+      },
+      {
+        "en": "connive",
+        "bn": "গোপনে ষড়যন্ত্রে সহযোগিতা করা"
+      },
+      {
+        "en": "Engender",
+        "bn": "সৃষ্টি করা"
+      },
+      {
+        "en": "Precipitate",
+        "bn": "হঠাৎ ঘটিয়ে তোলা"
+      },
+      {
+        "en": "Accost",
+        "bn": "কারও কাছে গিয়ে কথা বলা"
+      }
+    ],
+    "example": "The team acted quickly to forestall a further delay.",
+    "example_bn": "আরও বিলম্ব ঠেকাতে দলটি দ্রুত ব্যবস্থা নিয়েছিল।",
+    "examples": [
+      "The team acted quickly to forestall a further delay. — আরও বিলম্ব ঠেকাতে দলটি দ্রুত ব্যবস্থা নিয়েছিল।",
+      "At dinner, she explained that 'forestall' means 'to prevent something from happening by acting before', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘forestall’ শব্দটির অর্থ—আগেভাগে ঠেকানো—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'forestall' as 'to prevent something from happening by acting before' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘forestall’ শব্দটি আগেভাগে ঠেকানো অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "forswear",
+    "pronunciation_bn": "ফোরসওয়েয়ার",
+    "pronunciation": "/fɔːˈsweə(r)/",
+    "no": 416,
+    "group": 17,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to promise formally to give up something; to deny or renounce under oath",
+    "meaning_bn": [
+      "শপথ করে ত্যাগ করা",
+      "আনুষ্ঠানিকভাবে পরিত্যাগের অঙ্গীকার করা",
+      "শপথ করে অস্বীকার করা"
+    ],
+    "synonyms": [
+      {
+        "en": "renounce",
+        "bn": "ত্যাগ করা"
+      },
+      {
+        "en": "abjure",
+        "bn": "শপথ করে পরিত্যাগ করা"
+      },
+      {
+        "en": "recant",
+        "bn": "পূর্বের বক্তব্য প্রত্যাহার করা"
+      },
+      {
+        "en": "Relinquish",
+        "bn": "ত্যাগ করা"
+      },
+      {
+        "en": "Abdicate",
+        "bn": "সিংহাসন ত্যাগ করা"
+      },
+      {
+        "en": "Abnegate",
+        "bn": "নিজের ইচ্ছা বা অধিকার ত্যাগ করা"
+      },
+      {
+        "en": "disclaim",
+        "bn": "দায়িত্ব অস্বীকার করা"
+      },
+      {
+        "en": "Forgo",
+        "bn": "ত্যাগ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "embrace",
+        "bn": "সাদরে গ্রহণ করা"
+      },
+      {
+        "en": "maintain",
+        "bn": "বজায় রাখা"
+      },
+      {
+        "en": "Assert",
+        "bn": "দৃঢ়ভাবে দাবি করা"
+      },
+      {
+        "en": "Appropriate",
+        "bn": "নিজের কাজে নেওয়া"
+      },
+      {
+        "en": "Espouse",
+        "bn": "সমর্থন করা"
+      },
+      {
+        "en": "Profess",
+        "bn": "দাবি করা"
+      },
+      {
+        "en": "Usurp",
+        "bn": "জবরদখল করা"
+      }
+    ],
+    "example": "He publicly forswore the use of violence.",
+    "example_bn": "সে প্রকাশ্যে সহিংসতা পরিত্যাগের অঙ্গীকার করেছিল।",
+    "examples": [
+      "He publicly forswore the use of violence. — সে প্রকাশ্যে সহিংসতা পরিত্যাগের অঙ্গীকার করেছিল।",
+      "At dinner, she explained that 'forswear' means 'to promise formally to give up something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘forswear’ শব্দটির অর্থ—শপথ করে ত্যাগ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'forswear' as 'to promise formally to give up something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘forswear’ শব্দটি শপথ করে ত্যাগ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "forte",
+    "pronunciation_bn": "ফোর্টে",
+    "pronunciation": "/ˈfɔː.teɪ/",
+    "no": 417,
+    "group": 17,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a person's particular strength, skill, or area of expertise",
+    "meaning_bn": [
+      "বিশেষ দক্ষতা",
+      "বিশেষ পারদর্শিতা",
+      "কারও শক্তিশালী দিক"
+    ],
+    "synonyms": [
+      {
+        "en": "strength",
+        "bn": "শক্তি বা দক্ষতা"
+      },
+      {
+        "en": "specialty",
+        "bn": "বিশেষত্ব"
+      },
+      {
+        "en": "strong point",
+        "bn": "বিশেষ দক্ষতার দিক"
+      },
+      {
+        "en": "brawn",
+        "bn": "পেশিশক্তি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "weakness",
+        "bn": "দুর্বলতা"
+      },
+      {
+        "en": "shortcoming",
+        "bn": "খামতি"
+      },
+      {
+        "en": "Foible",
+        "bn": "ছোটখাটো দোষ"
+      }
+    ],
+    "example": "Clear, concise writing is her forte.",
+    "example_bn": "স্পষ্ট ও সংক্ষিপ্ত লেখা তার বিশেষ দক্ষতা।",
+    "examples": [
+      "Clear, concise writing is her forte. — স্পষ্ট ও সংক্ষিপ্ত লেখা তার বিশেষ দক্ষতা।",
+      "At dinner, she explained that 'forte' means 'a person's particular strength, skill, or area', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘forte’ শব্দটির অর্থ—বিশেষ দক্ষতা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'forte' as 'a person's particular strength, skill, or area' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘forte’ শব্দটি বিশেষ দক্ষতা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "forthright",
+    "pronunciation_bn": "ফোর্থরাইট",
+    "pronunciation": "/ˈfɔːθ.raɪt/",
+    "no": 418,
+    "group": 17,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "direct, honest, and clear in expressing opinions",
+    "meaning_bn": [
+      "স্পষ্টবাদী",
+      "খোলামেলা",
+      "সরাসরি ও অকপট"
+    ],
+    "synonyms": [
+      {
+        "en": "frank",
+        "bn": "খোলামেলা"
+      },
+      {
+        "en": "candid",
+        "bn": "অকপট"
+      },
+      {
+        "en": "outspoken",
+        "bn": "স্পষ্টভাষী"
+      },
+      {
+        "en": "Ingenuous",
+        "bn": "সরল"
+      },
+      {
+        "en": "Vociferous",
+        "bn": "উচ্চকণ্ঠ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "evasive",
+        "bn": "এড়িয়ে যাওয়ার প্রবণতাসম্পন্ন"
+      },
+      {
+        "en": "guarded",
+        "bn": "সতর্কভাবে কথা বলে এমন"
+      },
+      {
+        "en": "disingenuous",
+        "bn": "অকপট নয় এমন"
+      },
+      {
+        "en": "Elusive",
+        "bn": "অধরা"
+      },
+      {
+        "en": "Furtive",
+        "bn": "গোপন"
+      },
+      {
+        "en": "Reticent",
+        "bn": "স্বল্পভাষী"
+      },
+      {
+        "en": "wary",
+        "bn": "সতর্ক"
+      }
+    ],
+    "example": "She was forthright about the project's weaknesses.",
+    "example_bn": "প্রকল্পটির দুর্বলতা সম্পর্কে তিনি অকপটে কথা বলেছিলেন।",
+    "examples": [
+      "She was forthright about the project's weaknesses. — প্রকল্পটির দুর্বলতা সম্পর্কে তিনি অকপটে কথা বলেছিলেন।",
+      "At dinner, she explained that 'forthright' means 'direct, honest, and clear in expressing opinions', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘forthright’ শব্দটির অর্থ—স্পষ্টবাদী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'forthright' as 'direct, honest, and clear in expressing opinions' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘forthright’ শব্দটি স্পষ্টবাদী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "foster",
+    "pronunciation_bn": "ফস্টার",
+    "pronunciation": "/ˈfɒs.tə(r)/",
+    "no": 419,
+    "group": 17,
+    "pos": [
+      "verb",
+      "adjective"
+    ],
+    "meaning_en": "verb: to encourage the development of something; adjective: relating to temporary parental care",
+    "meaning_bn": [
+      "লালন করা",
+      "উৎসাহিত করা",
+      "বিকাশে সহায়তা করা",
+      "পালক-সম্পর্কিত"
+    ],
+    "synonyms": [
+      {
+        "en": "encourage",
+        "bn": "উৎসাহিত করা"
+      },
+      {
+        "en": "nurture",
+        "bn": "লালন-পালন করা"
+      },
+      {
+        "en": "promote",
+        "bn": "উন্নয়নে সহায়তা করা"
+      },
+      {
+        "en": "Abet",
+        "bn": "অন্যায় কাজে সহায়তা করা"
+      },
+      {
+        "en": "Advocate",
+        "bn": "সমর্থক"
+      },
+      {
+        "en": "Exhort",
+        "bn": "জোরালোভাবে অনুরোধ করা"
+      },
+      {
+        "en": "Tout",
+        "bn": "প্রচার করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "discourage",
+        "bn": "নিরুৎসাহিত করা"
+      },
+      {
+        "en": "hinder",
+        "bn": "বাধা দেওয়া"
+      },
+      {
+        "en": "suppress",
+        "bn": "দমন করা"
+      },
+      {
+        "en": "curb",
+        "bn": "নিয়ন্ত্রণ করা"
+      },
+      {
+        "en": "Daunt",
+        "bn": "ভীত করা"
+      },
+      {
+        "en": "dissuade",
+        "bn": "কোনো কাজ থেকে বিরত থাকতে বোঝানো"
+      },
+      {
+        "en": "Relegate",
+        "bn": "নিম্নতর অবস্থানে নামিয়ে দেওয়া"
+      },
+      {
+        "en": "Stymie",
+        "bn": "বাধাগ্রস্ত করা"
+      }
+    ],
+    "example": "Good mentors foster independence and confidence in their students.",
+    "example_bn": "ভালো পরামর্শকেরা শিক্ষার্থীদের মধ্যে স্বনির্ভরতা ও আত্মবিশ্বাস গড়ে তোলেন।",
+    "examples": [
+      "Good mentors foster independence and confidence in their students. — ভালো পরামর্শকেরা শিক্ষার্থীদের মধ্যে স্বনির্ভরতা ও আত্মবিশ্বাস গড়ে তোলেন।",
+      "At dinner, she explained that 'foster' means 'verb: to encourage the development of something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘foster’ শব্দটির অর্থ—লালন করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'foster' as 'verb: to encourage the development of something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘foster’ শব্দটি লালন করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "fragmentary",
+    "pronunciation_bn": "ফ্র্যাগমেন্টারি",
+    "pronunciation": "/ˌfræɡˈmen.tər.i/",
+    "no": 420,
+    "group": 17,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "incomplete or consisting of separate pieces rather than a whole",
+    "meaning_bn": [
+      "খণ্ডিত",
+      "অসম্পূর্ণ",
+      "বিচ্ছিন্ন অংশে গঠিত"
+    ],
+    "synonyms": [
+      {
+        "en": "incomplete",
+        "bn": "অসম্পূর্ণ"
+      },
+      {
+        "en": "partial",
+        "bn": "আংশিক"
+      },
+      {
+        "en": "disjointed",
+        "bn": "অসংলগ্ন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "complete",
+        "bn": "সম্পূর্ণ"
+      },
+      {
+        "en": "whole",
+        "bn": "অখণ্ড"
+      },
+      {
+        "en": "coherent",
+        "bn": "সুসংগত"
+      },
+      {
+        "en": "Comprehensive",
+        "bn": "সর্বাঙ্গীণ"
+      },
+      {
+        "en": "Exhaustive",
+        "bn": "পুঙ্খানুপুঙ্খ"
+      },
+      {
+        "en": "Absolute",
+        "bn": "সম্পূর্ণ"
+      },
+      {
+        "en": "Consummate",
+        "bn": "অত্যন্ত দক্ষ"
+      },
+      {
+        "en": "Impartial",
+        "bn": "নিরপেক্ষ"
+      }
+    ],
+    "example": "Researchers had only fragmentary evidence about the early settlement.",
+    "example_bn": "প্রাচীন বসতি সম্পর্কে গবেষকদের কাছে কেবল খণ্ডিত প্রমাণ ছিল।",
+    "examples": [
+      "Researchers had only fragmentary evidence about the early settlement. — প্রাচীন বসতি সম্পর্কে গবেষকদের কাছে কেবল খণ্ডিত প্রমাণ ছিল।",
+      "At dinner, she explained that 'fragmentary' means 'incomplete or consisting of separate pieces rather than', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘fragmentary’ শব্দটির অর্থ—খণ্ডিত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'fragmentary' as 'incomplete or consisting of separate pieces rather than' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘fragmentary’ শব্দটি খণ্ডিত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "fruitful",
+    "pronunciation_bn": "ফ্রুটফুল",
+    "pronunciation": "/ˈfruːt.fəl/",
+    "no": 421,
+    "group": 17,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "producing good, useful, or successful results",
+    "meaning_bn": [
+      "ফলপ্রসূ",
+      "উপকারী ফল দেয় এমন",
+      "সফল"
+    ],
+    "synonyms": [
+      {
+        "en": "productive",
+        "bn": "উৎপাদনশীল"
+      },
+      {
+        "en": "successful",
+        "bn": "সফল"
+      },
+      {
+        "en": "profitable",
+        "bn": "লাভজনক বা উপকারী"
+      },
+      {
+        "en": "Fecund",
+        "bn": "উর্বর"
+      },
+      {
+        "en": "Prolific",
+        "bn": "প্রচুর সৃষ্টি বা উৎপাদন করে এমন"
+      },
+      {
+        "en": "effectual",
+        "bn": "কার্যকর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "unproductive",
+        "bn": "অনুৎপাদনশীল"
+      },
+      {
+        "en": "fruitless",
+        "bn": "নিষ্ফল"
+      },
+      {
+        "en": "unsuccessful",
+        "bn": "ব্যর্থ"
+      },
+      {
+        "en": "Futile",
+        "bn": "নিষ্ফল"
+      },
+      {
+        "en": "Abortive",
+        "bn": "ব্যর্থ"
+      },
+      {
+        "en": "Inert",
+        "bn": "নিষ্ক্রিয়"
+      },
+      {
+        "en": "Hapless",
+        "bn": "দুর্ভাগা"
+      },
+      {
+        "en": "Arid",
+        "bn": "শুষ্ক"
+      }
+    ],
+    "example": "The meeting was fruitful and produced several practical ideas.",
+    "example_bn": "সভাটি ফলপ্রসূ হয়েছিল এবং কয়েকটি বাস্তবসম্মত ধারণা উঠে এসেছিল।",
+    "examples": [
+      "The meeting was fruitful and produced several practical ideas. — সভাটি ফলপ্রসূ হয়েছিল এবং কয়েকটি বাস্তবসম্মত ধারণা উঠে এসেছিল।",
+      "At dinner, she explained that 'fruitful' means 'producing good, useful, or successful results', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘fruitful’ শব্দটির অর্থ—ফলপ্রসূ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'fruitful' as 'producing good, useful, or successful results' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘fruitful’ শব্দটি ফলপ্রসূ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "fuel",
+    "pronunciation_bn": "ফিউয়েল",
+    "pronunciation": "/ˈfjuː.əl/",
+    "no": 422,
+    "group": 17,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "noun: a substance used to produce heat or power; verb: to supply energy or make a feeling or situation stronger",
+    "meaning_bn": [
+      "জ্বালানি",
+      "শক্তি উৎপাদনের উপাদান",
+      "উসকে দেওয়া",
+      "তীব্রতর করা"
+    ],
+    "synonyms": [
+      {
+        "en": "power",
+        "bn": "শক্তি জোগানো"
+      },
+      {
+        "en": "energize",
+        "bn": "শক্তি সঞ্চার করা"
+      },
+      {
+        "en": "intensify",
+        "bn": "তীব্রতর করা"
+      },
+      {
+        "en": "clout",
+        "bn": "প্রভাব বা ক্ষমতা"
+      },
+      {
+        "en": "Exacerbate",
+        "bn": "আরও খারাপ করে তোলা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "dampen",
+        "bn": "কমিয়ে দেওয়া"
+      },
+      {
+        "en": "quell",
+        "bn": "দমন করা"
+      },
+      {
+        "en": "extinguish",
+        "bn": "নিভিয়ে দেওয়া"
+      },
+      {
+        "en": "Abate",
+        "bn": "কমে যাওয়া"
+      },
+      {
+        "en": "Assuage",
+        "bn": "প্রশমিত করা"
+      },
+      {
+        "en": "Mitigate",
+        "bn": "কোনো কিছুর তীব্রতা, ক্ষতি বা কষ্ট কমানো"
+      },
+      {
+        "en": "Modulate",
+        "bn": "নিয়ন্ত্রণ করা"
+      },
+      {
+        "en": "Palliate",
+        "bn": "উপশম করা"
+      }
+    ],
+    "example": "False rumors can fuel public anger.",
+    "example_bn": "মিথ্যা গুজব জনরোষকে আরও উসকে দিতে পারে।",
+    "examples": [
+      "False rumors can fuel public anger. — মিথ্যা গুজব জনরোষকে আরও উসকে দিতে পারে।",
+      "At dinner, she explained that 'fuel' means 'noun: a substance used to produce heat', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘fuel’ শব্দটির অর্থ—জ্বালানি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'fuel' as 'noun: a substance used to produce heat' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘fuel’ শব্দটি জ্বালানি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "fulminate",
+    "pronunciation_bn": "ফুলমিনেইট",
+    "pronunciation": "/ˈfʊl.mɪ.neɪt/",
+    "no": 423,
+    "group": 17,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to express strong and angry criticism or protest",
+    "meaning_bn": [
+      "তীব্র নিন্দা করা",
+      "প্রবল ক্ষোভ প্রকাশ করা",
+      "কঠোর প্রতিবাদ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "denounce",
+        "bn": "তীব্র নিন্দা করা"
+      },
+      {
+        "en": "rail",
+        "bn": "রাগের সঙ্গে সমালোচনা করা"
+      },
+      {
+        "en": "inveigh",
+        "bn": "তীব্রভাবে নিন্দা বা প্রতিবাদ করা"
+      },
+      {
+        "en": "Censure",
+        "bn": "কঠোর নিন্দা করা"
+      },
+      {
+        "en": "decry",
+        "bn": "প্রকাশ্যে নিন্দা করা"
+      },
+      {
+        "en": "deplore",
+        "bn": "তীব্র নিন্দা করা"
+      },
+      {
+        "en": "Deprecate",
+        "bn": "কোনো কিছুর প্রতি অসম্মতি প্রকাশ করা"
+      },
+      {
+        "en": "Disparage",
+        "bn": "তুচ্ছতাচ্ছিল্য করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "praise",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "commend",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "Acclaim",
+        "bn": "প্রকাশ্যে প্রশংসা করা"
+      },
+      {
+        "en": "Laud",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "Condone",
+        "bn": "অন্যায় আচরণ মেনে নেওয়া"
+      },
+      {
+        "en": "Exalt",
+        "bn": "উচ্চ প্রশংসা করা"
+      },
+      {
+        "en": "Extol",
+        "bn": "ভূয়সী প্রশংসা করা"
+      }
+    ],
+    "example": "Residents fulminated against the plan to close the local hospital.",
+    "example_bn": "স্থানীয় হাসপাতাল বন্ধ করার পরিকল্পনার বিরুদ্ধে বাসিন্দারা তীব্র ক্ষোভ প্রকাশ করেছিলেন।",
+    "examples": [
+      "Residents fulminated against the plan to close the local hospital. — স্থানীয় হাসপাতাল বন্ধ করার পরিকল্পনার বিরুদ্ধে বাসিন্দারা তীব্র ক্ষোভ প্রকাশ করেছিলেন।",
+      "At dinner, she explained that 'fulminate' means 'to express strong and angry criticism or protest', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘fulminate’ শব্দটির অর্থ—তীব্র নিন্দা করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'fulminate' as 'to express strong and angry criticism or protest' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘fulminate’ শব্দটি তীব্র নিন্দা করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "gaffe",
+    "pronunciation_bn": "গ্যাফ",
+    "pronunciation": "/ɡæf/",
+    "no": 424,
+    "group": 17,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "an embarrassing mistake, especially one made in public or in a social situation",
+    "meaning_bn": [
+      "বিব্রতকর ভুল",
+      "সামাজিক অসতর্কতা",
+      "অনিচ্ছাকৃত অপ্রীতিকর মন্তব্য বা আচরণ"
+    ],
+    "synonyms": [
+      {
+        "en": "blunder",
+        "bn": "বড় ভুল"
+      },
+      {
+        "en": "mistake",
+        "bn": "ভুল"
+      },
+      {
+        "en": "faux pas",
+        "bn": "সামাজিক শিষ্টাচারবিরুদ্ধ কাজ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "Gambit",
+        "bn": "সুবিধা আদায়ের কৌশল"
+      }
+    ],
+    "example": "The spokesperson made a gaffe during the live interview.",
+    "example_bn": "সরাসরি সাক্ষাৎকারে মুখপাত্রটি একটি বিব্রতকর ভুল করেছিলেন।",
+    "examples": [
+      "The spokesperson made a gaffe during the live interview. — সরাসরি সাক্ষাৎকারে মুখপাত্রটি একটি বিব্রতকর ভুল করেছিলেন।",
+      "At dinner, she explained that 'gaffe' means 'an embarrassing mistake, especially one made in public', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘gaffe’ শব্দটির অর্থ—বিব্রতকর ভুল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'gaffe' as 'an embarrassing mistake, especially one made in public' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘gaffe’ শব্দটি বিব্রতকর ভুল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "galvanize",
+    "pronunciation_bn": "গ্যালভানাইজ",
+    "pronunciation": "/ˈɡæl.və.naɪz/",
+    "no": 425,
+    "group": 17,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to shock or excite someone into taking action; to stimulate or energize",
+    "meaning_bn": [
+      "কাউকে দ্রুত সক্রিয় করে তোলা",
+      "উদ্দীপ্ত করা",
+      "নতুন উদ্যম সঞ্চার করা"
+    ],
+    "synonyms": [
+      {
+        "en": "spur",
+        "bn": "তাড়না দেওয়া"
+      },
+      {
+        "en": "mobilize",
+        "bn": "সংগঠিত করে সক্রিয় করা"
+      },
+      {
+        "en": "stimulate",
+        "bn": "উদ্দীপিত করা"
+      },
+      {
+        "en": "titillate",
+        "bn": "কৌতূহল জাগানো"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "discourage",
+        "bn": "নিরুৎসাহিত করা"
+      },
+      {
+        "en": "demoralize",
+        "bn": "মনোবল ভেঙে দেওয়া"
+      },
+      {
+        "en": "paralyze",
+        "bn": "অচল করে দেওয়া"
+      },
+      {
+        "en": "dispirit",
+        "bn": "হতাশ করা"
+      },
+      {
+        "en": "Daunt",
+        "bn": "ভীত করা"
+      },
+      {
+        "en": "dismay",
+        "bn": "হতাশা"
+      },
+      {
+        "en": "dissuade",
+        "bn": "কোনো কাজ থেকে বিরত থাকতে বোঝানো"
+      }
+    ],
+    "example": "The emergency galvanized volunteers into action.",
+    "example_bn": "জরুরি পরিস্থিতিটি স্বেচ্ছাসেবকদের দ্রুত কাজে নামতে উদ্দীপ্ত করেছিল।",
+    "examples": [
+      "The emergency galvanized volunteers into action. — জরুরি পরিস্থিতিটি স্বেচ্ছাসেবকদের দ্রুত কাজে নামতে উদ্দীপ্ত করেছিল।",
+      "At dinner, she explained that 'galvanize' means 'to shock or excite someone into taking action', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘galvanize’ শব্দটির অর্থ—কাউকে দ্রুত সক্রিয় করে তোলা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'galvanize' as 'to shock or excite someone into taking action' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘galvanize’ শব্দটি কাউকে দ্রুত সক্রিয় করে তোলা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

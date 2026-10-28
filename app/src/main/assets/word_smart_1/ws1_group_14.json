@@ -1,0 +1,1657 @@
+[
+  {
+    "word": "Emigrate",
+    "pronunciation_bn": "এমিগ্রেইট",
+    "pronunciation": "/ˈem.ɪ.ɡreɪt/",
+    "no": 326,
+    "group": 14,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to leave your own country to live permanently in another country",
+    "meaning_bn": [
+      "নিজ দেশ ছেড়ে অন্য দেশে স্থায়ীভাবে বসবাস করতে যাওয়া",
+      "দেশান্তরিত হওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "leave one's country",
+        "bn": "নিজ দেশ ত্যাগ করা"
+      },
+      {
+        "en": "relocate abroad",
+        "bn": "বিদেশে বসতি স্থাপন করা"
+      },
+      {
+        "en": "migrate",
+        "bn": "অভিবাসন করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "immigrate",
+        "bn": "অন্য দেশে এসে বসতি স্থাপন করা"
+      },
+      {
+        "en": "return",
+        "bn": "ফিরে আসা"
+      }
+    ],
+    "example": "Many people emigrate from their home countries in search of better opportunities.",
+    "example_bn": "উন্নত সুযোগের সন্ধানে অনেক মানুষ নিজ দেশ ছেড়ে অন্য দেশে স্থায়ীভাবে বসবাস করতে যান.",
+    "examples": [
+      "Many people emigrate from their home countries in search of better opportunities. — উন্নত সুযোগের সন্ধানে অনেক মানুষ নিজ দেশ ছেড়ে অন্য দেশে স্থায়ীভাবে বসবাস করতে যান.",
+      "At dinner, she explained that 'Emigrate' means 'to leave your own country to live permanently', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Emigrate’ শব্দটির অর্থ—নিজ দেশ ছেড়ে অন্য দেশে স্থায়ীভাবে বসবাস করতে যাওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Emigrate' as 'to leave your own country to live permanently' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Emigrate’ শব্দটি নিজ দেশ ছেড়ে অন্য দেশে স্থায়ীভাবে বসবাস করতে যাওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Eminent",
+    "pronunciation_bn": "এমিনেন্ট",
+    "pronunciation": "/ˈem.ɪ.nənt/",
+    "no": 327,
+    "group": 14,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "famous, respected, and important in a particular field",
+    "meaning_bn": [
+      "বিশিষ্ট",
+      "খ্যাতনামা",
+      "সম্মানিত"
+    ],
+    "synonyms": [
+      {
+        "en": "distinguished",
+        "bn": "বিশিষ্ট"
+      },
+      {
+        "en": "renowned",
+        "bn": "সুপরিচিত"
+      },
+      {
+        "en": "prominent",
+        "bn": "প্রখ্যাত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "unknown",
+        "bn": "অপরিচিত"
+      },
+      {
+        "en": "obscure",
+        "bn": "অখ্যাত"
+      }
+    ],
+    "example": "The eminent scientist was invited to deliver the keynote lecture.",
+    "example_bn": "বিশিষ্ট বিজ্ঞানীকে মূল বক্তব্য দেওয়ার জন্য আমন্ত্রণ জানানো হয়েছিল.",
+    "examples": [
+      "The eminent scientist was invited to deliver the keynote lecture. — বিশিষ্ট বিজ্ঞানীকে মূল বক্তব্য দেওয়ার জন্য আমন্ত্রণ জানানো হয়েছিল.",
+      "At dinner, she explained that 'Eminent' means 'famous, respected, and important in a particular field', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Eminent’ শব্দটির অর্থ—বিশিষ্ট—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Eminent' as 'famous, respected, and important in a particular field' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Eminent’ শব্দটি বিশিষ্ট অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Empirical",
+    "pronunciation_bn": "এমপিরিক্যাল",
+    "pronunciation": "/ɪmˈpɪr.ɪ.kəl/",
+    "no": 328,
+    "group": 14,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "based on what is experienced or observed rather than on theory alone",
+    "meaning_bn": [
+      "অভিজ্ঞতা বা পর্যবেক্ষণনির্ভর",
+      "প্রায়োগিক",
+      "পর্যবেক্ষণলব্ধ"
+    ],
+    "synonyms": [
+      {
+        "en": "observational",
+        "bn": "পর্যবেক্ষণভিত্তিক"
+      },
+      {
+        "en": "experimental",
+        "bn": "পরীক্ষণভিত্তিক"
+      },
+      {
+        "en": "evidence-based",
+        "bn": "প্রমাণনির্ভর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "theoretical",
+        "bn": "তাত্ত্বিক"
+      },
+      {
+        "en": "speculative",
+        "bn": "অনুমাননির্ভর"
+      },
+      {
+        "en": "Abstract",
+        "bn": "বিমূর্ত"
+      },
+      {
+        "en": "Hypothetical",
+        "bn": "অনুমানভিত্তিক"
+      }
+    ],
+    "example": "The researchers collected empirical evidence before drawing a conclusion.",
+    "example_bn": "গবেষকেরা সিদ্ধান্তে পৌঁছানোর আগে পর্যবেক্ষণলব্ধ প্রমাণ সংগ্রহ করেছিলেন.",
+    "examples": [
+      "The researchers collected empirical evidence before drawing a conclusion. — গবেষকেরা সিদ্ধান্তে পৌঁছানোর আগে পর্যবেক্ষণলব্ধ প্রমাণ সংগ্রহ করেছিলেন.",
+      "At dinner, she explained that 'Empirical' means 'based on what is experienced or observed rather', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Empirical’ শব্দটির অর্থ—অভিজ্ঞতা বা পর্যবেক্ষণনির্ভর—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Empirical' as 'based on what is experienced or observed rather' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Empirical’ শব্দটি অভিজ্ঞতা বা পর্যবেক্ষণনির্ভর অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Emulate",
+    "pronunciation_bn": "এমিউলেইট",
+    "pronunciation": "/ˈem.jə.leɪt/",
+    "no": 329,
+    "group": 14,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to try to equal or surpass someone by copying their achievements or behaviour",
+    "meaning_bn": [
+      "অনুকরণ করে সমকক্ষ হওয়ার চেষ্টা করা",
+      "অনুসরণ করে ছাড়িয়ে যাওয়ার চেষ্টা করা"
+    ],
+    "synonyms": [
+      {
+        "en": "imitate",
+        "bn": "অনুকরণ করা"
+      },
+      {
+        "en": "copy",
+        "bn": "নকল করা"
+      },
+      {
+        "en": "follow the example of",
+        "bn": "কারও দৃষ্টান্ত অনুসরণ করা"
+      },
+      {
+        "en": "clone",
+        "bn": "জিনগতভাবে অভিন্ন জীব"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "differ from",
+        "bn": "থেকে ভিন্ন হওয়া"
+      },
+      {
+        "en": "avoid copying",
+        "bn": "অনুকরণ এড়িয়ে চলা"
+      }
+    ],
+    "example": "Young athletes often try to emulate their sporting heroes.",
+    "example_bn": "তরুণ ক্রীড়াবিদেরা প্রায়ই তাঁদের প্রিয় ক্রীড়ানায়কদের অনুসরণ করে তাঁদের মতো হওয়ার চেষ্টা করেন.",
+    "examples": [
+      "Young athletes often try to emulate their sporting heroes. — তরুণ ক্রীড়াবিদেরা প্রায়ই তাঁদের প্রিয় ক্রীড়ানায়কদের অনুসরণ করে তাঁদের মতো হওয়ার চেষ্টা করেন.",
+      "At dinner, she explained that 'Emulate' means 'to try to equal or surpass someone', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Emulate’ শব্দটির অর্থ—অনুকরণ করে সমকক্ষ হওয়ার চেষ্টা করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Emulate' as 'to try to equal or surpass someone' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Emulate’ শব্দটি অনুকরণ করে সমকক্ষ হওয়ার চেষ্টা করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Encroach",
+    "pronunciation_bn": "ইনক্রোউচ",
+    "pronunciation": "/ɪnˈkrəʊtʃ/",
+    "no": 330,
+    "group": 14,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to gradually take more of someone else's rights, space, or property than is acceptable",
+    "meaning_bn": [
+      "ধীরে ধীরে অন্যের অধিকার বা সীমানা লঙ্ঘন করা",
+      "অনধিকার প্রবেশ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "intrude",
+        "bn": "অনধিকার প্রবেশ করা"
+      },
+      {
+        "en": "infringe",
+        "bn": "লঙ্ঘন করা"
+      },
+      {
+        "en": "trespass",
+        "bn": "অন্যের জমিতে অনধিকার প্রবেশ করা"
+      },
+      {
+        "en": "breach",
+        "bn": "লঙ্ঘন"
+      },
+      {
+        "en": "Transgress",
+        "bn": "সীমালঙ্ঘন করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "respect boundaries",
+        "bn": "সীমানার প্রতি শ্রদ্ধাশীল থাকা"
+      },
+      {
+        "en": "withdraw",
+        "bn": "সরে আসা"
+      },
+      {
+        "en": "Covenant",
+        "bn": "আনুষ্ঠানিক চুক্তি"
+      },
+      {
+        "en": "Recant",
+        "bn": "আগের বক্তব্য প্রত্যাহার করা"
+      },
+      {
+        "en": "secede",
+        "bn": "জোট বা সংগঠন থেকে আনুষ্ঠানিকভাবে বিচ্ছিন্ন হওয়া"
+      }
+    ],
+    "example": "The expanding city is beginning to encroach on nearby farmland.",
+    "example_bn": "বিস্তৃত হতে থাকা শহরটি আশপাশের কৃষিজমি দখল করতে শুরু করেছে.",
+    "examples": [
+      "The expanding city is beginning to encroach on nearby farmland. — বিস্তৃত হতে থাকা শহরটি আশপাশের কৃষিজমি দখল করতে শুরু করেছে.",
+      "At dinner, she explained that 'Encroach' means 'to gradually take more of someone else's rights', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Encroach’ শব্দটির অর্থ—ধীরে ধীরে অন্যের অধিকার বা সীমানা লঙ্ঘন করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Encroach' as 'to gradually take more of someone else's rights' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Encroach’ শব্দটি ধীরে ধীরে অন্যের অধিকার বা সীমানা লঙ্ঘন করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Endemic",
+    "pronunciation_bn": "এনডেমিক",
+    "pronunciation": "/enˈdem.ɪk/",
+    "no": 331,
+    "group": 14,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "regularly found in a particular place or among a particular group; (of a disease) constantly present in a place",
+    "meaning_bn": [
+      "নির্দিষ্ট অঞ্চল বা গোষ্ঠীতে স্বাভাবিকভাবে বিদ্যমান",
+      "স্থানীয়",
+      "কোনো অঞ্চলে স্থায়ীভাবে প্রচলিত (রোগ)"
+    ],
+    "synonyms": [
+      {
+        "en": "native",
+        "bn": "স্থানীয়"
+      },
+      {
+        "en": "indigenous",
+        "bn": "দেশজ"
+      },
+      {
+        "en": "prevalent",
+        "bn": "প্রচলিত"
+      },
+      {
+        "en": "Aboriginal",
+        "bn": "আদিবাসী"
+      },
+      {
+        "en": "rampant",
+        "bn": "ব্যাপকভাবে ছড়িয়ে পড়া"
+      },
+      {
+        "en": "rife",
+        "bn": "ব্যাপকভাবে ছড়িয়ে থাকা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "foreign",
+        "bn": "বিদেশি"
+      },
+      {
+        "en": "introduced",
+        "bn": "বাইরে থেকে আনা"
+      }
+    ],
+    "example": "Malaria is endemic in some tropical regions.",
+    "example_bn": "কিছু গ্রীষ্মমণ্ডলীয় অঞ্চলে ম্যালেরিয়া স্থায়ীভাবে প্রচলিত.",
+    "examples": [
+      "Malaria is endemic in some tropical regions. — কিছু গ্রীষ্মমণ্ডলীয় অঞ্চলে ম্যালেরিয়া স্থায়ীভাবে প্রচলিত.",
+      "At dinner, she explained that 'Endemic' means 'regularly found in a particular place or among', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Endemic’ শব্দটির অর্থ—নির্দিষ্ট অঞ্চল বা গোষ্ঠীতে স্বাভাবিকভাবে বিদ্যমান—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Endemic' as 'regularly found in a particular place or among' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Endemic’ শব্দটি নির্দিষ্ট অঞ্চল বা গোষ্ঠীতে স্বাভাবিকভাবে বিদ্যমান অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Enervate",
+    "pronunciation_bn": "এনারভেইট",
+    "pronunciation": "/ˈen.ə.veɪt/",
+    "no": 332,
+    "group": 14,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to make someone feel weak and lacking in energy",
+    "meaning_bn": [
+      "দুর্বল করে দেওয়া",
+      "শক্তি বা উদ্যমহীন করে দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "weaken",
+        "bn": "দুর্বল করা"
+      },
+      {
+        "en": "debilitate",
+        "bn": "শক্তিহীন করা"
+      },
+      {
+        "en": "exhaust",
+        "bn": "ক্লান্ত করে ফেলা"
+      },
+      {
+        "en": "undermine",
+        "bn": "দুর্বল করা"
+      },
+      {
+        "en": "deplete",
+        "bn": "অনেকটা কমিয়ে ফেলা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "strengthen",
+        "bn": "শক্তিশালী করা"
+      },
+      {
+        "en": "invigorate",
+        "bn": "সতেজ ও প্রাণবন্ত করা"
+      },
+      {
+        "en": "consolidate",
+        "bn": "একত্রিত করা"
+      },
+      {
+        "en": "Replenish",
+        "bn": "পুনরায় পূর্ণ করা"
+      }
+    ],
+    "example": "The prolonged heat enervated the workers.",
+    "example_bn": "দীর্ঘস্থায়ী গরম শ্রমিকদের শক্তিহীন করে ফেলেছিল.",
+    "examples": [
+      "The prolonged heat enervated the workers. — দীর্ঘস্থায়ী গরম শ্রমিকদের শক্তিহীন করে ফেলেছিল.",
+      "At dinner, she explained that 'Enervate' means 'to make someone feel weak and lacking', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Enervate’ শব্দটির অর্থ—দুর্বল করে দেওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Enervate' as 'to make someone feel weak and lacking' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Enervate’ শব্দটি দুর্বল করে দেওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Enfranchise",
+    "pronunciation_bn": "ইনফ্র্যানচাইজ",
+    "pronunciation": "/ɪnˈfræn.tʃaɪz/",
+    "no": 333,
+    "group": 14,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to give someone the right to vote or the rights of citizenship",
+    "meaning_bn": [
+      "ভোটাধিকার প্রদান করা",
+      "নাগরিক অধিকার প্রদান করা"
+    ],
+    "synonyms": [
+      {
+        "en": "empower",
+        "bn": "ক্ষমতায়ন করা"
+      },
+      {
+        "en": "give the vote to",
+        "bn": "ভোটাধিকার দেওয়া"
+      },
+      {
+        "en": "grant rights to",
+        "bn": "অধিকার প্রদান করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "disenfranchise",
+        "bn": "ভোটাধিকার কেড়ে নেওয়া"
+      },
+      {
+        "en": "deprive of rights",
+        "bn": "অধিকার থেকে বঞ্চিত করা"
+      }
+    ],
+    "example": "The reform helped enfranchise citizens who had previously been denied the vote.",
+    "example_bn": "সংস্কারটি আগে ভোটাধিকার থেকে বঞ্চিত নাগরিকদের ভোটাধিকার দিতে সাহায্য করেছিল.",
+    "examples": [
+      "The reform helped enfranchise citizens who had previously been denied the vote. — সংস্কারটি আগে ভোটাধিকার থেকে বঞ্চিত নাগরিকদের ভোটাধিকার দিতে সাহায্য করেছিল.",
+      "At dinner, she explained that 'Enfranchise' means 'to give someone the right to vote', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Enfranchise’ শব্দটির অর্থ—ভোটাধিকার প্রদান করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Enfranchise' as 'to give someone the right to vote' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Enfranchise’ শব্দটি ভোটাধিকার প্রদান করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Engender",
+    "pronunciation_bn": "ইনজেন্ডার",
+    "pronunciation": "/ɪnˈdʒen.də(r)/",
+    "no": 334,
+    "group": 14,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to cause or give rise to a feeling, situation, or condition",
+    "meaning_bn": [
+      "সৃষ্টি করা",
+      "জন্ম দেওয়া",
+      "উদ্ভব ঘটানো"
+    ],
+    "synonyms": [
+      {
+        "en": "cause",
+        "bn": "ঘটানো"
+      },
+      {
+        "en": "generate",
+        "bn": "সৃষ্টি করা"
+      },
+      {
+        "en": "produce",
+        "bn": "উৎপন্ন করা"
+      },
+      {
+        "en": "Beget",
+        "bn": "জন্ম দেওয়া"
+      },
+      {
+        "en": "Spawn",
+        "bn": "উৎপন্ন করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "prevent",
+        "bn": "প্রতিরোধ করা"
+      },
+      {
+        "en": "suppress",
+        "bn": "দমন করা"
+      },
+      {
+        "en": "Avert",
+        "bn": "প্রতিরোধ করা"
+      },
+      {
+        "en": "forestall",
+        "bn": "আগেভাগে ঠেকানো"
+      },
+      {
+        "en": "obviate",
+        "bn": "অপ্রয়োজনীয় করে তোলা"
+      },
+      {
+        "en": "Preclude",
+        "bn": "ঘটতে বাধা দেওয়া"
+      },
+      {
+        "en": "quell",
+        "bn": "দমন করা"
+      }
+    ],
+    "example": "Unfair treatment can engender resentment among employees.",
+    "example_bn": "অন্যায্য আচরণ কর্মীদের মধ্যে ক্ষোভের জন্ম দিতে পারে.",
+    "examples": [
+      "Unfair treatment can engender resentment among employees. — অন্যায্য আচরণ কর্মীদের মধ্যে ক্ষোভের জন্ম দিতে পারে.",
+      "At dinner, she explained that 'Engender' means 'to cause or give rise to a feeling', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Engender’ শব্দটির অর্থ—সৃষ্টি করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Engender' as 'to cause or give rise to a feeling' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Engender’ শব্দটি সৃষ্টি করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Enigma",
+    "pronunciation_bn": "ইনিগমা",
+    "pronunciation": "/ɪˈnɪɡ.mə/",
+    "no": 335,
+    "group": 14,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "someone or something that is mysterious and difficult to understand",
+    "meaning_bn": [
+      "রহস্য",
+      "দুর্বোধ্য ব্যক্তি বা বিষয়",
+      "ধাঁধা"
+    ],
+    "synonyms": [
+      {
+        "en": "mystery",
+        "bn": "রহস্য"
+      },
+      {
+        "en": "puzzle",
+        "bn": "ধাঁধা"
+      },
+      {
+        "en": "riddle",
+        "bn": "হেঁয়ালি"
+      },
+      {
+        "en": "conundrum",
+        "bn": "জটিল সমস্যা"
+      },
+      {
+        "en": "Paradox",
+        "bn": "আপাতদৃষ্টিতে স্ববিরোধী বক্তব্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "plain fact",
+        "bn": "সুস্পষ্ট সত্য"
+      },
+      {
+        "en": "certainty",
+        "bn": "নিশ্চয়তা"
+      },
+      {
+        "en": "conviction",
+        "bn": "দৃঢ় বিশ্বাস"
+      }
+    ],
+    "example": "Despite years of research, the ancient inscription remains an enigma.",
+    "example_bn": "বহু বছরের গবেষণার পরও প্রাচীন শিলালিপিটি রহস্যই রয়ে গেছে.",
+    "examples": [
+      "Despite years of research, the ancient inscription remains an enigma. — বহু বছরের গবেষণার পরও প্রাচীন শিলালিপিটি রহস্যই রয়ে গেছে.",
+      "At dinner, she explained that 'Enigma' means 'someone or something that is mysterious and difficult', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Enigma’ শব্দটির অর্থ—রহস্য—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Enigma' as 'someone or something that is mysterious and difficult' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Enigma’ শব্দটি রহস্য অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Enormity",
+    "pronunciation_bn": "ইনরমিটি",
+    "pronunciation": "/ɪˈnɔː.mə.ti/",
+    "no": 336,
+    "group": 14,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the great size or seriousness of something, especially something bad or shocking",
+    "meaning_bn": [
+      "ভয়াবহতা",
+      "গুরুতর অপরাধের মাত্রা",
+      "বিশালতা"
+    ],
+    "synonyms": [
+      {
+        "en": "magnitude",
+        "bn": "মাত্রা"
+      },
+      {
+        "en": "gravity",
+        "bn": "গুরুত্ব বা গাম্ভীর্য"
+      },
+      {
+        "en": "atrocity",
+        "bn": "নৃশংসতা"
+      },
+      {
+        "en": "Abomination",
+        "bn": "ঘৃণ্য বস্তু বা কাজ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "insignificance",
+        "bn": "নগণ্যতা"
+      },
+      {
+        "en": "triviality",
+        "bn": "তুচ্ছতা"
+      },
+      {
+        "en": "Levity",
+        "bn": "হালকা রসিকতা"
+      }
+    ],
+    "example": "Only later did they understand the enormity of the disaster.",
+    "example_bn": "পরে গিয়েই তারা দুর্যোগটির ভয়াবহতা উপলব্ধি করেছিল.",
+    "examples": [
+      "Only later did they understand the enormity of the disaster. — পরে গিয়েই তারা দুর্যোগটির ভয়াবহতা উপলব্ধি করেছিল.",
+      "At dinner, she explained that 'Enormity' means 'the great size or seriousness of something, especially', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Enormity’ শব্দটির অর্থ—ভয়াবহতা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Enormity' as 'the great size or seriousness of something, especially' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Enormity’ শব্দটি ভয়াবহতা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Ephemeral",
+    "pronunciation_bn": "ইফেমারাল",
+    "pronunciation": "/ɪˈfem.ər.əl/",
+    "no": 337,
+    "group": 14,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "lasting for only a short time",
+    "meaning_bn": [
+      "ক্ষণস্থায়ী",
+      "স্বল্পস্থায়ী",
+      "ক্ষণিক"
+    ],
+    "synonyms": [
+      {
+        "en": "fleeting",
+        "bn": "ক্ষণিক"
+      },
+      {
+        "en": "transient",
+        "bn": "অস্থায়ী"
+      },
+      {
+        "en": "short-lived",
+        "bn": "স্বল্পস্থায়ী"
+      },
+      {
+        "en": "Evanescent",
+        "bn": "ক্ষণস্থায়ী"
+      },
+      {
+        "en": "temporal",
+        "bn": "সময়সংক্রান্ত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "lasting",
+        "bn": "দীর্ঘস্থায়ী"
+      },
+      {
+        "en": "permanent",
+        "bn": "স্থায়ী"
+      },
+      {
+        "en": "enduring",
+        "bn": "টেকসই"
+      },
+      {
+        "en": "Perennial",
+        "bn": "দীর্ঘস্থায়ী"
+      },
+      {
+        "en": "Chronic",
+        "bn": "দীর্ঘস্থায়ী"
+      },
+      {
+        "en": "Ineradicable",
+        "bn": "মোছা যায় না এমন"
+      },
+      {
+        "en": "Interminable",
+        "bn": "শেষহীন বলে মনে হয় এমন"
+      }
+    ],
+    "example": "Online fame can be ephemeral.",
+    "example_bn": "অনলাইনে খ্যাতি ক্ষণস্থায়ী হতে পারে.",
+    "examples": [
+      "Online fame can be ephemeral. — অনলাইনে খ্যাতি ক্ষণস্থায়ী হতে পারে.",
+      "At dinner, she explained that 'Ephemeral' means 'lasting for only a short time', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Ephemeral’ শব্দটির অর্থ—ক্ষণস্থায়ী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Ephemeral' as 'lasting for only a short time' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Ephemeral’ শব্দটি ক্ষণস্থায়ী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Epigram",
+    "pronunciation_bn": "এপিগ্র্যাম",
+    "pronunciation": "/ˈep.ɪ.ɡræm/",
+    "no": 338,
+    "group": 14,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a short saying or poem that expresses an idea cleverly and often humorously",
+    "meaning_bn": [
+      "বুদ্ধিদীপ্ত সংক্ষিপ্ত উক্তি",
+      "চমৎকার বা ব্যঙ্গাত্মক ছোট কবিতা"
+    ],
+    "synonyms": [
+      {
+        "en": "witty saying",
+        "bn": "বুদ্ধিদীপ্ত উক্তি"
+      },
+      {
+        "en": "aphorism",
+        "bn": "নীতিবাক্য"
+      },
+      {
+        "en": "quip",
+        "bn": "চটুল মন্তব্য"
+      },
+      {
+        "en": "Dictum",
+        "bn": "নীতিবাক্য"
+      },
+      {
+        "en": "Axiom",
+        "bn": "স্বতঃসিদ্ধ সত্য"
+      },
+      {
+        "en": "Maxim",
+        "bn": "সাধারণ সত্য, আচরণবিধি বা নীতি প্রকাশকারী সংক্ষিপ্ত উক্তি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "long-winded statement",
+        "bn": "দীর্ঘ ও কথাবহুল বক্তব্য"
+      },
+      {
+        "en": "rambling discourse",
+        "bn": "এলোমেলো দীর্ঘ আলোচনা"
+      }
+    ],
+    "example": "The writer was admired for her memorable epigrams.",
+    "example_bn": "লেখিকা তাঁর স্মরণীয় বুদ্ধিদীপ্ত উক্তিগুলোর জন্য প্রশংসিত হয়েছিলেন.",
+    "examples": [
+      "The writer was admired for her memorable epigrams. — লেখিকা তাঁর স্মরণীয় বুদ্ধিদীপ্ত উক্তিগুলোর জন্য প্রশংসিত হয়েছিলেন.",
+      "At dinner, she explained that 'Epigram' means 'a short saying or poem that expresses', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Epigram’ শব্দটির অর্থ—বুদ্ধিদীপ্ত সংক্ষিপ্ত উক্তি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Epigram' as 'a short saying or poem that expresses' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Epigram’ শব্দটি বুদ্ধিদীপ্ত সংক্ষিপ্ত উক্তি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Epitome",
+    "pronunciation_bn": "ইপিটোমি",
+    "pronunciation": "/ɪˈpɪt.ə.mi/",
+    "no": 339,
+    "group": 14,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a perfect example of a particular quality, or a brief summary of a larger work",
+    "meaning_bn": [
+      "কোনো গুণের আদর্শ উদাহরণ বা মূর্ত প্রতীক",
+      "সারসংক্ষেপ"
+    ],
+    "synonyms": [
+      {
+        "en": "embodiment",
+        "bn": "মূর্ত প্রতীক"
+      },
+      {
+        "en": "quintessence",
+        "bn": "সারসত্তা"
+      },
+      {
+        "en": "summary",
+        "bn": "সারসংক্ষেপ"
+      },
+      {
+        "en": "paragon",
+        "bn": "শ্রেষ্ঠতার আদর্শ"
+      },
+      {
+        "en": "Apotheosis",
+        "bn": "চূড়ান্ত উৎকর্ষ"
+      },
+      {
+        "en": "Compendium",
+        "bn": "সংক্ষিপ্ত তথ্যসংকলন"
+      },
+      {
+        "en": "Archetype",
+        "bn": "আদিরূপ"
+      },
+      {
+        "en": "Incarnation",
+        "bn": "মূর্ত প্রতীক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "opposite",
+        "bn": "বিপরীত"
+      },
+      {
+        "en": "antithesis",
+        "bn": "পরিপূর্ণ বিপরীত"
+      },
+      {
+        "en": "converse",
+        "bn": "বিপরীত বিষয়"
+      }
+    ],
+    "example": "Her calm response was the epitome of professionalism.",
+    "example_bn": "তাঁর শান্ত প্রতিক্রিয়া ছিল পেশাদারত্বের আদর্শ উদাহরণ.",
+    "examples": [
+      "Her calm response was the epitome of professionalism. — তাঁর শান্ত প্রতিক্রিয়া ছিল পেশাদারত্বের আদর্শ উদাহরণ.",
+      "At dinner, she explained that 'Epitome' means 'a perfect example of a particular quality', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Epitome’ শব্দটির অর্থ—কোনো গুণের আদর্শ উদাহরণ বা মূর্ত প্রতীক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Epitome' as 'a perfect example of a particular quality' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Epitome’ শব্দটি কোনো গুণের আদর্শ উদাহরণ বা মূর্ত প্রতীক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Equanimity",
+    "pronunciation_bn": "ইকুয়ানিমিটি",
+    "pronunciation": "/ˌek.wəˈnɪm.ə.ti/",
+    "no": 340,
+    "group": 14,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a calm mental state, especially in a difficult situation",
+    "meaning_bn": [
+      "মানসিক স্থিরতা",
+      "প্রতিকূল পরিস্থিতিতেও শান্ত থাকার ক্ষমতা",
+      "সমভাব"
+    ],
+    "synonyms": [
+      {
+        "en": "composure",
+        "bn": "মানসিক স্থিরতা"
+      },
+      {
+        "en": "calmness",
+        "bn": "শান্তভাব"
+      },
+      {
+        "en": "poise",
+        "bn": "সংযত স্থিরতা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "agitation",
+        "bn": "অস্থিরতা"
+      },
+      {
+        "en": "distress",
+        "bn": "মানসিক বিপর্যয়"
+      },
+      {
+        "en": "anxiety",
+        "bn": "উদ্বেগ"
+      },
+      {
+        "en": "Anguish",
+        "bn": "তীব্র যন্ত্রণা"
+      },
+      {
+        "en": "consternation",
+        "bn": "আতঙ্ক"
+      },
+      {
+        "en": "Trepidation",
+        "bn": "ভয়মিশ্রিত উদ্বেগ"
+      },
+      {
+        "en": "Affliction",
+        "bn": "দুর্দশা"
+      },
+      {
+        "en": "Angst",
+        "bn": "উদ্বেগ"
+      }
+    ],
+    "example": "She accepted the unexpected result with equanimity.",
+    "example_bn": "তিনি অপ্রত্যাশিত ফলটি মানসিক স্থিরতার সঙ্গে গ্রহণ করেছিলেন.",
+    "examples": [
+      "She accepted the unexpected result with equanimity. — তিনি অপ্রত্যাশিত ফলটি মানসিক স্থিরতার সঙ্গে গ্রহণ করেছিলেন.",
+      "At dinner, she explained that 'Equanimity' means 'a calm mental state, especially in a difficult', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Equanimity’ শব্দটির অর্থ—মানসিক স্থিরতা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Equanimity' as 'a calm mental state, especially in a difficult' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Equanimity’ শব্দটি মানসিক স্থিরতা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Equitable",
+    "pronunciation_bn": "একুইটেবল",
+    "pronunciation": "/ˈek.wɪ.tə.bəl/",
+    "no": 341,
+    "group": 14,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "fair and impartial",
+    "meaning_bn": [
+      "ন্যায়সংগত",
+      "নিরপেক্ষ",
+      "ন্যায্য"
+    ],
+    "synonyms": [
+      {
+        "en": "fair",
+        "bn": "ন্যায্য"
+      },
+      {
+        "en": "just",
+        "bn": "ন্যায়সঙ্গত"
+      },
+      {
+        "en": "impartial",
+        "bn": "নিরপেক্ষ"
+      },
+      {
+        "en": "Disinterested",
+        "bn": "নিরপেক্ষ"
+      },
+      {
+        "en": "Egalitarian",
+        "bn": "সাম্যবাদী"
+      },
+      {
+        "en": "dispassionate",
+        "bn": "আবেগমুক্ত"
+      },
+      {
+        "en": "objective",
+        "bn": "নিরপেক্ষ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "unfair",
+        "bn": "অন্যায্য"
+      },
+      {
+        "en": "biased",
+        "bn": "পক্ষপাতদুষ্ট"
+      },
+      {
+        "en": "inequitable",
+        "bn": "অন্যায্য"
+      },
+      {
+        "en": "Invidious",
+        "bn": "ক্ষোভ সৃষ্টিকারী"
+      },
+      {
+        "en": "Partisan",
+        "bn": "কোনো পক্ষ বা দলের একনিষ্ঠ সমর্থক"
+      },
+      {
+        "en": "Autocratic",
+        "bn": "একনায়কতান্ত্রিক"
+      },
+      {
+        "en": "Unconscionable",
+        "bn": "বিবেকবর্জিত"
+      }
+    ],
+    "example": "The committee proposed an equitable distribution of resources.",
+    "example_bn": "কমিটি সম্পদের ন্যায়সংগত বণ্টনের প্রস্তাব দিয়েছিল.",
+    "examples": [
+      "The committee proposed an equitable distribution of resources. — কমিটি সম্পদের ন্যায়সংগত বণ্টনের প্রস্তাব দিয়েছিল.",
+      "At dinner, she explained that 'Equitable' means 'fair and impartial', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Equitable’ শব্দটির অর্থ—ন্যায়সংগত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Equitable' as 'fair and impartial' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Equitable’ শব্দটি ন্যায়সংগত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Equivocal",
+    "pronunciation_bn": "ইকুইভোকাল",
+    "pronunciation": "/ɪˈkwɪv.ə.kəl/",
+    "no": 342,
+    "group": 14,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "unclear or having more than one possible meaning or interpretation",
+    "meaning_bn": [
+      "দ্ব্যর্থক",
+      "অস্পষ্ট",
+      "একাধিকভাবে ব্যাখ্যাযোগ্য"
+    ],
+    "synonyms": [
+      {
+        "en": "ambiguous",
+        "bn": "দ্ব্যর্থক"
+      },
+      {
+        "en": "unclear",
+        "bn": "অস্পষ্ট"
+      },
+      {
+        "en": "vague",
+        "bn": "অসুনির্দিষ্ট"
+      },
+      {
+        "en": "Elliptical",
+        "bn": "ইঙ্গিতপূর্ণ ও পরোক্ষ"
+      },
+      {
+        "en": "nebulous",
+        "bn": "অস্পষ্ট"
+      },
+      {
+        "en": "Obscure",
+        "bn": "অস্পষ্ট"
+      },
+      {
+        "en": "Arcane",
+        "bn": "অল্প কয়েকজনের জানা"
+      },
+      {
+        "en": "Cryptic",
+        "bn": "রহস্যময়"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "clear",
+        "bn": "স্পষ্ট"
+      },
+      {
+        "en": "unambiguous",
+        "bn": "দ্ব্যর্থহীন"
+      },
+      {
+        "en": "unequivocal",
+        "bn": "সুস্পষ্ট"
+      },
+      {
+        "en": "Categorical",
+        "bn": "নিঃশর্ত"
+      },
+      {
+        "en": "Explicit",
+        "bn": "সুস্পষ্ট"
+      },
+      {
+        "en": "Absolute",
+        "bn": "সম্পূর্ণ"
+      },
+      {
+        "en": "Coherent",
+        "bn": "সুসংগত"
+      },
+      {
+        "en": "Incisive",
+        "bn": "তীক্ষ্ণ বিশ্লেষণী"
+      }
+    ],
+    "example": "The spokesperson gave an equivocal answer that satisfied no one.",
+    "example_bn": "মুখপাত্র এমন একটি দ্ব্যর্থক উত্তর দিলেন, যা কাউকেই সন্তুষ্ট করতে পারেনি.",
+    "examples": [
+      "The spokesperson gave an equivocal answer that satisfied no one. — মুখপাত্র এমন একটি দ্ব্যর্থক উত্তর দিলেন, যা কাউকেই সন্তুষ্ট করতে পারেনি.",
+      "At dinner, she explained that 'Equivocal' means 'unclear or having more than one possible meaning', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Equivocal’ শব্দটির অর্থ—দ্ব্যর্থক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Equivocal' as 'unclear or having more than one possible meaning' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Equivocal’ শব্দটি দ্ব্যর্থক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Erudite",
+    "pronunciation_bn": "এরুডাইট",
+    "pronunciation": "/ˈer.ʊ.daɪt/",
+    "no": 343,
+    "group": 14,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "having or showing great knowledge, especially from reading and study",
+    "meaning_bn": [
+      "পাণ্ডিত্যপূর্ণ",
+      "বিদ্বান",
+      "বহুপঠিত ও জ্ঞানসমৃদ্ধ"
+    ],
+    "synonyms": [
+      {
+        "en": "learned",
+        "bn": "পণ্ডিত"
+      },
+      {
+        "en": "scholarly",
+        "bn": "পাণ্ডিত্যপূর্ণ"
+      },
+      {
+        "en": "knowledgeable",
+        "bn": "জ্ঞানসমৃদ্ধ"
+      },
+      {
+        "en": "conversant",
+        "bn": "কোনো বিষয়ে পরিচিত ও জ্ঞানসম্পন্ন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "ignorant",
+        "bn": "অজ্ঞ"
+      },
+      {
+        "en": "uninformed",
+        "bn": "অবগত নয় এমন"
+      },
+      {
+        "en": "uneducated",
+        "bn": "অশিক্ষিত"
+      },
+      {
+        "en": "benighted",
+        "bn": "অজ্ঞ"
+      },
+      {
+        "en": "Innate",
+        "bn": "জন্মগত"
+      }
+    ],
+    "example": "The erudite professor answered questions on several ancient languages.",
+    "example_bn": "পাণ্ডিত্যে সমৃদ্ধ অধ্যাপক কয়েকটি প্রাচীন ভাষা নিয়ে প্রশ্নের উত্তর দিলেন.",
+    "examples": [
+      "The erudite professor answered questions on several ancient languages. — পাণ্ডিত্যে সমৃদ্ধ অধ্যাপক কয়েকটি প্রাচীন ভাষা নিয়ে প্রশ্নের উত্তর দিলেন.",
+      "At dinner, she explained that 'Erudite' means 'having or showing great knowledge, especially from reading', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Erudite’ শব্দটির অর্থ—পাণ্ডিত্যপূর্ণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Erudite' as 'having or showing great knowledge, especially from reading' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Erudite’ শব্দটি পাণ্ডিত্যপূর্ণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Esoteric",
+    "pronunciation_bn": "এসোটেরিক",
+    "pronunciation": "/ˌes.əˈter.ɪk/",
+    "no": 344,
+    "group": 14,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "understood or intended by only a small group of people with specialized knowledge",
+    "meaning_bn": [
+      "দুর্বোধ্য",
+      "বিশেষজ্ঞ বা সীমিত গোষ্ঠীর বোধগম্য",
+      "গূঢ়"
+    ],
+    "synonyms": [
+      {
+        "en": "arcane",
+        "bn": "গূঢ়"
+      },
+      {
+        "en": "obscure",
+        "bn": "দুর্বোধ্য"
+      },
+      {
+        "en": "specialized",
+        "bn": "বিশেষায়িত"
+      },
+      {
+        "en": "occult",
+        "bn": "অতিপ্রাকৃত বা গুপ্তবিদ্যা-সম্পর্কিত"
+      },
+      {
+        "en": "rarefied",
+        "bn": "অতি বিশেষায়িত"
+      },
+      {
+        "en": "Abstruse",
+        "bn": "দুর্বোধ্য"
+      },
+      {
+        "en": "Cryptic",
+        "bn": "রহস্যময়"
+      },
+      {
+        "en": "Equivocal",
+        "bn": "দ্ব্যর্থক"
+      },
+      {
+        "en": "Recondite",
+        "bn": "দুর্বোধ্য"
+      },
+      {
+        "en": "Ambiguous",
+        "bn": "দ্ব্যর্থক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "accessible",
+        "bn": "সহজে বোধগম্য"
+      },
+      {
+        "en": "commonplace",
+        "bn": "সাধারণ"
+      },
+      {
+        "en": "widely understood",
+        "bn": "সবার কাছে বোধগম্য"
+      },
+      {
+        "en": "Banal",
+        "bn": "গতানুগতিক"
+      },
+      {
+        "en": "Blatant",
+        "bn": "নির্লজ্জভাবে স্পষ্ট"
+      },
+      {
+        "en": "Categorical",
+        "bn": "নিঃশর্ত"
+      },
+      {
+        "en": "conspicuous",
+        "bn": "সহজে চোখে পড়ে এমন"
+      },
+      {
+        "en": "Limpid",
+        "bn": "স্বচ্ছ"
+      }
+    ],
+    "example": "The article uses esoteric terminology that most readers will not understand.",
+    "example_bn": "প্রবন্ধটিতে এমন দুর্বোধ্য পরিভাষা ব্যবহার করা হয়েছে, যা অধিকাংশ পাঠক বুঝবেন না.",
+    "examples": [
+      "The article uses esoteric terminology that most readers will not understand. — প্রবন্ধটিতে এমন দুর্বোধ্য পরিভাষা ব্যবহার করা হয়েছে, যা অধিকাংশ পাঠক বুঝবেন না.",
+      "At dinner, she explained that 'Esoteric' means 'understood or intended by only a small group', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Esoteric’ শব্দটির অর্থ—দুর্বোধ্য—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Esoteric' as 'understood or intended by only a small group' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Esoteric’ শব্দটি দুর্বোধ্য অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Espouse",
+    "pronunciation_bn": "ইস্পাউজ",
+    "pronunciation": "/ɪˈspaʊz/",
+    "no": 345,
+    "group": 14,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to publicly support or adopt an idea, belief, or cause",
+    "meaning_bn": [
+      "সমর্থন করা",
+      "কোনো মতবাদ বা আদর্শ গ্রহণ করা",
+      "পক্ষে অবস্থান নেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "advocate",
+        "bn": "পক্ষে কথা বলা"
+      },
+      {
+        "en": "support",
+        "bn": "সমর্থন করা"
+      },
+      {
+        "en": "adopt",
+        "bn": "গ্রহণ করা"
+      },
+      {
+        "en": "champion",
+        "bn": "সমর্থন করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "oppose",
+        "bn": "বিরোধিতা করা"
+      },
+      {
+        "en": "reject",
+        "bn": "প্রত্যাখ্যান করা"
+      },
+      {
+        "en": "renounce",
+        "bn": "ত্যাগ করা"
+      },
+      {
+        "en": "Abdicate",
+        "bn": "সিংহাসন ত্যাগ করা"
+      },
+      {
+        "en": "Abjure",
+        "bn": "আনুষ্ঠানিকভাবে ত্যাগ করা"
+      },
+      {
+        "en": "Abnegate",
+        "bn": "নিজের ইচ্ছা বা অধিকার ত্যাগ করা"
+      },
+      {
+        "en": "disclaim",
+        "bn": "দায়িত্ব অস্বীকার করা"
+      },
+      {
+        "en": "Disparage",
+        "bn": "তুচ্ছতাচ্ছিল্য করা"
+      }
+    ],
+    "example": "She continues to espouse equal access to education.",
+    "example_bn": "তিনি এখনো শিক্ষায় সমান সুযোগের পক্ষে কথা বলেন.",
+    "examples": [
+      "She continues to espouse equal access to education. — তিনি এখনো শিক্ষায় সমান সুযোগের পক্ষে কথা বলেন.",
+      "At dinner, she explained that 'Espouse' means 'to publicly support or adopt an idea, belief', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Espouse’ শব্দটির অর্থ—সমর্থন করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Espouse' as 'to publicly support or adopt an idea, belief' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Espouse’ শব্দটি সমর্থন করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Ethereal",
+    "pronunciation_bn": "ইথিরিয়াল",
+    "pronunciation": "/ɪˈθɪə.ri.əl/",
+    "no": 346,
+    "group": 14,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "extremely delicate, light, or beautiful in a way that seems otherworldly",
+    "meaning_bn": [
+      "অতিলৌকিক",
+      "স্বর্গীয়",
+      "অতি সূক্ষ্ম ও অপার্থিব সুন্দর"
+    ],
+    "synonyms": [
+      {
+        "en": "delicate",
+        "bn": "সূক্ষ্ম"
+      },
+      {
+        "en": "airy",
+        "bn": "হালকা ও বাতাসময়"
+      },
+      {
+        "en": "heavenly",
+        "bn": "স্বর্গীয়"
+      },
+      {
+        "en": "exquisite",
+        "bn": "অসাধারণ সুন্দর"
+      },
+      {
+        "en": "Subtle",
+        "bn": "সূক্ষ্ম"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "earthly",
+        "bn": "পার্থিব"
+      },
+      {
+        "en": "coarse",
+        "bn": "স্থূল বা রুক্ষ"
+      },
+      {
+        "en": "mundane",
+        "bn": "সাধারণ জাগতিক"
+      },
+      {
+        "en": "Banal",
+        "bn": "গতানুগতিক"
+      },
+      {
+        "en": "Pedestrian",
+        "bn": "গতানুগতিক"
+      },
+      {
+        "en": "Prosaic",
+        "bn": "সাদামাটা"
+      }
+    ],
+    "example": "An ethereal melody drifted through the quiet hall.",
+    "example_bn": "নীরব হলঘরজুড়ে এক অপার্থিব সুর ভেসে বেড়াচ্ছিল.",
+    "examples": [
+      "An ethereal melody drifted through the quiet hall. — নীরব হলঘরজুড়ে এক অপার্থিব সুর ভেসে বেড়াচ্ছিল.",
+      "At dinner, she explained that 'Ethereal' means 'extremely delicate, light, or beautiful in a way', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Ethereal’ শব্দটির অর্থ—অতিলৌকিক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Ethereal' as 'extremely delicate, light, or beautiful in a way' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Ethereal’ শব্দটি অতিলৌকিক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Euphemism",
+    "pronunciation_bn": "ইউফেমিজম",
+    "pronunciation": "/ˈjuː.fə.mɪ.zəm/",
+    "no": 347,
+    "group": 14,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a mild or indirect expression used instead of one considered harsh, unpleasant, or offensive",
+    "meaning_bn": [
+      "কঠোর বা অপ্রীতিকর কথার পরিবর্তে ব্যবহৃত কোমল/পরোক্ষ অভিব্যক্তি",
+      "মৃদুভাষী বিকল্প শব্দপ্রয়োগ"
+    ],
+    "synonyms": [
+      {
+        "en": "mild expression",
+        "bn": "কোমল অভিব্যক্তি"
+      },
+      {
+        "en": "indirect expression",
+        "bn": "পরোক্ষ অভিব্যক্তি"
+      },
+      {
+        "en": "polite term",
+        "bn": "ভদ্র বিকল্প শব্দ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "dysphemism",
+        "bn": "ইচ্ছাকৃতভাবে কঠোর বা অপমানজনক শব্দপ্রয়োগ"
+      },
+      {
+        "en": "blunt expression",
+        "bn": "রূঢ় সরাসরি অভিব্যক্তি"
+      }
+    ],
+    "example": "“Passed away” is a euphemism for “died.”",
+    "example_bn": "“মারা গেছেন” কথাটির বদলে “প্রয়াত হয়েছেন” বলা একটি কোমল বিকল্প শব্দপ্রয়োগ.",
+    "examples": [
+      "“Passed away” is a euphemism for “died.” — “মারা গেছেন” কথাটির বদলে “প্রয়াত হয়েছেন” বলা একটি কোমল বিকল্প শব্দপ্রয়োগ.",
+      "At dinner, she explained that 'Euphemism' means 'a mild or indirect expression used instead', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Euphemism’ শব্দটির অর্থ—কঠোর বা অপ্রীতিকর কথার পরিবর্তে ব্যবহৃত কোমল/পরোক্ষ অভিব্যক্তি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Euphemism' as 'a mild or indirect expression used instead' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Euphemism’ শব্দটি কঠোর বা অপ্রীতিকর কথার পরিবর্তে ব্যবহৃত কোমল/পরোক্ষ অভিব্যক্তি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Evanescent",
+    "pronunciation_bn": "এভানেসেন্ট",
+    "pronunciation": "/ˌev.əˈnes.ənt/",
+    "no": 348,
+    "group": 14,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "quickly fading or disappearing",
+    "meaning_bn": [
+      "ক্ষণস্থায়ী",
+      "দ্রুত মিলিয়ে যায় এমন",
+      "অল্পক্ষণ স্থায়ী"
+    ],
+    "synonyms": [
+      {
+        "en": "fleeting",
+        "bn": "ক্ষণিক"
+      },
+      {
+        "en": "vanishing",
+        "bn": "অদৃশ্য হয়ে যাচ্ছে এমন"
+      },
+      {
+        "en": "transient",
+        "bn": "অস্থায়ী"
+      },
+      {
+        "en": "Ephemeral",
+        "bn": "ক্ষণস্থায়ী"
+      },
+      {
+        "en": "temporal",
+        "bn": "সময়সংক্রান্ত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "lasting",
+        "bn": "দীর্ঘস্থায়ী"
+      },
+      {
+        "en": "permanent",
+        "bn": "স্থায়ী"
+      },
+      {
+        "en": "enduring",
+        "bn": "টেকসই"
+      },
+      {
+        "en": "Chronic",
+        "bn": "দীর্ঘস্থায়ী"
+      },
+      {
+        "en": "Ineradicable",
+        "bn": "মোছা যায় না এমন"
+      },
+      {
+        "en": "Perennial",
+        "bn": "দীর্ঘস্থায়ী"
+      }
+    ],
+    "example": "The beauty of the evening light was evanescent.",
+    "example_bn": "সন্ধ্যার আলোর সৌন্দর্য ছিল ক্ষণস্থায়ী.",
+    "examples": [
+      "The beauty of the evening light was evanescent. — সন্ধ্যার আলোর সৌন্দর্য ছিল ক্ষণস্থায়ী.",
+      "At dinner, she explained that 'Evanescent' means 'quickly fading or disappearing', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Evanescent’ শব্দটির অর্থ—ক্ষণস্থায়ী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Evanescent' as 'quickly fading or disappearing' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Evanescent’ শব্দটি ক্ষণস্থায়ী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Exacerbate",
+    "pronunciation_bn": "ইগজ্যাসারবেইট",
+    "pronunciation": "/ɪɡˈzæs.ə.beɪt/",
+    "no": 349,
+    "group": 14,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to make a bad situation, problem, or feeling worse",
+    "meaning_bn": [
+      "আরও খারাপ করে তোলা",
+      "তীব্রতর করা",
+      "অবনতি ঘটানো"
+    ],
+    "synonyms": [
+      {
+        "en": "aggravate",
+        "bn": "আরও খারাপ করা"
+      },
+      {
+        "en": "worsen",
+        "bn": "অবনতি ঘটানো"
+      },
+      {
+        "en": "intensify",
+        "bn": "তীব্রতর করা"
+      },
+      {
+        "en": "Degenerate",
+        "bn": "অবনতি হওয়া"
+      },
+      {
+        "en": "fester",
+        "bn": "ক্ষতে পুঁজ জমা"
+      },
+      {
+        "en": "fuel",
+        "bn": "জ্বালানি"
+      },
+      {
+        "en": "Vex",
+        "bn": "বিরক্ত করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "alleviate",
+        "bn": "লাঘব করা"
+      },
+      {
+        "en": "ease",
+        "bn": "কমিয়ে আনা"
+      },
+      {
+        "en": "ameliorate",
+        "bn": "উন্নত করা"
+      },
+      {
+        "en": "Assuage",
+        "bn": "প্রশমিত করা"
+      },
+      {
+        "en": "Abate",
+        "bn": "কমে যাওয়া"
+      },
+      {
+        "en": "Mitigate",
+        "bn": "কোনো কিছুর তীব্রতা, ক্ষতি বা কষ্ট কমানো"
+      },
+      {
+        "en": "Palliate",
+        "bn": "উপশম করা"
+      },
+      {
+        "en": "redress",
+        "bn": "প্রতিকার করা"
+      }
+    ],
+    "example": "Lack of sleep can exacerbate the effects of stress.",
+    "example_bn": "ঘুমের অভাব মানসিক চাপের প্রভাব আরও বাড়িয়ে দিতে পারে.",
+    "examples": [
+      "Lack of sleep can exacerbate the effects of stress. — ঘুমের অভাব মানসিক চাপের প্রভাব আরও বাড়িয়ে দিতে পারে.",
+      "At dinner, she explained that 'Exacerbate' means 'to make a bad situation, problem, or feeling', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Exacerbate’ শব্দটির অর্থ—আরও খারাপ করে তোলা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Exacerbate' as 'to make a bad situation, problem, or feeling' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Exacerbate’ শব্দটি আরও খারাপ করে তোলা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Exacting",
+    "pronunciation_bn": "ইগজ্যাকটিং",
+    "pronunciation": "/ɪɡˈzæk.tɪŋ/",
+    "no": 350,
+    "group": 14,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "demanding a great deal of effort, care, or attention",
+    "meaning_bn": [
+      "অত্যন্ত পরিশ্রমসাপেক্ষ",
+      "কঠোর মানদণ্ডসম্পন্ন",
+      "খুব বেশি যত্ন বা মনোযোগ দাবি করে এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "demanding",
+        "bn": "কঠিন ও বেশি দাবি করে এমন"
+      },
+      {
+        "en": "rigorous",
+        "bn": "কঠোর"
+      },
+      {
+        "en": "arduous",
+        "bn": "দুরূহ"
+      },
+      {
+        "en": "Stringent",
+        "bn": "কঠোর"
+      },
+      {
+        "en": "Onerous",
+        "bn": "দুরূহ"
+      },
+      {
+        "en": "Comprehensive",
+        "bn": "সর্বাঙ্গীণ"
+      },
+      {
+        "en": "draconian",
+        "bn": "অত্যন্ত কঠোর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "easy",
+        "bn": "সহজ"
+      },
+      {
+        "en": "undemanding",
+        "bn": "কম পরিশ্রমসাপেক্ষ"
+      },
+      {
+        "en": "lenient",
+        "bn": "শিথিল"
+      },
+      {
+        "en": "Lax",
+        "bn": "শিথিল"
+      },
+      {
+        "en": "Indulgent",
+        "bn": "প্রশ্রয়দাতা"
+      }
+    ],
+    "example": "The job requires exacting attention to detail.",
+    "example_bn": "কাজটির জন্য খুঁটিনাটির প্রতি অত্যন্ত সতর্ক মনোযোগ প্রয়োজন.",
+    "examples": [
+      "The job requires exacting attention to detail. — কাজটির জন্য খুঁটিনাটির প্রতি অত্যন্ত সতর্ক মনোযোগ প্রয়োজন.",
+      "At dinner, she explained that 'Exacting' means 'demanding a great deal of effort, care', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Exacting’ শব্দটির অর্থ—অত্যন্ত পরিশ্রমসাপেক্ষ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Exacting' as 'demanding a great deal of effort, care' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Exacting’ শব্দটি অত্যন্ত পরিশ্রমসাপেক্ষ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

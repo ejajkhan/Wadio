@@ -1,0 +1,1752 @@
+[
+  {
+    "word": "Prodigious",
+    "pronunciation_bn": "প্রডিজাস",
+    "pronunciation": "/prəˈdɪdʒəs/",
+    "no": 651,
+    "group": 27,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "extremely great in size, amount, ability, or strength; impressive",
+    "meaning_bn": [
+      "অসাধারণ",
+      "বিপুল",
+      "বিস্ময়করভাবে বড় বা শক্তিশালী"
+    ],
+    "synonyms": [
+      {
+        "en": "enormous",
+        "bn": "বিশাল"
+      },
+      {
+        "en": "colossal",
+        "bn": "অতিকায়"
+      },
+      {
+        "en": "immense",
+        "bn": "অত্যন্ত বড়"
+      },
+      {
+        "en": "stupendous",
+        "bn": "বিস্ময়কর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "tiny",
+        "bn": "অতি ক্ষুদ্র"
+      },
+      {
+        "en": "insignificant",
+        "bn": "নগণ্য"
+      },
+      {
+        "en": "Minuscule",
+        "bn": "অত্যন্ত ক্ষুদ্র"
+      },
+      {
+        "en": "Infinitesimal",
+        "bn": "অতি ক্ষুদ্র"
+      },
+      {
+        "en": "Nominal",
+        "bn": "নামমাত্র"
+      },
+      {
+        "en": "Paltry",
+        "bn": "নগণ্য"
+      }
+    ],
+    "example": "She showed prodigious talent from childhood.",
+    "example_bn": "সে শৈশব থেকেই অসাধারণ প্রতিভার পরিচয় দিয়েছিল।",
+    "examples": [
+      "She showed prodigious talent from childhood. — সে শৈশব থেকেই অসাধারণ প্রতিভার পরিচয় দিয়েছিল।",
+      "At dinner, she explained that 'Prodigious' means 'extremely great in size, amount, ability, or strength', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Prodigious’ শব্দটির অর্থ—অসাধারণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Prodigious' as 'extremely great in size, amount, ability, or strength' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Prodigious’ শব্দটি অসাধারণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Prodigy",
+    "pronunciation_bn": "প্রডিজি",
+    "pronunciation": "/ˈprɒdədʒi/",
+    "no": 652,
+    "group": 27,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a young person whose intelligence or skill is unusually advanced for their age",
+    "meaning_bn": [
+      "অসাধারণ প্রতিভাধর ব্যক্তি, বিশেষত অল্পবয়সে",
+      "বিস্ময়কর প্রতিভা"
+    ],
+    "synonyms": [
+      {
+        "en": "genius",
+        "bn": "প্রতিভাবান ব্যক্তি"
+      },
+      {
+        "en": "whiz",
+        "bn": "অত্যন্ত দক্ষ ব্যক্তি"
+      },
+      {
+        "en": "wonder",
+        "bn": "বিস্ময়কর প্রতিভা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "mediocrity",
+        "bn": "মাঝারি মান"
+      },
+      {
+        "en": "ordinary person",
+        "bn": "সাধারণ ব্যক্তি"
+      },
+      {
+        "en": "dolt",
+        "bn": "বোকা ব্যক্তি"
+      },
+      {
+        "en": "Layman",
+        "bn": "অবিশেষজ্ঞ ব্যক্তি"
+      }
+    ],
+    "example": "Mozart was a musical prodigy.",
+    "example_bn": "মোজার্ট ছিলেন সংগীতে এক বিস্ময়কর প্রতিভা।",
+    "examples": [
+      "Mozart was a musical prodigy. — মোজার্ট ছিলেন সংগীতে এক বিস্ময়কর প্রতিভা।",
+      "At dinner, she explained that 'Prodigy' means 'a young person whose intelligence or skill is', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Prodigy’ শব্দটির অর্থ—অসাধারণ প্রতিভাধর ব্যক্তি, বিশেষত অল্পবয়সে—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Prodigy' as 'a young person whose intelligence or skill is' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Prodigy’ শব্দটি অসাধারণ প্রতিভাধর ব্যক্তি, বিশেষত অল্পবয়সে অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Profane",
+    "pronunciation_bn": "প্রোফেইন",
+    "pronunciation": "/prəˈfeɪn/",
+    "no": 653,
+    "group": 27,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "not relating to religion or sacred things; also showing disrespect for what is sacred, or using offensive language",
+    "meaning_bn": [
+      "ধর্মীয় বা পবিত্র বিষয়ের সঙ্গে সম্পর্কহীন",
+      "ধর্ম বা পবিত্র বিষয়ের প্রতি অসম্মানজনক",
+      "অশ্লীল"
+    ],
+    "synonyms": [
+      {
+        "en": "secular",
+        "bn": "ধর্মনিরপেক্ষ"
+      },
+      {
+        "en": "irreverent",
+        "bn": "শ্রদ্ধাহীন"
+      },
+      {
+        "en": "vulgar",
+        "bn": "অশ্লীল"
+      },
+      {
+        "en": "defile",
+        "bn": "নোংরা করা (pos change)"
+      },
+      {
+        "en": "Cosmopolitan",
+        "bn": "বহুজাতিক সংস্কৃতিসমৃদ্ধ"
+      },
+      {
+        "en": "crass",
+        "bn": "স্থূলবুদ্ধিসম্পন্ন"
+      },
+      {
+        "en": "flippant",
+        "bn": "তুচ্ছতাচ্ছিল্যপূর্ণ"
+      },
+      {
+        "en": "ribald",
+        "bn": "অশ্লীল অথচ রসিকতাপূর্ণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "sacred",
+        "bn": "পবিত্র"
+      },
+      {
+        "en": "holy",
+        "bn": "ধর্মীয়ভাবে পবিত্র"
+      },
+      {
+        "en": "reverent",
+        "bn": "শ্রদ্ধাপূর্ণ"
+      },
+      {
+        "en": "Consecrate",
+        "bn": "পবিত্র করা (pos change)"
+      },
+      {
+        "en": "devout",
+        "bn": "ধর্মপ্রাণ"
+      },
+      {
+        "en": "Sacrosanct",
+        "bn": "অতি পবিত্র"
+      },
+      {
+        "en": "Pious",
+        "bn": "ধর্মপরায়ণ"
+      },
+      {
+        "en": "Genteel",
+        "bn": "মার্জিত"
+      },
+      {
+        "en": "ecclesiastical",
+        "bn": "গির্জা-সম্পর্কিত"
+      },
+      {
+        "en": "Inviolate",
+        "bn": "অক্ষত"
+      }
+    ],
+    "example": "His profane language offended many people in the church.",
+    "example_bn": "তার অশ্লীল ভাষা গির্জায় উপস্থিত অনেককে ক্ষুব্ধ করেছিল।",
+    "examples": [
+      "His profane language offended many people in the church. — তার অশ্লীল ভাষা গির্জায় উপস্থিত অনেককে ক্ষুব্ধ করেছিল।",
+      "At dinner, she explained that 'Profane' means 'not relating to religion or sacred things', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Profane’ শব্দটির অর্থ—ধর্মীয় বা পবিত্র বিষয়ের সঙ্গে সম্পর্কহীন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Profane' as 'not relating to religion or sacred things' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Profane’ শব্দটি ধর্মীয় বা পবিত্র বিষয়ের সঙ্গে সম্পর্কহীন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Profess",
+    "pronunciation_bn": "প্রফেস",
+    "pronunciation": "/prəˈfes/",
+    "no": 654,
+    "group": 27,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to claim or state that one has a quality, feeling, belief, or knowledge; to declare openly",
+    "meaning_bn": [
+      "দাবি করা",
+      "প্রকাশ্যে ঘোষণা করা",
+      "কোনো বিশ্বাস বা গুণ থাকার কথা বলা"
+    ],
+    "synonyms": [
+      {
+        "en": "declare",
+        "bn": "ঘোষণা করা"
+      },
+      {
+        "en": "claim",
+        "bn": "দাবি করা"
+      },
+      {
+        "en": "avow",
+        "bn": "স্বীকার বা ঘোষণা করা"
+      },
+      {
+        "en": "Assert",
+        "bn": "দৃঢ়ভাবে দাবি করা"
+      },
+      {
+        "en": "proclaim",
+        "bn": "ঘোষণা করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "deny",
+        "bn": "অস্বীকার করা"
+      },
+      {
+        "en": "disavow",
+        "bn": "দায় বা সম্পর্ক অস্বীকার করা"
+      },
+      {
+        "en": "Insinuate",
+        "bn": "পরোক্ষভাবে ইঙ্গিত করা"
+      },
+      {
+        "en": "Abjure",
+        "bn": "আনুষ্ঠানিকভাবে ত্যাগ করা"
+      },
+      {
+        "en": "disclaim",
+        "bn": "দায়িত্ব অস্বীকার করা"
+      },
+      {
+        "en": "Impugn",
+        "bn": "সততা নিয়ে প্রশ্ন তোলা"
+      },
+      {
+        "en": "Recant",
+        "bn": "আগের বক্তব্য প্রত্যাহার করা"
+      }
+    ],
+    "example": "He professed to know nothing about the theft.",
+    "example_bn": "সে চুরির বিষয়ে কিছুই জানে না বলে দাবি করেছিল।",
+    "examples": [
+      "He professed to know nothing about the theft. — সে চুরির বিষয়ে কিছুই জানে না বলে দাবি করেছিল।",
+      "At dinner, she explained that 'Profess' means 'to claim or state that one has', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Profess’ শব্দটির অর্থ—দাবি করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Profess' as 'to claim or state that one has' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Profess’ শব্দটি দাবি করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Proficient",
+    "pronunciation_bn": "প্রফিশেন্ট",
+    "pronunciation": "/prəˈfɪʃnt/",
+    "no": 655,
+    "group": 27,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "able to do something well because of training and practice",
+    "meaning_bn": [
+      "প্রশিক্ষণ ও অনুশীলনের ফলে কোনো কাজে দক্ষ বা পারদর্শী"
+    ],
+    "synonyms": [
+      {
+        "en": "skilled",
+        "bn": "দক্ষ"
+      },
+      {
+        "en": "competent",
+        "bn": "যোগ্য ও দক্ষ"
+      },
+      {
+        "en": "adept",
+        "bn": "নিপুণ"
+      },
+      {
+        "en": "deft",
+        "bn": "দক্ষ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "incompetent",
+        "bn": "অদক্ষ"
+      },
+      {
+        "en": "inept",
+        "bn": "অযোগ্য/অদক্ষ"
+      },
+      {
+        "en": "Categorical",
+        "bn": "নিঃশর্ত"
+      },
+      {
+        "en": "Ponderous",
+        "bn": "অত্যন্ত ভারী ও নড়াচড়ায় কষ্টকর"
+      }
+    ],
+    "example": "She is proficient in three languages.",
+    "example_bn": "সে তিনটি ভাষায় দক্ষ।",
+    "examples": [
+      "She is proficient in three languages. — সে তিনটি ভাষায় দক্ষ।",
+      "At dinner, she explained that 'Proficient' means 'able to do something well because of training', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Proficient’ শব্দটির অর্থ—প্রশিক্ষণ ও অনুশীলনের ফলে কোনো কাজে দক্ষ বা পারদর্শী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Proficient' as 'able to do something well because of training' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Proficient’ শব্দটি প্রশিক্ষণ ও অনুশীলনের ফলে কোনো কাজে দক্ষ বা পারদর্শী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Profligate",
+    "pronunciation_bn": "প্রফ্লিগেট",
+    "pronunciation": "/ˈprɒflɪɡət/",
+    "no": 656,
+    "group": 27,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "wasteful with money or resources; also morally unrestrained",
+    "meaning_bn": [
+      "অপচয়ী",
+      "অর্থ বা সম্পদ বেহিসাবি খরচ করে এমন",
+      "নীতিহীন"
+    ],
+    "synonyms": [
+      {
+        "en": "wasteful",
+        "bn": "অপচয়ী"
+      },
+      {
+        "en": "extravagant",
+        "bn": "অমিতব্যয়ী"
+      },
+      {
+        "en": "spendthrift",
+        "bn": "অপব্যয়ী"
+      },
+      {
+        "en": "Prodigal",
+        "bn": "অপচয়ী"
+      },
+      {
+        "en": "Lavish",
+        "bn": "প্রচুর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "thrifty",
+        "bn": "মিতব্যয়ী"
+      },
+      {
+        "en": "frugal",
+        "bn": "সাশ্রয়ী"
+      },
+      {
+        "en": "economical",
+        "bn": "ব্যয়সাশ্রয়ী"
+      },
+      {
+        "en": "Provident",
+        "bn": "ভবিষ্যতের জন্য সতর্ক পরিকল্পনাকারী"
+      },
+      {
+        "en": "Parsimonious",
+        "bn": "অত্যন্ত কৃপণ"
+      }
+    ],
+    "example": "His profligate lifestyle led to bankruptcy.",
+    "example_bn": "তার অপব্যয়ী জীবনযাপন তাকে দেউলিয়াত্বের দিকে নিয়ে গিয়েছিল।",
+    "examples": [
+      "His profligate lifestyle led to bankruptcy. — তার অপব্যয়ী জীবনযাপন তাকে দেউলিয়াত্বের দিকে নিয়ে গিয়েছিল।",
+      "At dinner, she explained that 'Profligate' means 'wasteful with money or resources', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Profligate’ শব্দটির অর্থ—অপচয়ী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Profligate' as 'wasteful with money or resources' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Profligate’ শব্দটি অপচয়ী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Profound",
+    "pronunciation_bn": "প্রফাউন্ড",
+    "pronunciation": "/prəˈfaʊnd/",
+    "no": 657,
+    "group": 27,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "very great or intense; showing deep knowledge or understanding",
+    "meaning_bn": [
+      "গভীর",
+      "অত্যন্ত তীব্র বা ব্যাপক",
+      "গভীর জ্ঞান বা উপলব্ধিসম্পন্ন"
+    ],
+    "synonyms": [
+      {
+        "en": "deep",
+        "bn": "গভীর"
+      },
+      {
+        "en": "intense",
+        "bn": "তীব্র"
+      },
+      {
+        "en": "insightful",
+        "bn": "অন্তর্দৃষ্টিসম্পন্ন"
+      },
+      {
+        "en": "Acute",
+        "bn": "তীব্র"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "superficial",
+        "bn": "অগভীর/উপরিতলীয়"
+      },
+      {
+        "en": "shallow",
+        "bn": "অগভীর"
+      },
+      {
+        "en": "trivial",
+        "bn": "তুচ্ছ"
+      },
+      {
+        "en": "Facile",
+        "bn": "অতি সহজে করা হলেও যথেষ্ট চিন্তাভাবনাহীন"
+      },
+      {
+        "en": "cursory",
+        "bn": "দ্রুত ও উপর উপর করা"
+      },
+      {
+        "en": "Perfunctory",
+        "bn": "দায়সারা"
+      },
+      {
+        "en": "Paltry",
+        "bn": "নগণ্য"
+      }
+    ],
+    "example": "The book had a profound impact on her life.",
+    "example_bn": "বইটি তার জীবনে গভীর প্রভাব ফেলেছিল।",
+    "examples": [
+      "The book had a profound impact on her life. — বইটি তার জীবনে গভীর প্রভাব ফেলেছিল।",
+      "At dinner, she explained that 'Profound' means 'very great or intense', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Profound’ শব্দটির অর্থ—গভীর—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Profound' as 'very great or intense' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Profound’ শব্দটি গভীর অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Profuse",
+    "pronunciation_bn": "প্রফিউস",
+    "pronunciation": "/prəˈfjuːs/",
+    "no": 658,
+    "group": 27,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "existing or produced in large amounts; abundant",
+    "meaning_bn": [
+      "প্রচুর",
+      "বিপুল পরিমাণে বিদ্যমান বা উৎপন্ন"
+    ],
+    "synonyms": [
+      {
+        "en": "abundant",
+        "bn": "প্রচুর"
+      },
+      {
+        "en": "plentiful",
+        "bn": "প্রচুর পরিমাণে"
+      },
+      {
+        "en": "copious",
+        "bn": "প্রচুর"
+      },
+      {
+        "en": "Lavish",
+        "bn": "প্রচুর"
+      },
+      {
+        "en": "Munificent",
+        "bn": "বিশেষত অর্থ বা উপহার দেওয়ার ক্ষেত্রে অত্যন্ত উদার"
+      },
+      {
+        "en": "Opulent",
+        "bn": "বিলাসবহুল"
+      },
+      {
+        "en": "Replete",
+        "bn": "পরিপূর্ণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "scarce",
+        "bn": "দুষ্প্রাপ্য"
+      },
+      {
+        "en": "sparse",
+        "bn": "বিক্ষিপ্ত/অল্প"
+      },
+      {
+        "en": "meagre",
+        "bn": "স্বল্প"
+      },
+      {
+        "en": "scant",
+        "bn": "অপ্রতুল"
+      },
+      {
+        "en": "Paltry",
+        "bn": "নগণ্য"
+      },
+      {
+        "en": "Frugal",
+        "bn": "মিতব্যয়ী"
+      },
+      {
+        "en": "Parsimonious",
+        "bn": "অত্যন্ত কৃপণ"
+      }
+    ],
+    "example": "She offered profuse apologies for the mistake.",
+    "example_bn": "ভুলটির জন্য সে বারবার ও আন্তরিকভাবে ক্ষমা চেয়েছিল।",
+    "examples": [
+      "She offered profuse apologies for the mistake. — ভুলটির জন্য সে বারবার ও আন্তরিকভাবে ক্ষমা চেয়েছিল।",
+      "At dinner, she explained that 'Profuse' means 'existing or produced in large amounts', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Profuse’ শব্দটির অর্থ—প্রচুর—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Profuse' as 'existing or produced in large amounts' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Profuse’ শব্দটি প্রচুর অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Proletariat",
+    "pronunciation_bn": "প্রোলেটারিয়েট",
+    "pronunciation": "/ˌprəʊləˈteəriət/",
+    "no": 659,
+    "group": 27,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "workers, especially those who do not own the means of production",
+    "meaning_bn": [
+      "শ্রমিক শ্রেণি",
+      "বিশেষত উৎপাদনের উপকরণের মালিক নয় এমন শ্রমজীবী মানুষ"
+    ],
+    "synonyms": [
+      {
+        "en": "working class",
+        "bn": "শ্রমিক শ্রেণি"
+      },
+      {
+        "en": "workers",
+        "bn": "শ্রমিকেরা"
+      },
+      {
+        "en": "laboring class",
+        "bn": "শ্রমজীবী শ্রেণি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "bourgeoisie",
+        "bn": "বুর্জোয়া/মালিক শ্রেণি"
+      },
+      {
+        "en": "capitalist class",
+        "bn": "পুঁজিপতি শ্রেণি"
+      }
+    ],
+    "example": "Marx wrote about the struggle of the proletariat.",
+    "example_bn": "মার্কস সর্বহারা শ্রমিক শ্রেণির সংগ্রাম সম্পর্কে লিখেছিলেন।",
+    "examples": [
+      "Marx wrote about the struggle of the proletariat. — মার্কস সর্বহারা শ্রমিক শ্রেণির সংগ্রাম সম্পর্কে লিখেছিলেন।",
+      "At dinner, she explained that 'Proletariat' means 'workers, especially those who do not own', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Proletariat’ শব্দটির অর্থ—শ্রমিক শ্রেণি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Proletariat' as 'workers, especially those who do not own' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Proletariat’ শব্দটি শ্রমিক শ্রেণি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Proliferate",
+    "pronunciation_bn": "প্রোলিফারেইট",
+    "pronunciation": "/prəˈlɪfəreɪt/",
+    "no": 660,
+    "group": 27,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to increase rapidly in number or amount",
+    "meaning_bn": [
+      "দ্রুত সংখ্যায় বা পরিমাণে বৃদ্ধি পাওয়া",
+      "দ্রুত ছড়িয়ে পড়া"
+    ],
+    "synonyms": [
+      {
+        "en": "multiply",
+        "bn": "বহুগুণে বৃদ্ধি পাওয়া"
+      },
+      {
+        "en": "mushroom",
+        "bn": "দ্রুত বেড়ে ওঠা"
+      },
+      {
+        "en": "increase",
+        "bn": "বৃদ্ধি পাওয়া"
+      },
+      {
+        "en": "Abound",
+        "bn": "প্রচুর পরিমাণে থাকা"
+      },
+      {
+        "en": "Augment",
+        "bn": "বৃদ্ধি করা"
+      },
+      {
+        "en": "Burgeon",
+        "bn": "দ্রুত বৃদ্ধি পাওয়া"
+      },
+      {
+        "en": "teem",
+        "bn": "প্রচুর পরিমাণে থাকা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "decline",
+        "bn": "কমে যাওয়া"
+      },
+      {
+        "en": "dwindle",
+        "bn": "ক্রমশ হ্রাস পাওয়া"
+      },
+      {
+        "en": "decrease",
+        "bn": "হ্রাস পাওয়া"
+      },
+      {
+        "en": "Curtail",
+        "bn": "কমানো"
+      },
+      {
+        "en": "wane",
+        "bn": "কমে যাওয়া"
+      },
+      {
+        "en": "Abate",
+        "bn": "কমে যাওয়া"
+      },
+      {
+        "en": "Atrophy",
+        "bn": "ক্ষয় হয়ে যাওয়া"
+      },
+      {
+        "en": "Degenerate",
+        "bn": "অবনতি হওয়া"
+      }
+    ],
+    "example": "Social media platforms have proliferated in recent years.",
+    "example_bn": "সাম্প্রতিক বছরগুলোতে সামাজিক যোগাযোগমাধ্যমের প্ল্যাটফর্ম দ্রুত বেড়েছে।",
+    "examples": [
+      "Social media platforms have proliferated in recent years. — সাম্প্রতিক বছরগুলোতে সামাজিক যোগাযোগমাধ্যমের প্ল্যাটফর্ম দ্রুত বেড়েছে।",
+      "At dinner, she explained that 'Proliferate' means 'to increase rapidly in number or amount', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Proliferate’ শব্দটির অর্থ—দ্রুত সংখ্যায় বা পরিমাণে বৃদ্ধি পাওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Proliferate' as 'to increase rapidly in number or amount' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Proliferate’ শব্দটি দ্রুত সংখ্যায় বা পরিমাণে বৃদ্ধি পাওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Prolific",
+    "pronunciation_bn": "প্রোলিফিক",
+    "pronunciation": "/prəˈlɪfɪk/",
+    "no": 661,
+    "group": 27,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "producing many works, results, or offspring; highly productive",
+    "meaning_bn": [
+      "প্রচুর সৃষ্টি বা উৎপাদন করে এমন",
+      "অত্যন্ত সৃষ্টিশীল বা উৎপাদনশীল"
+    ],
+    "synonyms": [
+      {
+        "en": "productive",
+        "bn": "উৎপাদনশীল"
+      },
+      {
+        "en": "fruitful",
+        "bn": "ফলপ্রসূ"
+      },
+      {
+        "en": "creative",
+        "bn": "সৃজনশীল"
+      },
+      {
+        "en": "Fecund",
+        "bn": "উর্বর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "unproductive",
+        "bn": "অনুৎপাদনশীল"
+      },
+      {
+        "en": "barren",
+        "bn": "অনুর্বর"
+      },
+      {
+        "en": "inert",
+        "bn": "নিষ্ক্রিয়"
+      },
+      {
+        "en": "Futile",
+        "bn": "নিষ্ফল"
+      },
+      {
+        "en": "Abortive",
+        "bn": "ব্যর্থ"
+      },
+      {
+        "en": "Arid",
+        "bn": "শুষ্ক"
+      },
+      {
+        "en": "Dormant",
+        "bn": "সুপ্ত"
+      },
+      {
+        "en": "Hapless",
+        "bn": "দুর্ভাগা"
+      }
+    ],
+    "example": "Tagore was a prolific writer.",
+    "example_bn": "রবীন্দ্রনাথ ছিলেন অত্যন্ত সৃষ্টিশীল লেখক।",
+    "examples": [
+      "Tagore was a prolific writer. — রবীন্দ্রনাথ ছিলেন অত্যন্ত সৃষ্টিশীল লেখক।",
+      "At dinner, she explained that 'Prolific' means 'producing many works, results, or offspring', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Prolific’ শব্দটির অর্থ—প্রচুর সৃষ্টি বা উৎপাদন করে এমন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Prolific' as 'producing many works, results, or offspring' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Prolific’ শব্দটি প্রচুর সৃষ্টি বা উৎপাদন করে এমন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Promulgate",
+    "pronunciation_bn": "প্রোমালগেইট",
+    "pronunciation": "/ˈprɒmlɡeɪt/",
+    "no": 662,
+    "group": 27,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to announce a law or official decision publicly or formally; to spread an idea",
+    "meaning_bn": [
+      "আইন বা সরকারি সিদ্ধান্ত আনুষ্ঠানিকভাবে ঘোষণা করা",
+      "কোনো ধারণা ব্যাপকভাবে প্রচার করা"
+    ],
+    "synonyms": [
+      {
+        "en": "proclaim",
+        "bn": "ঘোষণা করা"
+      },
+      {
+        "en": "announce",
+        "bn": "ঘোষণা করা"
+      },
+      {
+        "en": "publicize",
+        "bn": "প্রচার করা"
+      },
+      {
+        "en": "Avow",
+        "bn": "প্রকাশ্যে ঘোষণা করা"
+      },
+      {
+        "en": "Herald",
+        "bn": "ঘোষক"
+      },
+      {
+        "en": "Profess",
+        "bn": "দাবি করা"
+      },
+      {
+        "en": "Tout",
+        "bn": "প্রচার করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "conceal",
+        "bn": "গোপন করা"
+      },
+      {
+        "en": "suppress",
+        "bn": "দমন/চেপে রাখা"
+      },
+      {
+        "en": "Insinuate",
+        "bn": "পরোক্ষভাবে ইঙ্গিত করা"
+      },
+      {
+        "en": "quell",
+        "bn": "দমন করা"
+      },
+      {
+        "en": "repress",
+        "bn": "দমন করা"
+      }
+    ],
+    "example": "The king promulgated a new law.",
+    "example_bn": "রাজা একটি নতুন আইন আনুষ্ঠানিকভাবে ঘোষণা করেছিলেন।",
+    "examples": [
+      "The king promulgated a new law. — রাজা একটি নতুন আইন আনুষ্ঠানিকভাবে ঘোষণা করেছিলেন।",
+      "At dinner, she explained that 'Promulgate' means 'to announce a law or official decision publicly', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Promulgate’ শব্দটির অর্থ—আইন বা সরকারি সিদ্ধান্ত আনুষ্ঠানিকভাবে ঘোষণা করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Promulgate' as 'to announce a law or official decision publicly' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Promulgate’ শব্দটি আইন বা সরকারি সিদ্ধান্ত আনুষ্ঠানিকভাবে ঘোষণা করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Propensity",
+    "pronunciation_bn": "প্রোপেনসিটি",
+    "pronunciation": "/prəˈpensəti/",
+    "no": 663,
+    "group": 27,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a natural tendency or inclination to behave in a particular way",
+    "meaning_bn": [
+      "স্বাভাবিক প্রবণতা",
+      "কোনোভাবে আচরণ করার ঝোঁক"
+    ],
+    "synonyms": [
+      {
+        "en": "inclination",
+        "bn": "ঝোঁক"
+      },
+      {
+        "en": "tendency",
+        "bn": "প্রবণতা"
+      },
+      {
+        "en": "predisposition",
+        "bn": "পূর্বপ্রবণতা"
+      },
+      {
+        "en": "Penchant",
+        "bn": "বিশেষ ঝোঁক"
+      },
+      {
+        "en": "Predilection",
+        "bn": "বিশেষ পছন্দ"
+      },
+      {
+        "en": "disposition",
+        "bn": "স্বভাব"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "aversion",
+        "bn": "বিরাগ"
+      },
+      {
+        "en": "disinclination",
+        "bn": "অনিচ্ছা"
+      },
+      {
+        "en": "Antipathy",
+        "bn": "তীব্র অপছন্দ"
+      }
+    ],
+    "example": "She has a propensity for exaggeration.",
+    "example_bn": "তার বাড়িয়ে বলার স্বাভাবিক প্রবণতা আছে।",
+    "examples": [
+      "She has a propensity for exaggeration. — তার বাড়িয়ে বলার স্বাভাবিক প্রবণতা আছে।",
+      "At dinner, she explained that 'Propensity' means 'a natural tendency or inclination to behave', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Propensity’ শব্দটির অর্থ—স্বাভাবিক প্রবণতা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Propensity' as 'a natural tendency or inclination to behave' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Propensity’ শব্দটি স্বাভাবিক প্রবণতা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Propitious",
+    "pronunciation_bn": "প্রোপিশাস",
+    "pronunciation": "/prəˈpɪʃəs/",
+    "no": 664,
+    "group": 27,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "likely to lead to success; favorable",
+    "meaning_bn": [
+      "সাফল্যের অনুকূল",
+      "শুভ",
+      "অনুকূল"
+    ],
+    "synonyms": [
+      {
+        "en": "favorable",
+        "bn": "অনুকূল"
+      },
+      {
+        "en": "auspicious",
+        "bn": "শুভলক্ষণযুক্ত"
+      },
+      {
+        "en": "opportune",
+        "bn": "উপযুক্ত সময়ে ঘটেছে এমন"
+      },
+      {
+        "en": "Conducive",
+        "bn": "সহায়ক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "unfavorable",
+        "bn": "প্রতিকূল"
+      },
+      {
+        "en": "inauspicious",
+        "bn": "অশুভ লক্ষণযুক্ত"
+      },
+      {
+        "en": "adverse",
+        "bn": "প্রতিকূল"
+      },
+      {
+        "en": "dire",
+        "bn": "ভয়াবহ"
+      },
+      {
+        "en": "ominous",
+        "bn": "অশুভ ইঙ্গিতপূর্ণ"
+      }
+    ],
+    "example": "It was a propitious time to launch the business.",
+    "example_bn": "ব্যবসাটি শুরু করার জন্য সময়টি অনুকূল ছিল।",
+    "examples": [
+      "It was a propitious time to launch the business. — ব্যবসাটি শুরু করার জন্য সময়টি অনুকূল ছিল।",
+      "At dinner, she explained that 'Propitious' means 'likely to lead to success', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Propitious’ শব্দটির অর্থ—সাফল্যের অনুকূল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Propitious' as 'likely to lead to success' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Propitious’ শব্দটি সাফল্যের অনুকূল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Proponent",
+    "pronunciation_bn": "প্রোপোনেন্ট",
+    "pronunciation": "/prəˈpəʊnənt/",
+    "no": 665,
+    "group": 27,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a person who publicly supports an idea, plan, or cause",
+    "meaning_bn": [
+      "কোনো ধারণা, পরিকল্পনা বা উদ্দেশ্যের সমর্থক"
+    ],
+    "synonyms": [
+      {
+        "en": "advocate",
+        "bn": "সমর্থক"
+      },
+      {
+        "en": "supporter",
+        "bn": "সমর্থনকারী"
+      },
+      {
+        "en": "champion",
+        "bn": "জোরালো সমর্থক"
+      },
+      {
+        "en": "Partisan",
+        "bn": "কোনো পক্ষ বা দলের একনিষ্ঠ সমর্থক"
+      },
+      {
+        "en": "Adherent",
+        "bn": "অনুসারী"
+      },
+      {
+        "en": "Benefactor",
+        "bn": "দাতা"
+      },
+      {
+        "en": "Protagonist",
+        "bn": "গল্প, নাটক বা চলচ্চিত্রের প্রধান চরিত্র"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "opponent",
+        "bn": "বিরোধী"
+      },
+      {
+        "en": "critic",
+        "bn": "সমালোচক"
+      },
+      {
+        "en": "adversary",
+        "bn": "প্রতিপক্ষ"
+      },
+      {
+        "en": "Insurgent",
+        "bn": "বিদ্রোহী"
+      },
+      {
+        "en": "dissident",
+        "bn": "ভিন্নমতাবলম্বী ব্যক্তি"
+      },
+      {
+        "en": "Arbiter",
+        "bn": "বিচারক"
+      },
+      {
+        "en": "Mendicant",
+        "bn": "ভিক্ষুক, বিশেষত যিনি ভিক্ষা করে জীবনযাপন করেন"
+      },
+      {
+        "en": "nemesis",
+        "bn": "প্রবল প্রতিদ্বন্দ্বী"
+      }
+    ],
+    "example": "She is a proponent of renewable energy.",
+    "example_bn": "সে নবায়নযোগ্য জ্বালানির একজন সমর্থক।",
+    "examples": [
+      "She is a proponent of renewable energy. — সে নবায়নযোগ্য জ্বালানির একজন সমর্থক।",
+      "At dinner, she explained that 'Proponent' means 'a person who publicly supports an idea, plan', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Proponent’ শব্দটির অর্থ—কোনো ধারণা, পরিকল্পনা বা উদ্দেশ্যের সমর্থক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Proponent' as 'a person who publicly supports an idea, plan' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Proponent’ শব্দটি কোনো ধারণা, পরিকল্পনা বা উদ্দেশ্যের সমর্থক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Proprietary",
+    "pronunciation_bn": "প্রোপ্রাইয়েটারি",
+    "pronunciation": "/prəˈpraɪətəri/",
+    "no": 666,
+    "group": 27,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "owned by or legally controlled by a person or company; relating to ownership",
+    "meaning_bn": [
+      "কোনো ব্যক্তি বা প্রতিষ্ঠানের মালিকানাধীন",
+      "স্বত্বাধিকার-সম্পর্কিত"
+    ],
+    "synonyms": [
+      {
+        "en": "owned",
+        "bn": "মালিকানাধীন"
+      },
+      {
+        "en": "exclusive",
+        "bn": "একচেটিয়া"
+      },
+      {
+        "en": "patented",
+        "bn": "পেটেন্টকৃত"
+      },
+      {
+        "en": "rarefied",
+        "bn": "অতি বিশেষায়িত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "public",
+        "bn": "সর্বসাধারণের"
+      },
+      {
+        "en": "non-proprietary",
+        "bn": "অমালিকানাভিত্তিক/উন্মুক্ত"
+      },
+      {
+        "en": "open-source",
+        "bn": "উন্মুক্ত সোর্সের"
+      },
+      {
+        "en": "Generic",
+        "bn": "সাধারণ"
+      }
+    ],
+    "example": "This is proprietary software, so it cannot be copied without permission.",
+    "example_bn": "এটি মালিকানাধীন সফটওয়্যার, তাই অনুমতি ছাড়া এটি কপি করা যায় না।",
+    "examples": [
+      "This is proprietary software, so it cannot be copied without permission. — এটি মালিকানাধীন সফটওয়্যার, তাই অনুমতি ছাড়া এটি কপি করা যায় না।",
+      "At dinner, she explained that 'Proprietary' means 'owned by or legally controlled by a person', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Proprietary’ শব্দটির অর্থ—কোনো ব্যক্তি বা প্রতিষ্ঠানের মালিকানাধীন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Proprietary' as 'owned by or legally controlled by a person' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Proprietary’ শব্দটি কোনো ব্যক্তি বা প্রতিষ্ঠানের মালিকানাধীন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Propriety",
+    "pronunciation_bn": "প্রোপ্রাইয়েটি",
+    "pronunciation": "/prəˈpraɪəti/",
+    "no": 667,
+    "group": 27,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "behavior that is correct, socially acceptable, and appropriate",
+    "meaning_bn": [
+      "শিষ্টাচার",
+      "সামাজিকভাবে গ্রহণযোগ্য ও যথাযথ আচরণ"
+    ],
+    "synonyms": [
+      {
+        "en": "decorum",
+        "bn": "শালীনতা"
+      },
+      {
+        "en": "etiquette",
+        "bn": "আচরণবিধি"
+      },
+      {
+        "en": "correctness",
+        "bn": "যথার্থতা/শুদ্ধতা"
+      },
+      {
+        "en": "protocol",
+        "bn": "আনুষ্ঠানিক শিষ্টাচার ও নিয়ম"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "impropriety",
+        "bn": "অশোভন আচরণ"
+      },
+      {
+        "en": "indecorum",
+        "bn": "অশালীনতা"
+      }
+    ],
+    "example": "He always behaved with propriety.",
+    "example_bn": "সে সব সময় শিষ্টাচার বজায় রেখে আচরণ করত।",
+    "examples": [
+      "He always behaved with propriety. — সে সব সময় শিষ্টাচার বজায় রেখে আচরণ করত।",
+      "At dinner, she explained that 'Propriety' means 'behavior that is correct, socially acceptable, and appropriate', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Propriety’ শব্দটির অর্থ—শিষ্টাচার—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Propriety' as 'behavior that is correct, socially acceptable, and appropriate' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Propriety’ শব্দটি শিষ্টাচার অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Prosaic",
+    "pronunciation_bn": "প্রোজেইইক",
+    "pronunciation": "/prəʊˈzeɪɪk/",
+    "no": 668,
+    "group": 27,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "ordinary, dull, or lacking imagination and excitement",
+    "meaning_bn": [
+      "সাদামাটা",
+      "একঘেয়ে",
+      "কল্পনা বা উদ্দীপনার অভাব রয়েছে এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "dull",
+        "bn": "নিরস"
+      },
+      {
+        "en": "mundane",
+        "bn": "গতানুগতিক"
+      },
+      {
+        "en": "unimaginative",
+        "bn": "কল্পনাহীন"
+      },
+      {
+        "en": "Pedestrian",
+        "bn": "গতানুগতিক"
+      },
+      {
+        "en": "Bovine",
+        "bn": "গবাদি পশু বা গরুসংক্রান্ত"
+      },
+      {
+        "en": "Insipid",
+        "bn": "বিস্বাদ"
+      },
+      {
+        "en": "Obtuse",
+        "bn": "বুদ্ধিতে ধীর"
+      },
+      {
+        "en": "Banal",
+        "bn": "গতানুগতিক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "imaginative",
+        "bn": "কল্পনাপ্রবণ"
+      },
+      {
+        "en": "poetic",
+        "bn": "কাব্যিক"
+      },
+      {
+        "en": "inspiring",
+        "bn": "অনুপ্রেরণাদায়ক"
+      },
+      {
+        "en": "Lyrical",
+        "bn": "গীতিময়"
+      },
+      {
+        "en": "Ethereal",
+        "bn": "অতিলৌকিক"
+      },
+      {
+        "en": "Incandescent",
+        "bn": "তাপে দীপ্তিমান"
+      },
+      {
+        "en": "Acute",
+        "bn": "তীব্র"
+      },
+      {
+        "en": "Eccentric",
+        "bn": "অদ্ভুত"
+      },
+      {
+        "en": "engaging",
+        "bn": "আকর্ষণীয়"
+      }
+    ],
+    "example": "His prosaic writing style lacked flair.",
+    "example_bn": "তার সাদামাটা লেখার ধরনে স্বাতন্ত্র্য ও আকর্ষণের অভাব ছিল।",
+    "examples": [
+      "His prosaic writing style lacked flair. — তার সাদামাটা লেখার ধরনে স্বাতন্ত্র্য ও আকর্ষণের অভাব ছিল।",
+      "At dinner, she explained that 'Prosaic' means 'ordinary, dull, or lacking imagination and excitement', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Prosaic’ শব্দটির অর্থ—সাদামাটা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Prosaic' as 'ordinary, dull, or lacking imagination and excitement' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Prosaic’ শব্দটি সাদামাটা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Proscribe",
+    "pronunciation_bn": "প্রোস্ক্রাইব",
+    "pronunciation": "/prəʊˈskraɪb/",
+    "no": 669,
+    "group": 27,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to officially forbid or ban something",
+    "meaning_bn": [
+      "আনুষ্ঠানিকভাবে নিষিদ্ধ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "forbid",
+        "bn": "নিষেধ করা"
+      },
+      {
+        "en": "prohibit",
+        "bn": "নিষিদ্ধ করা"
+      },
+      {
+        "en": "outlaw",
+        "bn": "আইন করে নিষিদ্ধ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "permit",
+        "bn": "অনুমতি দেওয়া"
+      },
+      {
+        "en": "allow",
+        "bn": "অনুমোদন করা"
+      },
+      {
+        "en": "authorize",
+        "bn": "অনুমোদন প্রদান করা"
+      },
+      {
+        "en": "Afford",
+        "bn": "সামর্থ্য থাকা"
+      },
+      {
+        "en": "warrant",
+        "bn": "যৌক্তিকতা প্রদান করা"
+      },
+      {
+        "en": "Condone",
+        "bn": "অন্যায় আচরণ মেনে নেওয়া"
+      },
+      {
+        "en": "empower",
+        "bn": "ক্ষমতা প্রদান করা"
+      }
+    ],
+    "example": "The government proscribed the organization.",
+    "example_bn": "সরকার সংগঠনটিকে নিষিদ্ধ ঘোষণা করেছিল।",
+    "examples": [
+      "The government proscribed the organization. — সরকার সংগঠনটিকে নিষিদ্ধ ঘোষণা করেছিল।",
+      "At dinner, she explained that 'Proscribe' means 'to officially forbid or ban something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Proscribe’ শব্দটির অর্থ—আনুষ্ঠানিকভাবে নিষিদ্ধ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Proscribe' as 'to officially forbid or ban something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Proscribe’ শব্দটি আনুষ্ঠানিকভাবে নিষিদ্ধ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Proselytize",
+    "pronunciation_bn": "প্রসেলিটাইজ",
+    "pronunciation": "/ˈprɒsələtaɪz/",
+    "no": 670,
+    "group": 27,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to try to persuade someone to adopt a different religion, political belief, or way of life",
+    "meaning_bn": [
+      "কাউকে অন্য ধর্ম, রাজনৈতিক বিশ্বাস বা জীবনধারা গ্রহণে প্রভাবিত বা রাজি করানোর চেষ্টা করা"
+    ],
+    "synonyms": [
+      {
+        "en": "convert",
+        "bn": "ধর্মান্তরিত করা"
+      },
+      {
+        "en": "evangelize",
+        "bn": "ধর্মপ্রচার করা"
+      },
+      {
+        "en": "persuade",
+        "bn": "রাজি করানো"
+      },
+      {
+        "en": "Cajole",
+        "bn": "তোষামোদ করে রাজি করানো"
+      },
+      {
+        "en": "Induce",
+        "bn": "প্ররোচিত করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "dissuade",
+        "bn": "নিরুৎসাহিত করা"
+      },
+      {
+        "en": "discourage",
+        "bn": "বিরত করতে চেষ্টা করা"
+      },
+      {
+        "en": "Coerce",
+        "bn": "জোর করে বাধ্য করা"
+      },
+      {
+        "en": "Daunt",
+        "bn": "ভীত করা"
+      },
+      {
+        "en": "dismay",
+        "bn": "হতাশা"
+      },
+      {
+        "en": "dispirit",
+        "bn": "হতাশ করা"
+      }
+    ],
+    "example": "He traveled widely to proselytize.",
+    "example_bn": "ধর্মান্তরিত করার প্রচারে সে বিভিন্ন স্থানে ভ্রমণ করেছিল।",
+    "examples": [
+      "He traveled widely to proselytize. — ধর্মান্তরিত করার প্রচারে সে বিভিন্ন স্থানে ভ্রমণ করেছিল।",
+      "At dinner, she explained that 'Proselytize' means 'to try to persuade someone to adopt', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Proselytize’ শব্দটির অর্থ—কাউকে অন্য ধর্ম, রাজনৈতিক বিশ্বাস বা জীবনধারা গ্রহণে প্রভাবিত বা রাজি করানোর চেষ্টা করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Proselytize' as 'to try to persuade someone to adopt' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Proselytize’ শব্দটি কাউকে অন্য ধর্ম, রাজনৈতিক বিশ্বাস বা জীবনধারা গ্রহণে প্রভাবিত বা রাজি করানোর চেষ্টা করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Protagonist",
+    "pronunciation_bn": "প্রোট্যাগনিস্ট",
+    "pronunciation": "/prəˈtæɡənɪst/",
+    "no": 671,
+    "group": 27,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the main character in a story, play, or film; a leading supporter of a cause",
+    "meaning_bn": [
+      "গল্প, নাটক বা চলচ্চিত্রের প্রধান চরিত্র",
+      "কোনো আন্দোলন বা ধারণার প্রধান সমর্থক"
+    ],
+    "synonyms": [
+      {
+        "en": "main character",
+        "bn": "প্রধান চরিত্র"
+      },
+      {
+        "en": "hero",
+        "bn": "নায়ক"
+      },
+      {
+        "en": "champion",
+        "bn": "প্রধান সমর্থক"
+      },
+      {
+        "en": "Advocate",
+        "bn": "সমর্থক"
+      },
+      {
+        "en": "Proponent",
+        "bn": "কোনো ধারণা, পরিকল্পনা বা উদ্দেশ্যের সমর্থক"
+      },
+      {
+        "en": "Partisan",
+        "bn": "কোনো পক্ষ বা দলের একনিষ্ঠ সমর্থক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "antagonist",
+        "bn": "প্রতিনায়ক/বিরোধী চরিত্র"
+      },
+      {
+        "en": "opponent",
+        "bn": "বিরোধী"
+      },
+      {
+        "en": "dissident",
+        "bn": "ভিন্নমতাবলম্বী ব্যক্তি"
+      }
+    ],
+    "example": "The protagonist of the novel faces many trials.",
+    "example_bn": "উপন্যাসের প্রধান চরিত্রটি নানা পরীক্ষার মুখোমুখি হয়।",
+    "examples": [
+      "The protagonist of the novel faces many trials. — উপন্যাসের প্রধান চরিত্রটি নানা পরীক্ষার মুখোমুখি হয়।",
+      "At dinner, she explained that 'Protagonist' means 'the main character in a story, play', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Protagonist’ শব্দটির অর্থ—গল্প, নাটক বা চলচ্চিত্রের প্রধান চরিত্র—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Protagonist' as 'the main character in a story, play' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Protagonist’ শব্দটি গল্প, নাটক বা চলচ্চিত্রের প্রধান চরিত্র অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Protract",
+    "pronunciation_bn": "প্রোট্র্যাক্ট",
+    "pronunciation": "/prəˈtrækt/",
+    "no": 672,
+    "group": 27,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to make something last longer than necessary or expected",
+    "meaning_bn": [
+      "দীর্ঘায়িত করা",
+      "প্রত্যাশার চেয়ে বেশি সময় ধরে চলতে দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "prolong",
+        "bn": "দীর্ঘায়িত করা"
+      },
+      {
+        "en": "extend",
+        "bn": "বাড়ানো"
+      },
+      {
+        "en": "lengthen",
+        "bn": "দীর্ঘ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "shorten",
+        "bn": "সংক্ষিপ্ত করা"
+      },
+      {
+        "en": "curtail",
+        "bn": "সীমিত করা"
+      },
+      {
+        "en": "abridge",
+        "bn": "সংক্ষেপ করা"
+      },
+      {
+        "en": "Circumscribe",
+        "bn": "সীমাবদ্ধ করা"
+      },
+      {
+        "en": "Mitigate",
+        "bn": "কোনো কিছুর তীব্রতা, ক্ষতি বা কষ্ট কমানো"
+      }
+    ],
+    "example": "The meeting was protracted by endless debate.",
+    "example_bn": "অন্তহীন বিতর্কের কারণে সভাটি দীর্ঘায়িত হয়েছিল।",
+    "examples": [
+      "The meeting was protracted by endless debate. — অন্তহীন বিতর্কের কারণে সভাটি দীর্ঘায়িত হয়েছিল।",
+      "At dinner, she explained that 'Protract' means 'to make something last longer than necessary', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Protract’ শব্দটির অর্থ—দীর্ঘায়িত করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Protract' as 'to make something last longer than necessary' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Protract’ শব্দটি দীর্ঘায়িত করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Provident",
+    "pronunciation_bn": "প্রোভিডেন্ট",
+    "pronunciation": "/ˈprɒvɪdənt/",
+    "no": 673,
+    "group": 27,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "careful in planning for the future, especially by saving money",
+    "meaning_bn": [
+      "ভবিষ্যতের জন্য সতর্ক পরিকল্পনাকারী",
+      "বিশেষত সঞ্চয়ী ও দূরদর্শী"
+    ],
+    "synonyms": [
+      {
+        "en": "prudent",
+        "bn": "বিচক্ষণ"
+      },
+      {
+        "en": "foresighted",
+        "bn": "দূরদর্শী"
+      },
+      {
+        "en": "thrifty",
+        "bn": "মিতব্যয়ী"
+      },
+      {
+        "en": "Circumspect",
+        "bn": "সতর্ক"
+      },
+      {
+        "en": "Discreet",
+        "bn": "বিচক্ষণ"
+      },
+      {
+        "en": "Frugal",
+        "bn": "মিতব্যয়ী"
+      },
+      {
+        "en": "Judicious",
+        "bn": "বিচক্ষণ"
+      },
+      {
+        "en": "Pragmatic",
+        "bn": "বাস্তবসম্মত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "improvident",
+        "bn": "অদূরদর্শী"
+      },
+      {
+        "en": "wasteful",
+        "bn": "অপচয়ী"
+      },
+      {
+        "en": "reckless",
+        "bn": "বেপরোয়া"
+      },
+      {
+        "en": "Impetuous",
+        "bn": "হঠকারী"
+      },
+      {
+        "en": "Prodigal",
+        "bn": "অপচয়ী"
+      },
+      {
+        "en": "Profligate",
+        "bn": "অপচয়ী"
+      },
+      {
+        "en": "Blatant",
+        "bn": "নির্লজ্জভাবে স্পষ্ট"
+      },
+      {
+        "en": "Farcical",
+        "bn": "হাস্যকর"
+      }
+    ],
+    "example": "The provident family saved money every month.",
+    "example_bn": "দূরদর্শী পরিবারটি প্রতি মাসে টাকা সঞ্চয় করত।",
+    "examples": [
+      "The provident family saved money every month. — দূরদর্শী পরিবারটি প্রতি মাসে টাকা সঞ্চয় করত।",
+      "At dinner, she explained that 'Provident' means 'careful in planning for the future, especially', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Provident’ শব্দটির অর্থ—ভবিষ্যতের জন্য সতর্ক পরিকল্পনাকারী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Provident' as 'careful in planning for the future, especially' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Provident’ শব্দটি ভবিষ্যতের জন্য সতর্ক পরিকল্পনাকারী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Provincial",
+    "pronunciation_bn": "প্রভিনশাল",
+    "pronunciation": "/prəˈvɪnʃl/",
+    "no": 674,
+    "group": 27,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "relating to a province; sometimes narrow-minded or unsophisticated",
+    "meaning_bn": [
+      "প্রদেশ-সম্পর্কিত",
+      "কখনো সংকীর্ণমনা বা অনভিজ্ঞ/অপরিশীলিত"
+    ],
+    "synonyms": [
+      {
+        "en": "regional",
+        "bn": "আঞ্চলিক"
+      },
+      {
+        "en": "parochial",
+        "bn": "সংকীর্ণ দৃষ্টিভঙ্গির"
+      },
+      {
+        "en": "narrow-minded",
+        "bn": "সংকীর্ণমনা"
+      },
+      {
+        "en": "Insular",
+        "bn": "বিচ্ছিন্ন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "cosmopolitan",
+        "bn": "বিশ্বনাগরিক/উদার দৃষ্টিভঙ্গির"
+      },
+      {
+        "en": "broad-minded",
+        "bn": "উদারমনা"
+      },
+      {
+        "en": "Profane",
+        "bn": "ধর্মীয় বা পবিত্র বিষয়ের সঙ্গে সম্পর্কহীন"
+      }
+    ],
+    "example": "His provincial outlook limited his understanding.",
+    "example_bn": "তার সংকীর্ণ প্রাদেশিক দৃষ্টিভঙ্গি তার উপলব্ধিকে সীমিত করেছিল।",
+    "examples": [
+      "His provincial outlook limited his understanding. — তার সংকীর্ণ প্রাদেশিক দৃষ্টিভঙ্গি তার উপলব্ধিকে সীমিত করেছিল।",
+      "At dinner, she explained that 'Provincial' means 'relating to a province', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Provincial’ শব্দটির অর্থ—প্রদেশ-সম্পর্কিত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Provincial' as 'relating to a province' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Provincial’ শব্দটি প্রদেশ-সম্পর্কিত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Provisional",
+    "pronunciation_bn": "প্রোভিশনাল",
+    "pronunciation": "/prəˈvɪʒənl/",
+    "no": 675,
+    "group": 27,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "temporary or arranged for the present, possibly to be changed later; conditional",
+    "meaning_bn": [
+      "অস্থায়ী",
+      "আপাতত কার্যকর",
+      "পরবর্তী পরিবর্তন বা শর্তসাপেক্ষ"
+    ],
+    "synonyms": [
+      {
+        "en": "temporary",
+        "bn": "সাময়িক"
+      },
+      {
+        "en": "interim",
+        "bn": "অন্তর্বর্তী"
+      },
+      {
+        "en": "tentative",
+        "bn": "অস্থায়ী/অনিশ্চিত"
+      },
+      {
+        "en": "Contingent",
+        "bn": "নির্ভরশীল"
+      },
+      {
+        "en": "Ambivalent",
+        "bn": "দ্বিধাগ্রস্ত"
+      },
+      {
+        "en": "Dubious",
+        "bn": "সন্দেহজনক"
+      },
+      {
+        "en": "Transient",
+        "bn": "ক্ষণস্থায়ী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "permanent",
+        "bn": "স্থায়ী"
+      },
+      {
+        "en": "definitive",
+        "bn": "চূড়ান্ত"
+      },
+      {
+        "en": "final",
+        "bn": "সর্বশেষ/চূড়ান্ত"
+      },
+      {
+        "en": "Irrevocable",
+        "bn": "অপরিবর্তনযোগ্য"
+      },
+      {
+        "en": "Peremptory",
+        "bn": "হুকুমমূলক"
+      },
+      {
+        "en": "Chronic",
+        "bn": "দীর্ঘস্থায়ী"
+      },
+      {
+        "en": "Perennial",
+        "bn": "দীর্ঘস্থায়ী"
+      },
+      {
+        "en": "Absolute",
+        "bn": "সম্পূর্ণ"
+      }
+    ],
+    "example": "A provisional agreement was signed pending review.",
+    "example_bn": "পর্যালোচনা শেষ হওয়ার অপেক্ষায় একটি অস্থায়ী চুক্তি স্বাক্ষরিত হয়েছিল।",
+    "examples": [
+      "A provisional agreement was signed pending review. — পর্যালোচনা শেষ হওয়ার অপেক্ষায় একটি অস্থায়ী চুক্তি স্বাক্ষরিত হয়েছিল।",
+      "At dinner, she explained that 'Provisional' means 'temporary or arranged for the present, possibly', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Provisional’ শব্দটির অর্থ—অস্থায়ী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Provisional' as 'temporary or arranged for the present, possibly' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Provisional’ শব্দটি অস্থায়ী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

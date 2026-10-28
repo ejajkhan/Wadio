@@ -1,0 +1,1678 @@
+[
+  {
+    "word": "Hypothetical",
+    "pronunciation_bn": "হাইপোথেটিক্যাল",
+    "pronunciation": "/ˌhaɪ.pəˈθet.ɪ.kəl/",
+    "no": 426,
+    "group": 18,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "based on a suggested possibility or an imagined situation rather than on facts",
+    "meaning_bn": [
+      "অনুমানভিত্তিক",
+      "কাল্পনিক",
+      "বাস্তবে ঘটেনি—এমন সম্ভাব্য পরিস্থিতিনির্ভর"
+    ],
+    "synonyms": [
+      {
+        "en": "supposed",
+        "bn": "ধরে নেওয়া"
+      },
+      {
+        "en": "theoretical",
+        "bn": "তাত্ত্বিক"
+      },
+      {
+        "en": "imaginary",
+        "bn": "কাল্পনিক"
+      },
+      {
+        "en": "Abstract",
+        "bn": "বিমূর্ত"
+      },
+      {
+        "en": "Ostensible",
+        "bn": "আপাতদৃষ্টিতে সত্য বলে মনে হয় এমন"
+      },
+      {
+        "en": "Purported",
+        "bn": "কথিত"
+      },
+      {
+        "en": "Putative",
+        "bn": "অনুমিত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "actual",
+        "bn": "বাস্তব"
+      },
+      {
+        "en": "real",
+        "bn": "সত্যিকারের"
+      },
+      {
+        "en": "factual",
+        "bn": "তথ্যভিত্তিক"
+      },
+      {
+        "en": "Empirical",
+        "bn": "অভিজ্ঞতা বা পর্যবেক্ষণনির্ভর"
+      },
+      {
+        "en": "Pragmatic",
+        "bn": "বাস্তবসম্মত"
+      },
+      {
+        "en": "Tangible",
+        "bn": "স্পর্শযোগ্য"
+      }
+    ],
+    "example": "Let us consider a hypothetical situation in which every student has a tablet.",
+    "example_bn": "এমন একটি কাল্পনিক পরিস্থিতি বিবেচনা করি, যেখানে প্রত্যেক শিক্ষার্থীর একটি ট্যাবলেট আছে.",
+    "examples": [
+      "Let us consider a hypothetical situation in which every student has a tablet. — এমন একটি কাল্পনিক পরিস্থিতি বিবেচনা করি, যেখানে প্রত্যেক শিক্ষার্থীর একটি ট্যাবলেট আছে.",
+      "At dinner, she explained that 'Hypothetical' means 'based on a suggested possibility or an imagined', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Hypothetical’ শব্দটির অর্থ—অনুমানভিত্তিক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Hypothetical' as 'based on a suggested possibility or an imagined' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Hypothetical’ শব্দটি অনুমানভিত্তিক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Iconoclast",
+    "pronunciation_bn": "আইকনোক্লাস্ট",
+    "pronunciation": "/aɪˈkɒn.ə.klæst/",
+    "no": 427,
+    "group": 18,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a person who challenges or rejects established beliefs, customs, or institutions",
+    "meaning_bn": [
+      "প্রচলিত বিশ্বাস ও প্রথার বিরোধিতাকারী ব্যক্তি",
+      "প্রচলিত ধ্যানধারণা ভাঙতে উদ্যোগী ব্যক্তি"
+    ],
+    "synonyms": [
+      {
+        "en": "nonconformist",
+        "bn": "প্রচলিত রীতির অনুসারী নন এমন ব্যক্তি"
+      },
+      {
+        "en": "rebel",
+        "bn": "বিদ্রোহী"
+      },
+      {
+        "en": "dissenter",
+        "bn": "মতভিন্নতাকারী"
+      },
+      {
+        "en": "Maverick",
+        "bn": "যিনি প্রচলিত নিয়ম বা দলের মত অনুসরণ না করে স্বাধীনভাবে চিন্তা বা কাজ করেন"
+      },
+      {
+        "en": "dissident",
+        "bn": "ভিন্নমতাবলম্বী ব্যক্তি"
+      },
+      {
+        "en": "Insurgent",
+        "bn": "বিদ্রোহী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "conformist",
+        "bn": "প্রচলিত রীতির অনুগামী"
+      },
+      {
+        "en": "traditionalist",
+        "bn": "ঐতিহ্যপন্থী"
+      },
+      {
+        "en": "chameleon",
+        "bn": "রং পরিবর্তন করতে পারে এমন গিরগিটি"
+      },
+      {
+        "en": "reactionary",
+        "bn": "প্রতিক্রিয়াশীল"
+      }
+    ],
+    "example": "As an iconoclast, she questioned traditions that others accepted without thought.",
+    "example_bn": "প্রচলিত রীতির বিরোধিতাকারী হিসেবে তিনি এমন ঐতিহ্য নিয়েও প্রশ্ন তুলতেন, যা অন্যরা না ভেবেই মেনে নিত.",
+    "examples": [
+      "As an iconoclast, she questioned traditions that others accepted without thought. — প্রচলিত রীতির বিরোধিতাকারী হিসেবে তিনি এমন ঐতিহ্য নিয়েও প্রশ্ন তুলতেন, যা অন্যরা না ভেবেই মেনে নিত.",
+      "At dinner, she explained that 'Iconoclast' means 'a person who challenges or rejects established beliefs', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Iconoclast’ শব্দটির অর্থ—প্রচলিত বিশ্বাস ও প্রথার বিরোধিতাকারী ব্যক্তি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Iconoclast' as 'a person who challenges or rejects established beliefs' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Iconoclast’ শব্দটি প্রচলিত বিশ্বাস ও প্রথার বিরোধিতাকারী ব্যক্তি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Ideology",
+    "pronunciation_bn": "আইডিওলজি",
+    "pronunciation": "/ˌaɪ.diˈɒl.ə.dʒi/",
+    "no": 428,
+    "group": 18,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a set of ideas and beliefs, especially about politics or society, that guides the way a person or group thinks",
+    "meaning_bn": [
+      "মতাদর্শ",
+      "রাজনৈতিক বা সামাজিক বিশ্বাসের সমষ্টি",
+      "চিন্তাধারা"
+    ],
+    "synonyms": [
+      {
+        "en": "belief system",
+        "bn": "বিশ্বাসব্যবস্থা"
+      },
+      {
+        "en": "doctrine",
+        "bn": "মতবাদ"
+      },
+      {
+        "en": "creed",
+        "bn": "বিশ্বাসমালা"
+      },
+      {
+        "en": "Tenet",
+        "bn": "মূলনীতি"
+      },
+      {
+        "en": "Theology",
+        "bn": "ধর্মতত্ত্ব"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "pragmatism",
+        "bn": "বাস্তববাদী দৃষ্টিভঙ্গি"
+      },
+      {
+        "en": "nonpartisanship",
+        "bn": "দলনিরপেক্ষতা"
+      }
+    ],
+    "example": "The party's ideology emphasizes equality and social justice.",
+    "example_bn": "দলটির মতাদর্শে সাম্য ও সামাজিক ন্যায়বিচারের ওপর গুরুত্ব দেওয়া হয়.",
+    "examples": [
+      "The party's ideology emphasizes equality and social justice. — দলটির মতাদর্শে সাম্য ও সামাজিক ন্যায়বিচারের ওপর গুরুত্ব দেওয়া হয়.",
+      "At dinner, she explained that 'Ideology' means 'a set of ideas and beliefs, especially about', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Ideology’ শব্দটির অর্থ—মতাদর্শ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Ideology' as 'a set of ideas and beliefs, especially about' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Ideology’ শব্দটি মতাদর্শ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Idiosyncrasy",
+    "pronunciation_bn": "ইডিওসিঙ্ক্রাসি",
+    "pronunciation": "/ˌɪd.i.əˈsɪŋ.krə.si/",
+    "no": 429,
+    "group": 18,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a way of behaving or thinking that is peculiar to one person or thing",
+    "meaning_bn": [
+      "ব্যক্তিবিশেষের স্বতন্ত্র বৈশিষ্ট্য",
+      "অদ্ভুত ব্যক্তিগত অভ্যাস",
+      "স্বভাবের বিশেষত্ব"
+    ],
+    "synonyms": [
+      {
+        "en": "quirk",
+        "bn": "অদ্ভুত স্বভাব"
+      },
+      {
+        "en": "peculiarity",
+        "bn": "বিশেষত্ব"
+      },
+      {
+        "en": "eccentricity",
+        "bn": "খেয়ালি বৈশিষ্ট্য"
+      },
+      {
+        "en": "Foible",
+        "bn": "ছোটখাটো দোষ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "conventionality",
+        "bn": "প্রচলিত রীতির সঙ্গে সামঞ্জস্য"
+      },
+      {
+        "en": "normality",
+        "bn": "স্বাভাবিকতা"
+      }
+    ],
+    "example": "One of his idiosyncrasies is arranging his books by colour.",
+    "example_bn": "তার একটি স্বভাববিশেষ হলো বইগুলো রং অনুযায়ী সাজানো.",
+    "examples": [
+      "One of his idiosyncrasies is arranging his books by colour. — তার একটি স্বভাববিশেষ হলো বইগুলো রং অনুযায়ী সাজানো.",
+      "At dinner, she explained that 'Idiosyncrasy' means 'a way of behaving or thinking that is', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Idiosyncrasy’ শব্দটির অর্থ—ব্যক্তিবিশেষের স্বতন্ত্র বৈশিষ্ট্য—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Idiosyncrasy' as 'a way of behaving or thinking that is' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Idiosyncrasy’ শব্দটি ব্যক্তিবিশেষের স্বতন্ত্র বৈশিষ্ট্য অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Idyllic",
+    "pronunciation_bn": "আইডিলিক",
+    "pronunciation": "/aɪˈdɪl.ɪk/",
+    "no": 430,
+    "group": 18,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "extremely pleasant, peaceful, and picturesque",
+    "meaning_bn": [
+      "অত্যন্ত মনোরম",
+      "শান্ত ও ছবির মতো সুন্দর",
+      "স্বপ্নিল"
+    ],
+    "synonyms": [
+      {
+        "en": "picturesque",
+        "bn": "ছবির মতো সুন্দর"
+      },
+      {
+        "en": "peaceful",
+        "bn": "শান্তিপূর্ণ"
+      },
+      {
+        "en": "charming",
+        "bn": "মনোমুগ্ধকর"
+      },
+      {
+        "en": "Halcyon",
+        "bn": "শান্তিপূর্ণ"
+      },
+      {
+        "en": "quaint",
+        "bn": "মনোরমভাবে সেকেলে"
+      },
+      {
+        "en": "engaging",
+        "bn": "আকর্ষণীয়"
+      },
+      {
+        "en": "serene",
+        "bn": "শান্ত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "bleak",
+        "bn": "নিরানন্দ ও নিষ্প্রভ"
+      },
+      {
+        "en": "harsh",
+        "bn": "কঠোর"
+      },
+      {
+        "en": "unpleasant",
+        "bn": "অমনোরম"
+      },
+      {
+        "en": "Contentious",
+        "bn": "বিতর্কসৃষ্টিকারী"
+      },
+      {
+        "en": "Belligerent",
+        "bn": "ঝগড়াটে"
+      },
+      {
+        "en": "Astringent",
+        "bn": "কঠোর"
+      },
+      {
+        "en": "draconian",
+        "bn": "অত্যন্ত কঠোর"
+      },
+      {
+        "en": "Martial",
+        "bn": "সামরিক"
+      }
+    ],
+    "example": "They spent an idyllic weekend in a quiet village beside the river.",
+    "example_bn": "তারা নদীর ধারের একটি শান্ত গ্রামে ছবির মতো সুন্দর পরিবেশে সপ্তাহান্ত কাটিয়েছিল.",
+    "examples": [
+      "They spent an idyllic weekend in a quiet village beside the river. — তারা নদীর ধারের একটি শান্ত গ্রামে ছবির মতো সুন্দর পরিবেশে সপ্তাহান্ত কাটিয়েছিল.",
+      "At dinner, she explained that 'Idyllic' means 'extremely pleasant, peaceful, and picturesque', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Idyllic’ শব্দটির অর্থ—অত্যন্ত মনোরম—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Idyllic' as 'extremely pleasant, peaceful, and picturesque' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Idyllic’ শব্দটি অত্যন্ত মনোরম অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Ignominy",
+    "pronunciation_bn": "ইগনোমিনি",
+    "pronunciation": "/ˈɪɡ.nə.mɪ.ni/",
+    "no": 431,
+    "group": 18,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "public shame and loss of honour",
+    "meaning_bn": [
+      "চরম অসম্মান",
+      "লাঞ্ছনা",
+      "কলঙ্ক",
+      "জনসমক্ষে অপমান"
+    ],
+    "synonyms": [
+      {
+        "en": "disgrace",
+        "bn": "অসম্মান"
+      },
+      {
+        "en": "humiliation",
+        "bn": "অপমান"
+      },
+      {
+        "en": "shame",
+        "bn": "লজ্জা ও অপমান"
+      },
+      {
+        "en": "Abomination",
+        "bn": "ঘৃণ্য বস্তু বা কাজ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "honour",
+        "bn": "সম্মান"
+      },
+      {
+        "en": "prestige",
+        "bn": "মর্যাদা"
+      },
+      {
+        "en": "distinction",
+        "bn": "খ্যাতি ও কৃতিত্ব"
+      },
+      {
+        "en": "Accolade",
+        "bn": "সম্মাননা"
+      },
+      {
+        "en": "Nuance",
+        "bn": "সূক্ষ্ম পার্থক্য"
+      }
+    ],
+    "example": "The official resigned in ignominy after the corruption scandal.",
+    "example_bn": "দুর্নীতির কেলেঙ্কারির পর ওই কর্মকর্তা চরম অসম্মানের মধ্যে পদত্যাগ করেন.",
+    "examples": [
+      "The official resigned in ignominy after the corruption scandal. — দুর্নীতির কেলেঙ্কারির পর ওই কর্মকর্তা চরম অসম্মানের মধ্যে পদত্যাগ করেন.",
+      "At dinner, she explained that 'Ignominy' means 'public shame and loss of honour', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Ignominy’ শব্দটির অর্থ—চরম অসম্মান—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Ignominy' as 'public shame and loss of honour' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Ignominy’ শব্দটি চরম অসম্মান অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Illicit",
+    "pronunciation_bn": "ইলিসিট",
+    "pronunciation": "/ɪˈlɪs.ɪt/",
+    "no": 432,
+    "group": 18,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "not allowed by law, rules, or accepted social standards",
+    "meaning_bn": [
+      "অবৈধ",
+      "নিষিদ্ধ",
+      "বেআইনি"
+    ],
+    "synonyms": [
+      {
+        "en": "illegal",
+        "bn": "বেআইনি"
+      },
+      {
+        "en": "unlawful",
+        "bn": "আইনবিরুদ্ধ"
+      },
+      {
+        "en": "prohibited",
+        "bn": "নিষিদ্ধ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "legal",
+        "bn": "আইনসম্মত"
+      },
+      {
+        "en": "lawful",
+        "bn": "বৈধ"
+      },
+      {
+        "en": "permitted",
+        "bn": "অনুমোদিত"
+      },
+      {
+        "en": "forensic",
+        "bn": "ফরেনসিক-সংক্রান্ত"
+      }
+    ],
+    "example": "The police uncovered an illicit trade in stolen phones.",
+    "example_bn": "পুলিশ চোরাই মোবাইল ফোনের অবৈধ বাণিজ্যের সন্ধান পায়.",
+    "examples": [
+      "The police uncovered an illicit trade in stolen phones. — পুলিশ চোরাই মোবাইল ফোনের অবৈধ বাণিজ্যের সন্ধান পায়.",
+      "At dinner, she explained that 'Illicit' means 'not allowed by law, rules, or accepted social', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Illicit’ শব্দটির অর্থ—অবৈধ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Illicit' as 'not allowed by law, rules, or accepted social' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Illicit’ শব্দটি অবৈধ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Imminent",
+    "pronunciation_bn": "ইমিনেন্ট",
+    "pronunciation": "/ˈɪm.ɪ.nənt/",
+    "no": 433,
+    "group": 18,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "likely to happen very soon",
+    "meaning_bn": [
+      "আসন্ন",
+      "অতি শিগগির ঘটতে পারে এমন",
+      "আসন্নপ্রায়"
+    ],
+    "synonyms": [
+      {
+        "en": "impending",
+        "bn": "আসন্ন"
+      },
+      {
+        "en": "approaching",
+        "bn": "নিকটবর্তী"
+      },
+      {
+        "en": "near",
+        "bn": "সন্নিকট"
+      },
+      {
+        "en": "quasi",
+        "bn": "প্রায়"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "distant",
+        "bn": "দূরবর্তী"
+      },
+      {
+        "en": "remote",
+        "bn": "দূরবর্তী বা সুদূর সম্ভাব্য"
+      },
+      {
+        "en": "unlikely",
+        "bn": "ঘটার সম্ভাবনা কম"
+      },
+      {
+        "en": "Aloof",
+        "bn": "নির্লিপ্ত"
+      }
+    ],
+    "example": "Residents left the area because a severe storm was imminent.",
+    "example_bn": "প্রবল ঝড় আসন্ন হওয়ায় বাসিন্দারা এলাকাটি ছেড়ে চলে যান.",
+    "examples": [
+      "Residents left the area because a severe storm was imminent. — প্রবল ঝড় আসন্ন হওয়ায় বাসিন্দারা এলাকাটি ছেড়ে চলে যান.",
+      "At dinner, she explained that 'Imminent' means 'likely to happen very soon', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Imminent’ শব্দটির অর্থ—আসন্ন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Imminent' as 'likely to happen very soon' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Imminent’ শব্দটি আসন্ন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Immutable",
+    "pronunciation_bn": "ইমিউটেবল",
+    "pronunciation": "/ɪˈmjuː.tə.bəl/",
+    "no": 434,
+    "group": 18,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "not able to be changed",
+    "meaning_bn": [
+      "অপরিবর্তনীয়",
+      "যা পরিবর্তন করা যায় না"
+    ],
+    "synonyms": [
+      {
+        "en": "unchangeable",
+        "bn": "অপরিবর্তনীয়"
+      },
+      {
+        "en": "fixed",
+        "bn": "স্থির"
+      },
+      {
+        "en": "invariable",
+        "bn": "অপরিবর্তিত থাকে এমন"
+      },
+      {
+        "en": "Static",
+        "bn": "স্থির"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "changeable",
+        "bn": "পরিবর্তনযোগ্য"
+      },
+      {
+        "en": "mutable",
+        "bn": "পরিবর্তনশীল"
+      },
+      {
+        "en": "variable",
+        "bn": "পরিবর্তনশীল"
+      },
+      {
+        "en": "fickle",
+        "bn": "খামখেয়ালি"
+      },
+      {
+        "en": "Itinerant",
+        "bn": "ভ্রাম্যমাণ"
+      },
+      {
+        "en": "Mercurial",
+        "bn": "হঠাৎ ও অনিশ্চিতভাবে মেজাজ বা আচরণ বদলায় এমন"
+      },
+      {
+        "en": "Volatile",
+        "bn": "অস্থিতিশীল"
+      }
+    ],
+    "example": "The rules were treated as immutable, even when circumstances changed.",
+    "example_bn": "পরিস্থিতি বদলে গেলেও নিয়মগুলোকে অপরিবর্তনীয় বলে গণ্য করা হয়েছিল.",
+    "examples": [
+      "The rules were treated as immutable, even when circumstances changed. — পরিস্থিতি বদলে গেলেও নিয়মগুলোকে অপরিবর্তনীয় বলে গণ্য করা হয়েছিল.",
+      "At dinner, she explained that 'Immutable' means 'not able to be changed', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Immutable’ শব্দটির অর্থ—অপরিবর্তনীয়—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Immutable' as 'not able to be changed' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Immutable’ শব্দটি অপরিবর্তনীয় অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Impartial",
+    "pronunciation_bn": "ইমপার্শাল",
+    "pronunciation": "/ɪmˈpɑː.ʃəl/",
+    "no": 435,
+    "group": 18,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "not supporting one person or side more than another; fair",
+    "meaning_bn": [
+      "নিরপেক্ষ",
+      "পক্ষপাতহীন",
+      "ন্যায়সংগত"
+    ],
+    "synonyms": [
+      {
+        "en": "unbiased",
+        "bn": "পক্ষপাতহীন"
+      },
+      {
+        "en": "fair",
+        "bn": "ন্যায়সংগত"
+      },
+      {
+        "en": "objective",
+        "bn": "নিরপেক্ষ ও তথ্যনির্ভর"
+      },
+      {
+        "en": "dispassionate",
+        "bn": "আবেগমুক্ত"
+      },
+      {
+        "en": "Egalitarian",
+        "bn": "সাম্যবাদী"
+      },
+      {
+        "en": "Equitable",
+        "bn": "ন্যায়সংগত"
+      },
+      {
+        "en": "Disinterested",
+        "bn": "নিরপেক্ষ"
+      },
+      {
+        "en": "Indifferent",
+        "bn": "উদাসীন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "biased",
+        "bn": "পক্ষপাতদুষ্ট"
+      },
+      {
+        "en": "partial",
+        "bn": "পক্ষপাতী"
+      },
+      {
+        "en": "prejudiced",
+        "bn": "পূর্বধারণাপ্রসূত"
+      },
+      {
+        "en": "Invidious",
+        "bn": "ক্ষোভ সৃষ্টিকারী"
+      },
+      {
+        "en": "Partisan",
+        "bn": "কোনো পক্ষ বা দলের একনিষ্ঠ সমর্থক"
+      },
+      {
+        "en": "Autocratic",
+        "bn": "একনায়কতান্ত্রিক"
+      },
+      {
+        "en": "Amorous",
+        "bn": "প্রেমাসক্ত"
+      },
+      {
+        "en": "Ardent",
+        "bn": "প্রগাঢ় আবেগপূর্ণ"
+      },
+      {
+        "en": "fragmentary",
+        "bn": "খণ্ডিত"
+      },
+      {
+        "en": "Histrionic",
+        "bn": "অতিনাটকীয়"
+      }
+    ],
+    "example": "A judge must remain impartial when deciding a case.",
+    "example_bn": "মামলার রায় দেওয়ার সময় একজন বিচারককে অবশ্যই নিরপেক্ষ থাকতে হবে.",
+    "examples": [
+      "A judge must remain impartial when deciding a case. — মামলার রায় দেওয়ার সময় একজন বিচারককে অবশ্যই নিরপেক্ষ থাকতে হবে.",
+      "At dinner, she explained that 'Impartial' means 'not supporting one person or side more than', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Impartial’ শব্দটির অর্থ—নিরপেক্ষ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Impartial' as 'not supporting one person or side more than' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Impartial’ শব্দটি নিরপেক্ষ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Impeccable",
+    "pronunciation_bn": "ইমপেকেবল",
+    "pronunciation": "/ɪmˈpek.ə.bəl/",
+    "no": 436,
+    "group": 18,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "perfect and without faults or mistakes",
+    "meaning_bn": [
+      "নিখুঁত",
+      "ত্রুটিহীন",
+      "নির্ভুল"
+    ],
+    "synonyms": [
+      {
+        "en": "flawless",
+        "bn": "ত্রুটিহীন"
+      },
+      {
+        "en": "faultless",
+        "bn": "নিখুঁত"
+      },
+      {
+        "en": "immaculate",
+        "bn": "দাগহীন বা নিখুঁত"
+      },
+      {
+        "en": "pristine",
+        "bn": "আদি অবস্থায় অক্ষত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "flawed",
+        "bn": "ত্রুটিপূর্ণ"
+      },
+      {
+        "en": "defective",
+        "bn": "খুঁতযুক্ত"
+      },
+      {
+        "en": "imperfect",
+        "bn": "অসম্পূর্ণ"
+      }
+    ],
+    "example": "Her impeccable manners impressed everyone at the formal dinner.",
+    "example_bn": "আনুষ্ঠানিক নৈশভোজে তার নিখুঁত আচার-আচরণ সবাইকে মুগ্ধ করেছিল.",
+    "examples": [
+      "Her impeccable manners impressed everyone at the formal dinner. — আনুষ্ঠানিক নৈশভোজে তার নিখুঁত আচার-আচরণ সবাইকে মুগ্ধ করেছিল.",
+      "At dinner, she explained that 'Impeccable' means 'perfect and without faults or mistakes', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Impeccable’ শব্দটির অর্থ—নিখুঁত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Impeccable' as 'perfect and without faults or mistakes' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Impeccable’ শব্দটি নিখুঁত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Imperial",
+    "pronunciation_bn": "ইমপিরিয়াল",
+    "pronunciation": "/ɪmˈpɪə.ri.əl/",
+    "no": 437,
+    "group": 18,
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "meaning_en": "relating to an emperor, empress, or empire; (noun) a unit of measurement or a product or item associated with an empire, depending on context",
+    "meaning_bn": [
+      "সাম্রাজ্য-সম্পর্কিত",
+      "সম্রাট বা সম্রাজ্ঞী-সম্পর্কিত",
+      "রাজকীয়"
+    ],
+    "synonyms": [
+      {
+        "en": "imperialistic",
+        "bn": "সাম্রাজ্যবাদী"
+      },
+      {
+        "en": "regal",
+        "bn": "রাজকীয়"
+      },
+      {
+        "en": "monarchical",
+        "bn": "রাজতান্ত্রিক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "republican",
+        "bn": "প্রজাতান্ত্রিক"
+      },
+      {
+        "en": "democratic",
+        "bn": "গণতান্ত্রিক"
+      },
+      {
+        "en": "anti-imperial",
+        "bn": "সাম্রাজ্যবিরোধী"
+      },
+      {
+        "en": "Egalitarian",
+        "bn": "সাম্যবাদী"
+      }
+    ],
+    "example": "The museum displays imperial robes worn by rulers centuries ago.",
+    "example_bn": "জাদুঘরে কয়েক শতাব্দী আগে শাসকদের পরা রাজকীয় পোশাক প্রদর্শিত হয়েছে.",
+    "examples": [
+      "The museum displays imperial robes worn by rulers centuries ago. — জাদুঘরে কয়েক শতাব্দী আগে শাসকদের পরা রাজকীয় পোশাক প্রদর্শিত হয়েছে.",
+      "At dinner, she explained that 'Imperial' means 'relating to an emperor, empress, or empire', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Imperial’ শব্দটির অর্থ—সাম্রাজ্য-সম্পর্কিত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Imperial' as 'relating to an emperor, empress, or empire' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Imperial’ শব্দটি সাম্রাজ্য-সম্পর্কিত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Impervious",
+    "pronunciation_bn": "ইমপারভিয়াস",
+    "pronunciation": "/ɪmˈpɜː.vi.əs/",
+    "no": 438,
+    "group": 18,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "not allowing something to pass through, or not affected or influenced by something",
+    "meaning_bn": [
+      "অভেদ্য",
+      "প্রবেশরোধী",
+      "প্রভাবিত হয় না এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "resistant",
+        "bn": "প্রতিরোধী"
+      },
+      {
+        "en": "unaffected",
+        "bn": "প্রভাবমুক্ত"
+      },
+      {
+        "en": "impenetrable",
+        "bn": "ভেদ করা যায় না এমন"
+      },
+      {
+        "en": "Hermetic",
+        "bn": "বায়ুরোধী"
+      },
+      {
+        "en": "refractory",
+        "bn": "অবাধ্য"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "permeable",
+        "bn": "ভেদ্য"
+      },
+      {
+        "en": "vulnerable",
+        "bn": "অরক্ষিত বা সহজে ক্ষতিগ্রস্ত"
+      },
+      {
+        "en": "susceptible",
+        "bn": "সহজে প্রভাবিত হয় এমন"
+      },
+      {
+        "en": "porous",
+        "bn": "ছিদ্রযুক্ত"
+      }
+    ],
+    "example": "Despite repeated criticism, she remained impervious to public pressure.",
+    "example_bn": "বারবার সমালোচনা সত্ত্বেও তিনি জনমতের চাপের দ্বারা প্রভাবিত হননি.",
+    "examples": [
+      "Despite repeated criticism, she remained impervious to public pressure. — বারবার সমালোচনা সত্ত্বেও তিনি জনমতের চাপের দ্বারা প্রভাবিত হননি.",
+      "At dinner, she explained that 'Impervious' means 'not allowing something to pass through, or not', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Impervious’ শব্দটির অর্থ—অভেদ্য—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Impervious' as 'not allowing something to pass through, or not' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Impervious’ শব্দটি অভেদ্য অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Impetuous",
+    "pronunciation_bn": "ইমপেচুয়াস",
+    "pronunciation": "/ɪmˈpetʃ.u.əs/",
+    "no": 439,
+    "group": 18,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "acting suddenly and without careful thought, often because of strong feelings",
+    "meaning_bn": [
+      "হঠকারী",
+      "আবেগতাড়িত",
+      "বিবেচনা না করে দ্রুত কাজ করে এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "impulsive",
+        "bn": "হঠকারী"
+      },
+      {
+        "en": "rash",
+        "bn": "অবিবেচক"
+      },
+      {
+        "en": "reckless",
+        "bn": "বেপরোয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "cautious",
+        "bn": "সতর্ক"
+      },
+      {
+        "en": "deliberate",
+        "bn": "ভেবেচিন্তে করা"
+      },
+      {
+        "en": "prudent",
+        "bn": "বিচক্ষণ"
+      }
+    ],
+    "example": "His impetuous decision to quit the job left him without an income.",
+    "example_bn": "চাকরি ছেড়ে দেওয়ার তার হঠকারী সিদ্ধান্ত তাকে আয়হীন করে ফেলে.",
+    "examples": [
+      "His impetuous decision to quit the job left him without an income. — চাকরি ছেড়ে দেওয়ার তার হঠকারী সিদ্ধান্ত তাকে আয়হীন করে ফেলে.",
+      "At dinner, she explained that 'Impetuous' means 'acting suddenly and without careful thought, often because', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Impetuous’ শব্দটির অর্থ—হঠকারী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Impetuous' as 'acting suddenly and without careful thought, often because' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Impetuous’ শব্দটি হঠকারী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Implement",
+    "pronunciation_bn": "ইমপ্লিমেন্ট",
+    "pronunciation": "/ˈɪm.plɪ.ment/",
+    "no": 440,
+    "group": 18,
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "meaning_en": "to put a plan, decision, or agreement into effect; (noun) a tool or instrument",
+    "meaning_bn": [
+      "বাস্তবায়ন করা",
+      "কার্যকর করা",
+      "যন্ত্র বা সরঞ্জাম (বিশেষ্য হিসেবে)"
+    ],
+    "synonyms": [
+      {
+        "en": "carry out",
+        "bn": "কার্যকর করা"
+      },
+      {
+        "en": "execute",
+        "bn": "সম্পাদন করা"
+      },
+      {
+        "en": "enforce",
+        "bn": "কার্যকরভাবে প্রয়োগ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "abandon",
+        "bn": "পরিত্যাগ করা"
+      },
+      {
+        "en": "neglect",
+        "bn": "অবহেলা করা"
+      },
+      {
+        "en": "repeal",
+        "bn": "বাতিল করা—বিশেষত আইন বা বিধি"
+      },
+      {
+        "en": "Abrogate",
+        "bn": "আনুষ্ঠানিকভাবে বাতিল করা"
+      },
+      {
+        "en": "Forsake",
+        "bn": "পরিত্যাগ করা"
+      },
+      {
+        "en": "Renounce",
+        "bn": "আনুষ্ঠানিকভাবে ত্যাগ করা"
+      },
+      {
+        "en": "waive",
+        "bn": "অধিকার ত্যাগ করা"
+      }
+    ],
+    "example": "The school will implement the new attendance policy next month.",
+    "example_bn": "বিদ্যালয়টি আগামী মাসে উপস্থিতি-সংক্রান্ত নতুন নীতিটি কার্যকর করবে.",
+    "examples": [
+      "The school will implement the new attendance policy next month. — বিদ্যালয়টি আগামী মাসে উপস্থিতি-সংক্রান্ত নতুন নীতিটি কার্যকর করবে.",
+      "At dinner, she explained that 'Implement' means 'to put a plan, decision, or agreement into', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Implement’ শব্দটির অর্থ—বাস্তবায়ন করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Implement' as 'to put a plan, decision, or agreement into' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Implement’ শব্দটি বাস্তবায়ন করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Impotent",
+    "pronunciation_bn": "ইমপোটেন্ট",
+    "pronunciation": "/ˈɪm.pə.tənt/",
+    "no": 441,
+    "group": 18,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "unable to take effective action or to prevent something; lacking power or effectiveness",
+    "meaning_bn": [
+      "ক্ষমতাহীন",
+      "অক্ষম",
+      "কার্যকর পদক্ষেপ নিতে অক্ষম"
+    ],
+    "synonyms": [
+      {
+        "en": "powerless",
+        "bn": "ক্ষমতাহীন"
+      },
+      {
+        "en": "helpless",
+        "bn": "অসহায়"
+      },
+      {
+        "en": "ineffectual",
+        "bn": "অকার্যকর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "powerful",
+        "bn": "শক্তিশালী"
+      },
+      {
+        "en": "effective",
+        "bn": "কার্যকর"
+      },
+      {
+        "en": "potent",
+        "bn": "প্রবল বা শক্তিশালী"
+      },
+      {
+        "en": "Compelling",
+        "bn": "জোরালো ও বিশ্বাসযোগ্য"
+      },
+      {
+        "en": "effectual",
+        "bn": "কার্যকর"
+      }
+    ],
+    "example": "Without legal authority, the committee felt impotent to stop the fraud.",
+    "example_bn": "আইনি ক্ষমতা না থাকায় জালিয়াতি বন্ধ করতে কমিটিটি নিজেদের অক্ষম মনে করেছিল.",
+    "examples": [
+      "Without legal authority, the committee felt impotent to stop the fraud. — আইনি ক্ষমতা না থাকায় জালিয়াতি বন্ধ করতে কমিটিটি নিজেদের অক্ষম মনে করেছিল.",
+      "At dinner, she explained that 'Impotent' means 'unable to take effective action or to prevent', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Impotent’ শব্দটির অর্থ—ক্ষমতাহীন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Impotent' as 'unable to take effective action or to prevent' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Impotent’ শব্দটি ক্ষমতাহীন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Impugn",
+    "pronunciation_bn": "ইমপিউন",
+    "pronunciation": "/ɪmˈpjuːn/",
+    "no": 442,
+    "group": 18,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to challenge or cast doubt on the honesty, truth, or validity of something",
+    "meaning_bn": [
+      "সততা নিয়ে প্রশ্ন তোলা",
+      "সত্যতা বা বৈধতা চ্যালেঞ্জ করা",
+      "সন্দেহ প্রকাশ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "challenge",
+        "bn": "চ্যালেঞ্জ করা"
+      },
+      {
+        "en": "dispute",
+        "bn": "বিতর্ক বা অস্বীকার করা"
+      },
+      {
+        "en": "call into question",
+        "bn": "প্রশ্নবিদ্ধ করা"
+      },
+      {
+        "en": "Impeach",
+        "bn": "অভিশংসন করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "affirm",
+        "bn": "দৃঢ়ভাবে বলা বা সমর্থন করা"
+      },
+      {
+        "en": "endorse",
+        "bn": "সমর্থন করা"
+      },
+      {
+        "en": "vindicate",
+        "bn": "ন্যায়সঙ্গত বা নির্দোষ প্রমাণ করা"
+      },
+      {
+        "en": "Acquit",
+        "bn": "অপরাধের অভিযোগ থেকে খালাস দেওয়া"
+      },
+      {
+        "en": "Avow",
+        "bn": "প্রকাশ্যে ঘোষণা করা"
+      },
+      {
+        "en": "Exonerate",
+        "bn": "দোষমুক্ত করা"
+      },
+      {
+        "en": "Absolve",
+        "bn": "দায়মুক্ত করা"
+      },
+      {
+        "en": "Assert",
+        "bn": "দৃঢ়ভাবে দাবি করা"
+      }
+    ],
+    "example": "The report impugned the integrity of the investigation.",
+    "example_bn": "প্রতিবেদনটি তদন্তের সততা ও নিরপেক্ষতাকে প্রশ্নবিদ্ধ করেছিল.",
+    "examples": [
+      "The report impugned the integrity of the investigation. — প্রতিবেদনটি তদন্তের সততা ও নিরপেক্ষতাকে প্রশ্নবিদ্ধ করেছিল.",
+      "At dinner, she explained that 'Impugn' means 'to challenge or cast doubt on the honesty', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Impugn’ শব্দটির অর্থ—সততা নিয়ে প্রশ্ন তোলা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Impugn' as 'to challenge or cast doubt on the honesty' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Impugn’ শব্দটি সততা নিয়ে প্রশ্ন তোলা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Inane",
+    "pronunciation_bn": "ইনেইন",
+    "pronunciation": "/ɪˈneɪn/",
+    "no": 443,
+    "group": 18,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "stupid, empty, or lacking meaning or sense",
+    "meaning_bn": [
+      "নির্বোধ",
+      "অর্থহীন",
+      "বুদ্ধিহীন"
+    ],
+    "synonyms": [
+      {
+        "en": "foolish",
+        "bn": "বোকামিপূর্ণ"
+      },
+      {
+        "en": "silly",
+        "bn": "নির্বোধ"
+      },
+      {
+        "en": "pointless",
+        "bn": "অর্থহীন"
+      },
+      {
+        "en": "Fatuous",
+        "bn": "নির্বোধ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "sensible",
+        "bn": "বুদ্ধিসংগত"
+      },
+      {
+        "en": "meaningful",
+        "bn": "অর্থবহ"
+      },
+      {
+        "en": "intelligent",
+        "bn": "বুদ্ধিদীপ্ত"
+      },
+      {
+        "en": "Astute",
+        "bn": "বিচক্ষণ"
+      },
+      {
+        "en": "Judicious",
+        "bn": "বিচক্ষণ"
+      },
+      {
+        "en": "Pragmatic",
+        "bn": "বাস্তবসম্মত"
+      },
+      {
+        "en": "pregnant",
+        "bn": "গর্ভবতী"
+      },
+      {
+        "en": "Prudent",
+        "bn": "বিচক্ষণ"
+      }
+    ],
+    "example": "The audience grew tired of his inane comments.",
+    "example_bn": "তার অর্থহীন মন্তব্যে শ্রোতারা বিরক্ত হয়ে উঠল.",
+    "examples": [
+      "The audience grew tired of his inane comments. — তার অর্থহীন মন্তব্যে শ্রোতারা বিরক্ত হয়ে উঠল.",
+      "At dinner, she explained that 'Inane' means 'stupid, empty, or lacking meaning or sense', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Inane’ শব্দটির অর্থ—নির্বোধ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Inane' as 'stupid, empty, or lacking meaning or sense' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Inane’ শব্দটি নির্বোধ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Inaugurate",
+    "pronunciation_bn": "ইনগ্যুরেট",
+    "pronunciation": "/ɪˈnɔː.ɡjə.reɪt/",
+    "no": 444,
+    "group": 18,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to formally begin something or officially open a building, service, or institution; to install someone in an official position",
+    "meaning_bn": [
+      "আনুষ্ঠানিকভাবে উদ্বোধন করা",
+      "সূচনা করা",
+      "আনুষ্ঠানিকভাবে পদে অধিষ্ঠিত করা"
+    ],
+    "synonyms": [
+      {
+        "en": "launch",
+        "bn": "চালু করা"
+      },
+      {
+        "en": "open",
+        "bn": "উদ্বোধন করা"
+      },
+      {
+        "en": "initiate",
+        "bn": "সূচনা করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "close",
+        "bn": "বন্ধ করা"
+      },
+      {
+        "en": "terminate",
+        "bn": "সমাপ্ত করা"
+      },
+      {
+        "en": "discontinue",
+        "bn": "বন্ধ করে দেওয়া"
+      },
+      {
+        "en": "Intimate",
+        "bn": "ঘনিষ্ঠ"
+      }
+    ],
+    "example": "The mayor will inaugurate the new public library on Friday.",
+    "example_bn": "মেয়র শুক্রবার নতুন গণগ্রন্থাগারটির আনুষ্ঠানিক উদ্বোধন করবেন.",
+    "examples": [
+      "The mayor will inaugurate the new public library on Friday. — মেয়র শুক্রবার নতুন গণগ্রন্থাগারটির আনুষ্ঠানিক উদ্বোধন করবেন.",
+      "At dinner, she explained that 'Inaugurate' means 'to formally begin something or officially open', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Inaugurate’ শব্দটির অর্থ—আনুষ্ঠানিকভাবে উদ্বোধন করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Inaugurate' as 'to formally begin something or officially open' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Inaugurate’ শব্দটি আনুষ্ঠানিকভাবে উদ্বোধন করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Incandescent",
+    "pronunciation_bn": "ইনক্যানডেসেন্ট",
+    "pronunciation": "/ˌɪn.kænˈdes.ənt/",
+    "no": 445,
+    "group": 18,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "giving off light because of heat; very bright, or showing intense emotion",
+    "meaning_bn": [
+      "তাপে দীপ্তিমান",
+      "উজ্জ্বল",
+      "তীব্র আবেগে উদ্দীপ্ত"
+    ],
+    "synonyms": [
+      {
+        "en": "glowing",
+        "bn": "দীপ্তিমান"
+      },
+      {
+        "en": "radiant",
+        "bn": "উজ্জ্বল"
+      },
+      {
+        "en": "brilliant",
+        "bn": "দীপ্তিময়"
+      },
+      {
+        "en": "Luminous",
+        "bn": "দীপ্তিমান"
+      },
+      {
+        "en": "resplendent",
+        "bn": "দীপ্তিমান"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "dim",
+        "bn": "ম্লান"
+      },
+      {
+        "en": "dull",
+        "bn": "নিষ্প্রভ"
+      },
+      {
+        "en": "dark",
+        "bn": "অন্ধকার"
+      },
+      {
+        "en": "Bovine",
+        "bn": "গবাদি পশু বা গরুসংক্রান্ত"
+      },
+      {
+        "en": "bland",
+        "bn": "মৃদু"
+      },
+      {
+        "en": "Insipid",
+        "bn": "বিস্বাদ"
+      },
+      {
+        "en": "Obtuse",
+        "bn": "বুদ্ধিতে ধীর"
+      },
+      {
+        "en": "Prosaic",
+        "bn": "সাদামাটা"
+      }
+    ],
+    "example": "The incandescent lamps cast a warm glow across the room.",
+    "example_bn": "তাপের কারণে দীপ্তিমান বাতিগুলো ঘরজুড়ে উষ্ণ আলো ছড়িয়ে দিল.",
+    "examples": [
+      "The incandescent lamps cast a warm glow across the room. — তাপের কারণে দীপ্তিমান বাতিগুলো ঘরজুড়ে উষ্ণ আলো ছড়িয়ে দিল.",
+      "At dinner, she explained that 'Incandescent' means 'giving off light because of heat', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Incandescent’ শব্দটির অর্থ—তাপে দীপ্তিমান—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Incandescent' as 'giving off light because of heat' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Incandescent’ শব্দটি তাপে দীপ্তিমান অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Incantation",
+    "pronunciation_bn": "ইনক্যানটেশন",
+    "pronunciation": "/ˌɪn.kænˈteɪ.ʃən/",
+    "no": 446,
+    "group": 18,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a set of words spoken or sung as part of a magical ritual",
+    "meaning_bn": [
+      "মন্ত্র",
+      "মন্ত্রোচ্চারণ",
+      "জাদুকরী আচার-অনুষ্ঠানে উচ্চারিত বাক্য"
+    ],
+    "synonyms": [
+      {
+        "en": "spell",
+        "bn": "মন্ত্র"
+      },
+      {
+        "en": "chant",
+        "bn": "ছন্দে উচ্চারিত মন্ত্র বা স্তোত্র"
+      },
+      {
+        "en": "formula",
+        "bn": "নির্দিষ্ট বাক্য বা সূত্র"
+      }
+    ],
+    "antonyms": [],
+    "example": "In the story, the wizard recited an incantation before opening the sealed door.",
+    "example_bn": "গল্পে, সিল করা দরজাটি খোলার আগে জাদুকর একটি মন্ত্র পাঠ করেছিল.",
+    "examples": [
+      "In the story, the wizard recited an incantation before opening the sealed door. — গল্পে, সিল করা দরজাটি খোলার আগে জাদুকর একটি মন্ত্র পাঠ করেছিল.",
+      "At dinner, she explained that 'Incantation' means 'a set of words spoken or sung as', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Incantation’ শব্দটির অর্থ—মন্ত্র—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Incantation' as 'a set of words spoken or sung as' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Incantation’ শব্দটি মন্ত্র অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Incense",
+    "pronunciation_bn": "ইনসেন্স",
+    "pronunciation": "/ɪnˈsens/",
+    "no": 447,
+    "group": 18,
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "meaning_en": "as a verb, to make someone very angry; as a noun, a substance burned for its pleasant smell",
+    "meaning_bn": [
+      "ক্রুদ্ধ করা",
+      "ভীষণ রাগিয়ে তোলা",
+      "ধূপ (বিশেষ্য হিসেবে)"
+    ],
+    "synonyms": [
+      {
+        "en": "enrage",
+        "bn": "ভীষণ রাগিয়ে তোলা"
+      },
+      {
+        "en": "infuriate",
+        "bn": "ক্রুদ্ধ করা"
+      },
+      {
+        "en": "anger",
+        "bn": "রাগান্বিত করা"
+      },
+      {
+        "en": "Exasperate",
+        "bn": "ভীষণ বিরক্ত করা"
+      },
+      {
+        "en": "wrath",
+        "bn": "প্রচণ্ড রাগ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "appease",
+        "bn": "শান্ত করা"
+      },
+      {
+        "en": "soothe",
+        "bn": "প্রশমিত করা"
+      },
+      {
+        "en": "pacify",
+        "bn": "শান্ত করা"
+      },
+      {
+        "en": "Mollify",
+        "bn": "রাগান্বিত বা বিচলিত কাউকে শান্ত করা"
+      },
+      {
+        "en": "Assuage",
+        "bn": "প্রশমিত করা"
+      },
+      {
+        "en": "Placate",
+        "bn": "শান্ত করা"
+      }
+    ],
+    "example": "The unfair decision incensed the players and their supporters.",
+    "example_bn": "অন্যায্য সিদ্ধান্তটি খেলোয়াড় ও তাঁদের সমর্থকদের ভীষণ ক্ষুব্ধ করেছিল.",
+    "examples": [
+      "The unfair decision incensed the players and their supporters. — অন্যায্য সিদ্ধান্তটি খেলোয়াড় ও তাঁদের সমর্থকদের ভীষণ ক্ষুব্ধ করেছিল.",
+      "At dinner, she explained that 'Incense' means 'as a verb, to make someone very angry', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Incense’ শব্দটির অর্থ—ক্রুদ্ধ করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Incense' as 'as a verb, to make someone very angry' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Incense’ শব্দটি ক্রুদ্ধ করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Incessant",
+    "pronunciation_bn": "ইনসেস্যান্ট",
+    "pronunciation": "/ɪnˈses.ənt/",
+    "no": 448,
+    "group": 18,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "continuing without stopping or seeming to stop",
+    "meaning_bn": [
+      "অবিরাম",
+      "নিরবচ্ছিন্ন",
+      "একটানা চলতে থাকা"
+    ],
+    "synonyms": [
+      {
+        "en": "continuous",
+        "bn": "নিরবচ্ছিন্ন"
+      },
+      {
+        "en": "unceasing",
+        "bn": "অবিরাম"
+      },
+      {
+        "en": "constant",
+        "bn": "একটানা"
+      },
+      {
+        "en": "Unremitting",
+        "bn": "অবিরাম"
+      },
+      {
+        "en": "Relentless",
+        "bn": "অবিরাম"
+      },
+      {
+        "en": "Adamant",
+        "bn": "অনড়"
+      },
+      {
+        "en": "Chronic",
+        "bn": "দীর্ঘস্থায়ী"
+      },
+      {
+        "en": "Inexorable",
+        "bn": "অনিবার্য"
+      },
+      {
+        "en": "seamless",
+        "bn": "জোড়বিহীন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "intermittent",
+        "bn": "থেমে থেমে ঘটে এমন"
+      },
+      {
+        "en": "occasional",
+        "bn": "মাঝেমধ্যে ঘটে এমন"
+      },
+      {
+        "en": "sporadic",
+        "bn": "অনিয়মিত বিরতিতে ঘটে এমন"
+      },
+      {
+        "en": "Discrete",
+        "bn": "পৃথক"
+      },
+      {
+        "en": "fickle",
+        "bn": "খামখেয়ালি"
+      },
+      {
+        "en": "Volatile",
+        "bn": "অস্থিতিশীল"
+      }
+    ],
+    "example": "The incessant rain flooded several streets overnight.",
+    "example_bn": "সারারাত অবিরাম বৃষ্টিতে কয়েকটি রাস্তা প্লাবিত হয়েছিল.",
+    "examples": [
+      "The incessant rain flooded several streets overnight. — সারারাত অবিরাম বৃষ্টিতে কয়েকটি রাস্তা প্লাবিত হয়েছিল.",
+      "At dinner, she explained that 'Incessant' means 'continuing without stopping or seeming to stop', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Incessant’ শব্দটির অর্থ—অবিরাম—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Incessant' as 'continuing without stopping or seeming to stop' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Incessant’ শব্দটি অবিরাম অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Incipient",
+    "pronunciation_bn": "ইনসিপিয়েন্ট",
+    "pronunciation": "/ɪnˈsɪp.i.ənt/",
+    "no": 449,
+    "group": 18,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "beginning to happen or develop",
+    "meaning_bn": [
+      "প্রাথমিক পর্যায়ের",
+      "সবে শুরু হয়েছে এমন",
+      "উদীয়মান"
+    ],
+    "synonyms": [
+      {
+        "en": "nascent",
+        "bn": "নবোদ্ভূত"
+      },
+      {
+        "en": "emerging",
+        "bn": "উদীয়মান"
+      },
+      {
+        "en": "developing",
+        "bn": "বিকাশমান"
+      },
+      {
+        "en": "embryonic",
+        "bn": "প্রাথমিক বিকাশপর্যায়ের"
+      },
+      {
+        "en": "Rudimentary",
+        "bn": "প্রাথমিক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "established",
+        "bn": "প্রতিষ্ঠিত"
+      },
+      {
+        "en": "advanced",
+        "bn": "উন্নত পর্যায়ে পৌঁছানো"
+      },
+      {
+        "en": "mature",
+        "bn": "পরিণত"
+      },
+      {
+        "en": "precocious",
+        "bn": "অকালপক্ব"
+      }
+    ],
+    "example": "The doctor treated the incipient infection before it became severe.",
+    "example_bn": "সংক্রমণটি গুরুতর হওয়ার আগেই চিকিৎসক প্রাথমিক পর্যায়ে তার চিকিৎসা করেন.",
+    "examples": [
+      "The doctor treated the incipient infection before it became severe. — সংক্রমণটি গুরুতর হওয়ার আগেই চিকিৎসক প্রাথমিক পর্যায়ে তার চিকিৎসা করেন.",
+      "At dinner, she explained that 'Incipient' means 'beginning to happen or develop', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Incipient’ শব্দটির অর্থ—প্রাথমিক পর্যায়ের—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Incipient' as 'beginning to happen or develop' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Incipient’ শব্দটি প্রাথমিক পর্যায়ের অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Incisive",
+    "pronunciation_bn": "ইনসাইসিভ",
+    "pronunciation": "/ɪnˈsaɪ.sɪv/",
+    "no": 450,
+    "group": 18,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "clear, direct, and showing the ability to understand or analyse something quickly and effectively",
+    "meaning_bn": [
+      "তীক্ষ্ণ বিশ্লেষণী",
+      "অন্তর্দৃষ্টিপূর্ণ",
+      "সুস্পষ্ট ও মর্মভেদী"
+    ],
+    "synonyms": [
+      {
+        "en": "perceptive",
+        "bn": "অন্তর্দৃষ্টিসম্পন্ন"
+      },
+      {
+        "en": "penetrating",
+        "bn": "মর্মভেদী"
+      },
+      {
+        "en": "analytical",
+        "bn": "বিশ্লেষণধর্মী"
+      },
+      {
+        "en": "trenchant",
+        "bn": "তীক্ষ্ণ ও জোরালো"
+      },
+      {
+        "en": "Astute",
+        "bn": "বিচক্ষণ"
+      },
+      {
+        "en": "Cerebral",
+        "bn": "মস্তিষ্কসংক্রান্ত"
+      },
+      {
+        "en": "Dialectical",
+        "bn": "দ্বান্দ্বিক"
+      },
+      {
+        "en": "Acrid",
+        "bn": "ঝাঁঝালো"
+      },
+      {
+        "en": "Acute",
+        "bn": "তীব্র"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "superficial",
+        "bn": "অগভীর"
+      },
+      {
+        "en": "vague",
+        "bn": "অস্পষ্ট"
+      },
+      {
+        "en": "shallow",
+        "bn": "উপর উপর করা"
+      },
+      {
+        "en": "Ambiguous",
+        "bn": "দ্ব্যর্থক"
+      },
+      {
+        "en": "cursory",
+        "bn": "দ্রুত ও উপর উপর করা"
+      },
+      {
+        "en": "Equivocal",
+        "bn": "দ্ব্যর্থক"
+      },
+      {
+        "en": "bland",
+        "bn": "মৃদু"
+      },
+      {
+        "en": "Facile",
+        "bn": "অতি সহজে করা হলেও যথেষ্ট চিন্তাভাবনাহীন"
+      }
+    ],
+    "example": "Her incisive questions exposed the weaknesses in the proposal.",
+    "example_bn": "তার তীক্ষ্ণ প্রশ্নগুলো প্রস্তাবটির দুর্বলতাগুলো প্রকাশ করে দেয়.",
+    "examples": [
+      "Her incisive questions exposed the weaknesses in the proposal. — তার তীক্ষ্ণ প্রশ্নগুলো প্রস্তাবটির দুর্বলতাগুলো প্রকাশ করে দেয়.",
+      "At dinner, she explained that 'Incisive' means 'clear, direct, and showing the ability to understand', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Incisive’ শব্দটির অর্থ—তীক্ষ্ণ বিশ্লেষণী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Incisive' as 'clear, direct, and showing the ability to understand' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Incisive’ শব্দটি তীক্ষ্ণ বিশ্লেষণী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

@@ -1,0 +1,1753 @@
+[
+  {
+    "word": "Martyr",
+    "pronunciation_bn": "মার্টার",
+    "pronunciation": "/ˈmɑː.tə(r)/",
+    "no": 526,
+    "group": 22,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a person who suffers or dies for a religious or political belief; also, someone who seeks sympathy by presenting themselves as suffering",
+    "meaning_bn": [
+      "ধর্মীয় বা রাজনৈতিক বিশ্বাসের জন্য যিনি কষ্ট ভোগ করেন বা প্রাণ দেন",
+      "নিজের দুর্দশা দেখিয়ে সহানুভূতি আদায়ের চেষ্টা করেন এমন ব্যক্তি"
+    ],
+    "synonyms": [
+      {
+        "en": "victim",
+        "bn": "ভুক্তভোগী"
+      },
+      {
+        "en": "sufferer",
+        "bn": "কষ্টভোগী"
+      },
+      {
+        "en": "self-pitying person",
+        "bn": "নিজের দুঃখ নিয়ে সহানুভূতি প্রত্যাশী ব্যক্তি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "persecutor",
+        "bn": "নির্যাতনকারী"
+      },
+      {
+        "en": "oppressor",
+        "bn": "অত্যাচারী"
+      },
+      {
+        "en": "perpetrator",
+        "bn": "অপরাধ সংঘটনকারী ব্যক্তি"
+      }
+    ],
+    "example": "She played the martyr whenever things didn't go her way.",
+    "example_bn": "কোনো কিছু তার ইচ্ছামতো না হলেই সে নিজেকে অসহায় ভুক্তভোগী হিসেবে দেখিয়ে সহানুভূতি আদায়ের চেষ্টা করত।",
+    "examples": [
+      "She played the martyr whenever things didn't go her way. — কোনো কিছু তার ইচ্ছামতো না হলেই সে নিজেকে অসহায় ভুক্তভোগী হিসেবে দেখিয়ে সহানুভূতি আদায়ের চেষ্টা করত।",
+      "At dinner, she explained that 'Martyr' means 'a person who suffers or dies', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Martyr’ শব্দটির অর্থ—ধর্মীয় বা রাজনৈতিক বিশ্বাসের জন্য যিনি কষ্ট ভোগ করেন বা প্রাণ দেন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Martyr' as 'a person who suffers or dies' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Martyr’ শব্দটি ধর্মীয় বা রাজনৈতিক বিশ্বাসের জন্য যিনি কষ্ট ভোগ করেন বা প্রাণ দেন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Matriculate",
+    "pronunciation_bn": "ম্যাট্রিকিউলেইট",
+    "pronunciation": "/məˈtrɪk.jə.leɪt/",
+    "no": 527,
+    "group": 22,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to be formally admitted or enrolled as a student at a college or university",
+    "meaning_bn": [
+      "কলেজ বা বিশ্ববিদ্যালয়ে আনুষ্ঠানিকভাবে শিক্ষার্থী হিসেবে ভর্তি হওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "enroll",
+        "bn": "নাম লেখানো/ভর্তি হওয়া"
+      },
+      {
+        "en": "register",
+        "bn": "নিবন্ধন করা"
+      },
+      {
+        "en": "enlist",
+        "bn": "তালিকাভুক্ত হওয়া"
+      },
+      {
+        "en": "document",
+        "bn": "নথিবদ্ধ করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "withdraw",
+        "bn": "নাম প্রত্যাহার করা"
+      },
+      {
+        "en": "disenroll",
+        "bn": "তালিকা থেকে বাদ দেওয়া"
+      },
+      {
+        "en": "Recant",
+        "bn": "আগের বক্তব্য প্রত্যাহার করা"
+      },
+      {
+        "en": "secede",
+        "bn": "জোট বা সংগঠন থেকে আনুষ্ঠানিকভাবে বিচ্ছিন্ন হওয়া"
+      }
+    ],
+    "example": "She matriculated at Dhaka University in 2018.",
+    "example_bn": "সে ২০১৮ সালে ঢাকা বিশ্ববিদ্যালয়ে ভর্তি হয়েছিল।",
+    "examples": [
+      "She matriculated at Dhaka University in 2018. — সে ২০১৮ সালে ঢাকা বিশ্ববিদ্যালয়ে ভর্তি হয়েছিল।",
+      "At dinner, she explained that 'Matriculate' means 'to be formally admitted or enrolled as', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Matriculate’ শব্দটির অর্থ—কলেজ বা বিশ্ববিদ্যালয়ে আনুষ্ঠানিকভাবে শিক্ষার্থী হিসেবে ভর্তি হওয়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Matriculate' as 'to be formally admitted or enrolled as' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Matriculate’ শব্দটি কলেজ বা বিশ্ববিদ্যালয়ে আনুষ্ঠানিকভাবে শিক্ষার্থী হিসেবে ভর্তি হওয়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Maudlin",
+    "pronunciation_bn": "মডলিন",
+    "pronunciation": "/ˈmɔːd.lɪn/",
+    "no": 528,
+    "group": 22,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "excessively sentimental or tearfully emotional, often in a foolish way",
+    "meaning_bn": [
+      "অতিরিক্ত ভাবালু বা আবেগপ্রবণ, প্রায়ই অস্বাভাবিকভাবে কান্নাকাটি-প্রবণ"
+    ],
+    "synonyms": [
+      {
+        "en": "sentimental",
+        "bn": "ভাবপ্রবণ"
+      },
+      {
+        "en": "weepy",
+        "bn": "সহজেই কেঁদে ফেলে এমন"
+      },
+      {
+        "en": "soppy",
+        "bn": "অতিরিক্ত আবেগপ্রবণ"
+      },
+      {
+        "en": "Mawkish",
+        "bn": "অতিরিক্ত আবেগপ্রবণ"
+      },
+      {
+        "en": "Saccharine",
+        "bn": "অতিরিক্ত মিষ্টি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "unsentimental",
+        "bn": "অনাবেগী"
+      },
+      {
+        "en": "restrained",
+        "bn": "সংযত"
+      },
+      {
+        "en": "stoical",
+        "bn": "ভাবাবেগে অবিচল"
+      },
+      {
+        "en": "Abstinent",
+        "bn": "বিরত থাকা"
+      },
+      {
+        "en": "Temperate",
+        "bn": "সংযমী"
+      }
+    ],
+    "example": "She became maudlin after a few drinks.",
+    "example_bn": "কয়েক পেগ পান করার পর সে অতিরিক্ত আবেগপ্রবণ হয়ে পড়ল।",
+    "examples": [
+      "She became maudlin after a few drinks. — কয়েক পেগ পান করার পর সে অতিরিক্ত আবেগপ্রবণ হয়ে পড়ল।",
+      "At dinner, she explained that 'Maudlin' means 'excessively sentimental or tearfully emotional, often', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Maudlin’ শব্দটির অর্থ—অতিরিক্ত ভাবালু বা আবেগপ্রবণ, প্রায়ই অস্বাভাবিকভাবে কান্নাকাটি-প্রবণ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Maudlin' as 'excessively sentimental or tearfully emotional, often' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Maudlin’ শব্দটি অতিরিক্ত ভাবালু বা আবেগপ্রবণ, প্রায়ই অস্বাভাবিকভাবে কান্নাকাটি-প্রবণ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Maverick",
+    "pronunciation_bn": "ম্যাভারিক",
+    "pronunciation": "/ˈmæv.ər.ɪk/",
+    "no": 529,
+    "group": 22,
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "meaning_en": "a person who thinks or acts independently and does not follow the usual rules or group",
+    "meaning_bn": [
+      "যিনি প্রচলিত নিয়ম বা দলের মত অনুসরণ না করে স্বাধীনভাবে চিন্তা বা কাজ করেন",
+      "স্বাধীনচেতা"
+    ],
+    "synonyms": [
+      {
+        "en": "nonconformist",
+        "bn": "প্রথাবিরোধী ব্যক্তি"
+      },
+      {
+        "en": "individualist",
+        "bn": "স্বাতন্ত্র্যবাদী"
+      },
+      {
+        "en": "rebel",
+        "bn": "বিদ্রোহী"
+      },
+      {
+        "en": "Iconoclast",
+        "bn": "প্রচলিত বিশ্বাস ও প্রথার বিরোধিতাকারী ব্যক্তি"
+      },
+      {
+        "en": "Insurgent",
+        "bn": "বিদ্রোহী"
+      },
+      {
+        "en": "dissident",
+        "bn": "ভিন্নমতাবলম্বী ব্যক্তি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "conformist",
+        "bn": "প্রথা অনুসরণকারী"
+      },
+      {
+        "en": "follower",
+        "bn": "অনুসারী"
+      },
+      {
+        "en": "Adherent",
+        "bn": "অনুসারী"
+      },
+      {
+        "en": "chameleon",
+        "bn": "রং পরিবর্তন করতে পারে এমন গিরগিটি"
+      },
+      {
+        "en": "Orthodox",
+        "bn": "প্রথাগত"
+      }
+    ],
+    "example": "He was a maverick who refused to follow the party line.",
+    "example_bn": "সে ছিল স্বাধীনচেতা; দলের নির্ধারিত মত অনুসরণ করতে সে অস্বীকার করেছিল।",
+    "examples": [
+      "He was a maverick who refused to follow the party line. — সে ছিল স্বাধীনচেতা; দলের নির্ধারিত মত অনুসরণ করতে সে অস্বীকার করেছিল।",
+      "At dinner, she explained that 'Maverick' means 'a person who thinks or acts independently', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Maverick’ শব্দটির অর্থ—যিনি প্রচলিত নিয়ম বা দলের মত অনুসরণ না করে স্বাধীনভাবে চিন্তা বা কাজ করেন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Maverick' as 'a person who thinks or acts independently' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Maverick’ শব্দটি যিনি প্রচলিত নিয়ম বা দলের মত অনুসরণ না করে স্বাধীনভাবে চিন্তা বা কাজ করেন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Maxim",
+    "pronunciation_bn": "ম্যাক্সিম",
+    "pronunciation": "/ˈmæk.sɪm/",
+    "no": 530,
+    "group": 22,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a short statement expressing a general truth, rule of conduct, or principle",
+    "meaning_bn": [
+      "সাধারণ সত্য, আচরণবিধি বা নীতি প্রকাশকারী সংক্ষিপ্ত উক্তি"
+    ],
+    "synonyms": [
+      {
+        "en": "saying",
+        "bn": "প্রবাদ/উক্তি"
+      },
+      {
+        "en": "adage",
+        "bn": "প্রাচীন প্রবাদ"
+      },
+      {
+        "en": "aphorism",
+        "bn": "নীতিবাক্য"
+      },
+      {
+        "en": "proverb",
+        "bn": "প্রবাদ"
+      },
+      {
+        "en": "Dictum",
+        "bn": "নীতিবাক্য"
+      },
+      {
+        "en": "Precept",
+        "bn": "আচরণনির্দেশক নীতি"
+      },
+      {
+        "en": "Axiom",
+        "bn": "স্বতঃসিদ্ধ সত্য"
+      },
+      {
+        "en": "Epigram",
+        "bn": "বুদ্ধিদীপ্ত সংক্ষিপ্ত উক্তি"
+      },
+      {
+        "en": "Tenet",
+        "bn": "মূলনীতি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "falsehood",
+        "bn": "মিথ্যা কথা"
+      },
+      {
+        "en": "misrule",
+        "bn": "অনীতি/কুশাসন"
+      },
+      {
+        "en": "Fabrication",
+        "bn": "মনগড়া মিথ্যা কাহিনি"
+      },
+      {
+        "en": "fallacy",
+        "bn": "ভ্রান্ত ধারণা"
+      },
+      {
+        "en": "Malfeasance",
+        "bn": "অসদাচরণ"
+      }
+    ],
+    "example": "Follow the maxim: “Honesty is the best policy.”",
+    "example_bn": "এই নীতিবাক্যটি মেনে চলো: “সততাই সর্বোৎকৃষ্ট পন্থা।”",
+    "examples": [
+      "Follow the maxim: “Honesty is the best policy.” — এই নীতিবাক্যটি মেনে চলো: “সততাই সর্বোৎকৃষ্ট পন্থা।”",
+      "At dinner, she explained that 'Maxim' means 'a short statement expressing a general truth, rule', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Maxim’ শব্দটির অর্থ—সাধারণ সত্য, আচরণবিধি বা নীতি প্রকাশকারী সংক্ষিপ্ত উক্তি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Maxim' as 'a short statement expressing a general truth, rule' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Maxim’ শব্দটি সাধারণ সত্য, আচরণবিধি বা নীতি প্রকাশকারী সংক্ষিপ্ত উক্তি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Mediate",
+    "pronunciation_bn": "মিডিয়েইট",
+    "pronunciation": "/ˈmiː.di.eɪt/",
+    "no": 531,
+    "group": 22,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to intervene between people or groups to help them reach an agreement",
+    "meaning_bn": [
+      "দুই ব্যক্তি বা পক্ষের মধ্যে হস্তক্ষেপ করে সমঝোতায় পৌঁছাতে সাহায্য করা"
+    ],
+    "synonyms": [
+      {
+        "en": "arbitrate",
+        "bn": "সালিশ করা"
+      },
+      {
+        "en": "intervene",
+        "bn": "মধ্যস্থতা করতে হস্তক্ষেপ করা"
+      },
+      {
+        "en": "reconcile",
+        "bn": "মিলমিশ করানো"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "antagonize",
+        "bn": "বিরোধ বাড়ানো"
+      },
+      {
+        "en": "provoke",
+        "bn": "উসকে দেওয়া"
+      },
+      {
+        "en": "Litigate",
+        "bn": "আদালতে মামলা করা"
+      },
+      {
+        "en": "Alienate",
+        "bn": "বিচ্ছিন্ন করে দেওয়া"
+      },
+      {
+        "en": "Aggrieve",
+        "bn": "অন্যায় আচরণে কষ্ট দেওয়া"
+      },
+      {
+        "en": "disaffect",
+        "bn": "অসন্তুষ্ট করে তোলা"
+      },
+      {
+        "en": "estrange",
+        "bn": "সম্পর্কে দূরত্ব সৃষ্টি করা"
+      },
+      {
+        "en": "Forbear",
+        "bn": "বিরত থাকা"
+      }
+    ],
+    "example": "The UN tried to mediate between the two nations.",
+    "example_bn": "জাতিসংঘ দুই দেশের মধ্যে মধ্যস্থতা করার চেষ্টা করেছিল।",
+    "examples": [
+      "The UN tried to mediate between the two nations. — জাতিসংঘ দুই দেশের মধ্যে মধ্যস্থতা করার চেষ্টা করেছিল।",
+      "At dinner, she explained that 'Mediate' means 'to intervene between people or groups to help', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Mediate’ শব্দটির অর্থ—দুই ব্যক্তি বা পক্ষের মধ্যে হস্তক্ষেপ করে সমঝোতায় পৌঁছাতে সাহায্য করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Mediate' as 'to intervene between people or groups to help' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Mediate’ শব্দটি দুই ব্যক্তি বা পক্ষের মধ্যে হস্তক্ষেপ করে সমঝোতায় পৌঁছাতে সাহায্য করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Mellifluous",
+    "pronunciation_bn": "মেলিফ্লুয়াস",
+    "pronunciation": "/məˈlɪf.lu.əs/",
+    "no": 532,
+    "group": 22,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "pleasantly smooth and musical to hear",
+    "meaning_bn": [
+      "শুনতে মধুর, মসৃণ ও সুরেলা"
+    ],
+    "synonyms": [
+      {
+        "en": "melodious",
+        "bn": "সুরেলা"
+      },
+      {
+        "en": "dulcet",
+        "bn": "মধুর"
+      },
+      {
+        "en": "sonorous",
+        "bn": "গম্ভীর ও অনুরণনময়"
+      },
+      {
+        "en": "Lyrical",
+        "bn": "গীতিময়"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "harsh",
+        "bn": "কর্কশ"
+      },
+      {
+        "en": "discordant",
+        "bn": "বেসুরো"
+      },
+      {
+        "en": "grating",
+        "bn": "কানে লাগে এমন"
+      },
+      {
+        "en": "Astringent",
+        "bn": "কঠোর"
+      },
+      {
+        "en": "draconian",
+        "bn": "অত্যন্ত কঠোর"
+      },
+      {
+        "en": "raucous",
+        "bn": "কর্কশ"
+      },
+      {
+        "en": "stark",
+        "bn": "কঠোর"
+      }
+    ],
+    "example": "Her mellifluous voice captivated the audience.",
+    "example_bn": "তার মধুর সুরেলা কণ্ঠ শ্রোতাদের মুগ্ধ করেছিল।",
+    "examples": [
+      "Her mellifluous voice captivated the audience. — তার মধুর সুরেলা কণ্ঠ শ্রোতাদের মুগ্ধ করেছিল।",
+      "At dinner, she explained that 'Mellifluous' means 'pleasantly smooth and musical to hear', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Mellifluous’ শব্দটির অর্থ—শুনতে মধুর, মসৃণ ও সুরেলা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Mellifluous' as 'pleasantly smooth and musical to hear' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Mellifluous’ শব্দটি শুনতে মধুর, মসৃণ ও সুরেলা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Mendacious",
+    "pronunciation_bn": "মেনডেইশাস",
+    "pronunciation": "/menˈdeɪ.ʃəs/",
+    "no": 533,
+    "group": 22,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "not telling the truth; lying",
+    "meaning_bn": [
+      "সত্য না বলা",
+      "মিথ্যাপূর্ণ"
+    ],
+    "synonyms": [
+      {
+        "en": "dishonest",
+        "bn": "অসৎ"
+      },
+      {
+        "en": "deceitful",
+        "bn": "প্রতারণাপূর্ণ"
+      },
+      {
+        "en": "lying",
+        "bn": "মিথ্যাবাদী/মিথ্যা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "truthful",
+        "bn": "সত্যবাদী"
+      },
+      {
+        "en": "honest",
+        "bn": "সৎ"
+      },
+      {
+        "en": "veracious",
+        "bn": "সত্যনিষ্ঠ"
+      }
+    ],
+    "example": "The mendacious politician misled the public.",
+    "example_bn": "মিথ্যাবাদী রাজনীতিকটি জনগণকে বিভ্রান্ত করেছিল।",
+    "examples": [
+      "The mendacious politician misled the public. — মিথ্যাবাদী রাজনীতিকটি জনগণকে বিভ্রান্ত করেছিল।",
+      "At dinner, she explained that 'Mendacious' means 'not telling the truth', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Mendacious’ শব্দটির অর্থ—সত্য না বলা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Mendacious' as 'not telling the truth' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Mendacious’ শব্দটি সত্য না বলা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Mendicant",
+    "pronunciation_bn": "মেনডিক্যান্ট",
+    "pronunciation": "/ˈmen.dɪ.kənt/",
+    "no": 534,
+    "group": 22,
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "meaning_en": "a beggar, especially one who lives by begging; relating to begging",
+    "meaning_bn": [
+      "ভিক্ষুক, বিশেষত যিনি ভিক্ষা করে জীবনযাপন করেন",
+      "ভিক্ষাবৃত্তিসংক্রান্ত"
+    ],
+    "synonyms": [
+      {
+        "en": "beggar",
+        "bn": "ভিক্ষুক"
+      },
+      {
+        "en": "pauper",
+        "bn": "দরিদ্র ব্যক্তি"
+      },
+      {
+        "en": "panhandler",
+        "bn": "ভিক্ষা প্রার্থনাকারী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "benefactor",
+        "bn": "উপকারী/দাতা"
+      },
+      {
+        "en": "donor",
+        "bn": "দানকারী"
+      },
+      {
+        "en": "Adherent",
+        "bn": "অনুসারী"
+      },
+      {
+        "en": "Advocate",
+        "bn": "সমর্থক"
+      }
+    ],
+    "example": "The mendicant sat quietly at the temple gate.",
+    "example_bn": "ভিক্ষুকটি মন্দিরের ফটকে নীরবে বসে ছিল।",
+    "examples": [
+      "The mendicant sat quietly at the temple gate. — ভিক্ষুকটি মন্দিরের ফটকে নীরবে বসে ছিল।",
+      "At dinner, she explained that 'Mendicant' means 'a beggar, especially one who lives by begging', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Mendicant’ শব্দটির অর্থ—ভিক্ষুক, বিশেষত যিনি ভিক্ষা করে জীবনযাপন করেন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Mendicant' as 'a beggar, especially one who lives by begging' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Mendicant’ শব্দটি ভিক্ষুক, বিশেষত যিনি ভিক্ষা করে জীবনযাপন করেন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Mentor",
+    "pronunciation_bn": "মেনটর",
+    "pronunciation": "/ˈmen.tɔː(r)/",
+    "no": 535,
+    "group": 22,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "an experienced and trusted adviser who guides someone; to advise or guide",
+    "meaning_bn": [
+      "অভিজ্ঞ ও বিশ্বস্ত পরামর্শদাতা, যিনি কাউকে পথ দেখান",
+      "পরামর্শ দিয়ে পথনির্দেশ করা"
+    ],
+    "synonyms": [
+      {
+        "en": "guide",
+        "bn": "পথপ্রদর্শক"
+      },
+      {
+        "en": "adviser",
+        "bn": "পরামর্শদাতা"
+      },
+      {
+        "en": "counselor",
+        "bn": "উপদেষ্টা"
+      },
+      {
+        "en": "channel",
+        "bn": "নির্দিষ্ট পথে পরিচালিত করা"
+      },
+      {
+        "en": "confidant",
+        "bn": "বিশ্বস্ত গোপনীয়-সহচর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "mentee",
+        "bn": "পরামর্শগ্রহীতা"
+      },
+      {
+        "en": "student",
+        "bn": "শিক্ষার্থী"
+      }
+    ],
+    "example": "He credits his mentor with shaping his career.",
+    "example_bn": "নিজের কর্মজীবন গড়ে তোলার কৃতিত্ব সে তার পরামর্শদাতাকে দেয়।",
+    "examples": [
+      "He credits his mentor with shaping his career. — নিজের কর্মজীবন গড়ে তোলার কৃতিত্ব সে তার পরামর্শদাতাকে দেয়।",
+      "At dinner, she explained that 'Mentor' means 'an experienced and trusted adviser who guides someone', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Mentor’ শব্দটির অর্থ—অভিজ্ঞ ও বিশ্বস্ত পরামর্শদাতা, যিনি কাউকে পথ দেখান—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Mentor' as 'an experienced and trusted adviser who guides someone' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Mentor’ শব্দটি অভিজ্ঞ ও বিশ্বস্ত পরামর্শদাতা, যিনি কাউকে পথ দেখান অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Mercenary",
+    "pronunciation_bn": "মার্সেনারি",
+    "pronunciation": "/ˈmɜː.sən.ri/",
+    "no": 536,
+    "group": 22,
+    "pos": [
+      "noun",
+      "adjective"
+    ],
+    "meaning_en": "a soldier who is paid to fight for a foreign army or a person motivated mainly by money",
+    "meaning_bn": [
+      "অর্থের বিনিময়ে অন্য দেশের পক্ষে যুদ্ধ করা সৈনিক",
+      "অর্থলোভী ব্যক্তি বা অর্থলাভে চালিত"
+    ],
+    "synonyms": [
+      {
+        "en": "soldier of fortune",
+        "bn": "অর্থের বিনিময়ে যুদ্ধ করা সৈনিক"
+      },
+      {
+        "en": "hireling",
+        "bn": "ভাড়াটে কর্মী"
+      },
+      {
+        "en": "money-minded",
+        "bn": "অর্থকেন্দ্রিক"
+      },
+      {
+        "en": "Venal",
+        "bn": "ঘুষগ্রহণে প্রস্তুত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "volunteer",
+        "bn": "স্বেচ্ছাসেবক"
+      },
+      {
+        "en": "altruistic",
+        "bn": "পরার্থপর"
+      },
+      {
+        "en": "disinterested",
+        "bn": "নির্লোভ"
+      },
+      {
+        "en": "Egalitarian",
+        "bn": "সাম্যবাদী"
+      },
+      {
+        "en": "Equitable",
+        "bn": "ন্যায়সংগত"
+      },
+      {
+        "en": "Impartial",
+        "bn": "নিরপেক্ষ"
+      },
+      {
+        "en": "Indifferent",
+        "bn": "উদাসীন"
+      },
+      {
+        "en": "objective",
+        "bn": "নিরপেক্ষ"
+      }
+    ],
+    "example": "He hired mercenaries to guard the shipment.",
+    "example_bn": "পণ্যবাহী চালানটি পাহারা দেওয়ার জন্য সে ভাড়াটে সৈন্য নিয়োগ করেছিল।",
+    "examples": [
+      "He hired mercenaries to guard the shipment. — পণ্যবাহী চালানটি পাহারা দেওয়ার জন্য সে ভাড়াটে সৈন্য নিয়োগ করেছিল।",
+      "At dinner, she explained that 'Mercenary' means 'a soldier who is paid to fight', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Mercenary’ শব্দটির অর্থ—অর্থের বিনিময়ে অন্য দেশের পক্ষে যুদ্ধ করা সৈনিক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Mercenary' as 'a soldier who is paid to fight' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Mercenary’ শব্দটি অর্থের বিনিময়ে অন্য দেশের পক্ষে যুদ্ধ করা সৈনিক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Mercurial",
+    "pronunciation_bn": "মারকিউরিয়াল",
+    "pronunciation": "/mɜːˈkjʊə.ri.əl/",
+    "no": 537,
+    "group": 22,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "changing mood or behavior suddenly and unpredictably; lively and quick",
+    "meaning_bn": [
+      "হঠাৎ ও অনিশ্চিতভাবে মেজাজ বা আচরণ বদলায় এমন",
+      "প্রাণবন্ত ও ক্ষিপ্র"
+    ],
+    "synonyms": [
+      {
+        "en": "volatile",
+        "bn": "ক্ষণে ক্ষণে বদলে যায় এমন"
+      },
+      {
+        "en": "fickle",
+        "bn": "চঞ্চল/অস্থির"
+      },
+      {
+        "en": "changeable",
+        "bn": "পরিবর্তনশীল"
+      },
+      {
+        "en": "Capricious",
+        "bn": "খামখেয়ালি"
+      },
+      {
+        "en": "Arbitrary",
+        "bn": "খেয়ালখুশিমতো"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "steady",
+        "bn": "স্থির"
+      },
+      {
+        "en": "consistent",
+        "bn": "সামঞ্জস্যপূর্ণ"
+      },
+      {
+        "en": "even-tempered",
+        "bn": "শান্ত মেজাজের"
+      },
+      {
+        "en": "Immutable",
+        "bn": "অপরিবর্তনীয়"
+      },
+      {
+        "en": "Irrevocable",
+        "bn": "অপরিবর্তনযোগ্য"
+      },
+      {
+        "en": "Coherent",
+        "bn": "সুসংগত"
+      },
+      {
+        "en": "Consonant",
+        "bn": "সামঞ্জস্যপূর্ণ"
+      },
+      {
+        "en": "Incessant",
+        "bn": "অবিরাম"
+      }
+    ],
+    "example": "His mercurial temperament made him difficult to work with.",
+    "example_bn": "তার অস্থির ও দ্রুত পরিবর্তনশীল মেজাজের কারণে তার সঙ্গে কাজ করা কঠিন ছিল।",
+    "examples": [
+      "His mercurial temperament made him difficult to work with. — তার অস্থির ও দ্রুত পরিবর্তনশীল মেজাজের কারণে তার সঙ্গে কাজ করা কঠিন ছিল।",
+      "At dinner, she explained that 'Mercurial' means 'changing mood or behavior suddenly and unpredictably', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Mercurial’ শব্দটির অর্থ—হঠাৎ ও অনিশ্চিতভাবে মেজাজ বা আচরণ বদলায় এমন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Mercurial' as 'changing mood or behavior suddenly and unpredictably' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Mercurial’ শব্দটি হঠাৎ ও অনিশ্চিতভাবে মেজাজ বা আচরণ বদলায় এমন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Metamorphosis",
+    "pronunciation_bn": "মেটামরফোসিস",
+    "pronunciation": "/ˌmet.əˈmɔː.fə.sɪs/",
+    "no": 538,
+    "group": 22,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a major change in form, structure, or character, especially a biological transformation",
+    "meaning_bn": [
+      "রূপ, গঠন বা চরিত্রের বড় পরিবর্তন",
+      "বিশেষত জীবের দেহগত রূপান্তর"
+    ],
+    "synonyms": [
+      {
+        "en": "transformation",
+        "bn": "রূপান্তর"
+      },
+      {
+        "en": "change",
+        "bn": "পরিবর্তন"
+      },
+      {
+        "en": "transfiguration",
+        "bn": "রূপান্তর/রূপবদল"
+      },
+      {
+        "en": "Alchemy",
+        "bn": "আলকেমি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "stasis",
+        "bn": "স্থবিরতা"
+      },
+      {
+        "en": "continuity",
+        "bn": "ধারাবাহিকতা"
+      },
+      {
+        "en": "continuum",
+        "bn": "ধারাবাহিক পরিসর"
+      },
+      {
+        "en": "Stagnation",
+        "bn": "স্থবিরতা"
+      }
+    ],
+    "example": "The caterpillar’s metamorphosis into a butterfly is remarkable.",
+    "example_bn": "শুঁয়োপোকা থেকে প্রজাপতিতে রূপান্তরিত হওয়ার প্রক্রিয়াটি বিস্ময়কর।",
+    "examples": [
+      "The caterpillar’s metamorphosis into a butterfly is remarkable. — শুঁয়োপোকা থেকে প্রজাপতিতে রূপান্তরিত হওয়ার প্রক্রিয়াটি বিস্ময়কর।",
+      "At dinner, she explained that 'Metamorphosis' means 'a major change in form, structure, or character', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Metamorphosis’ শব্দটির অর্থ—রূপ, গঠন বা চরিত্রের বড় পরিবর্তন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Metamorphosis' as 'a major change in form, structure, or character' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Metamorphosis’ শব্দটি রূপ, গঠন বা চরিত্রের বড় পরিবর্তন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Microcosm",
+    "pronunciation_bn": "মাইক্রোকজম",
+    "pronunciation": "/ˈmaɪ.krəʊ.kɒz.əm/",
+    "no": 539,
+    "group": 22,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a small system or place that represents the characteristics of a much larger one",
+    "meaning_bn": [
+      "বৃহত্তর কোনো জগত বা ব্যবস্থার বৈশিষ্ট্য ধারণকারী ক্ষুদ্র প্রতিরূপ"
+    ],
+    "synonyms": [
+      {
+        "en": "miniature",
+        "bn": "ক্ষুদ্র প্রতিরূপ"
+      },
+      {
+        "en": "miniature world",
+        "bn": "ক্ষুদ্র জগৎ"
+      },
+      {
+        "en": "representative sample",
+        "bn": "প্রতিনিধিত্বমূলক নমুনা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "macrocosm",
+        "bn": "বিশাল জগৎ/মহাবিশ্ব"
+      }
+    ],
+    "example": "The school is a microcosm of society.",
+    "example_bn": "বিদ্যালয়টি সমাজের একটি ক্ষুদ্র প্রতিরূপ।",
+    "examples": [
+      "The school is a microcosm of society. — বিদ্যালয়টি সমাজের একটি ক্ষুদ্র প্রতিরূপ।",
+      "At dinner, she explained that 'Microcosm' means 'a small system or place that represents', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Microcosm’ শব্দটির অর্থ—বৃহত্তর কোনো জগত বা ব্যবস্থার বৈশিষ্ট্য ধারণকারী ক্ষুদ্র প্রতিরূপ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Microcosm' as 'a small system or place that represents' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Microcosm’ শব্দটি বৃহত্তর কোনো জগত বা ব্যবস্থার বৈশিষ্ট্য ধারণকারী ক্ষুদ্র প্রতিরূপ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Milieu",
+    "pronunciation_bn": "মিলইয়ু",
+    "pronunciation": "/miːlˈjɜː/",
+    "no": 540,
+    "group": 22,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the social or cultural environment in which a person lives or something happens",
+    "meaning_bn": [
+      "কোনো ব্যক্তি যে সামাজিক বা সাংস্কৃতিক পরিবেশে বাস করেন বা কোনো ঘটনা ঘটে"
+    ],
+    "synonyms": [
+      {
+        "en": "environment",
+        "bn": "পরিবেশ"
+      },
+      {
+        "en": "setting",
+        "bn": "পরিপ্রেক্ষিত/পরিবেশ"
+      },
+      {
+        "en": "surroundings",
+        "bn": "পারিপার্শ্বিক পরিবেশ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "isolation",
+        "bn": "বিচ্ছিন্নতা"
+      },
+      {
+        "en": "vacuum",
+        "bn": "শূন্য/পরিবেশহীন অবস্থা"
+      },
+      {
+        "en": "seclusion",
+        "bn": "নির্জনতা"
+      }
+    ],
+    "example": "He thrived in the creative milieu of the arts school.",
+    "example_bn": "শিল্পবিদ্যালয়ের সৃজনশীল পরিবেশে সে দারুণভাবে বিকশিত হয়েছিল।",
+    "examples": [
+      "He thrived in the creative milieu of the arts school. — শিল্পবিদ্যালয়ের সৃজনশীল পরিবেশে সে দারুণভাবে বিকশিত হয়েছিল।",
+      "At dinner, she explained that 'Milieu' means 'the social or cultural environment in which', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Milieu’ শব্দটির অর্থ—কোনো ব্যক্তি যে সামাজিক বা সাংস্কৃতিক পরিবেশে বাস করেন বা কোনো ঘটনা ঘটে—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Milieu' as 'the social or cultural environment in which' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Milieu’ শব্দটি কোনো ব্যক্তি যে সামাজিক বা সাংস্কৃতিক পরিবেশে বাস করেন বা কোনো ঘটনা ঘটে অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Minuscule",
+    "pronunciation_bn": "মিনিউস্কিউল",
+    "pronunciation": "/ˈmɪn.jə.skjuːl/",
+    "no": 541,
+    "group": 22,
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "meaning_en": "extremely small; a small lowercase letter in some writing systems",
+    "meaning_bn": [
+      "অত্যন্ত ক্ষুদ্র",
+      "কিছু লিপিতে ছোট হাতের অক্ষর"
+    ],
+    "synonyms": [
+      {
+        "en": "tiny",
+        "bn": "অতি ক্ষুদ্র"
+      },
+      {
+        "en": "minute",
+        "bn": "অতি সামান্য"
+      },
+      {
+        "en": "microscopic",
+        "bn": "অণুবীক্ষণিক"
+      },
+      {
+        "en": "Infinitesimal",
+        "bn": "অতি ক্ষুদ্র"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "huge",
+        "bn": "বিশাল"
+      },
+      {
+        "en": "enormous",
+        "bn": "অত্যন্ত বড়"
+      },
+      {
+        "en": "immense",
+        "bn": "বিরাট"
+      },
+      {
+        "en": "Prodigious",
+        "bn": "অসাধারণ"
+      },
+      {
+        "en": "stupendous",
+        "bn": "বিস্ময়কর"
+      }
+    ],
+    "example": "The difference in price was minuscule.",
+    "example_bn": "দামের পার্থক্য ছিল অতি সামান্য।",
+    "examples": [
+      "The difference in price was minuscule. — দামের পার্থক্য ছিল অতি সামান্য।",
+      "At dinner, she explained that 'Minuscule' means 'extremely small', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Minuscule’ শব্দটির অর্থ—অত্যন্ত ক্ষুদ্র—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Minuscule' as 'extremely small' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Minuscule’ শব্দটি অত্যন্ত ক্ষুদ্র অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Misanthropic",
+    "pronunciation_bn": "মিস্যানথ্রপিক",
+    "pronunciation": "/ˌmɪs.ənˈθrɒp.ɪk/",
+    "no": 542,
+    "group": 22,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "disliking or distrusting other people or humankind",
+    "meaning_bn": [
+      "অন্য মানুষ বা সমগ্র মানবজাতিকে অপছন্দ বা অবিশ্বাস করে এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "antisocial",
+        "bn": "মানুষের সঙ্গ এড়ায় এমন"
+      },
+      {
+        "en": "cynical",
+        "bn": "নৈরাশ্যবাদী/মানুষ সম্পর্কে অবিশ্বাসী"
+      },
+      {
+        "en": "people-hating",
+        "bn": "মানুষবিদ্বেষী"
+      },
+      {
+        "en": "Sardonic",
+        "bn": "বিদ্রূপাত্মক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "philanthropic",
+        "bn": "মানবহিতৈষী"
+      },
+      {
+        "en": "sociable",
+        "bn": "মিশুক"
+      },
+      {
+        "en": "benevolent",
+        "bn": "পরোপকারী"
+      },
+      {
+        "en": "Gregarious",
+        "bn": "মিশুক"
+      },
+      {
+        "en": "Avuncular",
+        "bn": "মামা বা চাচার মতো স্নেহশীল"
+      },
+      {
+        "en": "Convivial",
+        "bn": "আনন্দময়"
+      },
+      {
+        "en": "Magnanimous",
+        "bn": "মহানুভব"
+      }
+    ],
+    "example": "He became increasingly misanthropic after his ordeal.",
+    "example_bn": "কঠিন অভিজ্ঞতার পর সে ক্রমেই মানুষবিদ্বেষী হয়ে উঠল।",
+    "examples": [
+      "He became increasingly misanthropic after his ordeal. — কঠিন অভিজ্ঞতার পর সে ক্রমেই মানুষবিদ্বেষী হয়ে উঠল।",
+      "At dinner, she explained that 'Misanthropic' means 'disliking or distrusting other people or humankind', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Misanthropic’ শব্দটির অর্থ—অন্য মানুষ বা সমগ্র মানবজাতিকে অপছন্দ বা অবিশ্বাস করে এমন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Misanthropic' as 'disliking or distrusting other people or humankind' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Misanthropic’ শব্দটি অন্য মানুষ বা সমগ্র মানবজাতিকে অপছন্দ বা অবিশ্বাস করে এমন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Mitigate",
+    "pronunciation_bn": "মিটিগেইট",
+    "pronunciation": "/ˈmɪt.ɪ.ɡeɪt/",
+    "no": 543,
+    "group": 22,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to make something less severe, harmful, or painful",
+    "meaning_bn": [
+      "কোনো কিছুর তীব্রতা, ক্ষতি বা কষ্ট কমানো"
+    ],
+    "synonyms": [
+      {
+        "en": "alleviate",
+        "bn": "লাঘব করা"
+      },
+      {
+        "en": "lessen",
+        "bn": "কমানো"
+      },
+      {
+        "en": "reduce",
+        "bn": "হ্রাস করা"
+      },
+      {
+        "en": "ease",
+        "bn": "সহজ/সহনীয় করা"
+      },
+      {
+        "en": "Abate",
+        "bn": "কমে যাওয়া"
+      },
+      {
+        "en": "Ameliorate",
+        "bn": "উন্নত করা"
+      },
+      {
+        "en": "Assuage",
+        "bn": "প্রশমিত করা"
+      },
+      {
+        "en": "Curtail",
+        "bn": "কমানো"
+      },
+      {
+        "en": "Palliate",
+        "bn": "উপশম করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "aggravate",
+        "bn": "আরও বাড়িয়ে দেওয়া"
+      },
+      {
+        "en": "intensify",
+        "bn": "তীব্র করা"
+      },
+      {
+        "en": "worsen",
+        "bn": "অবনতি ঘটানো"
+      },
+      {
+        "en": "Exacerbate",
+        "bn": "আরও খারাপ করে তোলা"
+      },
+      {
+        "en": "Augment",
+        "bn": "বৃদ্ধি করা"
+      },
+      {
+        "en": "Degenerate",
+        "bn": "অবনতি হওয়া"
+      },
+      {
+        "en": "Beleaguer",
+        "bn": "অবরোধ করা"
+      },
+      {
+        "en": "Beset",
+        "bn": "ঘিরে ফেলা"
+      }
+    ],
+    "example": "Trees help mitigate the effects of urban heat.",
+    "example_bn": "গাছ শহরের অতিরিক্ত তাপের প্রভাব কমাতে সাহায্য করে।",
+    "examples": [
+      "Trees help mitigate the effects of urban heat. — গাছ শহরের অতিরিক্ত তাপের প্রভাব কমাতে সাহায্য করে।",
+      "At dinner, she explained that 'Mitigate' means 'to make something less severe, harmful, or painful', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Mitigate’ শব্দটির অর্থ—কোনো কিছুর তীব্রতা, ক্ষতি বা কষ্ট কমানো—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Mitigate' as 'to make something less severe, harmful, or painful' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Mitigate’ শব্দটি কোনো কিছুর তীব্রতা, ক্ষতি বা কষ্ট কমানো অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Mollify",
+    "pronunciation_bn": "মলিফাই",
+    "pronunciation": "/ˈmɒl.ɪ.faɪ/",
+    "no": 544,
+    "group": 22,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to calm or soothe someone who is angry or upset",
+    "meaning_bn": [
+      "রাগান্বিত বা বিচলিত কাউকে শান্ত করা"
+    ],
+    "synonyms": [
+      {
+        "en": "appease",
+        "bn": "তুষ্ট/শান্ত করা"
+      },
+      {
+        "en": "pacify",
+        "bn": "শান্ত করা"
+      },
+      {
+        "en": "placate",
+        "bn": "প্রশমিত করা"
+      },
+      {
+        "en": "Assuage",
+        "bn": "প্রশমিত করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "enrage",
+        "bn": "ক্ষিপ্ত করা"
+      },
+      {
+        "en": "provoke",
+        "bn": "উসকে দেওয়া"
+      },
+      {
+        "en": "irritate",
+        "bn": "বিরক্ত করা"
+      },
+      {
+        "en": "Exasperate",
+        "bn": "ভীষণ বিরক্ত করা"
+      },
+      {
+        "en": "Incense",
+        "bn": "ক্রুদ্ধ করা"
+      },
+      {
+        "en": "Instigate",
+        "bn": "উসকে দেওয়া"
+      },
+      {
+        "en": "Foment",
+        "bn": "উসকে দেওয়া"
+      },
+      {
+        "en": "Aggrieve",
+        "bn": "অন্যায় আচরণে কষ্ট দেওয়া"
+      }
+    ],
+    "example": "He brought flowers to mollify his angry wife.",
+    "example_bn": "রাগান্বিত স্ত্রীকে শান্ত করতে সে ফুল নিয়ে এসেছিল।",
+    "examples": [
+      "He brought flowers to mollify his angry wife. — রাগান্বিত স্ত্রীকে শান্ত করতে সে ফুল নিয়ে এসেছিল।",
+      "At dinner, she explained that 'Mollify' means 'to calm or soothe someone who is angry', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Mollify’ শব্দটির অর্থ—রাগান্বিত বা বিচলিত কাউকে শান্ত করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Mollify' as 'to calm or soothe someone who is angry' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Mollify’ শব্দটি রাগান্বিত বা বিচলিত কাউকে শান্ত করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Monolithic",
+    "pronunciation_bn": "মনোলিথিক",
+    "pronunciation": "/ˌmɒn.əˈlɪθ.ɪk/",
+    "no": 545,
+    "group": 22,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "very large and uniform, often rigid and difficult to change; made from one large block of stone",
+    "meaning_bn": [
+      "অত্যন্ত বড় ও একরূপ, প্রায়ই অনমনীয় ও পরিবর্তন করা কঠিন",
+      "একখণ্ড পাথরে নির্মিত"
+    ],
+    "synonyms": [
+      {
+        "en": "massive",
+        "bn": "বিশাল"
+      },
+      {
+        "en": "uniform",
+        "bn": "একরূপ"
+      },
+      {
+        "en": "rigid",
+        "bn": "অনমনীয়"
+      },
+      {
+        "en": "unchanging",
+        "bn": "অপরিবর্তনশীল"
+      },
+      {
+        "en": "Doctrinaire",
+        "bn": "মতবাদে অনড়"
+      },
+      {
+        "en": "Homogeneous",
+        "bn": "সমজাতীয়"
+      },
+      {
+        "en": "Consonant",
+        "bn": "সামঞ্জস্যপূর্ণ"
+      },
+      {
+        "en": "Static",
+        "bn": "স্থির"
+      },
+      {
+        "en": "voluminous",
+        "bn": "বৃহৎ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "flexible",
+        "bn": "নমনীয়"
+      },
+      {
+        "en": "diverse",
+        "bn": "বৈচিত্র্যময়"
+      },
+      {
+        "en": "adaptable",
+        "bn": "সহজে মানিয়ে নিতে পারে এমন"
+      },
+      {
+        "en": "Eclectic",
+        "bn": "বিভিন্ন উৎস থেকে বাছাই করা"
+      },
+      {
+        "en": "Malleable",
+        "bn": "নমনীয়"
+      },
+      {
+        "en": "Motley",
+        "bn": "বিচিত্র"
+      },
+      {
+        "en": "pliable",
+        "bn": "নমনীয়"
+      },
+      {
+        "en": "Incongruous",
+        "bn": "বেমানান"
+      }
+    ],
+    "example": "The monolithic corporation resisted all regulation.",
+    "example_bn": "বিশাল ও অনমনীয় করপোরেশনটি সব ধরনের নিয়ন্ত্রণের বিরোধিতা করেছিল।",
+    "examples": [
+      "The monolithic corporation resisted all regulation. — বিশাল ও অনমনীয় করপোরেশনটি সব ধরনের নিয়ন্ত্রণের বিরোধিতা করেছিল।",
+      "At dinner, she explained that 'Monolithic' means 'very large and uniform, often rigid and difficult', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Monolithic’ শব্দটির অর্থ—অত্যন্ত বড় ও একরূপ, প্রায়ই অনমনীয় ও পরিবর্তন করা কঠিন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Monolithic' as 'very large and uniform, often rigid and difficult' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Monolithic’ শব্দটি অত্যন্ত বড় ও একরূপ, প্রায়ই অনমনীয় ও পরিবর্তন করা কঠিন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Moribund",
+    "pronunciation_bn": "মরিবান্ড",
+    "pronunciation": "/ˈmɒr.ɪ.bʌnd/",
+    "no": 546,
+    "group": 22,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "at the point of death or no longer active and likely to end",
+    "meaning_bn": [
+      "মৃত্যুপথযাত্রী",
+      "নিষ্ক্রিয় হয়ে বিলুপ্তির মুখে"
+    ],
+    "synonyms": [
+      {
+        "en": "dying",
+        "bn": "মরণাপন্ন"
+      },
+      {
+        "en": "declining",
+        "bn": "অবনতিশীল"
+      },
+      {
+        "en": "defunct",
+        "bn": "অকার্যকর/বিলুপ্ত"
+      },
+      {
+        "en": "Archaic",
+        "bn": "প্রাচীন"
+      },
+      {
+        "en": "Dormant",
+        "bn": "সুপ্ত"
+      },
+      {
+        "en": "Inert",
+        "bn": "নিষ্ক্রিয়"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "thriving",
+        "bn": "সমৃদ্ধিশালী"
+      },
+      {
+        "en": "flourishing",
+        "bn": "বিকাশমান"
+      },
+      {
+        "en": "vigorous",
+        "bn": "সজীব/প্রাণবন্ত"
+      }
+    ],
+    "example": "The moribund industry needed urgent reform.",
+    "example_bn": "পতনোন্মুখ শিল্পখাতটির জরুরি সংস্কার প্রয়োজন ছিল।",
+    "examples": [
+      "The moribund industry needed urgent reform. — পতনোন্মুখ শিল্পখাতটির জরুরি সংস্কার প্রয়োজন ছিল।",
+      "At dinner, she explained that 'Moribund' means 'at the point of death or no longer', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Moribund’ শব্দটির অর্থ—মৃত্যুপথযাত্রী—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Moribund' as 'at the point of death or no longer' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Moribund’ শব্দটি মৃত্যুপথযাত্রী অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Morose",
+    "pronunciation_bn": "মরোস",
+    "pronunciation": "/məˈrəʊs/",
+    "no": 547,
+    "group": 22,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "unhappy, gloomy, and bad-tempered",
+    "meaning_bn": [
+      "অসুখী, বিষণ্ণ ও খিটখিটে মেজাজের"
+    ],
+    "synonyms": [
+      {
+        "en": "gloomy",
+        "bn": "বিষণ্ণ"
+      },
+      {
+        "en": "sullen",
+        "bn": "গোমড়ামুখো"
+      },
+      {
+        "en": "melancholy",
+        "bn": "বিষণ্ন"
+      },
+      {
+        "en": "Lugubrious",
+        "bn": "অত্যন্ত বিষণ্ণ"
+      },
+      {
+        "en": "dismal",
+        "bn": "বিষণ্ণ"
+      },
+      {
+        "en": "dour",
+        "bn": "গম্ভীর"
+      },
+      {
+        "en": "Plaintive",
+        "bn": "করুণ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "cheerful",
+        "bn": "প্রফুল্ল"
+      },
+      {
+        "en": "jovial",
+        "bn": "হাসিখুশি"
+      },
+      {
+        "en": "buoyant",
+        "bn": "উচ্ছল"
+      },
+      {
+        "en": "Convivial",
+        "bn": "আনন্দময়"
+      },
+      {
+        "en": "Ebullient",
+        "bn": "উচ্ছ্বসিত"
+      },
+      {
+        "en": "Blithe",
+        "bn": "প্রফুল্ল ও নিশ্চিন্ত"
+      }
+    ],
+    "example": "He became morose after the rejection.",
+    "example_bn": "প্রত্যাখ্যাত হওয়ার পর সে বিষণ্ণ হয়ে পড়ল।",
+    "examples": [
+      "He became morose after the rejection. — প্রত্যাখ্যাত হওয়ার পর সে বিষণ্ণ হয়ে পড়ল।",
+      "At dinner, she explained that 'Morose' means 'unhappy, gloomy, and bad-tempered', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Morose’ শব্দটির অর্থ—অসুখী, বিষণ্ণ ও খিটখিটে মেজাজের—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Morose' as 'unhappy, gloomy, and bad-tempered' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Morose’ শব্দটি অসুখী, বিষণ্ণ ও খিটখিটে মেজাজের অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Mortify",
+    "pronunciation_bn": "মর্টিফাই",
+    "pronunciation": "/ˈmɔː.tɪ.faɪ/",
+    "no": 548,
+    "group": 22,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to cause someone to feel extremely embarrassed or ashamed; to subdue bodily desires in a religious context",
+    "meaning_bn": [
+      "কাউকে অত্যন্ত বিব্রত বা লজ্জিত করা",
+      "ধর্মীয় প্রেক্ষাপটে দেহগত আকাঙ্ক্ষা দমন করা"
+    ],
+    "synonyms": [
+      {
+        "en": "humiliate",
+        "bn": "অপমানিত করা"
+      },
+      {
+        "en": "embarrass",
+        "bn": "বিব্রত করা"
+      },
+      {
+        "en": "shame",
+        "bn": "লজ্জিত করা"
+      },
+      {
+        "en": "Abase",
+        "bn": "অপমান করা"
+      },
+      {
+        "en": "Abash",
+        "bn": "বিব্রত করা"
+      },
+      {
+        "en": "degrade",
+        "bn": "অপমান করা"
+      },
+      {
+        "en": "discomfit",
+        "bn": "বিব্রত করা"
+      },
+      {
+        "en": "Stigmatize",
+        "bn": "কলঙ্কিত করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "honor",
+        "bn": "সম্মানিত করা"
+      },
+      {
+        "en": "praise",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "reassure",
+        "bn": "আশ্বস্ত করা"
+      },
+      {
+        "en": "Exalt",
+        "bn": "উচ্চ প্রশংসা করা"
+      },
+      {
+        "en": "Acclaim",
+        "bn": "প্রকাশ্যে প্রশংসা করা"
+      },
+      {
+        "en": "Extol",
+        "bn": "ভূয়সী প্রশংসা করা"
+      },
+      {
+        "en": "Laud",
+        "bn": "প্রশংসা করা"
+      },
+      {
+        "en": "Tout",
+        "bn": "প্রচার করা"
+      }
+    ],
+    "example": "She was mortified when she tripped on stage.",
+    "example_bn": "মঞ্চে হোঁচট খেয়ে পড়ে যাওয়ায় সে ভীষণ লজ্জিত হয়েছিল।",
+    "examples": [
+      "She was mortified when she tripped on stage. — মঞ্চে হোঁচট খেয়ে পড়ে যাওয়ায় সে ভীষণ লজ্জিত হয়েছিল।",
+      "At dinner, she explained that 'Mortify' means 'to cause someone to feel extremely embarrassed', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Mortify’ শব্দটির অর্থ—কাউকে অত্যন্ত বিব্রত বা লজ্জিত করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Mortify' as 'to cause someone to feel extremely embarrassed' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Mortify’ শব্দটি কাউকে অত্যন্ত বিব্রত বা লজ্জিত করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Mundane",
+    "pronunciation_bn": "মানডেইন",
+    "pronunciation": "/mʌnˈdeɪn/",
+    "no": 549,
+    "group": 22,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "ordinary and not interesting or exciting; relating to everyday life",
+    "meaning_bn": [
+      "সাধারণ ও অনাকর্ষণীয়",
+      "দৈনন্দিন জীবনের সঙ্গে সম্পর্কিত"
+    ],
+    "synonyms": [
+      {
+        "en": "ordinary",
+        "bn": "সাধারণ"
+      },
+      {
+        "en": "everyday",
+        "bn": "দৈনন্দিন"
+      },
+      {
+        "en": "routine",
+        "bn": "নিয়মিত/গতানুগতিক"
+      },
+      {
+        "en": "commonplace",
+        "bn": "নিতান্ত সাধারণ"
+      },
+      {
+        "en": "Prosaic",
+        "bn": "সাদামাটা"
+      },
+      {
+        "en": "Pedestrian",
+        "bn": "গতানুগতিক"
+      },
+      {
+        "en": "Banal",
+        "bn": "গতানুগতিক"
+      },
+      {
+        "en": "quotidian",
+        "bn": "দৈনন্দিন"
+      },
+      {
+        "en": "Bovine",
+        "bn": "গবাদি পশু বা গরুসংক্রান্ত"
+      },
+      {
+        "en": "Insipid",
+        "bn": "বিস্বাদ"
+      },
+      {
+        "en": "Plebeian",
+        "bn": "সাধারণ মানুষের সঙ্গে সম্পর্কিত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "extraordinary",
+        "bn": "অসাধারণ"
+      },
+      {
+        "en": "remarkable",
+        "bn": "উল্লেখযোগ্য"
+      },
+      {
+        "en": "exceptional",
+        "bn": "ব্যতিক্রমী"
+      },
+      {
+        "en": "Ethereal",
+        "bn": "অতিলৌকিক"
+      },
+      {
+        "en": "surreal",
+        "bn": "অবাস্তব"
+      },
+      {
+        "en": "mystic",
+        "bn": "রহস্যময়"
+      },
+      {
+        "en": "Eccentric",
+        "bn": "অদ্ভুত"
+      },
+      {
+        "en": "singular",
+        "bn": "অসাধারণ"
+      },
+      {
+        "en": "occult",
+        "bn": "অতিপ্রাকৃত বা গুপ্তবিদ্যা-সম্পর্কিত"
+      },
+      {
+        "en": "Aboriginal",
+        "bn": "আদিবাসী"
+      },
+      {
+        "en": "Arcane",
+        "bn": "অল্প কয়েকজনের জানা"
+      }
+    ],
+    "example": "He found mundane office tasks tedious.",
+    "example_bn": "সে অফিসের গতানুগতিক কাজগুলোকে একঘেয়ে মনে করত।",
+    "examples": [
+      "He found mundane office tasks tedious. — সে অফিসের গতানুগতিক কাজগুলোকে একঘেয়ে মনে করত।",
+      "At dinner, she explained that 'Mundane' means 'ordinary and not interesting or exciting', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Mundane’ শব্দটির অর্থ—সাধারণ ও অনাকর্ষণীয়—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Mundane' as 'ordinary and not interesting or exciting' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Mundane’ শব্দটি সাধারণ ও অনাকর্ষণীয় অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "Munificent",
+    "pronunciation_bn": "মিউনিফিসেন্ট",
+    "pronunciation": "/mjuːˈnɪf.ɪ.sənt/",
+    "no": 550,
+    "group": 22,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "more generous than is usual, especially in giving money or gifts",
+    "meaning_bn": [
+      "বিশেষত অর্থ বা উপহার দেওয়ার ক্ষেত্রে অত্যন্ত উদার"
+    ],
+    "synonyms": [
+      {
+        "en": "generous",
+        "bn": "উদার"
+      },
+      {
+        "en": "lavish",
+        "bn": "প্রচুর/মুক্তহস্ত"
+      },
+      {
+        "en": "bountiful",
+        "bn": "প্রাচুর্যময়/দানশীল"
+      },
+      {
+        "en": "magnanimous",
+        "bn": "মহানুভব"
+      },
+      {
+        "en": "Benevolent",
+        "bn": "দয়ালু"
+      },
+      {
+        "en": "copious",
+        "bn": "প্রচুর"
+      },
+      {
+        "en": "Opulent",
+        "bn": "বিলাসবহুল"
+      },
+      {
+        "en": "Sublime",
+        "bn": "মহিমান্বিত"
+      },
+      {
+        "en": "sumptuous",
+        "bn": "বিলাসবহুল"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "stingy",
+        "bn": "কৃপণ"
+      },
+      {
+        "en": "miserly",
+        "bn": "অতি কৃপণ"
+      },
+      {
+        "en": "mean",
+        "bn": "কার্পণ্যপূর্ণ"
+      },
+      {
+        "en": "Acquisitive",
+        "bn": "অর্জন করতে আগ্রহী"
+      },
+      {
+        "en": "Frugal",
+        "bn": "মিতব্যয়ী"
+      },
+      {
+        "en": "Parsimonious",
+        "bn": "অত্যন্ত কৃপণ"
+      },
+      {
+        "en": "Ascetic",
+        "bn": "কৃচ্ছ্রসাধনকারী"
+      },
+      {
+        "en": "Austere",
+        "bn": "সাদাসিধে ও অনাড়ম্বর"
+      }
+    ],
+    "example": "The munificent donor gave ten million taka.",
+    "example_bn": "উদার দাতা এক কোটি টাকা দান করেছিলেন।",
+    "examples": [
+      "The munificent donor gave ten million taka. — উদার দাতা এক কোটি টাকা দান করেছিলেন।",
+      "At dinner, she explained that 'Munificent' means 'more generous than is usual, especially in giving', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘Munificent’ শব্দটির অর্থ—বিশেষত অর্থ বা উপহার দেওয়ার ক্ষেত্রে অত্যন্ত উদার—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'Munificent' as 'more generous than is usual, especially in giving' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘Munificent’ শব্দটি বিশেষত অর্থ বা উপহার দেওয়ার ক্ষেত্রে অত্যন্ত উদার অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]

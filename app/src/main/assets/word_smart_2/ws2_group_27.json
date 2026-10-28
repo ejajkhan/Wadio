@@ -1,0 +1,1627 @@
+[
+  {
+    "word": "punitive",
+    "pronunciation_bn": "পিউনিটিভ",
+    "pronunciation": "/ˈpjuː.nɪ.tɪv/",
+    "no": 651,
+    "group": 27,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "intended as a punishment; also, so severe or costly that it has a strongly penalizing effect",
+    "meaning_bn": [
+      "শাস্তিমূলক",
+      "দণ্ড আরোপের উদ্দেশ্যে করা",
+      "অতিরিক্ত কঠোর বা ব্যয়বহুল"
+    ],
+    "synonyms": [
+      {
+        "en": "punishing",
+        "bn": "শাস্তিদায়ক"
+      },
+      {
+        "en": "penal",
+        "bn": "দণ্ডমূলক"
+      },
+      {
+        "en": "retributive",
+        "bn": "প্রতিশোধমূলক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "lenient",
+        "bn": "নমনীয়/লঘুদণ্ডমূলক"
+      },
+      {
+        "en": "rewarding",
+        "bn": "পুরস্কারমূলক"
+      },
+      {
+        "en": "Indulgent",
+        "bn": "প্রশ্রয়দাতা"
+      },
+      {
+        "en": "Lax",
+        "bn": "শিথিল"
+      }
+    ],
+    "example": "The court rejected the proposal for punitive damages.",
+    "example_bn": "আদালত দণ্ডমূলক ক্ষতিপূরণের প্রস্তাবটি প্রত্যাখ্যান করল।",
+    "examples": [
+      "The court rejected the proposal for punitive damages. — আদালত দণ্ডমূলক ক্ষতিপূরণের প্রস্তাবটি প্রত্যাখ্যান করল।",
+      "At dinner, she explained that 'punitive' means 'intended as a punishment', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘punitive’ শব্দটির অর্থ—শাস্তিমূলক—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'punitive' as 'intended as a punishment' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘punitive’ শব্দটি শাস্তিমূলক অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "purblind",
+    "pronunciation_bn": "পারব্লাইন্ড",
+    "pronunciation": "/ˈpɜː.baɪnd/",
+    "no": 652,
+    "group": 27,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "having poor eyesight; figuratively, showing little understanding or insight",
+    "meaning_bn": [
+      "ক্ষীণদৃষ্টিসম্পন্ন",
+      "বিচারবুদ্ধি বা অন্তর্দৃষ্টির অভাব আছে এমন"
+    ],
+    "synonyms": [
+      {
+        "en": "short-sighted",
+        "bn": "ক্ষীণদৃষ্টিসম্পন্ন/দূরদর্শিতাহীন"
+      },
+      {
+        "en": "unperceptive",
+        "bn": "অনুধাবনক্ষমতাহীন"
+      },
+      {
+        "en": "obtuse",
+        "bn": "বোধশক্তিতে ধীর"
+      },
+      {
+        "en": "bland",
+        "bn": "মৃদু"
+      },
+      {
+        "en": "Bovine",
+        "bn": "গবাদি পশু বা গরুসংক্রান্ত"
+      },
+      {
+        "en": "Insipid",
+        "bn": "বিস্বাদ"
+      },
+      {
+        "en": "Prosaic",
+        "bn": "সাদামাটা"
+      },
+      {
+        "en": "Vapid",
+        "bn": "নীরস"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "perceptive",
+        "bn": "তীক্ষ্ণবোধসম্পন্ন"
+      },
+      {
+        "en": "clear-sighted",
+        "bn": "সুস্পষ্ট দৃষ্টিভঙ্গিসম্পন্ন"
+      },
+      {
+        "en": "Astute",
+        "bn": "বিচক্ষণ"
+      },
+      {
+        "en": "Sagacious",
+        "bn": "প্রজ্ঞাবান"
+      },
+      {
+        "en": "Acrid",
+        "bn": "ঝাঁঝালো"
+      },
+      {
+        "en": "Acute",
+        "bn": "তীব্র"
+      },
+      {
+        "en": "engaging",
+        "bn": "আকর্ষণীয়"
+      }
+    ],
+    "example": "His purblind optimism prevented him from noticing the warning signs.",
+    "example_bn": "তার দূরদৃষ্টিহীন আশাবাদ তাকে সতর্কসংকেতগুলো দেখতে দেয়নি।",
+    "examples": [
+      "His purblind optimism prevented him from noticing the warning signs. — তার দূরদৃষ্টিহীন আশাবাদ তাকে সতর্কসংকেতগুলো দেখতে দেয়নি।",
+      "At dinner, she explained that 'purblind' means 'having poor eyesight', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘purblind’ শব্দটির অর্থ—ক্ষীণদৃষ্টিসম্পন্ন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'purblind' as 'having poor eyesight' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘purblind’ শব্দটি ক্ষীণদৃষ্টিসম্পন্ন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "puritanical",
+    "pronunciation_bn": "পিউরিট্যানিক্যাল",
+    "pronunciation": "/ˌpjʊə.rɪˈtæn.ɪ.kəl/",
+    "no": 653,
+    "group": 27,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "very strict about moral or religious behaviour, sometimes to an excessive degree",
+    "meaning_bn": [
+      "নৈতিকতা বা ধর্মীয় আচরণ নিয়ে অত্যন্ত কঠোর",
+      "অতিরিক্ত নীতিবাদী"
+    ],
+    "synonyms": [
+      {
+        "en": "strict",
+        "bn": "কঠোর"
+      },
+      {
+        "en": "prudish",
+        "bn": "যৌনতা বা আচরণে অতিরিক্ত রক্ষণশীল"
+      },
+      {
+        "en": "moralistic",
+        "bn": "নীতিবাদী"
+      },
+      {
+        "en": "Rigorous",
+        "bn": "কঠোর"
+      },
+      {
+        "en": "Stringent",
+        "bn": "কঠোর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "permissive",
+        "bn": "উদার/ছাড় দেওয়া"
+      },
+      {
+        "en": "liberal",
+        "bn": "উদারমনা"
+      },
+      {
+        "en": "Indulgent",
+        "bn": "প্রশ্রয়দাতা"
+      },
+      {
+        "en": "Lax",
+        "bn": "শিথিল"
+      }
+    ],
+    "example": "Her puritanical views made her suspicious of popular entertainment.",
+    "example_bn": "তার অতিরিক্ত নীতিবাদী দৃষ্টিভঙ্গি তাকে জনপ্রিয় বিনোদনের ব্যাপারে সন্দিহান করে তুলেছিল।",
+    "examples": [
+      "Her puritanical views made her suspicious of popular entertainment. — তার অতিরিক্ত নীতিবাদী দৃষ্টিভঙ্গি তাকে জনপ্রিয় বিনোদনের ব্যাপারে সন্দিহান করে তুলেছিল।",
+      "At dinner, she explained that 'puritanical' means 'very strict about moral or religious behaviour, sometimes', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘puritanical’ শব্দটির অর্থ—নৈতিকতা বা ধর্মীয় আচরণ নিয়ে অত্যন্ত কঠোর—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'puritanical' as 'very strict about moral or religious behaviour, sometimes' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘puritanical’ শব্দটি নৈতিকতা বা ধর্মীয় আচরণ নিয়ে অত্যন্ত কঠোর অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "quaint",
+    "pronunciation_bn": "কোয়েইন্ট",
+    "pronunciation": "/kweɪnt/",
+    "no": 654,
+    "group": 27,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "attractively unusual or old-fashioned",
+    "meaning_bn": [
+      "মনোরমভাবে সেকেলে",
+      "অদ্ভুত অথচ আকর্ষণীয়",
+      "পুরোনো ধাঁচের"
+    ],
+    "synonyms": [
+      {
+        "en": "picturesque",
+        "bn": "ছবির মতো সুন্দর"
+      },
+      {
+        "en": "charming",
+        "bn": "মনোমুগ্ধকর"
+      },
+      {
+        "en": "old-fashioned",
+        "bn": "সেকেলে"
+      },
+      {
+        "en": "Idyllic",
+        "bn": "অত্যন্ত মনোরম"
+      },
+      {
+        "en": "engaging",
+        "bn": "আকর্ষণীয়"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "modern",
+        "bn": "আধুনিক"
+      },
+      {
+        "en": "conventional",
+        "bn": "প্রচলিত"
+      },
+      {
+        "en": "Bourgeois",
+        "bn": "মধ্যবিত্ত শ্রেণিসংক্রান্ত"
+      },
+      {
+        "en": "Materialistic",
+        "bn": "বস্তুবাদী"
+      },
+      {
+        "en": "Orthodox",
+        "bn": "প্রথাগত"
+      }
+    ],
+    "example": "They stayed at a quaint inn overlooking the village square.",
+    "example_bn": "তারা গ্রামের চত্বরের দিকে মুখ করা মনোরম পুরোনো ধাঁচের এক সরাইখানায় ছিল।",
+    "examples": [
+      "They stayed at a quaint inn overlooking the village square. — তারা গ্রামের চত্বরের দিকে মুখ করা মনোরম পুরোনো ধাঁচের এক সরাইখানায় ছিল।",
+      "At dinner, she explained that 'quaint' means 'attractively unusual or old-fashioned', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘quaint’ শব্দটির অর্থ—মনোরমভাবে সেকেলে—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'quaint' as 'attractively unusual or old-fashioned' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘quaint’ শব্দটি মনোরমভাবে সেকেলে অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "quandary",
+    "pronunciation_bn": "কোয়ান্ডারি",
+    "pronunciation": "/ˈkwɒn.dər.i/",
+    "no": 655,
+    "group": 27,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a state of uncertainty or confusion, especially when having to make a difficult choice",
+    "meaning_bn": [
+      "দ্বিধা",
+      "সিদ্ধান্তহীনতা",
+      "জটিল বা সংকটপূর্ণ পরিস্থিতি"
+    ],
+    "synonyms": [
+      {
+        "en": "dilemma",
+        "bn": "উভয়সংকট"
+      },
+      {
+        "en": "predicament",
+        "bn": "বিপাকে পড়া অবস্থা"
+      },
+      {
+        "en": "perplexity",
+        "bn": "বিভ্রান্তি"
+      },
+      {
+        "en": "conundrum",
+        "bn": "জটিল সমস্যা"
+      },
+      {
+        "en": "plight",
+        "bn": "দুর্দশা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "certainty",
+        "bn": "নিশ্চয়তা"
+      },
+      {
+        "en": "resolution",
+        "bn": "সমাধান/সিদ্ধান্ত"
+      },
+      {
+        "en": "conviction",
+        "bn": "দৃঢ় বিশ্বাস"
+      }
+    ],
+    "example": "She was in a quandary about which offer to accept.",
+    "example_bn": "কোন প্রস্তাবটি গ্রহণ করবে, তা নিয়ে সে দ্বিধায় পড়েছিল।",
+    "examples": [
+      "She was in a quandary about which offer to accept. — কোন প্রস্তাবটি গ্রহণ করবে, তা নিয়ে সে দ্বিধায় পড়েছিল।",
+      "At dinner, she explained that 'quandary' means 'a state of uncertainty or confusion, especially when', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘quandary’ শব্দটির অর্থ—দ্বিধা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'quandary' as 'a state of uncertainty or confusion, especially when' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘quandary’ শব্দটি দ্বিধা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "quasi",
+    "pronunciation_bn": "কোয়াসাই",
+    "pronunciation": "/ˈkweɪ.zaɪ/",
+    "no": 656,
+    "group": 27,
+    "pos": [
+      "adjective",
+      "prefix"
+    ],
+    "meaning_en": "seemingly or partly; having some resemblance to something without being fully or legally that thing",
+    "meaning_bn": [
+      "প্রায়",
+      "আংশিক",
+      "কোনো কিছুর মতো, কিন্তু পুরোপুরি নয়"
+    ],
+    "synonyms": [
+      {
+        "en": "near",
+        "bn": "প্রায়"
+      },
+      {
+        "en": "resembling",
+        "bn": "সদৃশ"
+      },
+      {
+        "en": "quasi-",
+        "bn": "আংশিক বা প্রায়- অর্থে ব্যবহৃত উপসর্গ"
+      },
+      {
+        "en": "Imminent",
+        "bn": "আসন্ন"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "genuine",
+        "bn": "প্রকৃত"
+      },
+      {
+        "en": "actual",
+        "bn": "বাস্তব/প্রকৃত"
+      }
+    ],
+    "example": "The committee played a quasi-governmental role.",
+    "example_bn": "কমিটিটি প্রায়-সরকারি ভূমিকা পালন করেছিল।",
+    "examples": [
+      "The committee played a quasi-governmental role. — কমিটিটি প্রায়-সরকারি ভূমিকা পালন করেছিল।",
+      "At dinner, she explained that 'quasi' means 'seemingly or partly', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘quasi’ শব্দটির অর্থ—প্রায়—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'quasi' as 'seemingly or partly' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘quasi’ শব্দটি প্রায় অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "quay",
+    "pronunciation_bn": "কি",
+    "pronunciation": "/kiː/",
+    "no": 657,
+    "group": 27,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a platform beside water where ships can load and unload people or goods",
+    "meaning_bn": [
+      "জাহাজ ভেড়ানোর ঘাট",
+      "জলধারের পণ্য ওঠানো-নামানোর স্থান"
+    ],
+    "synonyms": [
+      {
+        "en": "wharf",
+        "bn": "জাহাজঘাট"
+      },
+      {
+        "en": "pier",
+        "bn": "জেটি"
+      },
+      {
+        "en": "dock",
+        "bn": "জাহাজঘাট/ডক"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "inland",
+        "bn": "অভ্যন্তরীণ স্থলভাগ"
+      },
+      {
+        "en": "open sea",
+        "bn": "উন্মুক্ত সমুদ্র"
+      }
+    ],
+    "example": "The fishing boats were moored along the quay.",
+    "example_bn": "মাছ ধরার নৌকাগুলো ঘাটের পাশে নোঙর করা ছিল।",
+    "examples": [
+      "The fishing boats were moored along the quay. — মাছ ধরার নৌকাগুলো ঘাটের পাশে নোঙর করা ছিল।",
+      "At dinner, she explained that 'quay' means 'a platform beside water where ships can load', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘quay’ শব্দটির অর্থ—জাহাজ ভেড়ানোর ঘাট—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'quay' as 'a platform beside water where ships can load' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘quay’ শব্দটি জাহাজ ভেড়ানোর ঘাট অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "quell",
+    "pronunciation_bn": "কুয়েল",
+    "pronunciation": "/kwel/",
+    "no": 658,
+    "group": 27,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to stop or end something, often by using force; to suppress",
+    "meaning_bn": [
+      "দমন করা",
+      "থামিয়ে দেওয়া",
+      "প্রশমিত করা"
+    ],
+    "synonyms": [
+      {
+        "en": "suppress",
+        "bn": "দমন করা"
+      },
+      {
+        "en": "subdue",
+        "bn": "বশে আনা"
+      },
+      {
+        "en": "crush",
+        "bn": "চূর্ণ/দমন করা"
+      },
+      {
+        "en": "repress",
+        "bn": "দমন করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "incite",
+        "bn": "উসকে দেওয়া"
+      },
+      {
+        "en": "provoke",
+        "bn": "প্ররোচিত করা"
+      },
+      {
+        "en": "fuel",
+        "bn": "জ্বালানি"
+      },
+      {
+        "en": "Instigate",
+        "bn": "উসকে দেওয়া"
+      },
+      {
+        "en": "Adduce",
+        "bn": "সমর্থনে প্রমাণ উপস্থাপন করা"
+      },
+      {
+        "en": "Beget",
+        "bn": "জন্ম দেওয়া"
+      },
+      {
+        "en": "Broach",
+        "bn": "আলোচনার জন্য কোনো বিষয় উত্থাপন করা"
+      },
+      {
+        "en": "Disseminate",
+        "bn": "ছড়িয়ে দেওয়া"
+      }
+    ],
+    "example": "The police were called in to quell the disturbance.",
+    "example_bn": "গোলযোগ দমন করতে পুলিশ ডাকা হয়েছিল।",
+    "examples": [
+      "The police were called in to quell the disturbance. — গোলযোগ দমন করতে পুলিশ ডাকা হয়েছিল।",
+      "At dinner, she explained that 'quell' means 'to stop or end something, often by using', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘quell’ শব্দটির অর্থ—দমন করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'quell' as 'to stop or end something, often by using' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘quell’ শব্দটি দমন করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "query",
+    "pronunciation_bn": "কুয়েরি",
+    "pronunciation": "/ˈkwɪə.ri/",
+    "no": 659,
+    "group": 27,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "a question or request for information; to ask a question about something",
+    "meaning_bn": [
+      "প্রশ্ন",
+      "জিজ্ঞাসা",
+      "তথ্য জানার অনুরোধ",
+      "প্রশ্ন করা"
+    ],
+    "synonyms": [
+      {
+        "en": "question",
+        "bn": "প্রশ্ন"
+      },
+      {
+        "en": "inquiry",
+        "bn": "অনুসন্ধান"
+      },
+      {
+        "en": "ask",
+        "bn": "জিজ্ঞাসা করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "answer",
+        "bn": "উত্তর"
+      },
+      {
+        "en": "response",
+        "bn": "প্রতিক্রিয়া/উত্তর"
+      },
+      {
+        "en": "Dictum",
+        "bn": "নীতিবাক্য"
+      },
+      {
+        "en": "presuppose",
+        "bn": "আগে থেকেই ধরে নেওয়া"
+      }
+    ],
+    "example": "Please send any queries about the application to the help desk.",
+    "example_bn": "আবেদন সম্পর্কে যেকোনো প্রশ্ন সহায়তা ডেস্কে পাঠান।",
+    "examples": [
+      "Please send any queries about the application to the help desk. — আবেদন সম্পর্কে যেকোনো প্রশ্ন সহায়তা ডেস্কে পাঠান।",
+      "At dinner, she explained that 'query' means 'a question or request for information', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘query’ শব্দটির অর্থ—প্রশ্ন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'query' as 'a question or request for information' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘query’ শব্দটি প্রশ্ন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "queue",
+    "pronunciation_bn": "কিউ",
+    "pronunciation": "/kjuː/",
+    "no": 660,
+    "group": 27,
+    "pos": [
+      "noun",
+      "verb"
+    ],
+    "meaning_en": "a line of people or vehicles waiting for something; to form or join such a line",
+    "meaning_bn": [
+      "সারি",
+      "অপেক্ষমাণ মানুষের লাইন",
+      "সারিতে দাঁড়ানো"
+    ],
+    "synonyms": [
+      {
+        "en": "line",
+        "bn": "লাইন/সারি"
+      },
+      {
+        "en": "line-up",
+        "bn": "সারি"
+      },
+      {
+        "en": "file",
+        "bn": "সারি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "disperse",
+        "bn": "ছত্রভঙ্গ হওয়া"
+      },
+      {
+        "en": "scatter",
+        "bn": "ছড়িয়ে পড়া"
+      },
+      {
+        "en": "Intersperse",
+        "bn": "মাঝে মাঝে ছড়িয়ে দেওয়া"
+      },
+      {
+        "en": "diffuse",
+        "bn": "ছড়িয়ে পড়া"
+      },
+      {
+        "en": "Disseminate",
+        "bn": "ছড়িয়ে দেওয়া"
+      },
+      {
+        "en": "Dissipate",
+        "bn": "ধীরে ধীরে মিলিয়ে যাওয়া"
+      },
+      {
+        "en": "propagate",
+        "bn": "বংশবিস্তার করা"
+      }
+    ],
+    "example": "We joined the queue to buy tickets.",
+    "example_bn": "টিকিট কেনার জন্য আমরা লাইনে দাঁড়ালাম।",
+    "examples": [
+      "We joined the queue to buy tickets. — টিকিট কেনার জন্য আমরা লাইনে দাঁড়ালাম।",
+      "At dinner, she explained that 'queue' means 'a line of people or vehicles waiting', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘queue’ শব্দটির অর্থ—সারি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'queue' as 'a line of people or vehicles waiting' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘queue’ শব্দটি সারি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "quiescent",
+    "pronunciation_bn": "কুইএসেন্ট",
+    "pronunciation": "/kwiˈes.ənt/",
+    "no": 661,
+    "group": 27,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "quiet, inactive, or temporarily dormant",
+    "meaning_bn": [
+      "নিষ্ক্রিয়",
+      "স্থির",
+      "সুপ্ত অবস্থায় থাকা"
+    ],
+    "synonyms": [
+      {
+        "en": "dormant",
+        "bn": "সুপ্ত"
+      },
+      {
+        "en": "inactive",
+        "bn": "নিষ্ক্রিয়"
+      },
+      {
+        "en": "still",
+        "bn": "স্থির"
+      },
+      {
+        "en": "defunct",
+        "bn": "অস্তিত্বহীন"
+      },
+      {
+        "en": "Inert",
+        "bn": "নিষ্ক্রিয়"
+      },
+      {
+        "en": "Latent",
+        "bn": "সুপ্ত"
+      },
+      {
+        "en": "Moribund",
+        "bn": "মৃত্যুপথযাত্রী"
+      },
+      {
+        "en": "sedentary",
+        "bn": "বেশিরভাগ সময় বসে থাকা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "active",
+        "bn": "সক্রিয়"
+      },
+      {
+        "en": "agitated",
+        "bn": "উত্তেজিত/অস্থির"
+      },
+      {
+        "en": "Manifest",
+        "bn": "স্পষ্ট"
+      },
+      {
+        "en": "nomadic",
+        "bn": "যাযাবর"
+      },
+      {
+        "en": "Prolific",
+        "bn": "প্রচুর সৃষ্টি বা উৎপাদন করে এমন"
+      }
+    ],
+    "example": "The volcano has remained quiescent for decades.",
+    "example_bn": "আগ্নেয়গিরিটি কয়েক দশক ধরে নিষ্ক্রিয় রয়েছে।",
+    "examples": [
+      "The volcano has remained quiescent for decades. — আগ্নেয়গিরিটি কয়েক দশক ধরে নিষ্ক্রিয় রয়েছে।",
+      "At dinner, she explained that 'quiescent' means 'quiet, inactive, or temporarily dormant', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘quiescent’ শব্দটির অর্থ—নিষ্ক্রিয়—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'quiescent' as 'quiet, inactive, or temporarily dormant' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘quiescent’ শব্দটি নিষ্ক্রিয় অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "quintessential",
+    "pronunciation_bn": "কুইনটিসেনশাল",
+    "pronunciation": "/ˌkwɪn.tɪˈsen.ʃəl/",
+    "no": 662,
+    "group": 27,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "representing the most typical or perfect example of a particular quality or type",
+    "meaning_bn": [
+      "আদর্শ উদাহরণস্বরূপ",
+      "কোনো কিছুর সবচেয়ে বৈশিষ্ট্যপূর্ণ নমুনা",
+      "নিখুঁত উদাহরণ"
+    ],
+    "synonyms": [
+      {
+        "en": "typical",
+        "bn": "আদর্শ/প্রতিনিধিত্বমূলক"
+      },
+      {
+        "en": "classic",
+        "bn": "ধ্রুপদি/আদর্শ"
+      },
+      {
+        "en": "archetypal",
+        "bn": "আদিরূপসুলভ"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "atypical",
+        "bn": "ব্যতিক্রমী"
+      },
+      {
+        "en": "unrepresentative",
+        "bn": "প্রতিনিধিত্ব করে না এমন"
+      },
+      {
+        "en": "Eccentric",
+        "bn": "অদ্ভুত"
+      },
+      {
+        "en": "Egregious",
+        "bn": "চরম জঘন্য"
+      },
+      {
+        "en": "faux",
+        "bn": "নকল"
+      }
+    ],
+    "example": "For many people, the bicycle is the quintessential means of transport in the city.",
+    "example_bn": "অনেকের কাছে সাইকেল শহরের যাতায়াতের আদর্শ মাধ্যম।",
+    "examples": [
+      "For many people, the bicycle is the quintessential means of transport in the city. — অনেকের কাছে সাইকেল শহরের যাতায়াতের আদর্শ মাধ্যম।",
+      "At dinner, she explained that 'quintessential' means 'representing the most typical or perfect example', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘quintessential’ শব্দটির অর্থ—আদর্শ উদাহরণস্বরূপ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'quintessential' as 'representing the most typical or perfect example' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘quintessential’ শব্দটি আদর্শ উদাহরণস্বরূপ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "quizzical",
+    "pronunciation_bn": "কুইজিক্যাল",
+    "pronunciation": "/ˈkwɪz.ɪ.kəl/",
+    "no": 663,
+    "group": 27,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "showing mild amusement, curiosity, or confusion, often through an expression or look",
+    "meaning_bn": [
+      "কৌতুকমিশ্রিত",
+      "প্রশ্নসূচক",
+      "কৌতূহলী বা বিস্মিত"
+    ],
+    "synonyms": [
+      {
+        "en": "questioning",
+        "bn": "প্রশ্নসূচক"
+      },
+      {
+        "en": "inquisitive",
+        "bn": "অনুসন্ধিৎসু"
+      },
+      {
+        "en": "puzzled",
+        "bn": "বিভ্রান্ত"
+      },
+      {
+        "en": "Bemused",
+        "bn": "বিভ্রান্ত"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "unquestioning",
+        "bn": "প্রশ্নহীন"
+      },
+      {
+        "en": "certain",
+        "bn": "নিশ্চিত"
+      }
+    ],
+    "example": "She gave him a quizzical look when he offered that explanation.",
+    "example_bn": "সে ব্যাখ্যাটি দেওয়ার পর সে তাকে প্রশ্নসূচক দৃষ্টিতে তাকাল।",
+    "examples": [
+      "She gave him a quizzical look when he offered that explanation. — সে ব্যাখ্যাটি দেওয়ার পর সে তাকে প্রশ্নসূচক দৃষ্টিতে তাকাল।",
+      "At dinner, she explained that 'quizzical' means 'showing mild amusement, curiosity, or confusion, often through', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘quizzical’ শব্দটির অর্থ—কৌতুকমিশ্রিত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'quizzical' as 'showing mild amusement, curiosity, or confusion, often through' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘quizzical’ শব্দটি কৌতুকমিশ্রিত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "quotidian",
+    "pronunciation_bn": "কোয়োটিডিয়ান",
+    "pronunciation": "/kwɒˈtɪd.i.ən/",
+    "no": 664,
+    "group": 27,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "happening every day; ordinary or commonplace",
+    "meaning_bn": [
+      "দৈনন্দিন",
+      "প্রতিদিনকার",
+      "সাধারণ"
+    ],
+    "synonyms": [
+      {
+        "en": "daily",
+        "bn": "প্রতিদিনের"
+      },
+      {
+        "en": "everyday",
+        "bn": "দৈনন্দিন"
+      },
+      {
+        "en": "routine",
+        "bn": "নিয়মিত/রুটিনমাফিক"
+      },
+      {
+        "en": "Mundane",
+        "bn": "সাধারণ ও অনাকর্ষণীয়"
+      },
+      {
+        "en": "diurnal",
+        "bn": "দিবাচর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "exceptional",
+        "bn": "ব্যতিক্রমী"
+      },
+      {
+        "en": "extraordinary",
+        "bn": "অসাধারণ"
+      },
+      {
+        "en": "singular",
+        "bn": "অসাধারণ"
+      }
+    ],
+    "example": "She found small pleasures in the quotidian routines of family life.",
+    "example_bn": "পারিবারিক জীবনের দৈনন্দিন রুটিনে সে ছোট ছোট আনন্দ খুঁজে পেত।",
+    "examples": [
+      "She found small pleasures in the quotidian routines of family life. — পারিবারিক জীবনের দৈনন্দিন রুটিনে সে ছোট ছোট আনন্দ খুঁজে পেত।",
+      "At dinner, she explained that 'quotidian' means 'happening every day', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘quotidian’ শব্দটির অর্থ—দৈনন্দিন—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'quotidian' as 'happening every day' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘quotidian’ শব্দটি দৈনন্দিন অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "rampant",
+    "pronunciation_bn": "র‍্যাম্প্যান্ট",
+    "pronunciation": "/ˈræm.pənt/",
+    "no": 665,
+    "group": 27,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "existing or spreading widely and in an uncontrolled way",
+    "meaning_bn": [
+      "ব্যাপকভাবে ছড়িয়ে পড়া",
+      "নিয়ন্ত্রণহীন",
+      "প্রবল"
+    ],
+    "synonyms": [
+      {
+        "en": "widespread",
+        "bn": "ব্যাপক"
+      },
+      {
+        "en": "unchecked",
+        "bn": "নিয়ন্ত্রণহীন"
+      },
+      {
+        "en": "prevalent",
+        "bn": "প্রচলিত/ব্যাপক"
+      },
+      {
+        "en": "rife",
+        "bn": "ব্যাপকভাবে ছড়িয়ে থাকা"
+      },
+      {
+        "en": "Endemic",
+        "bn": "নির্দিষ্ট অঞ্চল বা গোষ্ঠীতে স্বাভাবিকভাবে বিদ্যমান"
+      },
+      {
+        "en": "pandemic",
+        "bn": "বিশ্বব্যাপী বা বিস্তীর্ণ অঞ্চলে ছড়িয়ে পড়া মহামারি"
+      },
+      {
+        "en": "Ubiquitous",
+        "bn": "সর্বত্র বিরাজমান"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "controlled",
+        "bn": "নিয়ন্ত্রিত"
+      },
+      {
+        "en": "contained",
+        "bn": "সীমাবদ্ধ"
+      }
+    ],
+    "example": "Corruption became rampant in the department.",
+    "example_bn": "বিভাগটিতে দুর্নীতি ব্যাপকভাবে ছড়িয়ে পড়েছিল।",
+    "examples": [
+      "Corruption became rampant in the department. — বিভাগটিতে দুর্নীতি ব্যাপকভাবে ছড়িয়ে পড়েছিল।",
+      "At dinner, she explained that 'rampant' means 'existing or spreading widely and in an uncontrolled', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘rampant’ শব্দটির অর্থ—ব্যাপকভাবে ছড়িয়ে পড়া—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'rampant' as 'existing or spreading widely and in an uncontrolled' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘rampant’ শব্দটি ব্যাপকভাবে ছড়িয়ে পড়া অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "rapture",
+    "pronunciation_bn": "র‍্যাপচার",
+    "pronunciation": "/ˈræp.tʃər/",
+    "no": 666,
+    "group": 27,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "a feeling of intense pleasure, joy, or delight",
+    "meaning_bn": [
+      "পরম আনন্দ",
+      "উচ্ছ্বাস",
+      "আনন্দে বিভোর অবস্থা"
+    ],
+    "synonyms": [
+      {
+        "en": "ecstasy",
+        "bn": "পরমানন্দ"
+      },
+      {
+        "en": "bliss",
+        "bn": "পরম সুখ"
+      },
+      {
+        "en": "elation",
+        "bn": "প্রবল আনন্দ"
+      },
+      {
+        "en": "Felicity",
+        "bn": "পরম সুখ"
+      },
+      {
+        "en": "Jubilation",
+        "bn": "উল্লাস"
+      },
+      {
+        "en": "nirvana",
+        "bn": "বৌদ্ধধর্মে দুঃখ ও পুনর্জন্মের চক্র থেকে মুক্তির পরম অবস্থা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "misery",
+        "bn": "দুর্দশা"
+      },
+      {
+        "en": "despair",
+        "bn": "হতাশা"
+      },
+      {
+        "en": "Affliction",
+        "bn": "দুর্দশা"
+      },
+      {
+        "en": "dirge",
+        "bn": "শোকগীতি"
+      },
+      {
+        "en": "Melancholy",
+        "bn": "বিষণ্নতা"
+      },
+      {
+        "en": "elegy",
+        "bn": "শোকগাথা"
+      },
+      {
+        "en": "pathos",
+        "bn": "করুণা বা দুঃখ জাগায় এমন আবেগময়তা"
+      }
+    ],
+    "example": "The audience listened in rapture to the final movement.",
+    "example_bn": "শ্রোতারা শেষ সুরাংশটি পরম আনন্দে মগ্ন হয়ে শুনলেন।",
+    "examples": [
+      "The audience listened in rapture to the final movement. — শ্রোতারা শেষ সুরাংশটি পরম আনন্দে মগ্ন হয়ে শুনলেন।",
+      "At dinner, she explained that 'rapture' means 'a feeling of intense pleasure, joy, or delight', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘rapture’ শব্দটির অর্থ—পরম আনন্দ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'rapture' as 'a feeling of intense pleasure, joy, or delight' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘rapture’ শব্দটি পরম আনন্দ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "rarefied",
+    "pronunciation_bn": "রেয়ারিফাইড",
+    "pronunciation": "/ˈreə.rɪ.faɪd/",
+    "no": 667,
+    "group": 27,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "understood or appreciated by only a small, specialized group; also, thin in density",
+    "meaning_bn": [
+      "অতি বিশেষায়িত",
+      "সীমিত গোষ্ঠীর বোধগম্য",
+      "বিরল/পাতলা"
+    ],
+    "synonyms": [
+      {
+        "en": "esoteric",
+        "bn": "গূঢ়/বিশেষজ্ঞদের বোধগম্য"
+      },
+      {
+        "en": "exclusive",
+        "bn": "সীমিত গোষ্ঠীর জন্য"
+      },
+      {
+        "en": "specialized",
+        "bn": "বিশেষায়িত"
+      },
+      {
+        "en": "Proprietary",
+        "bn": "কোনো ব্যক্তি বা প্রতিষ্ঠানের মালিকানাধীন"
+      },
+      {
+        "en": "Abstruse",
+        "bn": "দুর্বোধ্য"
+      },
+      {
+        "en": "Arcane",
+        "bn": "অল্প কয়েকজনের জানা"
+      },
+      {
+        "en": "Cryptic",
+        "bn": "রহস্যময়"
+      },
+      {
+        "en": "mystic",
+        "bn": "রহস্যময়"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "commonplace",
+        "bn": "সাধারণ"
+      },
+      {
+        "en": "accessible",
+        "bn": "সহজবোধ্য/সবার নাগালে"
+      },
+      {
+        "en": "Banal",
+        "bn": "গতানুগতিক"
+      },
+      {
+        "en": "Explicit",
+        "bn": "সুস্পষ্ট"
+      },
+      {
+        "en": "Flagrant",
+        "bn": "প্রকাশ্য ও গুরুতর"
+      },
+      {
+        "en": "Hackneyed",
+        "bn": "বহুল ব্যবহারে মামুলি হয়ে যাওয়া"
+      },
+      {
+        "en": "Limpid",
+        "bn": "স্বচ্ছ"
+      }
+    ],
+    "example": "The discussion moved into the rarefied world of theoretical physics.",
+    "example_bn": "আলোচনাটি তাত্ত্বিক পদার্থবিজ্ঞানের অতি বিশেষায়িত জগতে প্রবেশ করল।",
+    "examples": [
+      "The discussion moved into the rarefied world of theoretical physics. — আলোচনাটি তাত্ত্বিক পদার্থবিজ্ঞানের অতি বিশেষায়িত জগতে প্রবেশ করল।",
+      "At dinner, she explained that 'rarefied' means 'understood or appreciated by only a small, specialized', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘rarefied’ শব্দটির অর্থ—অতি বিশেষায়িত—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'rarefied' as 'understood or appreciated by only a small, specialized' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘rarefied’ শব্দটি অতি বিশেষায়িত অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "ratify",
+    "pronunciation_bn": "র‍্যাটিফাই",
+    "pronunciation": "/ˈræt.ɪ.faɪ/",
+    "no": 668,
+    "group": 27,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to approve or confirm a treaty, agreement, or decision formally",
+    "meaning_bn": [
+      "আনুষ্ঠানিকভাবে অনুমোদন করা",
+      "অনুমোদন দিয়ে নিশ্চিত করা"
+    ],
+    "synonyms": [
+      {
+        "en": "approve",
+        "bn": "অনুমোদন করা"
+      },
+      {
+        "en": "confirm",
+        "bn": "নিশ্চিত করা"
+      },
+      {
+        "en": "endorse",
+        "bn": "সমর্থন/অনুমোদন করা"
+      },
+      {
+        "en": "Corroborate",
+        "bn": "প্রমাণ দিয়ে সমর্থন করা"
+      },
+      {
+        "en": "Countenance",
+        "bn": "মুখমণ্ডল"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "reject",
+        "bn": "প্রত্যাখ্যান করা"
+      },
+      {
+        "en": "revoke",
+        "bn": "বাতিল করা"
+      },
+      {
+        "en": "expostulate",
+        "bn": "যুক্তি দিয়ে আপত্তি জানানো"
+      },
+      {
+        "en": "nullify",
+        "bn": "বাতিল করা"
+      },
+      {
+        "en": "Qualify",
+        "bn": "কোনো বক্তব্যের অর্থ সীমিত বা শর্তযুক্ত করা"
+      },
+      {
+        "en": "Rebut",
+        "bn": "খণ্ডন করা"
+      },
+      {
+        "en": "Refute",
+        "bn": "খণ্ডন করা"
+      }
+    ],
+    "example": "The parliament voted to ratify the treaty.",
+    "example_bn": "সংসদ চুক্তিটি অনুমোদনের পক্ষে ভোট দিল।",
+    "examples": [
+      "The parliament voted to ratify the treaty. — সংসদ চুক্তিটি অনুমোদনের পক্ষে ভোট দিল।",
+      "At dinner, she explained that 'ratify' means 'to approve or confirm a treaty, agreement', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘ratify’ শব্দটির অর্থ—আনুষ্ঠানিকভাবে অনুমোদন করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'ratify' as 'to approve or confirm a treaty, agreement' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘ratify’ শব্দটি আনুষ্ঠানিকভাবে অনুমোদন করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "ratiocination",
+    "pronunciation_bn": "র‍্যাশিওসিনেইশন",
+    "pronunciation": "/ˌræʃ.i.ɒs.ɪˈneɪ.ʃən/",
+    "no": 669,
+    "group": 27,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the process of logical reasoning",
+    "meaning_bn": [
+      "যুক্তিনির্ভর চিন্তা",
+      "যৌক্তিক বিশ্লেষণ",
+      "যুক্তি প্রয়োগের প্রক্রিয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "reasoning",
+        "bn": "যুক্তি প্রয়োগ"
+      },
+      {
+        "en": "deduction",
+        "bn": "অবোহনমূলক যুক্তি"
+      },
+      {
+        "en": "inference",
+        "bn": "অনুমিতি"
+      },
+      {
+        "en": "rationale",
+        "bn": "যুক্তি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "irrationality",
+        "bn": "অযৌক্তিকতা"
+      },
+      {
+        "en": "guesswork",
+        "bn": "অনুমাননির্ভর কাজ"
+      },
+      {
+        "en": "remuneration",
+        "bn": "পারিশ্রমিক"
+      }
+    ],
+    "example": "Careful ratiocination helped the judge assess the evidence.",
+    "example_bn": "সতর্ক যুক্তিবিশ্লেষণ বিচারককে প্রমাণ মূল্যায়নে সাহায্য করেছিল।",
+    "examples": [
+      "Careful ratiocination helped the judge assess the evidence. — সতর্ক যুক্তিবিশ্লেষণ বিচারককে প্রমাণ মূল্যায়নে সাহায্য করেছিল।",
+      "At dinner, she explained that 'ratiocination' means 'the process of logical reasoning', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘ratiocination’ শব্দটির অর্থ—যুক্তিনির্ভর চিন্তা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'ratiocination' as 'the process of logical reasoning' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘ratiocination’ শব্দটি যুক্তিনির্ভর চিন্তা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "rationale",
+    "pronunciation_bn": "র‍্যাশনাল",
+    "pronunciation": "/ˌræʃ.əˈnɑːl/",
+    "no": 670,
+    "group": 27,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the reasons or logical basis for a decision, action, or belief",
+    "meaning_bn": [
+      "যুক্তি",
+      "অন্তর্নিহিত কারণ",
+      "যৌক্তিক ভিত্তি"
+    ],
+    "synonyms": [
+      {
+        "en": "reasoning",
+        "bn": "যুক্তি"
+      },
+      {
+        "en": "basis",
+        "bn": "ভিত্তি"
+      },
+      {
+        "en": "justification",
+        "bn": "যৌক্তিকতা/সমর্থন"
+      },
+      {
+        "en": "ratiocination",
+        "bn": "যুক্তিনির্ভর চিন্তা"
+      },
+      {
+        "en": "underpinning",
+        "bn": "ভিত্তি"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "irrationality",
+        "bn": "অযৌক্তিকতা"
+      },
+      {
+        "en": "inconsistency",
+        "bn": "অসংগতি"
+      },
+      {
+        "en": "Paradox",
+        "bn": "আপাতদৃষ্টিতে স্ববিরোধী বক্তব্য"
+      },
+      {
+        "en": "discrepancy",
+        "bn": "অমিল"
+      }
+    ],
+    "example": "The report explained the rationale behind the new policy.",
+    "example_bn": "প্রতিবেদনটি নতুন নীতির পেছনের যুক্তি ব্যাখ্যা করেছিল।",
+    "examples": [
+      "The report explained the rationale behind the new policy. — প্রতিবেদনটি নতুন নীতির পেছনের যুক্তি ব্যাখ্যা করেছিল।",
+      "At dinner, she explained that 'rationale' means 'the reasons or logical basis for a decision', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘rationale’ শব্দটির অর্থ—যুক্তি—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'rationale' as 'the reasons or logical basis for a decision' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘rationale’ শব্দটি যুক্তি অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "raucous",
+    "pronunciation_bn": "রকাস",
+    "pronunciation": "/ˈrɔː.kəs/",
+    "no": 671,
+    "group": 27,
+    "pos": [
+      "adjective"
+    ],
+    "meaning_en": "very loud, rough, and often unpleasant",
+    "meaning_bn": [
+      "কর্কশ",
+      "উচ্চকণ্ঠ",
+      "হইচইপূর্ণ"
+    ],
+    "synonyms": [
+      {
+        "en": "harsh",
+        "bn": "কর্কশ"
+      },
+      {
+        "en": "rowdy",
+        "bn": "উচ্ছৃঙ্খল/হইচইপূর্ণ"
+      },
+      {
+        "en": "boisterous",
+        "bn": "প্রচণ্ড হৈচৈপূর্ণ"
+      },
+      {
+        "en": "Astringent",
+        "bn": "কঠোর"
+      },
+      {
+        "en": "draconian",
+        "bn": "অত্যন্ত কঠোর"
+      },
+      {
+        "en": "stark",
+        "bn": "কঠোর"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "quiet",
+        "bn": "শান্ত"
+      },
+      {
+        "en": "soft",
+        "bn": "মৃদু"
+      },
+      {
+        "en": "subdued",
+        "bn": "দমিত/নিম্নস্বরে"
+      },
+      {
+        "en": "Mellifluous",
+        "bn": "শুনতে মধুর, মসৃণ ও সুরেলা"
+      },
+      {
+        "en": "Taciturn",
+        "bn": "স্বল্পভাষী"
+      },
+      {
+        "en": "demure",
+        "bn": "লাজুক ও সংযত"
+      },
+      {
+        "en": "Idyllic",
+        "bn": "অত্যন্ত মনোরম"
+      }
+    ],
+    "example": "Raucous cheering echoed around the stadium.",
+    "example_bn": "স্টেডিয়ামজুড়ে উচ্চকণ্ঠ উল্লাসধ্বনি প্রতিধ্বনিত হলো।",
+    "examples": [
+      "Raucous cheering echoed around the stadium. — স্টেডিয়ামজুড়ে উচ্চকণ্ঠ উল্লাসধ্বনি প্রতিধ্বনিত হলো।",
+      "At dinner, she explained that 'raucous' means 'very loud, rough, and often unpleasant', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘raucous’ শব্দটির অর্থ—কর্কশ—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'raucous' as 'very loud, rough, and often unpleasant' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘raucous’ শব্দটি কর্কশ অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "reactionary",
+    "pronunciation_bn": "রিঅ্যাকশনারি",
+    "pronunciation": "/riˈæk.ʃən.ər.i/",
+    "no": 672,
+    "group": 27,
+    "pos": [
+      "adjective",
+      "noun"
+    ],
+    "meaning_en": "opposed to political or social change and favouring a return to an earlier order; a person with such views",
+    "meaning_bn": [
+      "প্রতিক্রিয়াশীল",
+      "পরিবর্তনবিরোধী অতিরক্ষণশীল",
+      "প্রতিক্রিয়াশীল ব্যক্তি"
+    ],
+    "synonyms": [
+      {
+        "en": "ultraconservative",
+        "bn": "চরম রক্ষণশীল"
+      },
+      {
+        "en": "regressive",
+        "bn": "পশ্চাৎমুখী"
+      },
+      {
+        "en": "traditionalist",
+        "bn": "ঐতিহ্যবাদী"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "progressive",
+        "bn": "প্রগতিশীল"
+      },
+      {
+        "en": "reformist",
+        "bn": "সংস্কারপন্থী"
+      },
+      {
+        "en": "Iconoclast",
+        "bn": "প্রচলিত বিশ্বাস ও প্রথার বিরোধিতাকারী ব্যক্তি"
+      }
+    ],
+    "example": "The reactionary group opposed every proposed reform.",
+    "example_bn": "প্রতিক্রিয়াশীল গোষ্ঠীটি প্রস্তাবিত প্রতিটি সংস্কারের বিরোধিতা করল।",
+    "examples": [
+      "The reactionary group opposed every proposed reform. — প্রতিক্রিয়াশীল গোষ্ঠীটি প্রস্তাবিত প্রতিটি সংস্কারের বিরোধিতা করল।",
+      "At dinner, she explained that 'reactionary' means 'opposed to political or social change and favouring', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘reactionary’ শব্দটির অর্থ—প্রতিক্রিয়াশীল—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'reactionary' as 'opposed to political or social change and favouring' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘reactionary’ শব্দটি প্রতিক্রিয়াশীল অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "rebuff",
+    "pronunciation_bn": "রিবাফ",
+    "pronunciation": "/rɪˈbʌf/",
+    "no": 673,
+    "group": 27,
+    "pos": [
+      "verb",
+      "noun"
+    ],
+    "meaning_en": "to reject someone or something in an abrupt or unkind way; a blunt rejection",
+    "meaning_bn": [
+      "রূঢ়ভাবে প্রত্যাখ্যান করা",
+      "প্রত্যাখ্যান",
+      "ফিরিয়ে দেওয়া"
+    ],
+    "synonyms": [
+      {
+        "en": "reject",
+        "bn": "প্রত্যাখ্যান করা"
+      },
+      {
+        "en": "snub",
+        "bn": "অবজ্ঞা করে ফিরিয়ে দেওয়া"
+      },
+      {
+        "en": "repulse",
+        "bn": "প্রত্যাখ্যান করা"
+      },
+      {
+        "en": "spurn",
+        "bn": "অবজ্ঞাভরে প্রত্যাখ্যান করা"
+      },
+      {
+        "en": "Repudiate",
+        "bn": "প্রত্যাখ্যান করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "accept",
+        "bn": "গ্রহণ করা"
+      },
+      {
+        "en": "welcome",
+        "bn": "সাদরে গ্রহণ করা"
+      },
+      {
+        "en": "Assimilate",
+        "bn": "আত্মস্থ করা"
+      },
+      {
+        "en": "Countenance",
+        "bn": "মুখমণ্ডল"
+      },
+      {
+        "en": "Espouse",
+        "bn": "সমর্থন করা"
+      },
+      {
+        "en": "ratify",
+        "bn": "আনুষ্ঠানিকভাবে অনুমোদন করা"
+      },
+      {
+        "en": "salutation",
+        "bn": "অভিবাদন"
+      }
+    ],
+    "example": "Her offer of help was rebuffed.",
+    "example_bn": "তার সাহায্যের প্রস্তাবটি প্রত্যাখ্যান করা হয়েছিল।",
+    "examples": [
+      "Her offer of help was rebuffed. — তার সাহায্যের প্রস্তাবটি প্রত্যাখ্যান করা হয়েছিল।",
+      "At dinner, she explained that 'rebuff' means 'to reject someone or something in an abrupt', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘rebuff’ শব্দটির অর্থ—রূঢ়ভাবে প্রত্যাখ্যান করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'rebuff' as 'to reject someone or something in an abrupt' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘rebuff’ শব্দটি রূঢ়ভাবে প্রত্যাখ্যান করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "recidivism",
+    "pronunciation_bn": "রিসিডিভিজম",
+    "pronunciation": "/rɪˈsɪd.ɪ.vɪ.zəm/",
+    "no": 674,
+    "group": 27,
+    "pos": [
+      "noun"
+    ],
+    "meaning_en": "the tendency of a convicted person to commit crimes again",
+    "meaning_bn": [
+      "পুনরায় অপরাধ করার প্রবণতা",
+      "অপরাধে পুনরাবৃত্তি"
+    ],
+    "synonyms": [
+      {
+        "en": "reoffending",
+        "bn": "পুনরায় অপরাধ করা"
+      },
+      {
+        "en": "relapse",
+        "bn": "পুনরায় আগের অবস্থায় ফিরে যাওয়া"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "desistance",
+        "bn": "অপরাধ থেকে বিরত থাকা"
+      },
+      {
+        "en": "rehabilitation",
+        "bn": "পুনর্বাসন"
+      }
+    ],
+    "example": "Effective rehabilitation can help reduce recidivism.",
+    "example_bn": "কার্যকর পুনর্বাসন পুনরায় অপরাধ করার প্রবণতা কমাতে পারে।",
+    "examples": [
+      "Effective rehabilitation can help reduce recidivism. — কার্যকর পুনর্বাসন পুনরায় অপরাধ করার প্রবণতা কমাতে পারে।",
+      "At dinner, she explained that 'recidivism' means 'the tendency of a convicted person to commit', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘recidivism’ শব্দটির অর্থ—পুনরায় অপরাধ করার প্রবণতা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'recidivism' as 'the tendency of a convicted person to commit' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘recidivism’ শব্দটি পুনরায় অপরাধ করার প্রবণতা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  },
+  {
+    "word": "redeem",
+    "pronunciation_bn": "রিডিম",
+    "pronunciation": "/rɪˈdiːm/",
+    "no": 675,
+    "group": 27,
+    "pos": [
+      "verb"
+    ],
+    "meaning_en": "to regain possession of something; to fulfil a promise; to compensate for a fault; or to save someone from sin or error",
+    "meaning_bn": [
+      "পুনরুদ্ধার করা",
+      "প্রতিশ্রুতি পূরণ করা",
+      "ভুলের প্রায়শ্চিত্ত করা",
+      "মুক্ত করা/উদ্ধার করা"
+    ],
+    "synonyms": [
+      {
+        "en": "recover",
+        "bn": "পুনরুদ্ধার করা"
+      },
+      {
+        "en": "retrieve",
+        "bn": "ফিরে পাওয়া"
+      },
+      {
+        "en": "make amends",
+        "bn": "ক্ষতিপূরণ/প্রায়শ্চিত্ত করা"
+      },
+      {
+        "en": "fulfil",
+        "bn": "পূরণ করা"
+      },
+      {
+        "en": "expiate",
+        "bn": "প্রায়শ্চিত্ত করা"
+      },
+      {
+        "en": "Atone",
+        "bn": "প্রায়শ্চিত্ত করা"
+      }
+    ],
+    "antonyms": [
+      {
+        "en": "forfeit",
+        "bn": "খোয়ানো"
+      },
+      {
+        "en": "betray",
+        "bn": "বিশ্বাসভঙ্গ করা"
+      },
+      {
+        "en": "worsen",
+        "bn": "আরও খারাপ করা"
+      },
+      {
+        "en": "Degenerate",
+        "bn": "অবনতি হওয়া"
+      },
+      {
+        "en": "fester",
+        "bn": "ক্ষতে পুঁজ জমা"
+      },
+      {
+        "en": "Exacerbate",
+        "bn": "আরও খারাপ করে তোলা"
+      },
+      {
+        "en": "Vex",
+        "bn": "বিরক্ত করা"
+      }
+    ],
+    "example": "He tried to redeem himself by admitting his mistake and making amends.",
+    "example_bn": "নিজের ভুল স্বীকার করে ক্ষতিপূরণ দেওয়ার মাধ্যমে সে নিজের ভুলের প্রায়শ্চিত্ত করতে চেয়েছিল।",
+    "examples": [
+      "He tried to redeem himself by admitting his mistake and making amends. — নিজের ভুল স্বীকার করে ক্ষতিপূরণ দেওয়ার মাধ্যমে সে নিজের ভুলের প্রায়শ্চিত্ত করতে চেয়েছিল।",
+      "At dinner, she explained that 'redeem' means 'to regain possession of something', giving her family a clear everyday example. — রাতের খাবারের সময় বিভ্রান্তিকর একটি কথোপকথনের পর সে পরিবারের কাছে ‘redeem’ শব্দটির অর্থ—পুনরুদ্ধার করা—ব্যাখ্যা করেছিল।",
+      "In the article, the researcher defines 'redeem' as 'to regain possession of something' and compares it with related terms in the study. — প্রবন্ধে গবেষক ‘redeem’ শব্দটি পুনরুদ্ধার করা অর্থে ব্যবহার করেছেন এবং গবেষণায় সংশ্লিষ্ট ধারণাগুলোর সঙ্গে তুলনা করেছেন।"
+    ]
+  }
+]
