@@ -11,6 +11,7 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.rounded.*
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
+import androidx.compose.runtime.produceState
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
@@ -21,6 +22,10 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.platform.LocalContext
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.withContext
+import coil.request.ImageRequest
+import com.wadio.app.util.ThumbnailStore
 import androidx.compose.ui.input.pointer.pointerInput
 import androidx.activity.compose.rememberLauncherForActivityResult
 import androidx.activity.result.contract.ActivityResultContracts
@@ -162,10 +167,10 @@ fun VaultScreen(controller: WadioController, onPickFiles: () -> Unit) {
                                     }
                             ) {
                                 if (cover != null) {
-                                    AsyncImage(
-                                        model = File(baseDir, cover.relativePath),
+                                    VaultThumbnail(
+                                        record = cover,
+                                        baseDir = baseDir,
                                         contentDescription = album.name,
-                                        contentScale = ContentScale.Crop,
                                         modifier = Modifier.fillMaxSize(),
                                     )
                                 }
@@ -404,11 +409,10 @@ private fun MediaTile(controller: WadioController, record: MediaRecord, baseDir:
                 )
             }
     ) {
-        val file = File(baseDir, record.relativePath)
-        AsyncImage(
-            model = file,
+        VaultThumbnail(
+            record = record,
+            baseDir = baseDir,
             contentDescription = record.fileName,
-            contentScale = ContentScale.Crop,
             modifier = Modifier.fillMaxSize(),
         )
 
@@ -425,4 +429,41 @@ private fun MediaTile(controller: WadioController, record: MediaRecord, baseDir:
 
     }
 
+}
+
+
+/** Loads a small, persistent thumbnail off the UI thread; never decodes full media for a grid cell. */
+@Composable
+private fun VaultThumbnail(
+    record: MediaRecord,
+    baseDir: File,
+    contentDescription: String,
+    modifier: Modifier = Modifier,
+) {
+    val context = LocalContext.current
+    val source = remember(baseDir, record.relativePath) { File(baseDir, record.relativePath) }
+    val thumbnail by produceState<File?>(
+        initialValue = null,
+        record.id,
+        record.relativePath,
+        record.mediaType,
+    ) {
+        value = withContext(Dispatchers.IO) {
+            ThumbnailStore.getOrCreate(baseDir, source, record.id, record.mediaType)
+        }
+    }
+
+    val displayFile = thumbnail ?: return
+    AsyncImage(
+        model = ImageRequest.Builder(context)
+            .data(displayFile)
+            .memoryCacheKey("wadio-thumb:${record.id}:${displayFile.lastModified()}")
+            .diskCacheKey("wadio-thumb:${record.id}:${displayFile.lastModified()}")
+            .size(256, 256)
+            .crossfade(false)
+            .build(),
+        contentDescription = contentDescription,
+        contentScale = ContentScale.Crop,
+        modifier = modifier,
+    )
 }

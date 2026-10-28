@@ -86,11 +86,20 @@ data class WadioUiState(
     val viewerMediaId: String? = null,
     val enhancementInProgress: Boolean = false,
     val enhancementMessage: String? = null,
+    val enhancementPreviewPath: String? = null,
+    val enhancementPreviewMediaId: String? = null,
+    val enhancementPreviewWidth: Int? = null,
+    val enhancementPreviewHeight: Int? = null,
     val showSettings: Boolean = false,
     val autoLockSeconds: Int = 60,
     val confirmDeletes: Boolean = true,
     val allowScreenshots: Boolean = false,
     val authMode: String = "both",
+    val viewerAnimation: String = "horizontal_slide",
+    val enhancementDenoise: Float = 0.10f,
+    val enhancementSharpen: Float = 0.12f,
+    val enhancementContrast: Float = 1.00f,
+    val enhancementBrightness: Float = 0.0f,
     val biometricFailedAttempts: Int = 0,
     val pinFallbackAvailable: Boolean = false,
 )
@@ -165,6 +174,11 @@ class WadioController(private val app: Application) {
                     confirmDeletes = app.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE).getBoolean("confirm_deletes", true),
                     allowScreenshots = app.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE).getBoolean("allow_screenshots", false),
                     authMode = app.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE).getString("auth_mode", "both") ?: "both",
+                    viewerAnimation = app.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE).getString("viewer_animation", "horizontal_slide") ?: "horizontal_slide",
+                    enhancementDenoise = app.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE).getFloat("enhancement_denoise", 0.10f).coerceIn(0f, 0.30f),
+                    enhancementSharpen = app.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE).getFloat("enhancement_sharpen", 0.12f).coerceIn(0f, 0.80f),
+                    enhancementContrast = app.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE).getFloat("enhancement_contrast", 1.00f).coerceIn(0.80f, 1.30f),
+                    enhancementBrightness = app.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE).getFloat("enhancement_brightness", 0.0f).coerceIn(-20f, 20f),
                 )
             }
         } catch (t: Throwable) {
@@ -291,6 +305,43 @@ class WadioController(private val app: Application) {
         app.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE).edit().putBoolean("allow_screenshots", enabled).apply()
         _state.update { it.copy(allowScreenshots = enabled) }
     }
+    fun setViewerAnimation(animation: String) {
+        val safe = animation.takeIf { it in setOf("horizontal_slide", "gesture_following", "crossfade", "zoom_scale") } ?: "horizontal_slide"
+        app.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE).edit().putString("viewer_animation", safe).apply()
+        _state.update { it.copy(viewerAnimation = safe) }
+    }
+
+    fun setEnhancementDenoise(value: Float) {
+        val safe = value.coerceIn(0f, 0.30f)
+        app.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE).edit().putFloat("enhancement_denoise", safe).apply()
+        _state.update { it.copy(enhancementDenoise = safe) }
+    }
+
+    fun setEnhancementSharpen(value: Float) {
+        val safe = value.coerceIn(0f, 0.80f)
+        app.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE).edit().putFloat("enhancement_sharpen", safe).apply()
+        _state.update { it.copy(enhancementSharpen = safe) }
+    }
+
+    fun setEnhancementContrast(value: Float) {
+        val safe = value.coerceIn(0.80f, 1.30f)
+        app.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE).edit().putFloat("enhancement_contrast", safe).apply()
+        _state.update { it.copy(enhancementContrast = safe) }
+    }
+
+    fun setEnhancementBrightness(value: Float) {
+        val safe = value.coerceIn(-20f, 20f)
+        app.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE).edit().putFloat("enhancement_brightness", safe).apply()
+        _state.update { it.copy(enhancementBrightness = safe) }
+    }
+
+    fun resetEnhancementSettings() {
+        setEnhancementDenoise(0.10f)
+        setEnhancementSharpen(0.12f)
+        setEnhancementContrast(1.00f)
+        setEnhancementBrightness(0.0f)
+    }
+
     fun setAuthMode(mode: String) {
         val safe = mode.takeIf { it in setOf("pin", "biometric", "both") } ?: "both"
         app.getSharedPreferences("wadio_settings", android.content.Context.MODE_PRIVATE).edit().putString("auth_mode", safe).apply()
@@ -584,12 +635,8 @@ class WadioController(private val app: Application) {
         }
     }
 
-    /**
-     * Enhance the selected vault photo only after the viewer has explicitly confirmed.
-     * Processing is performed off the main thread. The original is backed up before the
-     * same-directory replacement; the backup is restored if metadata commit fails.
-     */
-    fun enhanceImagePermanently(record: MediaRecord) {
+    /** Generate an enhanced preview without modifying the original file. */
+    fun createEnhancementPreview(record: MediaRecord) {
         if (_state.value.enhancementInProgress) return
         if (record.mediaType != "Image") {
             _state.update { it.copy(enhancementMessage = "Only photos can be enhanced") }
@@ -597,8 +644,77 @@ class WadioController(private val app: Application) {
         }
         _state.update { it.copy(enhancementInProgress = true, enhancementMessage = null) }
         scope.launch(Dispatchers.IO) {
+            var preview: File? = null
+            var resultWidth: Int? = null
+            var resultHeight: Int? = null
+            var message: String? = null
+            try {
+                val vaultRoot = baseDir.canonicalFile
+                val target = File(baseDir, record.relativePath).canonicalFile
+                if (!target.path.startsWith(vaultRoot.path + File.separator)) {
+                    throw java.io.IOException("Invalid vault photo path")
+                }
+                if (!target.isFile) throw java.io.IOException("The original photo is missing")
+                if (!ImageEnhancer.isSupported(target)) throw java.io.IOException("This image format is not supported for enhancement")
+
+                val ext = target.extension.lowercase().ifEmpty { "jpg" }
+                preview = File.createTempFile(".wadio-preview-", ".$ext", target.parentFile)
+                val currentSettings = _state.value
+                val result = ImageEnhancer.enhance(
+                    target,
+                    preview!!,
+                    denoiseStrength = currentSettings.enhancementDenoise,
+                    sharpenStrength = currentSettings.enhancementSharpen,
+                    contrast = currentSettings.enhancementContrast,
+                    brightness = currentSettings.enhancementBrightness,
+                )
+                FileOutputStream(preview!!, true).use { it.fd.sync() }
+                resultWidth = result.width
+                resultHeight = result.height
+            } catch (t: Throwable) {
+                preview?.delete()
+                message = t.message ?: "Photo enhancement failed"
+            }
+            withContext(Dispatchers.Main) {
+                val stillViewingPhoto = _state.value.viewerMediaId == record.id
+                val previousPath = _state.value.enhancementPreviewPath
+                if (message == null && preview?.isFile == true) {
+                    _state.update {
+                        it.copy(
+                            enhancementInProgress = false,
+                            enhancementMessage = null,
+                            enhancementPreviewPath = preview!!.absolutePath,
+                            enhancementPreviewMediaId = record.id,
+                            enhancementPreviewWidth = resultWidth,
+                            enhancementPreviewHeight = resultHeight,
+                        )
+                    }
+                    if (previousPath != null && previousPath != preview!!.absolutePath) File(previousPath).delete()
+                } else {
+                    _state.update {
+                        it.copy(
+                            enhancementInProgress = false,
+                            enhancementMessage = if (stillViewingPhoto) (message ?: "Could not create enhancement preview") else null,
+                        )
+                    }
+                }
+            }
+        }
+    }
+
+    /** Save the current preview over the original only after the user selects the menu action. */
+    fun saveEnhancementPreview(record: MediaRecord) {
+        val current = _state.value
+        if (current.enhancementInProgress) return
+        val previewPath = current.enhancementPreviewPath
+        if (current.enhancementPreviewMediaId != record.id || previewPath.isNullOrBlank()) {
+            _state.update { it.copy(enhancementMessage = "There is no enhancement preview to save") }
+            return
+        }
+        _state.update { it.copy(enhancementInProgress = true, enhancementMessage = null) }
+        scope.launch(Dispatchers.IO) {
             val target = File(baseDir, record.relativePath)
-            var temp: File? = null
+            var saveTemp: File? = null
             var backup: File? = null
             var backupCreated = false
             var replaced = false
@@ -607,24 +723,20 @@ class WadioController(private val app: Application) {
             try {
                 val vaultRoot = baseDir.canonicalFile
                 val canonicalTarget = target.canonicalFile
-                if (!canonicalTarget.path.startsWith(vaultRoot.path + File.separator)) {
+                val preview = File(previewPath).canonicalFile
+                if (!canonicalTarget.path.startsWith(vaultRoot.path + File.separator) ||
+                    !preview.path.startsWith(vaultRoot.path + File.separator)) {
                     throw java.io.IOException("Invalid vault photo path")
                 }
                 if (!canonicalTarget.isFile) throw java.io.IOException("The original photo is missing")
-                if (!ImageEnhancer.isSupported(canonicalTarget)) {
-                    throw java.io.IOException("This image format is not supported for enhancement")
-                }
+                if (!preview.isFile || preview.length() <= 0L) throw java.io.IOException("The enhancement preview is missing; enhance the photo again")
 
-                val ext = canonicalTarget.extension.lowercase()
-                temp = File(canonicalTarget.parentFile, ".${canonicalTarget.nameWithoutExtension}.wadio-enhanced.$ext")
-                backup = File(canonicalTarget.parentFile, "${canonicalTarget.name}.wadio-original-backup")
-                if (backup.exists()) throw java.io.IOException("A previous backup exists; the original was preserved. Please resolve the backup before retrying.")
-                if (temp.exists() && !temp.delete()) throw java.io.IOException("Could not clear an old temporary enhancement file")
-
-                val result = ImageEnhancer.enhance(canonicalTarget, temp)
-                FileOutputStream(temp, true).use { it.fd.sync() }
+                val ext = canonicalTarget.extension.lowercase().ifEmpty { "jpg" }
+                saveTemp = File.createTempFile(".wadio-save-", ".$ext", canonicalTarget.parentFile)
+                Files.copy(preview.toPath(), saveTemp!!.toPath(), StandardCopyOption.REPLACE_EXISTING)
+                FileOutputStream(saveTemp!!, true).use { it.fd.sync() }
                 val digest = MessageDigest.getInstance("SHA-256")
-                FileInputStream(temp).use { input ->
+                FileInputStream(saveTemp!!).use { input ->
                     val buffer = ByteArray(64 * 1024)
                     while (true) {
                         val count = input.read(buffer)
@@ -632,55 +744,69 @@ class WadioController(private val app: Application) {
                         digest.update(buffer, 0, count)
                     }
                 }
-                val hash = digest.digest().joinToString("") {
-                    (it.toInt() and 0xff).toString(16).padStart(2, '0')
-                }
-
-                Files.copy(canonicalTarget.toPath(), backup.toPath(), StandardCopyOption.REPLACE_EXISTING)
+                val hash = digest.digest().joinToString("") { (it.toInt() and 0xff).toString(16).padStart(2, '0') }
+                backup = File(canonicalTarget.parentFile, "${canonicalTarget.name}.wadio-original-backup")
+                if (backup!!.exists()) throw java.io.IOException("A previous backup exists; the original was preserved. Resolve that backup before saving again.")
+                Files.copy(canonicalTarget.toPath(), backup!!.toPath(), StandardCopyOption.REPLACE_EXISTING)
                 backupCreated = true
-                FileOutputStream(backup, true).use { it.fd.sync() }
-                // From this point onward, any failure must attempt restoration from the backup.
+                FileOutputStream(backup!!, true).use { it.fd.sync() }
                 replaced = true
                 try {
-                    Files.move(temp.toPath(), canonicalTarget.toPath(),
-                        StandardCopyOption.REPLACE_EXISTING, StandardCopyOption.ATOMIC_MOVE)
+                    Files.move(saveTemp!!.toPath(), canonicalTarget.toPath(), StandardCopyOption.REPLACE_EXISTING, StandardCopyOption.ATOMIC_MOVE)
                 } catch (_: AtomicMoveNotSupportedException) {
-                    Files.move(temp.toPath(), canonicalTarget.toPath(), StandardCopyOption.REPLACE_EXISTING)
+                    Files.move(saveTemp!!.toPath(), canonicalTarget.toPath(), StandardCopyOption.REPLACE_EXISTING)
                 }
-
-                if (!db.updateRotatedMedia(record.id, canonicalTarget.length(), hash, result.width, result.height)) {
-                    throw java.io.IOException("Could not update the photo database; restoring the original")
+                val width = current.enhancementPreviewWidth
+                val height = current.enhancementPreviewHeight
+                if (!db.updateRotatedMedia(record.id, canonicalTarget.length(), hash, width, height)) {
+                    throw java.io.IOException("Could not update photo metadata; restoring the original")
                 }
                 committed = true
-                backup.delete()
-                message = "Photo enhanced and original replaced successfully"
+                backup!!.delete()
+                preview.delete()
+                message = "Enhancement saved; original photo replaced successfully"
             } catch (t: Throwable) {
-                message = t.message ?: "Photo enhancement failed"
-                val backupFile = backup
-                if (replaced && !committed && backupFile?.isFile == true) {
+                message = t.message ?: "Could not save enhancement"
+                if (replaced && !committed && backup?.isFile == true) {
                     try {
-                        Files.copy(backupFile.toPath(), target.toPath(), StandardCopyOption.REPLACE_EXISTING)
-                        backupFile.delete()
+                        Files.copy(backup!!.toPath(), target.toPath(), StandardCopyOption.REPLACE_EXISTING)
+                        backup!!.delete()
                     } catch (_: Throwable) {
-                        message = "Enhancement failed and automatic restore was unsuccessful. Your original backup is at: ${backupFile.absolutePath}"
+                        message = "Saving failed and automatic restore was unsuccessful. Your original backup is at: ${backup!!.absolutePath}"
                     }
-                } else if (backupCreated && !replaced) {
-                    // The original has not been touched, so an incomplete backup can be removed safely.
-                    backupFile?.delete()
-                }
+                } else if (backupCreated && !replaced) backup?.delete()
             } finally {
-                temp?.let { if (it.exists()) it.delete() }
+                saveTemp?.delete()
             }
             withContext(Dispatchers.Main) {
-                val stillViewingPhoto = _state.value.viewerMediaId == record.id
+                val saved = committed
                 _state.update {
                     it.copy(
                         enhancementInProgress = false,
-                        enhancementMessage = if (stillViewingPhoto) message else null,
+                        enhancementMessage = message,
+                        enhancementPreviewPath = if (saved) null else it.enhancementPreviewPath,
+                        enhancementPreviewMediaId = if (saved) null else it.enhancementPreviewMediaId,
+                        enhancementPreviewWidth = if (saved) null else it.enhancementPreviewWidth,
+                        enhancementPreviewHeight = if (saved) null else it.enhancementPreviewHeight,
                     )
                 }
                 refreshVault()
             }
+        }
+    }
+
+    fun discardEnhancementPreview(record: MediaRecord) {
+        val current = _state.value
+        if (current.enhancementPreviewMediaId != record.id) return
+        current.enhancementPreviewPath?.let { File(it).delete() }
+        _state.update {
+            it.copy(
+                enhancementPreviewPath = null,
+                enhancementPreviewMediaId = null,
+                enhancementPreviewWidth = null,
+                enhancementPreviewHeight = null,
+                enhancementMessage = null,
+            )
         }
     }
 

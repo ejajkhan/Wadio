@@ -28,6 +28,7 @@ import androidx.compose.material3.TopAppBar
 import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.RadioButton
 import androidx.compose.material3.Switch
+import androidx.compose.material3.Slider
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
@@ -180,6 +181,29 @@ private fun SettingsScreen(controller: WadioController) {
                 }
             }
 
+            SettingsSection(title = "Photo viewer", subtitle = "Choose how photos transition when swiping") {
+                listOf(
+                    "horizontal_slide" to ("Horizontal Slide" to "The next photo slides in horizontally."),
+                    "gesture_following" to ("Gesture-Following" to "The photo follows your finger during a swipe."),
+                    "crossfade" to ("Crossfade" to "The current photo fades into the next."),
+                    "zoom_scale" to ("Zoom / Scale" to "The next photo scales into view."),
+                ).forEach { (value, description) ->
+                    Row(
+                        Modifier.fillMaxWidth().clip(RoundedCornerShape(10.dp))
+                            .clickable { controller.setViewerAnimation(value) }.padding(vertical = 6.dp),
+                        verticalAlignment = Alignment.CenterVertically,
+                    ) {
+                        Column(Modifier.weight(1f).padding(end = 8.dp)) {
+                            Text(description.first, style = MaterialTheme.typography.bodyLarge)
+                            Text(description.second, style = MaterialTheme.typography.bodySmall,
+                                color = MaterialTheme.colorScheme.onSurfaceVariant)
+                        }
+                        RadioButton(selected = state.viewerAnimation == value,
+                            onClick = { controller.setViewerAnimation(value) })
+                    }
+                }
+            }
+
             SettingsSection(title = "Automatic lock", subtitle = "Lock the vault after inactivity") {
                 listOf(15 to "15 seconds", 30 to "30 seconds", 60 to "1 minute", 120 to "2 minutes", 300 to "5 minutes").forEach { (seconds, label) ->
                     Row(
@@ -201,6 +225,26 @@ private fun SettingsScreen(controller: WadioController) {
                             color = MaterialTheme.colorScheme.onSurfaceVariant)
                     }
                     Switch(checked = state.confirmDeletes, onCheckedChange = controller::setConfirmDeletes)
+                }
+            }
+
+            SettingsSection(title = "Photo enhancement", subtitle = "OpenCV settings apply the next time you choose Enhance photo") {
+                Text("Noise reduction: ${(state.enhancementDenoise * 100).toInt()}%", style = MaterialTheme.typography.bodyLarge)
+                Text("Lower values preserve fine texture; higher values smooth more noise.", style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+                Slider(value = state.enhancementDenoise, onValueChange = controller::setEnhancementDenoise, valueRange = 0f..0.30f, steps = 5)
+
+                Text("Sharpening: ${(state.enhancementSharpen * 100).toInt()}%", style = MaterialTheme.typography.bodyLarge)
+                Text("Increase edge clarity carefully to avoid halos.", style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+                Slider(value = state.enhancementSharpen, onValueChange = controller::setEnhancementSharpen, valueRange = 0f..0.80f, steps = 7)
+
+                Text("Contrast: ${"%.2f".format(java.util.Locale.ROOT, state.enhancementContrast)}×", style = MaterialTheme.typography.bodyLarge)
+                Slider(value = state.enhancementContrast, onValueChange = controller::setEnhancementContrast, valueRange = 0.80f..1.30f, steps = 9)
+
+                Text("Brightness: ${state.enhancementBrightness.toInt()}", style = MaterialTheme.typography.bodyLarge)
+                Slider(value = state.enhancementBrightness, onValueChange = controller::setEnhancementBrightness, valueRange = -20f..20f, steps = 39)
+                Text("Defaults: light noise reduction, subtle sharpening, neutral contrast and brightness.", style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+                Button(onClick = controller::resetEnhancementSettings, modifier = Modifier.fillMaxWidth()) {
+                    Text("Reset enhancement settings")
                 }
             }
 

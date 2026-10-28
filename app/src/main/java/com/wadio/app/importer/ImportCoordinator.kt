@@ -1,6 +1,7 @@
 package com.wadio.app.importer
 
 import android.graphics.BitmapFactory
+import com.wadio.app.util.ThumbnailStore
 import android.util.Log
 import com.wadio.app.data.MediaRecord
 import com.wadio.app.data.WadioDatabase
@@ -303,7 +304,8 @@ class ImportCoordinator(
         }
 
         // Best-effort thumbnail for grid + album covers.
-        try { generateStaticThumbnail(finalFile, record.id) } catch (_: Throwable) {}
+        // Thumbnail creation is best-effort; the UI can create a missing one lazily.
+        try { ThumbnailStore.getOrCreate(baseDir, finalFile, record.id, mediaType) } catch (_: Throwable) {}
 
         return record
     }
@@ -320,28 +322,6 @@ class ImportCoordinator(
 
     fun removePendingRecord(id: String) {
         File(pendingDir, "$id.json").delete()
-    }
-
-    /**
-     * Static first-frame thumbnail used as album cover / grid fallback.
-     * Animated GIF rendering in the grid is handled by Coil at display time.
-     */
-    private fun generateStaticThumbnail(src: File, id: String) {
-        val opts = BitmapFactory.Options().apply { inJustDecodeBounds = true }
-        BitmapFactory.decodeFile(src.absolutePath, opts)
-        if (opts.outWidth <= 0 || opts.outHeight <= 0) return
-        var sample = 1
-        var w = opts.outWidth; var h = opts.outHeight
-        while (w / 2 >= 96 || h / 2 >= 96) { w /= 2; h /= 2; sample *= 2 }
-        val decodeOpts = BitmapFactory.Options().apply { inSampleSize = sample }
-        val bmp = BitmapFactory.decodeFile(src.absolutePath, decodeOpts) ?: return
-        val scaled = android.graphics.Bitmap.createScaledBitmap(bmp, 96, 96, true)
-        val thumbFile = File(thumbDir, "$id.jpg")
-        thumbFile.outputStream().use { out ->
-            scaled.compress(android.graphics.Bitmap.CompressFormat.JPEG, 85, out)
-        }
-        if (scaled !== bmp) bmp.recycle()
-        scaled.recycle()
     }
 
     // ─── helpers ──────────────────────────────────────────────────────────

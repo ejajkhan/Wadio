@@ -11,12 +11,15 @@ import androidx.compose.material.icons.rounded.ArrowBack
 import androidx.compose.material.icons.rounded.MoreVert
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
+import kotlinx.coroutines.launch
+import kotlinx.coroutines.awaitCancellation
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.graphicsLayer
 import androidx.compose.animation.core.Animatable
 import androidx.compose.animation.core.tween
+import androidx.compose.animation.core.spring
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.ui.input.pointer.pointerInput
@@ -25,6 +28,7 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import coil.compose.AsyncImage
+import coil.imageLoader
 import coil.request.ImageRequest
 import com.wadio.app.WadioController
 import com.wadio.app.util.ImageEnhancer
@@ -44,33 +48,95 @@ fun ImageViewerScreen(controller: WadioController) {
     var panX by remember(record.id) { mutableStateOf(0f) }
     var panY by remember(record.id) { mutableStateOf(0f) }
     var menuExpanded by remember(record.id) { mutableStateOf(false) }
-    var showEnhanceConfirmation by remember(record.id) { mutableStateOf(false) }
     val slideOffset = remember { Animatable(0f) }
+    val imageAlpha = remember { Animatable(1f) }
+    val imageScale = remember { Animatable(1f) }
+    val gestureOffsetX = remember { Animatable(0f) }
+    var swipeWidthPx by remember { mutableFloatStateOf(0f) }
     var pendingSlideDirection by remember { mutableIntStateOf(0) }
     val density = LocalDensity.current
-    LaunchedEffect(record.id) {
-        if (pendingSlideDirection != 0) {
-            slideOffset.snapTo(with(density) { (pendingSlideDirection * 48).dp.toPx() })
-            slideOffset.animateTo(0f, animationSpec = tween(190))
-            pendingSlideDirection = 0
+
+    // Keep only the immediate neighbors warm in Coil's bounded memory cache.
+    // Requests use the same stable keys and decode size as the visible image,
+    // so the viewer can reuse the decoded result after a swipe.
+    LaunchedEffect(record.id, state.cachedMedia, baseDir) {
+        val media = state.cachedMedia.filter { it.mediaType == "Image" }
+        val currentIndex = media.indexOfFirst { it.id == record.id }
+        if (currentIndex < 0 || media.size < 2) return@LaunchedEffect
+
+        val previous = media[(currentIndex - 1 + media.size) % media.size]
+        val next = media[(currentIndex + 1) % media.size]
+        val neighbors = listOf(next, previous).distinctBy { it.id }
+        val imageLoader = context.imageLoader
+        val requests = neighbors.map { neighbor ->
+            imageLoader.enqueue(
+                ImageRequest.Builder(context)
+                    .data(File(baseDir, neighbor.relativePath))
+                    .memoryCacheKey(neighbor.sha256)
+                    .diskCacheKey(neighbor.sha256)
+                    .size(2048, 2048)
+                    .build(),
+            )
         }
+        try {
+            awaitCancellation()
+        } finally {
+            requests.forEach { it.dispose() }
+        }
+    }
+
+    LaunchedEffect(record.id, state.viewerAnimation) {
+        when (state.viewerAnimation) {
+            "horizontal_slide" -> {
+                if (pendingSlideDirection != 0) {
+                    slideOffset.snapTo(pendingSlideDirection * (swipeWidthPx.takeIf { it > 0f } ?: with(density) { 300.dp.toPx() }))
+                    slideOffset.animateTo(0f, animationSpec = tween(210))
+                }
+            }
+            "gesture_following" -> {
+                slideOffset.snapTo(0f)
+                gestureOffsetX.animateTo(0f, animationSpec = tween(180))
+            }
+            "crossfade" -> {
+                imageAlpha.snapTo(0.12f)
+                imageAlpha.animateTo(1f, animationSpec = tween(180))
+            }
+            "zoom_scale" -> {
+                imageScale.snapTo(0.86f)
+                imageAlpha.snapTo(0.75f)
+                kotlinx.coroutines.coroutineScope {
+                    launch { imageScale.animateTo(1f, animationSpec = spring(dampingRatio = 0.82f, stiffness = 420f)) }
+                    launch { imageAlpha.animateTo(1f, animationSpec = tween(180)) }
+                }
+            }
+        }
+        if (state.viewerAnimation != "gesture_following") gestureOffsetX.snapTo(0f)
+        pendingSlideDirection = 0
     }
     val isGif = record.relativePath.lowercase().endsWith(".gif")
     val canEnhance = record.mediaType == "Image" &&
         ImageEnhancer.isSupported(File(baseDir, record.relativePath)) && !isGif
+    val hasEnhancementPreview = state.enhancementPreviewMediaId == record.id &&
+        !state.enhancementPreviewPath.isNullOrBlank() && File(state.enhancementPreviewPath!!).isFile
+    val displayedImage = if (hasEnhancementPreview) File(state.enhancementPreviewPath!!) else File(baseDir, record.relativePath)
 
     Box(Modifier.fillMaxSize().background(Color.Black)) {
         AsyncImage(
-            model = ImageRequest.Builder(context).data(File(baseDir, record.relativePath))
-                .memoryCacheKey(record.sha256).diskCacheKey(record.sha256).size(4096, 4096)
-                .crossfade(240).build(),
+            model = ImageRequest.Builder(context).data(displayedImage)
+                .memoryCacheKey(if (hasEnhancementPreview) "${record.sha256}-preview-${displayedImage.absolutePath}-${displayedImage.lastModified()}" else record.sha256)
+                .diskCacheKey(if (hasEnhancementPreview) "${record.sha256}-preview-${displayedImage.absolutePath}-${displayedImage.lastModified()}" else record.sha256)
+                .size(2048, 2048).crossfade(240).build(),
             contentDescription = record.fileName,
             contentScale = ContentScale.Fit,
             modifier = Modifier.fillMaxSize().graphicsLayer(
-                scaleX = zoom, scaleY = zoom, translationX = panX + slideOffset.value, translationY = panY,
+                scaleX = zoom * imageScale.value, scaleY = zoom * imageScale.value,
+                alpha = imageAlpha.value,
+                translationX = panX + slideOffset.value + if (state.viewerAnimation == "gesture_following") gestureOffsetX.value else 0f,
+                translationY = panY,
             ).pointerInput(record.id) {
                 awaitEachGesture {
                         awaitFirstDown(requireUnconsumed = false)
+                        swipeWidthPx = size.width.toFloat()
                         var totalX = 0f
                         var totalY = 0f
                         var hadMultiTouch = false
@@ -117,6 +183,9 @@ fun ImageViewerScreen(controller: WadioController) {
                                 if (zoom > 1f) {
                                     panX += dx; panY += dy
                                     change.consume()
+                                } else if (state.viewerAnimation == "gesture_following" && abs(totalY) < 40.dp.toPx()) {
+                                    gestureOffsetX.snapTo((gestureOffsetX.value + dx).coerceIn(-size.width.toFloat(), size.width.toFloat()))
+                                    change.consume()
                                 }
                             }
                         } while (event.changes.any { it.pressed })
@@ -124,6 +193,8 @@ fun ImageViewerScreen(controller: WadioController) {
                             val direction = if (totalX < 0f) 1 else -1
                             pendingSlideDirection = direction
                             controller.viewerPrevNext(direction)
+                        } else if (state.viewerAnimation == "gesture_following") {
+                            gestureOffsetX.animateTo(0f, animationSpec = tween(150))
                         }
                 }
             },
@@ -143,11 +214,24 @@ fun ImageViewerScreen(controller: WadioController) {
                     Icon(Icons.Rounded.MoreVert, contentDescription = "Image options", tint = Color.White)
                 }
                 DropdownMenu(expanded = menuExpanded, onDismissRequest = { menuExpanded = false }) {
-                    DropdownMenuItem(
-                        text = { Text("Enhance photo…") },
-                        enabled = canEnhance && !state.enhancementInProgress,
-                        onClick = { menuExpanded = false; showEnhanceConfirmation = true },
-                    )
+                    if (hasEnhancementPreview) {
+                        DropdownMenuItem(
+                            text = { Text("Save the enhancement") },
+                            enabled = !state.enhancementInProgress,
+                            onClick = { menuExpanded = false; controller.saveEnhancementPreview(record) },
+                        )
+                        DropdownMenuItem(
+                            text = { Text("Discard enhancement preview") },
+                            enabled = !state.enhancementInProgress,
+                            onClick = { menuExpanded = false; controller.discardEnhancementPreview(record) },
+                        )
+                    } else {
+                        DropdownMenuItem(
+                            text = { Text("Enhance photo") },
+                            enabled = canEnhance && !state.enhancementInProgress,
+                            onClick = { menuExpanded = false; controller.createEnhancementPreview(record) },
+                        )
+                    }
                     DropdownMenuItem(text = { Text("Rotate left 90°") }, enabled = !isGif, onClick = {
                         menuExpanded = false; controller.rotateImagePermanently(record, -90)
                     })
@@ -173,31 +257,23 @@ fun ImageViewerScreen(controller: WadioController) {
                 }
             }
         }
-    }
 
-    if (showEnhanceConfirmation) {
-        AlertDialog(
-            onDismissRequest = { showEnhanceConfirmation = false },
-            title = { Text("Enhance this photo?") },
-            text = {
-                Text("Wadio will apply light noise reduction and sharpening on this device. This replaces the original photo in your vault after you confirm. The original is backed up temporarily while saving.")
-            },
-            confirmButton = {
-                TextButton(onClick = {
-                    showEnhanceConfirmation = false
-                    controller.enhanceImagePermanently(record)
-                }) { Text("Replace original") }
-            },
-            dismissButton = {
-                TextButton(onClick = { showEnhanceConfirmation = false }) { Text("Cancel") }
-            },
-        )
+        if (hasEnhancementPreview && !state.enhancementInProgress) {
+            Surface(
+                modifier = Modifier.align(Alignment.BottomCenter).padding(bottom = 24.dp),
+                color = Color.Black.copy(alpha = 0.72f),
+                contentColor = Color.White,
+                shape = MaterialTheme.shapes.medium,
+            ) {
+                Text("Enhanced preview · Original unchanged", modifier = Modifier.padding(horizontal = 14.dp, vertical = 9.dp), style = MaterialTheme.typography.labelMedium)
+            }
+        }
     }
 
     state.enhancementMessage?.let { message ->
         AlertDialog(
             onDismissRequest = { controller.dismissEnhancementMessage() },
-            title = { Text(if (message.startsWith("Photo enhanced")) "Enhancement complete" else "Enhancement not completed") },
+            title = { Text(if (message.startsWith("Enhancement saved") || message.startsWith("Photo enhanced")) "Enhancement complete" else "Enhancement not completed") },
             text = { Text(message) },
             confirmButton = {
                 TextButton(onClick = { controller.dismissEnhancementMessage() }) { Text("OK") }

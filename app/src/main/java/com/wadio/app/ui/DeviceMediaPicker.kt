@@ -64,6 +64,8 @@ fun DeviceMediaPicker(
     var permissionDenied by remember { mutableStateOf(false) }
     var items by remember { mutableStateOf<List<DeviceMediaItem>>(emptyList()) }
     var loading by remember { mutableStateOf(false) }
+    var loadError by remember { mutableStateOf<String?>(null) }
+    var retryQuery by remember { mutableIntStateOf(0) }
     var selectedFolder by remember { mutableStateOf<String?>(null) }
     var selectedUris by remember { mutableStateOf<Set<Uri>>(emptySet()) }
     var showCustomSelect by remember { mutableStateOf(false) }
@@ -86,13 +88,18 @@ fun DeviceMediaPicker(
         }
     }
 
-    LaunchedEffect(permissionReady, tab) {
+    LaunchedEffect(permissionReady, tab, retryQuery) {
         if (permissionReady) {
             loading = true
-            items = withContext(Dispatchers.IO) { queryDeviceMedia(context, tab) }
+            loadError = null
+            val result = withContext(Dispatchers.IO) { queryDeviceMedia(context, tab) }
+            items = result.items
+            loadError = result.error
             loading = false
         } else {
             items = emptyList()
+            loadError = null
+            loading = false
         }
     }
 
@@ -178,7 +185,25 @@ fun DeviceMediaPicker(
                     }
                     loading -> Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) { CircularProgressIndicator() }
                     items.isEmpty() -> Box(Modifier.fillMaxSize().padding(20.dp), contentAlignment = Alignment.Center) {
-                        Text("No $mediaNoun found on this device.")
+                        Column(horizontalAlignment = Alignment.CenterHorizontally, verticalArrangement = Arrangement.spacedBy(12.dp)) {
+                            Text(
+                                loadError ?: "No $mediaNoun found on this device.",
+                                style = MaterialTheme.typography.bodyMedium,
+                            )
+                            if (loadError != null) {
+                                Button(onClick = {
+                                    // Re-query without requiring the user to close and reopen the picker.
+                                    permissionReady = hasMediaPermission(context, tab)
+                                    if (permissionReady) {
+                                        retryQuery++
+                                    } else {
+                                        permissionAttempted = false
+                                        val permissions = mediaPermissionsFor(tab)
+                                        if (permissions.isNotEmpty()) permissionsLauncher.launch(permissions)
+                                    }
+                                }) { Text("Try again") }
+                            }
+                        }
                     }
                     selectedFolder == null -> {
                         LazyColumn(
@@ -339,40 +364,94 @@ private fun hasMediaPermission(context: Context, tab: ActiveTab): Boolean {
         ContextCompat.checkSelfPermission(context, Manifest.permission.READ_MEDIA_VISUAL_USER_SELECTED) == PackageManager.PERMISSION_GRANTED
 }
 
-private fun queryDeviceMedia(context: Context, tab: ActiveTab): List<DeviceMediaItem> {
+private data class DeviceMediaQueryResult(
+    val items: List<DeviceMediaItem>,
+    val error: String? = null,
+)
+
+/**
+ * Query MediaStore using column names rather than fixed positions and fall back to
+ * bucket columns if RELATIVE_PATH is unavailable on a vendor MediaStore provider.
+ * Failures are surfaced in the picker instead of silently appearing as an empty library.
+ */
+private fun queryDeviceMedia(context: Context, tab: ActiveTab): DeviceMediaQueryResult {
     val isVideo = tab == ActiveTab.Videos
     val collection = if (isVideo) MediaStore.Video.Media.EXTERNAL_CONTENT_URI else MediaStore.Images.Media.EXTERNAL_CONTENT_URI
-    val projection = if (Build.VERSION.SDK_INT >= 29) {
-        arrayOf(MediaStore.MediaColumns._ID, MediaStore.MediaColumns.DISPLAY_NAME, MediaStore.MediaColumns.RELATIVE_PATH)
+    val bucketNameColumn = if (isVideo) MediaStore.Video.Media.BUCKET_DISPLAY_NAME else MediaStore.Images.Media.BUCKET_DISPLAY_NAME
+    val bucketIdColumn = if (isVideo) MediaStore.Video.Media.BUCKET_ID else MediaStore.Images.Media.BUCKET_ID
+    val projections = if (Build.VERSION.SDK_INT >= 29) {
+        listOf(
+            arrayOf(MediaStore.MediaColumns._ID, MediaStore.MediaColumns.DISPLAY_NAME, MediaStore.MediaColumns.RELATIVE_PATH),
+            arrayOf(MediaStore.MediaColumns._ID, MediaStore.MediaColumns.DISPLAY_NAME, bucketNameColumn, bucketIdColumn),
+        )
     } else {
-        arrayOf(
-            MediaStore.MediaColumns._ID,
-            MediaStore.MediaColumns.DISPLAY_NAME,
-            if (isVideo) MediaStore.Video.Media.BUCKET_DISPLAY_NAME else MediaStore.Images.Media.BUCKET_DISPLAY_NAME,
+        listOf(arrayOf(MediaStore.MediaColumns._ID, MediaStore.MediaColumns.DISPLAY_NAME, bucketNameColumn, bucketIdColumn))
+    }
+
+    var lastError: Throwable? = null
+    var queriedSuccessfully = false
+    for ((projectionIndex, projection) in projections.withIndex()) {
+        try {
+            val cursor = context.contentResolver.query(
+                collection,
+                projection,
+                null,
+                null,
+                "${MediaStore.MediaColumns.DATE_ADDED} DESC",
+            )
+            if (cursor == null) {
+                lastError = IllegalStateException("MediaStore returned no cursor")
+                continue
+            }
+            queriedSuccessfully = true
+
+            cursor.use { c ->
+                val idIndex = c.getColumnIndex(MediaStore.MediaColumns._ID)
+                val nameIndex = c.getColumnIndex(MediaStore.MediaColumns.DISPLAY_NAME)
+                val pathIndex = c.getColumnIndex(MediaStore.MediaColumns.RELATIVE_PATH)
+                val bucketNameIndex = c.getColumnIndex(bucketNameColumn)
+                val bucketIdIndex = c.getColumnIndex(bucketIdColumn)
+                if (idIndex < 0 || nameIndex < 0) {
+                    lastError = IllegalStateException("MediaStore did not return required media columns")
+                    return@use
+                }
+
+                val result = buildList {
+                    while (c.moveToNext()) {
+                        val id = c.getLong(idIndex)
+                        val name = c.getString(nameIndex)?.takeIf { it.isNotBlank() } ?: "media-$id"
+                        val rawPath = if (pathIndex >= 0) c.getString(pathIndex).orEmpty() else ""
+                        val bucketName = if (bucketNameIndex >= 0) c.getString(bucketNameIndex).orEmpty() else ""
+                        val bucketId = if (bucketIdIndex >= 0) c.getString(bucketIdIndex).orEmpty() else ""
+                        val path = when {
+                            rawPath.isNotBlank() -> rawPath.trimEnd('/')
+                            bucketName.isNotBlank() -> "${bucketName.trimEnd('/')}${if (bucketId.isNotBlank()) " ($bucketId)" else ""}"
+                            else -> "Unknown folder"
+                        }
+                        val folderName = when {
+                            rawPath.isNotBlank() -> path.substringAfterLast('/').ifBlank { path }
+                            bucketName.isNotBlank() -> bucketName
+                            else -> "Unknown folder"
+                        }
+                        add(DeviceMediaItem(ContentUris.withAppendedId(collection, id), name, path, folderName))
+                    }
+                }
+                if (result.isNotEmpty()) return DeviceMediaQueryResult(result)
+                // Some vendor providers accept RELATIVE_PATH but return no rows for it;
+                // retry with the more widely supported bucket columns before reporting empty.
+                if (projectionIndex == projections.lastIndex) return DeviceMediaQueryResult(emptyList())
+            }
+        } catch (t: Throwable) {
+            lastError = t
+        }
+    }
+
+    return if (queriedSuccessfully && lastError == null) {
+        DeviceMediaQueryResult(emptyList())
+    } else {
+        DeviceMediaQueryResult(
+            emptyList(),
+            "Couldn't read device media. Check photo/video permission and try again.",
         )
     }
-    val idIndex = 0
-    val nameIndex = 1
-    val folderIndex = 2
-    return runCatching {
-        context.contentResolver.query(
-            collection,
-            projection,
-            null,
-            null,
-            "${MediaStore.MediaColumns.DATE_ADDED} DESC",
-        )?.use { cursor ->
-            buildList {
-                while (cursor.moveToNext()) {
-                    val id = cursor.getLong(idIndex)
-                    val name = cursor.getString(nameIndex) ?: "media-$id"
-                    val rawFolder = cursor.getString(folderIndex).orEmpty()
-                    val path = if (Build.VERSION.SDK_INT >= 29) rawFolder.trimEnd('/').ifEmpty { "Unknown folder" }
-                        else rawFolder.ifEmpty { "Unknown folder" }
-                    val folderName = path.substringAfterLast('/').ifBlank { path }
-                    add(DeviceMediaItem(ContentUris.withAppendedId(collection, id), name, path, folderName))
-                }
-            }
-        } ?: emptyList()
-    }.getOrDefault(emptyList())
 }
