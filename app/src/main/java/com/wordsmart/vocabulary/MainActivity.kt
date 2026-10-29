@@ -457,9 +457,7 @@ private fun WordsmartApp(repository: WordRepository) {
                 navigationIcon = { TextButton(onClick = { goBack() }) { Text("←", fontSize = 27.sp, color = Blue) } },
                 actions = {
                     if (page == Page.WORDS) TextButton(onClick = {
-                        bookmarkGroupOnly = true
-                        bookmarkCollection = collection
-                        bookmarkGroup = selectedGroup
+                        bookmarkGroupOnly = false
                         bookmarksReturnPage = Page.WORDS
                         go(Page.BOOKMARKS)
                     }) { BookmarkGlyph(bookmarked = true, size = 22) ; Spacer(Modifier.width(5.dp)); Text("Bookmarks", color = Blue, fontSize = 13.sp, fontWeight = FontWeight.SemiBold) }
@@ -492,7 +490,7 @@ private fun WordsmartApp(repository: WordRepository) {
                         WordsScreen(filtered, selectedGroup, bookmarkedOnly, onToggleBookmarks = { bookmarkedOnly = !bookmarkedOnly }, onChoose = { filteredIndex ->
                             val selected = filtered.getOrNull(filteredIndex)
                             if (selected != null) { wordIndex = repository.words(collection, selectedGroup).indexOfFirst { it.index == selected.index }.coerceAtLeast(0); wordReturnPage = Page.WORDS; go(Page.WORD) }
-                        }, isBookmarked = { bookmarkKey(it) in bookmarks }, listState = bookmarkListState)
+                        }, isBookmarked = { bookmarkKey(it) in bookmarks }, listState = wordListState)
                     }
                     Page.WORD -> if (current == null) EmptyWordsScreen(onBack = { go(Page.WORDS) }) else WordScreen(
                         record = current, position = wordIndex, total = groupWords.size,
@@ -507,16 +505,17 @@ private fun WordsmartApp(repository: WordRepository) {
                     Page.SETTINGS -> SettingsScreen(darkTheme, onThemeChange = { darkTheme = it; prefs.edit().putBoolean("dark_theme", it).apply() }, animationStyle = animationStyle, onAnimationChange = { animationStyle = it; prefs.edit().putString("navigation_animation", it).apply() }, onExport = { exportLauncher.launch("words.zip") }, onImport = { importLauncher.launch(arrayOf("application/zip", "application/x-zip-compressed", "application/octet-stream")) }, importBusy = importBusy, surface = SurfaceColor)
                     Page.BOOKMARKS -> {
                         val all = remember(revision, bookmarks.toSet()) { repository.allWords().filter { bookmarkKey(it) in bookmarks } }
-                        if (bookmarkGroupOnly) {
-                            val scoped = all.filter { it.file.parentFile?.name == bookmarkCollection && (it.file.nameWithoutExtension.takeLast(2).toIntOrNull() ?: -1) == bookmarkGroup }
-                            BookmarkWordsScreen(scoped, bookmarkGroup, onChoose = { record ->
+                        BookmarksScreen(
+                            records = all,
+                            listState = bookmarkListState,
+                            onChoose = { record ->
                                 collection = record.file.parentFile?.name ?: "word_smart_1"
                                 selectedGroup = record.file.nameWithoutExtension.takeLast(2).toIntOrNull() ?: 1
                                 wordIndex = repository.words(collection, selectedGroup).indexOfFirst { it.index == record.index }.coerceAtLeast(0)
                                 wordReturnPage = Page.BOOKMARKS
                                 go(Page.WORD)
-                            }, isBookmarked = { bookmarkKey(it) in bookmarks }, listState = bookmarkListState)
-                        } else BookmarksScreen(all, onChooseGroup = { chosenCollection, chosenGroup -> bookmarkCollection = chosenCollection; bookmarkGroup = chosenGroup; go(Page.BOOKMARK_WORDS) }, keyOf = { bookmarkKey(it) })
+                            }
+                        )
                     }
                     Page.BOOKMARK_WORDS -> {
                         val all = remember(revision, bookmarks.toSet(), bookmarkCollection, bookmarkGroup) { repository.words(bookmarkCollection, bookmarkGroup).filter { bookmarkKey(it) in bookmarks } }
@@ -769,8 +768,6 @@ private fun WordsScreen(words: List<WordRecord>, group: Int, bookmarkedOnly: Boo
                             if (preview.isNotBlank()) Text("Syn: $preview", color = Color(0xFFB9C3D7), fontSize = 13.sp, lineHeight = 18.sp, maxLines = 1, overflow = TextOverflow.Ellipsis)
                         }
                     }
-                    Spacer(Modifier.width(7.dp))
-                    BookmarkGlyph(isBookmarked(record), 23)
                 }
             }
         }
@@ -1033,8 +1030,8 @@ private fun SettingsScreen(darkTheme: Boolean, onThemeChange: (Boolean) -> Unit,
 @Composable
 private fun BookmarksScreen(
     records: List<WordRecord>,
-    onChooseGroup: (String, Int) -> Unit,
-    keyOf: (WordRecord) -> String
+    listState: LazyListState,
+    onChoose: (WordRecord) -> Unit
 ) {
     data class GroupKey(val collection: String, val group: Int)
     val grouped = remember(records) {
@@ -1042,21 +1039,68 @@ private fun BookmarksScreen(
             .entries.sortedWith(compareBy({ it.key.collection }, { it.key.group }))
     }
     if (grouped.isEmpty()) Box(Modifier.fillMaxSize().padding(24.dp), contentAlignment = Alignment.Center) {
-        Column(horizontalAlignment = Alignment.CenterHorizontally) { Text("No bookmarks yet", color = Ink, fontSize = 20.sp, fontWeight = FontWeight.Bold); Spacer(Modifier.height(8.dp)); Text("Open a word and tap the bookmark icon to save it here.", color = Muted) }
-    } else LazyColumn(contentPadding = PaddingValues(18.dp), verticalArrangement = Arrangement.spacedBy(11.dp)) {
-        itemsIndexed(grouped, key = { _, entry -> "${entry.key.collection}#${entry.key.group}" }) { _, entry ->
+        Column(horizontalAlignment = Alignment.CenterHorizontally) {
+            BookmarkGlyph(true, 48)
+            Spacer(Modifier.height(12.dp))
+            Text("No bookmarks yet", color = Ink, fontSize = 20.sp, fontWeight = FontWeight.Bold)
+            Spacer(Modifier.height(8.dp))
+            Text("Open a word and tap its bookmark icon to save it here.", color = Muted)
+        }
+    } else LazyColumn(
+        state = listState,
+        contentPadding = PaddingValues(start = 18.dp, end = 18.dp, top = 12.dp, bottom = 20.dp),
+        verticalArrangement = Arrangement.spacedBy(10.dp)
+    ) {
+        grouped.forEach { entry ->
             val collectionTitle = if (entry.key.collection == "word_smart_1") "Wordsmart 1" else "Wordsmart 2"
-            val words = entry.value.sortedBy { it.index }
-            Surface(onClick = { onChooseGroup(entry.key.collection, entry.key.group) }, shape = RoundedCornerShape(22.dp), color = Color(0xFF202328), border = androidx.compose.foundation.BorderStroke(1.dp, Color(0xFF414650)), shadowElevation = 2.dp) {
-                Row(Modifier.fillMaxWidth().background(Brush.verticalGradient(listOf(Color(0xFF30343A), Color(0xFF1B1E23))), RoundedCornerShape(22.dp)).padding(horizontal = 18.dp, vertical = 16.dp), verticalAlignment = Alignment.CenterVertically) {
-                    Box(Modifier.width(48.dp), contentAlignment = Alignment.Center) { Text("${entry.key.group}", color = Blue, fontSize = 28.sp, fontWeight = FontWeight.SemiBold) }
-                    Spacer(Modifier.width(14.dp))
-                    Column(Modifier.weight(1f)) {
-                        Text("Group ${entry.key.group}", color = Ink, fontSize = 19.sp, fontWeight = FontWeight.Bold)
-                        Text("$collectionTitle · ${words.size} bookmarked ${if (words.size == 1) "word" else "words"}", color = Muted, fontSize = 13.sp)
-                        Text("${words.firstOrNull()?.word.orEmpty()}  →  ${words.lastOrNull()?.word.orEmpty()}", color = Color(0xFFB5BDE0), fontSize = 14.sp, maxLines = 1, overflow = TextOverflow.Ellipsis)
+            item(key = "header:${entry.key.collection}#${entry.key.group}") {
+                Surface(color = Color(0xFF153B2B), shape = RoundedCornerShape(10.dp)) {
+                    Text(
+                        "Group ${entry.key.group}, $collectionTitle",
+                        modifier = Modifier.fillMaxWidth().padding(horizontal = 14.dp, vertical = 9.dp),
+                        color = Color(0xFF8EE7B0), fontSize = 14.sp, fontWeight = FontWeight.Bold
+                    )
+                }
+            }
+            itemsIndexed(entry.value.sortedBy { it.index }, key = { _, record -> "${entry.key.collection}#${entry.key.group}:${record.index}" }) { _, record ->
+                Surface(
+                    onClick = { onChoose(record) },
+                    shape = RoundedCornerShape(23.dp),
+                    color = Color(0xFF08090B),
+                    border = androidx.compose.foundation.BorderStroke(1.dp, Color(0xFF24262A)),
+                    shadowElevation = 2.dp
+                ) {
+                    Row(Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 15.dp), verticalAlignment = Alignment.CenterVertically) {
+                        Box(Modifier.size(48.dp).background(Color(0xFF11192B), RoundedCornerShape(16.dp)), contentAlignment = Alignment.Center) {
+                            Text("${record.number}", color = Color(0xFF79BFFF), fontSize = 20.sp, fontWeight = FontWeight.Bold)
+                        }
+                        Spacer(Modifier.width(14.dp))
+                        Column(Modifier.weight(1f)) {
+                            Row(verticalAlignment = Alignment.CenterVertically) {
+                                Text(record.word, color = Color(0xFFF7F7FA), fontSize = 23.sp, lineHeight = 28.sp, fontWeight = FontWeight.Bold, maxLines = 1, overflow = TextOverflow.Ellipsis)
+                                val pronunciation = record.json.optString("pronunciation_bn", "")
+                                if (pronunciation.isNotBlank()) {
+                                    Spacer(Modifier.width(8.dp))
+                                    Text("($pronunciation)", color = Color(0xFFE4E5EA), fontSize = 14.sp, maxLines = 1, overflow = TextOverflow.Ellipsis)
+                                }
+                            }
+                            val meanings = record.json.optJSONArray("meaning_bn")
+                            if (meanings != null && meanings.length() > 0) {
+                                Text((0 until meanings.length()).joinToString("; ") { meanings.optString(it) }, color = Color(0xFF8EE7B0), fontSize = 15.sp, lineHeight = 20.sp, maxLines = 1, overflow = TextOverflow.Ellipsis)
+                            }
+                            val synonyms = record.json.optJSONArray("synonyms")
+                            if (synonyms != null && synonyms.length() > 0) {
+                                val preview = (0 until synonyms.length()).mapNotNull { i ->
+                                    val obj = synonyms.optJSONObject(i) ?: return@mapNotNull null
+                                    val en = obj.optString("en", "").trim()
+                                    if (en.isBlank()) null else en + obj.optString("bn", "").takeIf { it.isNotBlank() }?.let { "($it)" }.orEmpty()
+                                }.joinToString(", ")
+                                if (preview.isNotBlank()) Text("Syn: $preview", color = Color(0xFFB9C3D7), fontSize = 13.sp, lineHeight = 18.sp, maxLines = 1, overflow = TextOverflow.Ellipsis)
+                            }
+                        }
+                        Spacer(Modifier.width(7.dp))
+                        BookmarkGlyph(true, 23)
                     }
-                    Text("›", color = Ink, fontSize = 30.sp)
                 }
             }
         }
@@ -1078,6 +1122,26 @@ private fun BookmarkWordsScreen(records: List<WordRecord>, group: Int, onChoose:
 
 @Composable
 private fun BookmarkGlyph(bookmarked: Boolean, size: Int = 24) {
-    // One shared glyph keeps bookmark states visually consistent across all screens.
-    Text("♧", color = if (bookmarked) Blue else Muted, fontSize = size.sp, lineHeight = (size + 3).sp)
+    val gradient = Brush.horizontalGradient(listOf(Color(0xFFFFA018), Color(0xFFFF3D25)))
+    androidx.compose.foundation.Canvas(Modifier.size((size * 1.0f).dp)) {
+        val w = this.size.width
+        val h = this.size.height
+        val path = androidx.compose.ui.graphics.Path().apply {
+            moveTo(w * 0.22f, h * 0.08f)
+            quadraticTo(w * 0.12f, h * 0.08f, w * 0.12f, h * 0.20f)
+            lineTo(w * 0.12f, h * 0.90f)
+            lineTo(w * 0.50f, h * 0.66f)
+            lineTo(w * 0.88f, h * 0.90f)
+            lineTo(w * 0.88f, h * 0.20f)
+            quadraticTo(w * 0.88f, h * 0.08f, w * 0.78f, h * 0.08f)
+            close()
+        }
+        if (bookmarked) {
+            drawPath(path, brush = gradient)
+            drawPath(path, color = Color(0xFF08090B), style = androidx.compose.ui.graphics.drawscope.Stroke(width = w * 0.10f, join = androidx.compose.ui.graphics.StrokeJoin.Round))
+        } else {
+            drawPath(path, color = Color.Transparent)
+            drawPath(path, brush = gradient, style = androidx.compose.ui.graphics.drawscope.Stroke(width = w * 0.11f, join = androidx.compose.ui.graphics.StrokeJoin.Round))
+        }
+    }
 }
