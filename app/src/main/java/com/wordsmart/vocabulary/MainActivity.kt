@@ -330,7 +330,7 @@ private fun WordsmartApp(repository: WordRepository) {
             title = { Text(title, fontWeight = FontWeight.Bold) },
             text = {
                 Column(Modifier.fillMaxWidth().heightIn(max = 360.dp).verticalScroll(rememberScrollState()), verticalArrangement = Arrangement.spacedBy(8.dp)) {
-                    TextButton(onClick = { val selectedType = editType; showEditDialog = false; onAdd(selectedType) }) { Text("+ Add word", color = Blue, fontWeight = FontWeight.Bold) }
+                    TextButton(onClick = { showEditDialog = false; newEnglish = ""; newBangla = ""; showAddDialog = true }) { Text("+ Add word", color = Blue, fontWeight = FontWeight.Bold) }
                     if (items == null || items.length() == 0) Text("No words added yet.", color = Muted)
                     else for (i in 0 until items.length()) {
                         val item = items.optJSONObject(i) ?: JSONObject()
@@ -515,6 +515,43 @@ private fun WordsScreen(words: List<WordRecord>, group: Int, bookmarkedOnly: Boo
     }
 }
 
+private data class ExampleItem(val english: String, val bangla: String)
+
+private fun normalizeExample(value: String): String = value.trim().replace(Regex("\\s+"), " ").lowercase()
+
+private fun splitExample(value: String): ExampleItem {
+    val separators = listOf(" — ", " – ", " - ", "\n")
+    val separator = separators.firstOrNull { value.contains(it) } ?: return ExampleItem(value.trim(), "")
+    val parts = value.split(separator, limit = 2)
+    return ExampleItem(parts[0].trim(), parts.getOrElse(1) { "" }.trim())
+}
+
+private fun collectUniqueExamples(json: JSONObject): List<ExampleItem> {
+    val result = mutableListOf<ExampleItem>()
+    fun addUnique(item: ExampleItem) {
+        val english = item.english.trim()
+        val bangla = item.bangla.trim()
+        if (english.isBlank() && bangla.isBlank()) return
+        val duplicateIndex = result.indexOfFirst { existing ->
+            english.isNotBlank() && existing.english.isNotBlank() && normalizeExample(english) == normalizeExample(existing.english)
+        }
+        if (duplicateIndex < 0) result.add(ExampleItem(english, bangla))
+        else if (result[duplicateIndex].bangla.isBlank() && bangla.isNotBlank()) result[duplicateIndex] = ExampleItem(english, bangla)
+    }
+    addUnique(ExampleItem(json.optString("example", ""), json.optString("example_bn", "")))
+    val examples = json.optJSONArray("examples")
+    if (examples != null) for (i in 0 until examples.length()) {
+        val entry = examples.opt(i)
+        val item = when (entry) {
+            is JSONObject -> ExampleItem(entry.optString("en", entry.optString("example", "")), entry.optString("bn", entry.optString("meaning_bn", "")))
+            is String -> splitExample(entry.trim())
+            else -> ExampleItem("", "")
+        }
+        addUnique(item)
+    }
+    return result
+}
+
 @Composable
 private fun WordScreen(
     record: WordRecord,
@@ -589,36 +626,7 @@ private fun WordScreen(
             WordListCard("Synonyms", "synonyms", record.json.optJSONArray("synonyms"), Color(0xFFC084FC), onEdit, onDelete)
             WordListCard("Antonyms", "antonyms", record.json.optJSONArray("antonyms"), Color(0xFFC084FC), onEdit, onDelete)
 
-            data class ExampleItem(val english: String, val bangla: String)
-            fun normalized(value: String): String = value.trim().replace(Regex("\\s+"), " ").lowercase()
-            fun splitExample(value: String): ExampleItem {
-                val separators = listOf(" — ", " – ", " - ", "\n")
-                val separator = separators.firstOrNull { value.contains(it) } ?: return ExampleItem(value.trim(), "")
-                val parts = value.split(separator, limit = 2)
-                return ExampleItem(parts[0].trim(), parts.getOrElse(1) { "" }.trim())
-            }
-            val exampleItems = mutableListOf<ExampleItem>()
-            fun addUnique(item: ExampleItem) {
-                val english = item.english.trim()
-                val bangla = item.bangla.trim()
-                if (english.isBlank() && bangla.isBlank()) return
-                val duplicateIndex = exampleItems.indexOfFirst { existing ->
-                    english.isNotBlank() && existing.english.isNotBlank() && normalized(english) == normalized(existing.english)
-                }
-                if (duplicateIndex < 0) exampleItems.add(ExampleItem(english, bangla))
-                else if (exampleItems[duplicateIndex].bangla.isBlank() && bangla.isNotBlank()) exampleItems[duplicateIndex] = ExampleItem(english, bangla)
-            }
-            addUnique(ExampleItem(record.json.optString("example", ""), record.json.optString("example_bn", "")))
-            val examples = record.json.optJSONArray("examples")
-            if (examples != null) for (i in 0 until examples.length()) {
-                val entry = examples.opt(i)
-                val item = when (entry) {
-                    is JSONObject -> ExampleItem(entry.optString("en", entry.optString("example", "")), entry.optString("bn", entry.optString("meaning_bn", "")))
-                    is String -> splitExample(entry.trim())
-                    else -> ExampleItem("", "")
-                }
-                addUnique(item)
-            }
+            val exampleItems = collectUniqueExamples(record.json)
             if (exampleItems.isNotEmpty()) {
                 Surface(shape = RoundedCornerShape(28.dp), color = Color(0xFF08090A), border = androidx.compose.foundation.BorderStroke(1.dp, Color(0xFF242528))) {
                     Column(Modifier.fillMaxWidth().padding(horizontal = 20.dp, vertical = 20.dp)) {
@@ -636,4 +644,100 @@ private fun WordScreen(
             }
             Spacer(Modifier.height(4.dp))
         }
-        Row(Modifier.fillMaxWidth().background(Color.Black).padding(horizontal = 16.d
+        Row(Modifier.fillMaxWidth().background(Color.Black).padding(horizontal = 16.dp, vertical = 10.dp), horizontalArrangement = Arrangement.spacedBy(12.dp), verticalAlignment = Alignment.CenterVertically) {
+            OutlinedButton(onClick = onPrevious, enabled = position > 0, modifier = Modifier.weight(1f).height(52.dp), shape = RoundedCornerShape(28.dp), colors = ButtonDefaults.outlinedButtonColors(contentColor = Color(0xFFCED5E1))) { Text("‹  Previous", fontSize = 16.sp, fontWeight = FontWeight.SemiBold) }
+            Button(onClick = onNext, enabled = position < total - 1, modifier = Modifier.weight(1f).height(52.dp), shape = RoundedCornerShape(28.dp), colors = ButtonDefaults.buttonColors(containerColor = Color(0xFF182431), contentColor = Blue)) { Text("Next  ›", fontSize = 16.sp, fontWeight = FontWeight.SemiBold) }
+        }
+    }
+}
+
+@Composable
+private fun WordListCard(title: String, type: String, array: JSONArray?, accent: Color, onEdit: (String) -> Unit, onDelete: (String, Int) -> Unit) {
+    Surface(shape = RoundedCornerShape(28.dp), color = Color(0xFF08090A), border = androidx.compose.foundation.BorderStroke(1.dp, Color(0xFF242528))) {
+        Column(Modifier.fillMaxWidth().padding(horizontal = 18.dp, vertical = 18.dp)) {
+            Row(verticalAlignment = Alignment.CenterVertically) {
+                Box(Modifier.size(46.dp).background(Color(0xFF182431), RoundedCornerShape(14.dp)), contentAlignment = Alignment.Center) {
+                    Text(if (type == "synonyms") "⛓" else "↝", color = Blue, fontSize = 24.sp, fontWeight = FontWeight.Bold)
+                }
+                Spacer(Modifier.width(12.dp))
+                Text(title, fontSize = 21.sp, fontWeight = FontWeight.Bold, color = Color.White)
+                Spacer(Modifier.weight(1f))
+                OutlinedButton(onClick = { onEdit(type) }, contentPadding = PaddingValues(horizontal = 14.dp, vertical = 4.dp), shape = RoundedCornerShape(24.dp), colors = ButtonDefaults.outlinedButtonColors(contentColor = Color(0xFFD4D7DE))) {
+                    Text("✎ Edit", fontSize = 13.sp, fontWeight = FontWeight.SemiBold)
+                }
+            }
+            if (array == null || array.length() == 0) Text("No ${title.lowercase()} yet.", color = Muted, fontSize = 14.sp, modifier = Modifier.padding(top = 12.dp))
+            else {
+                val count = array.length()
+                val rows = (count + 1) / 2
+                Column(Modifier.padding(top = 14.dp), verticalArrangement = Arrangement.spacedBy(10.dp)) {
+                    for (rowIndex in 0 until rows) {
+                        Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(12.dp), verticalAlignment = Alignment.Top) {
+                            for (columnIndex in 0..1) {
+                                val i = rowIndex * 2 + columnIndex
+                                if (i < count) {
+                                    val item = array.optJSONObject(i) ?: JSONObject()
+                                    Row(Modifier.weight(1f), verticalAlignment = Alignment.Top) {
+                                        Box(Modifier.padding(top = 8.dp).size(8.dp).background(accent, CircleShape))
+                                        Spacer(Modifier.width(9.dp))
+                                        Column(Modifier.weight(1f)) {
+                                            Text(item.optString("en", ""), color = Color(0xFFF4F4F5), fontSize = 16.sp, lineHeight = 21.sp, fontWeight = FontWeight.SemiBold)
+                                            val bangla = item.optString("bn", "")
+                                            if (bangla.isNotBlank()) Text("($bangla)", color = Color(0xFF9CC8FF), fontSize = 14.sp, lineHeight = 20.sp)
+                                        }
+                                    }
+                                } else Spacer(Modifier.weight(1f))
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@Composable
+private fun EmptyWordsScreen(onBack: () -> Unit) {
+    Column(Modifier.fillMaxSize(), horizontalAlignment = Alignment.CenterHorizontally, verticalArrangement = Arrangement.Center) {
+        Text("No words found in this group", color = Ink, fontWeight = FontWeight.Bold)
+        TextButton(onClick = onBack) { Text("Back to groups") }
+    }
+}
+
+@Composable
+private fun SettingsScreen(darkTheme: Boolean, onThemeChange: (Boolean) -> Unit, onExport: () -> Unit, onImport: () -> Unit, importBusy: Boolean, surface: Color) {
+    Column(Modifier.fillMaxSize().verticalScroll(rememberScrollState()).padding(20.dp), verticalArrangement = Arrangement.spacedBy(14.dp)) {
+        Text("APPEARANCE", color = Blue, fontSize = 11.sp, fontWeight = FontWeight.ExtraBold, letterSpacing = 1.2.sp)
+        Surface(shape = RoundedCornerShape(18.dp), color = surface, border = androidx.compose.foundation.BorderStroke(1.dp, Line)) {
+            Row(Modifier.fillMaxWidth().padding(18.dp), verticalAlignment = Alignment.CenterVertically) {
+                Column(Modifier.weight(1f)) { Text("Dark theme", color = Ink, fontSize = 16.sp, fontWeight = FontWeight.Bold); Text("Dark theme is enabled by default", color = Muted, fontSize = 12.sp) }
+                Switch(checked = darkTheme, onCheckedChange = onThemeChange)
+            }
+        }
+        Spacer(Modifier.height(8.dp))
+        Text("DATA BACKUP", color = Blue, fontSize = 11.sp, fontWeight = FontWeight.ExtraBold, letterSpacing = 1.2.sp)
+        Surface(shape = RoundedCornerShape(18.dp), color = surface, border = androidx.compose.foundation.BorderStroke(1.dp, Line)) {
+            Column(Modifier.fillMaxWidth().padding(18.dp), verticalArrangement = Arrangement.spacedBy(12.dp)) {
+                Text("Export or restore your complete Wordsmart data. Import accepts only a ZIP containing all 68 JSON files in the expected Wordsmart folder structure.", color = Muted, fontSize = 13.sp, lineHeight = 19.sp)
+                Button(onClick = onExport, modifier = Modifier.fillMaxWidth(), shape = RoundedCornerShape(13.dp)) { Text("Export words.zip") }
+                OutlinedButton(onClick = onImport, enabled = !importBusy, modifier = Modifier.fillMaxWidth(), shape = RoundedCornerShape(13.dp)) { Text(if (importBusy) "Importing…" else "Import Wordsmart ZIP") }
+            }
+        }
+    }
+}
+
+@Composable
+private fun BookmarksScreen(records: List<WordRecord>, onChoose: (WordRecord) -> Unit, keyOf: (WordRecord) -> String) {
+    if (records.isEmpty()) Box(Modifier.fillMaxSize().padding(24.dp), contentAlignment = Alignment.Center) {
+        Column(horizontalAlignment = Alignment.CenterHorizontally) { Text("No bookmarks yet", color = Ink, fontSize = 20.sp, fontWeight = FontWeight.Bold); Spacer(Modifier.height(8.dp)); Text("Open a word and tap ☆ Bookmark to save it here.", color = Muted) }
+    } else LazyColumn(contentPadding = PaddingValues(16.dp), verticalArrangement = Arrangement.spacedBy(9.dp)) {
+        itemsIndexed(records, key = { _, record -> keyOf(record) }) { _, record ->
+            Surface(onClick = { onChoose(record) }, shape = RoundedCornerShape(17.dp), color = SurfaceColor, border = androidx.compose.foundation.BorderStroke(1.dp, Line)) {
+                Row(Modifier.fillMaxWidth().padding(16.dp), verticalAlignment = Alignment.CenterVertically) {
+                    Column(Modifier.weight(1f)) { Text(record.word, color = Ink, fontSize = 16.sp, fontWeight = FontWeight.Bold); Text("${if (record.file.parentFile?.name == "word_smart_1") "Wordsmart 1" else "Wordsmart 2"} · Group ${record.file.nameWithoutExtension.takeLast(2).toIntOrNull() ?: "?"}", color = Muted, fontSize = 12.sp) }
+                    Text("★", color = Blue, fontSize = 22.sp)
+                }
+            }
+        }
+    }
+}
