@@ -88,30 +88,52 @@ class MainActivity : ComponentActivity() {
         // vocabulary cache once, then Compose screens can read without disk I/O.
         setContent {
             var ready by remember { mutableStateOf(false) }
+            var loadFailed by remember { mutableStateOf(false) }
             LaunchedEffect(Unit) {
-                withContext(Dispatchers.IO) {
-                    repository.prepare()
-                    repository.warmCache()
+                // Render the real home screen immediately. Asset preparation and the
+                // complete in-memory vocabulary cache are built off the UI thread.
+                loadFailed = false
+                try {
+                    withContext(Dispatchers.IO) {
+                        repository.prepare()
+                        repository.warmCache()
+                    }
+                    ready = true
+                } catch (_: Exception) {
+                    loadFailed = true
                 }
-                ready = true
             }
             if (ready) {
                 WordsmartApp(repository)
             } else {
+                applyPalette(true)
                 MaterialTheme(colorScheme = darkColorScheme(
                     background = Color(0xFF050608),
                     surface = Color(0xFF111318),
                     primary = Color(0xFF79BFFF),
                     onSurface = Color(0xFFF5F6FA)
                 )) {
-                    Box(
-                        modifier = Modifier.fillMaxSize().background(Color(0xFF050608)),
-                        contentAlignment = Alignment.Center
-                    ) {
-                        Column(horizontalAlignment = Alignment.CenterHorizontally) {
-                            Text("WordSmart", color = Color(0xFF79BFFF), fontSize = 30.sp, fontWeight = FontWeight.Bold)
-                            Spacer(Modifier.height(14.dp))
-                            CircularProgressIndicator(color = Color(0xFF79BFFF), strokeWidth = 2.dp)
+                    Scaffold(containerColor = Color(0xFF050608), bottomBar = {
+                        HomeBottomBar(
+                            onBookmarks = { Toast.makeText(this@MainActivity, if (loadFailed) "Vocabulary loading failed. Restart the app to retry." else "Preparing vocabulary…", Toast.LENGTH_SHORT).show() },
+                            onSettings = { Toast.makeText(this@MainActivity, if (loadFailed) "Vocabulary loading failed. Restart the app to retry." else "Preparing vocabulary…", Toast.LENGTH_SHORT).show() }
+                        )
+                    }) { padding ->
+                        Column(Modifier.fillMaxSize().padding(padding)) {
+                            HomeScreen(
+                                onChoose = { Toast.makeText(this@MainActivity, if (loadFailed) "Vocabulary loading failed. Restart the app to retry." else "Preparing vocabulary…", Toast.LENGTH_SHORT).show() },
+                                onBookmarks = { Toast.makeText(this@MainActivity, "Preparing vocabulary…", Toast.LENGTH_SHORT).show() },
+                                onSettings = { Toast.makeText(this@MainActivity, "Preparing vocabulary…", Toast.LENGTH_SHORT).show() },
+                                surface = Color(0xFF111318)
+                            )
+                            Row(Modifier.fillMaxWidth().padding(bottom = 10.dp), horizontalArrangement = Arrangement.Center, verticalAlignment = Alignment.CenterVertically) {
+                                if (loadFailed) Text("Could not load vocabulary. Restart to retry.", color = Color(0xFFFF8A80), fontSize = 12.sp)
+                                else {
+                                    CircularProgressIndicator(modifier = Modifier.size(14.dp), color = Color(0xFF79BFFF), strokeWidth = 2.dp)
+                                    Spacer(Modifier.width(9.dp))
+                                    Text("Preparing vocabulary for fast offline use…", color = Color(0xFFA5ACBB), fontSize = 12.sp)
+                                }
+                            }
                         }
                     }
                 }
@@ -174,7 +196,10 @@ private class WordRepository(private val context: Context) {
         }
         // Parse independent JSON files on a small bounded pool while the app is
         // still showing its startup screen, rather than serially parsing all files.
-        val workerCount = minOf(4, Runtime.getRuntime().availableProcessors().coerceAtLeast(1), files.size.coerceAtLeast(1))
+        // Use the device's available CPU parallelism while leaving one logical
+        // processor free where possible so the already-visible home screen stays responsive.
+        val availableCpus = Runtime.getRuntime().availableProcessors().coerceAtLeast(1)
+        val workerCount = minOf(files.size.coerceAtLeast(1), maxOf(1, availableCpus - 1))
         val executor = Executors.newFixedThreadPool(workerCount)
         try {
             val futures = files.map { (collection, file) ->
@@ -262,6 +287,7 @@ private class WordRepository(private val context: Context) {
         val path = record.file.relativeTo(root).invariantSeparatorsPath
         val array = arraysByPath[path] ?: JSONArray(record.file.readText(Charsets.UTF_8)).also { arraysByPath[path] = it }
         array.put(record.index, record.json)
+        record.refreshDisplayFields()
         // Vocabulary files are small; serialize the cached array, never re-read the file.
         record.file.writeText(array.toString(2), Charsets.UTF_8)
     }
@@ -333,9 +359,31 @@ private class WordRecord(val file: File, val index: Int, val json: JSONObject) {
         json.optString("pronunciation", "")
     }
     val meaningEnglish: String = json.optString("meaning_en", "No English meaning")
-    val meaningsBangla: String = json.optJSONArray("meaning_bn")?.let { a ->
-        (0 until a.length()).joinToString("; ") { a.optString(it) }
-    }.orEmpty()
+    @Volatile var meaningsBangla: String = ""
+        private set
+    @Volatile var synonymPreview: String = ""
+        private set
+    @Volatile var pronunciationDisplay: String = ""
+        private set
+
+    init { refreshDisplayFields() }
+
+    // Called after load and after edits/imports so row rendering never repeatedly
+    // traverses JSON arrays or allocates preview strings during Compose recomposition.
+    fun refreshDisplayFields() {
+        meaningsBangla = json.optJSONArray("meaning_bn")?.let { a ->
+            (0 until a.length()).joinToString("; ") { a.optString(it) }
+        }.orEmpty()
+        synonymPreview = json.optJSONArray("synonyms")?.let { a ->
+            (0 until a.length()).mapNotNull { i ->
+                val obj = a.optJSONObject(i) ?: return@mapNotNull null
+                val en = obj.optString("en", "").trim()
+                if (en.isBlank()) null else en + obj.optString("bn", "").takeIf { it.isNotBlank() }?.let { "($it)" }.orEmpty()
+            }.joinToString(", ")
+        }.orEmpty()
+        pronunciationDisplay = json.optString("pronunciation_bn", "").ifBlank { json.optString("pronunciation", "") }
+    }
+
     val examples: List<ExampleItem> by lazy(LazyThreadSafetyMode.PUBLICATION) {
         collectUniqueExamples(json)
     }
@@ -738,7 +786,7 @@ private fun WordsScreen(words: List<WordRecord>, group: Int, bookmarkedOnly: Boo
             Text(if (bookmarkedOnly) "No bookmarks yet." else "No words found in this group.", color = Muted)
         }
     } else LazyColumn(state = listState, contentPadding = PaddingValues(start = 18.dp, end = 18.dp, top = 12.dp, bottom = 20.dp), verticalArrangement = Arrangement.spacedBy(12.dp)) {
-        itemsIndexed(words, key = { _, record -> "${record.file.name}:${record.index}" }) { index, record ->
+        itemsIndexed(words, key = { _, record -> "${record.file.name}:${record.index}" }, contentType = { _, _ -> "word" }) { index, record ->
             Surface(onClick = { onChoose(index) }, shape = RoundedCornerShape(23.dp), color = Color(0xFF08090B), border = androidx.compose.foundation.BorderStroke(1.dp, Color(0xFF24262A)), shadowElevation = 2.dp) {
                 Row(Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 15.dp), verticalAlignment = Alignment.CenterVertically) {
                     Box(Modifier.size(48.dp).background(Color(0xFF11192B), RoundedCornerShape(16.dp)), contentAlignment = Alignment.Center) {
@@ -748,24 +796,17 @@ private fun WordsScreen(words: List<WordRecord>, group: Int, bookmarkedOnly: Boo
                     Column(Modifier.weight(1f)) {
                         Row(verticalAlignment = Alignment.CenterVertically) {
                             Text(record.word, color = Color(0xFFF7F7FA), fontSize = 23.sp, lineHeight = 28.sp, fontWeight = FontWeight.Bold, maxLines = 1, overflow = TextOverflow.Ellipsis)
-                            val pronunciation = record.json.optString("pronunciation_bn", "")
+                            val pronunciation = record.pronunciationDisplay
                             if (pronunciation.isNotBlank()) {
                                 Spacer(Modifier.width(8.dp))
                                 Text("($pronunciation)", color = Color(0xFFE4E5EA), fontSize = 14.sp, maxLines = 1, overflow = TextOverflow.Ellipsis)
                             }
                         }
-                        val meanings = record.json.optJSONArray("meaning_bn")
-                        if (meanings != null && meanings.length() > 0) {
-                            Text((0 until meanings.length()).joinToString("; ") { meanings.optString(it) }, color = Color(0xFF8EE7B0), fontSize = 15.sp, lineHeight = 20.sp, maxLines = 1, overflow = TextOverflow.Ellipsis)
+                        if (record.meaningsBangla.isNotBlank()) {
+                            Text(record.meaningsBangla, color = Color(0xFF8EE7B0), fontSize = 15.sp, lineHeight = 20.sp, maxLines = 1, overflow = TextOverflow.Ellipsis)
                         }
-                        val synonyms = record.json.optJSONArray("synonyms")
-                        if (synonyms != null && synonyms.length() > 0) {
-                            val preview = (0 until synonyms.length()).mapNotNull { i ->
-                                val obj = synonyms.optJSONObject(i) ?: return@mapNotNull null
-                                val en = obj.optString("en", "").trim()
-                                if (en.isBlank()) null else en + obj.optString("bn", "").takeIf { it.isNotBlank() }?.let { "($it)" }.orEmpty()
-                            }.joinToString(", ")
-                            if (preview.isNotBlank()) Text("Syn: $preview", color = Color(0xFFB9C3D7), fontSize = 13.sp, lineHeight = 18.sp, maxLines = 1, overflow = TextOverflow.Ellipsis)
+                        if (record.synonymPreview.isNotBlank()) {
+                            Text("Syn: ${record.synonymPreview}", color = Color(0xFFB9C3D7), fontSize = 13.sp, lineHeight = 18.sp, maxLines = 1, overflow = TextOverflow.Ellipsis)
                         }
                     }
                 }
@@ -1053,7 +1094,7 @@ private fun BookmarksScreen(
     ) {
         grouped.forEach { entry ->
             val collectionTitle = if (entry.key.collection == "word_smart_1") "Wordsmart 1" else "Wordsmart 2"
-            item(key = "header:${entry.key.collection}#${entry.key.group}") {
+            item(key = "header:${entry.key.collection}#${entry.key.group}", contentType = "bookmark-header") {
                 Surface(color = Color(0xFF153B2B), shape = RoundedCornerShape(10.dp)) {
                     Text(
                         "Group ${entry.key.group}, $collectionTitle",
@@ -1062,7 +1103,7 @@ private fun BookmarksScreen(
                     )
                 }
             }
-            itemsIndexed(entry.value.sortedBy { it.index }, key = { _, record -> "${entry.key.collection}#${entry.key.group}:${record.index}" }) { _, record ->
+            itemsIndexed(entry.value.sortedBy { it.index }, key = { _, record -> "${entry.key.collection}#${entry.key.group}:${record.index}" }, contentType = { _, _ -> "bookmark-word" }) { _, record ->
                 Surface(
                     onClick = { onChoose(record) },
                     shape = RoundedCornerShape(23.dp),
@@ -1078,24 +1119,17 @@ private fun BookmarksScreen(
                         Column(Modifier.weight(1f)) {
                             Row(verticalAlignment = Alignment.CenterVertically) {
                                 Text(record.word, color = Color(0xFFF7F7FA), fontSize = 23.sp, lineHeight = 28.sp, fontWeight = FontWeight.Bold, maxLines = 1, overflow = TextOverflow.Ellipsis)
-                                val pronunciation = record.json.optString("pronunciation_bn", "")
+                                val pronunciation = record.pronunciationDisplay
                                 if (pronunciation.isNotBlank()) {
                                     Spacer(Modifier.width(8.dp))
                                     Text("($pronunciation)", color = Color(0xFFE4E5EA), fontSize = 14.sp, maxLines = 1, overflow = TextOverflow.Ellipsis)
                                 }
                             }
-                            val meanings = record.json.optJSONArray("meaning_bn")
-                            if (meanings != null && meanings.length() > 0) {
-                                Text((0 until meanings.length()).joinToString("; ") { meanings.optString(it) }, color = Color(0xFF8EE7B0), fontSize = 15.sp, lineHeight = 20.sp, maxLines = 1, overflow = TextOverflow.Ellipsis)
+                            if (record.meaningsBangla.isNotBlank()) {
+                                Text(record.meaningsBangla, color = Color(0xFF8EE7B0), fontSize = 15.sp, lineHeight = 20.sp, maxLines = 1, overflow = TextOverflow.Ellipsis)
                             }
-                            val synonyms = record.json.optJSONArray("synonyms")
-                            if (synonyms != null && synonyms.length() > 0) {
-                                val preview = (0 until synonyms.length()).mapNotNull { i ->
-                                    val obj = synonyms.optJSONObject(i) ?: return@mapNotNull null
-                                    val en = obj.optString("en", "").trim()
-                                    if (en.isBlank()) null else en + obj.optString("bn", "").takeIf { it.isNotBlank() }?.let { "($it)" }.orEmpty()
-                                }.joinToString(", ")
-                                if (preview.isNotBlank()) Text("Syn: $preview", color = Color(0xFFB9C3D7), fontSize = 13.sp, lineHeight = 18.sp, maxLines = 1, overflow = TextOverflow.Ellipsis)
+                            if (record.synonymPreview.isNotBlank()) {
+                                Text("Syn: ${record.synonymPreview}", color = Color(0xFFB9C3D7), fontSize = 13.sp, lineHeight = 18.sp, maxLines = 1, overflow = TextOverflow.Ellipsis)
                             }
                         }
                         Spacer(Modifier.width(7.dp))
