@@ -199,7 +199,7 @@ private class WordRepository(private val context: Context) {
         // Use the device's available CPU parallelism while leaving one logical
         // processor free where possible so the already-visible home screen stays responsive.
         val availableCpus = Runtime.getRuntime().availableProcessors().coerceAtLeast(1)
-        val workerCount = minOf(files.size.coerceAtLeast(1), maxOf(1, availableCpus - 1))
+        val workerCount = minOf(files.size.coerceAtLeast(1), 16)
         val executor = Executors.newFixedThreadPool(workerCount)
         try {
             val futures = files.map { (collection, file) ->
@@ -418,6 +418,9 @@ private fun WordsmartApp(repository: WordRepository) {
     var bookmarkCollection by remember { mutableStateOf("word_smart_1") }
     var bookmarkGroup by remember { mutableIntStateOf(1) }
     var wordReturnPage by remember { mutableStateOf(Page.WORDS) }
+    // The active sequence defines Previous/Next/swipe order. It can be a full group,
+    // a group-filtered bookmark list, or the global bookmark list.
+    var activeWordSequence by remember { mutableStateOf<List<WordRecord>>(emptyList()) }
     var animationStyle by remember { mutableStateOf(prefs.getString("navigation_animation", "Slide") ?: "Slide") }
     // Keep word-list scroll state in the parent so it survives navigating into a word and back.
     val listStateCache = remember { mutableMapOf<String, LazyListState>() }
@@ -448,8 +451,9 @@ private fun WordsmartApp(repository: WordRepository) {
     BackHandler(enabled = page != Page.HOME) { goBack() }
 
     val groupWords = remember(collection, selectedGroup, revision) { repository.words(collection, selectedGroup) }
-    if (wordIndex >= groupWords.size && groupWords.isNotEmpty()) wordIndex = groupWords.lastIndex
-    val current = groupWords.getOrNull(wordIndex)
+    val displayedWordSequence = if (page == Page.WORD && activeWordSequence.isNotEmpty()) activeWordSequence else groupWords
+    if (wordIndex >= displayedWordSequence.size && displayedWordSequence.isNotEmpty()) wordIndex = displayedWordSequence.lastIndex
+    val current = displayedWordSequence.getOrNull(wordIndex)
     val collectionTitle = if (collection == "word_smart_1") "Wordsmart 1" else "Wordsmart 2"
     fun bookmarkKey(record: WordRecord): String = "${record.file.relativeTo(repository.root).invariantSeparatorsPath}#${record.index}"
     fun toggleBookmark(record: WordRecord) {
@@ -485,7 +489,7 @@ private fun WordsmartApp(repository: WordRepository) {
                 title = {
                     if (page == Page.WORD) {
                         Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                            Text("${wordIndex + 1}/${groupWords.size}", fontSize = 14.sp, color = Muted, fontWeight = FontWeight.Medium)
+                            Text("${wordIndex + 1}/${displayedWordSequence.size}", fontSize = 14.sp, color = Muted, fontWeight = FontWeight.Medium)
                             Text("•", color = Blue, fontSize = 14.sp)
                             Text("Group $selectedGroup", fontSize = 14.sp, color = Muted, maxLines = 1)
                             Text("•", color = Blue, fontSize = 14.sp)
@@ -505,9 +509,11 @@ private fun WordsmartApp(repository: WordRepository) {
                 navigationIcon = { TextButton(onClick = { goBack() }) { Text("←", fontSize = 27.sp, color = Blue) } },
                 actions = {
                     if (page == Page.WORDS) TextButton(onClick = {
-                        bookmarkGroupOnly = false
+                        bookmarkGroupOnly = true
+                        bookmarkCollection = collection
+                        bookmarkGroup = selectedGroup
                         bookmarksReturnPage = Page.WORDS
-                        go(Page.BOOKMARKS)
+                        go(Page.BOOKMARK_WORDS)
                     }) { BookmarkGlyph(bookmarked = true, size = 22) ; Spacer(Modifier.width(5.dp)); Text("Bookmarks", color = Blue, fontSize = 13.sp, fontWeight = FontWeight.SemiBold) }
                 },
                 colors = TopAppBarDefaults.topAppBarColors(containerColor = Canvas)
@@ -525,10 +531,11 @@ private fun WordsmartApp(repository: WordRepository) {
             }, label = "page") { shownPage ->
                 when (shownPage) {
                     Page.HOME -> HomeScreen(onChoose = { chosen -> collection = chosen; selectedGroup = 1; wordIndex = 0; go(Page.GROUPS) }, onBookmarks = { bookmarkGroupOnly = false; bookmarksReturnPage = Page.HOME; go(Page.BOOKMARKS) }, onSettings = { previousPage = Page.HOME; go(Page.SETTINGS) }, surface = SurfaceColor)
-                    Page.GROUPS -> GroupsScreen(repository, collection, onChoose = { group -> selectedGroup = group; wordIndex = 0; bookmarkedOnly = false; go(Page.WORDS) }, onChooseWord = { record ->
+                    Page.GROUPS -> GroupsScreen(repository, collection, onChoose = { group -> selectedGroup = group; wordIndex = 0; bookmarkedOnly = false; activeWordSequence = repository.words(collection, group); go(Page.WORDS) }, onChooseWord = { record ->
                         collection = record.file.parentFile?.name ?: "word_smart_1"
                         selectedGroup = record.file.nameWithoutExtension.takeLast(2).toIntOrNull() ?: 1
-                        wordIndex = repository.words(collection, selectedGroup).indexOfFirst { it.index == record.index }.coerceAtLeast(0)
+                        activeWordSequence = repository.words(collection, selectedGroup)
+                        wordIndex = activeWordSequence.indexOfFirst { it.index == record.index }.coerceAtLeast(0)
                         wordReturnPage = Page.GROUPS
                         go(Page.WORD)
                     })
@@ -537,16 +544,16 @@ private fun WordsmartApp(repository: WordRepository) {
                         val filtered = if (bookmarkedOnly) words.filter { bookmarkKey(it) in bookmarks } else words
                         WordsScreen(filtered, selectedGroup, bookmarkedOnly, onToggleBookmarks = { bookmarkedOnly = !bookmarkedOnly }, onChoose = { filteredIndex ->
                             val selected = filtered.getOrNull(filteredIndex)
-                            if (selected != null) { wordIndex = repository.words(collection, selectedGroup).indexOfFirst { it.index == selected.index }.coerceAtLeast(0); wordReturnPage = Page.WORDS; go(Page.WORD) }
+                            if (selected != null) { activeWordSequence = filtered; wordIndex = filtered.indexOfFirst { it.index == selected.index }.coerceAtLeast(0); wordReturnPage = Page.WORDS; go(Page.WORD) }
                         }, isBookmarked = { bookmarkKey(it) in bookmarks }, listState = wordListState)
                     }
                     Page.WORD -> if (current == null) EmptyWordsScreen(onBack = { go(Page.WORDS) }) else WordScreen(
-                        record = current, position = wordIndex, total = groupWords.size,
+                        record = current, position = wordIndex, total = displayedWordSequence.size,
                         group = selectedGroup, collectionTitle = collectionTitle,
                         isBookmarked = bookmarkKey(current) in bookmarks,
                         onToggleBookmark = { toggleBookmark(current) },
                         onPrevious = { if (wordIndex > 0) { wordIndex--; persistLocation() } },
-                        onNext = { if (wordIndex < groupWords.lastIndex) { wordIndex++; persistLocation() } },
+                        onNext = { if (wordIndex < displayedWordSequence.lastIndex) { wordIndex++; persistLocation() } },
                         onAdd = { type -> editType = type; newEnglish = ""; newBangla = ""; showAddDialog = true },
                         onEdit = { type -> editType = type; showEditDialog = true },
                         onDelete = { type, index -> pendingDelete = type to index })
@@ -559,7 +566,8 @@ private fun WordsmartApp(repository: WordRepository) {
                             onChoose = { record ->
                                 collection = record.file.parentFile?.name ?: "word_smart_1"
                                 selectedGroup = record.file.nameWithoutExtension.takeLast(2).toIntOrNull() ?: 1
-                                wordIndex = repository.words(collection, selectedGroup).indexOfFirst { it.index == record.index }.coerceAtLeast(0)
+                                activeWordSequence = all
+                                wordIndex = all.indexOfFirst { it.file == record.file && it.index == record.index }.coerceAtLeast(0)
                                 wordReturnPage = Page.BOOKMARKS
                                 go(Page.WORD)
                             }
@@ -569,7 +577,8 @@ private fun WordsmartApp(repository: WordRepository) {
                         val all = remember(revision, bookmarks.toSet(), bookmarkCollection, bookmarkGroup) { repository.words(bookmarkCollection, bookmarkGroup).filter { bookmarkKey(it) in bookmarks } }
                         BookmarkWordsScreen(all, bookmarkGroup, onChoose = { record ->
                             collection = bookmarkCollection; selectedGroup = bookmarkGroup
-                            wordIndex = repository.words(collection, selectedGroup).indexOfFirst { it.index == record.index }.coerceAtLeast(0)
+                            activeWordSequence = all
+                            wordIndex = all.indexOfFirst { it.file == record.file && it.index == record.index }.coerceAtLeast(0)
                             wordReturnPage = Page.BOOKMARK_WORDS
                             go(Page.WORD)
                         }, isBookmarked = { bookmarkKey(it) in bookmarks }, listState = bookmarkListState)
@@ -790,7 +799,7 @@ private fun WordsScreen(words: List<WordRecord>, group: Int, bookmarkedOnly: Boo
             Surface(onClick = { onChoose(index) }, shape = RoundedCornerShape(23.dp), color = Color(0xFF08090B), border = androidx.compose.foundation.BorderStroke(1.dp, Color(0xFF24262A)), shadowElevation = 2.dp) {
                 Row(Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 15.dp), verticalAlignment = Alignment.CenterVertically) {
                     Box(Modifier.size(48.dp).background(Color(0xFF11192B), RoundedCornerShape(16.dp)), contentAlignment = Alignment.Center) {
-                        Text("${record.number}", color = Color(0xFF79BFFF), fontSize = 20.sp, fontWeight = FontWeight.Bold)
+                        Text("${record.number}", color = if (isBookmarked(record)) Color(0xFFFF8A24) else Color(0xFF79BFFF), fontSize = 20.sp, fontWeight = FontWeight.Bold)
                     }
                     Spacer(Modifier.width(14.dp))
                     Column(Modifier.weight(1f)) {
