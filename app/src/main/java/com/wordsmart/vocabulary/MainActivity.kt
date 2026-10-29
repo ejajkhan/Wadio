@@ -6,6 +6,10 @@ import android.os.Bundle
 import android.speech.tts.TextToSpeech
 import android.widget.Toast
 import androidx.activity.ComponentActivity
+import androidx.lifecycle.lifecycleScope
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
 import androidx.activity.compose.BackHandler
 import androidx.activity.compose.rememberLauncherForActivityResult
 import androidx.activity.compose.setContent
@@ -45,6 +49,8 @@ import java.util.zip.ZipOutputStream
 import java.util.zip.ZipInputStream
 import java.util.Locale
 import java.io.BufferedInputStream
+import java.util.concurrent.Executors
+import java.util.concurrent.Callable
 
 private var Ink = Color(0xFFF5F6FA)
 private var Muted = Color(0xFFA5ACBB)
@@ -72,14 +78,58 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         val repository = WordRepository(this)
-        repository.prepare()
-        setContent { WordsmartApp(repository) }
+        // Keep file copying and JSON parsing off the UI thread. Warm the in-memory
+        // vocabulary cache once, then Compose screens can read without disk I/O.
+        setContent {
+            var ready by remember { mutableStateOf(false) }
+            LaunchedEffect(Unit) {
+                withContext(Dispatchers.IO) {
+                    repository.prepare()
+                    repository.warmCache()
+                }
+                ready = true
+            }
+            if (ready) {
+                WordsmartApp(repository)
+            } else {
+                MaterialTheme(colorScheme = darkColorScheme(
+                    background = Color(0xFF050608),
+                    surface = Color(0xFF111318),
+                    primary = Color(0xFF79BFFF),
+                    onSurface = Color(0xFFF5F6FA)
+                )) {
+                    Box(
+                        modifier = Modifier.fillMaxSize().background(Color(0xFF050608)),
+                        contentAlignment = Alignment.Center
+                    ) {
+                        Column(horizontalAlignment = Alignment.CenterHorizontally) {
+                            Text("WordSmart", color = Color(0xFF79BFFF), fontSize = 30.sp, fontWeight = FontWeight.Bold)
+                            Spacer(Modifier.height(14.dp))
+                            CircularProgressIndicator(color = Color(0xFF79BFFF), strokeWidth = 2.dp)
+                        }
+                    }
+                }
+            }
+        }
     }
 }
 
 private class WordRepository(private val context: Context) {
     val root: File = File(context.filesDir, "words")
     private val collections = listOf("word_smart_1", "word_smart_2")
+    // Parsed JSON and WordRecord instances are retained for the life of the process.
+    // This avoids repeatedly opening/parsing the 68 vocabulary files during navigation.
+    @Volatile private var cacheReady = false
+    private val arraysByPath = java.util.concurrent.ConcurrentHashMap<String, JSONArray>()
+    private val wordsByGroup = java.util.concurrent.ConcurrentHashMap<String, List<WordRecord>>()
+    private val summariesByCollection = java.util.concurrent.ConcurrentHashMap<String, List<GroupSummary>>()
+    @Volatile private var allWordsCache: List<WordRecord> = emptyList()
+
+    fun groupSummaries(collection: String): List<GroupSummary> =
+        summariesByCollection[collection] ?: (1..34).map { group ->
+            val groupWords = words(collection, group)
+            GroupSummary(group, groupWords.size, groupWords.firstOrNull()?.word ?: "No words", groupWords.lastOrNull()?.word.orEmpty())
+        }
 
     fun prepare() {
         if (File(root, ".initialized").exists()) return
@@ -111,7 +161,76 @@ private class WordRepository(private val context: Context) {
     fun groupFiles(collection: String): List<File> = File(root, collection).listFiles { f -> f.isFile && f.extension.equals("json", true) }
         ?.sortedBy { it.name } ?: emptyList()
 
+    @Synchronized
+    fun warmCache() {
+        val files = collections.flatMap { collection ->
+            groupFiles(collection).map { file -> collection to file }
+        }
+        // Parse independent JSON files on a small bounded pool while the app is
+        // still showing its startup screen, rather than serially parsing all files.
+        val workerCount = minOf(4, Runtime.getRuntime().availableProcessors().coerceAtLeast(1), files.size.coerceAtLeast(1))
+        val executor = Executors.newFixedThreadPool(workerCount)
+        try {
+            val futures = files.map { (collection, file) ->
+                executor.submit(Callable {
+                    val array = JSONArray(file.readText(Charsets.UTF_8))
+                    val records = (0 until array.length()).mapNotNull { index ->
+                        val obj = array.optJSONObject(index) ?: return@mapNotNull null
+                        WordRecord(file, index, obj).also { record ->
+                            // Precompute frequently rendered, immutable text fields off the UI thread.
+                            record.posText
+                            record.pronunciationText
+                            record.meaningEnglish
+                            record.meaningsBangla
+                            record.examples
+                        }
+                    }
+                    Triple(collection, file, Pair(array, records))
+                })
+            }
+            val nextArrays = java.util.concurrent.ConcurrentHashMap<String, JSONArray>()
+            val nextGroups = java.util.concurrent.ConcurrentHashMap<String, List<WordRecord>>()
+            val nextAll = ArrayList<WordRecord>(5000)
+            val grouped = collections.associateWith { mutableListOf<GroupSummary>() }
+            futures.forEach { future ->
+                try {
+                    val (collection, file, parsed) = future.get()
+                    val (array, records) = parsed
+                    val path = file.relativeTo(root).invariantSeparatorsPath
+                    nextArrays[path] = array
+                    val groupNumber = file.nameWithoutExtension.takeLast(2)
+                    nextGroups["$collection#$groupNumber"] = records
+                    nextAll.addAll(records)
+                    grouped[collection]?.add(
+                        GroupSummary(
+                            groupNumber.toIntOrNull() ?: 0,
+                            records.size,
+                            records.firstOrNull()?.word ?: "No words",
+                            records.lastOrNull()?.word.orEmpty()
+                        )
+                    )
+                } catch (_: Exception) {
+                    // A damaged group stays unavailable rather than crashing startup.
+                }
+            }
+            arraysByPath.clear()
+            arraysByPath.putAll(nextArrays)
+            wordsByGroup.clear()
+            wordsByGroup.putAll(nextGroups)
+            summariesByCollection.clear()
+            grouped.forEach { (collection, summaries) ->
+                summariesByCollection[collection] = summaries.sortedBy { it.group }
+            }
+            allWordsCache = nextAll
+            cacheReady = true
+        } finally {
+            executor.shutdown()
+        }
+    }
+
     fun words(collection: String, group: Int): List<WordRecord> {
+        val key = "$collection#%02d".format(group)
+        if (cacheReady) return wordsByGroup[key] ?: emptyList()
         val file = groupFiles(collection).firstOrNull { it.nameWithoutExtension.endsWith("%02d".format(group)) } ?: return emptyList()
         return try {
             val array = JSONArray(file.readText(Charsets.UTF_8))
@@ -119,15 +238,25 @@ private class WordRepository(private val context: Context) {
         } catch (_: Exception) { emptyList() }
     }
 
-    fun allWords(): List<WordRecord> = listOf("word_smart_1", "word_smart_2").flatMap { collection ->
-        groupFiles(collection).flatMap { file -> try { val array = JSONArray(file.readText(Charsets.UTF_8)); (0 until array.length()).map { WordRecord(file, it, array.getJSONObject(it)) } } catch (_: Exception) { emptyList() } }
+    fun allWords(): List<WordRecord> {
+        if (cacheReady) return allWordsCache
+        return collections.flatMap { collection ->
+            groupFiles(collection).flatMap { file -> try { val array = JSONArray(file.readText(Charsets.UTF_8)); (0 until array.length()).map { WordRecord(file, it, array.getJSONObject(it)) } } catch (_: Exception) { emptyList() } }
+        }
     }
 
     fun count(collection: String, group: Int): Int = words(collection, group).size
 
+    fun totalWords(collection: String): Int =
+        if (cacheReady) (1..34).sumOf { words(collection, it).size }
+        else groupFiles(collection).sumOf { file -> runCatching { JSONArray(file.readText(Charsets.UTF_8)).length() }.getOrDefault(0) }
+
+    @Synchronized
     fun save(record: WordRecord) {
-        val array = JSONArray(record.file.readText(Charsets.UTF_8))
+        val path = record.file.relativeTo(root).invariantSeparatorsPath
+        val array = arraysByPath[path] ?: JSONArray(record.file.readText(Charsets.UTF_8)).also { arraysByPath[path] = it }
         array.put(record.index, record.json)
+        // Vocabulary files are small; serialize the cached array, never re-read the file.
         record.file.writeText(array.toString(2), Charsets.UTF_8)
     }
 
@@ -180,9 +309,30 @@ private class WordRepository(private val context: Context) {
     }
 }
 
-private data class WordRecord(val file: File, val index: Int, val json: JSONObject) {
-    val word: String get() = json.optString("word", "Untitled")
-    val number: Int get() = json.optInt("no", index + 1)
+private data class GroupSummary(
+    val group: Int,
+    val count: Int,
+    val firstWord: String,
+    val lastWord: String
+)
+
+private class WordRecord(val file: File, val index: Int, val json: JSONObject) {
+    // Stable display fields are computed once when the in-memory cache warms.
+    val word: String = json.optString("word", "Untitled")
+    val number: Int = json.optInt("no", index + 1)
+    val posText: String = json.optJSONArray("pos")?.let { a ->
+        (0 until a.length()).joinToString(", ") { a.optString(it) }
+    }.orEmpty()
+    val pronunciationText: String = json.optString("pronunciation_bn", "").ifBlank {
+        json.optString("pronunciation", "")
+    }
+    val meaningEnglish: String = json.optString("meaning_en", "No English meaning")
+    val meaningsBangla: String = json.optJSONArray("meaning_bn")?.let { a ->
+        (0 until a.length()).joinToString("; ") { a.optString(it) }
+    }.orEmpty()
+    val examples: List<ExampleItem> by lazy(LazyThreadSafetyMode.PUBLICATION) {
+        collectUniqueExamples(json)
+    }
 }
 
 private enum class Page { HOME, GROUPS, WORDS, WORD, SETTINGS, BOOKMARKS }
@@ -249,6 +399,7 @@ private fun WordsmartApp(repository: WordRepository) {
             Thread {
                 try {
                     repository.import(uri)
+                    repository.warmCache()
                     (context as? ComponentActivity)?.runOnUiThread { revision++; importBusy = false; Toast.makeText(context, "Import complete — Wordsmart data updated", Toast.LENGTH_LONG).show() }
                 } catch (e: Exception) {
                     (context as? ComponentActivity)?.runOnUiThread { importBusy = false; Toast.makeText(context, "Import rejected: ${e.message ?: "invalid ZIP"}", Toast.LENGTH_LONG).show() }
@@ -274,7 +425,7 @@ private fun WordsmartApp(repository: WordRepository) {
                         Column {
                             Text(when (page) { Page.GROUPS -> collectionTitle; Page.WORDS -> "Group $selectedGroup"; Page.SETTINGS -> "Settings"; Page.BOOKMARKS -> "Bookmarks"; Page.HOME, Page.WORD -> "" }, fontWeight = FontWeight.ExtraBold, fontSize = 21.sp, color = Ink, maxLines = 1, overflow = TextOverflow.Ellipsis)
                             if (page != Page.SETTINGS && page != Page.BOOKMARKS) Text(when (page) {
-                                Page.GROUPS -> "${repository.groupFiles(collection).size} groups  ·  ${repository.groupFiles(collection).sumOf { file -> runCatching { JSONArray(file.readText(Charsets.UTF_8)).length() }.getOrDefault(0) }} words"
+                                Page.GROUPS -> "${repository.groupFiles(collection).size} groups  ·  ${repository.totalWords(collection)} words"
                                 Page.WORDS -> "$collectionTitle  ·  ${repository.words(collection, selectedGroup).size} words"
                                 else -> ""
                             }, fontSize = 13.sp, color = Muted)
@@ -327,11 +478,15 @@ private fun WordsmartApp(repository: WordRepository) {
         val items = current.json.optJSONArray(editType)
         AlertDialog(
             onDismissRequest = { showEditDialog = false },
-            title = { Text(title, fontWeight = FontWeight.Bold) },
+            containerColor = Color(0xFF101114),
+            titleContentColor = Color(0xFFF5F6FA),
+            textContentColor = Color(0xFFD6DAE3),
+            shape = RoundedCornerShape(26.dp),
+            title = { Text(title, fontWeight = FontWeight.Bold, color = Color(0xFFF5F6FA)) },
             text = {
                 Column(Modifier.fillMaxWidth().heightIn(max = 360.dp).verticalScroll(rememberScrollState()), verticalArrangement = Arrangement.spacedBy(8.dp)) {
                     TextButton(onClick = { showEditDialog = false; newEnglish = ""; newBangla = ""; showAddDialog = true }) { Text("+ Add word", color = Blue, fontWeight = FontWeight.Bold) }
-                    if (items == null || items.length() == 0) Text("No words added yet.", color = Muted)
+                    if (items == null || items.length() == 0) Text("No words added yet.", color = Color(0xFFA5ACBB))
                     else for (i in 0 until items.length()) {
                         val item = items.optJSONObject(i) ?: JSONObject()
                         Row(Modifier.fillMaxWidth().background(SurfaceColor, RoundedCornerShape(12.dp)).padding(horizontal = 10.dp, vertical = 8.dp), verticalAlignment = Alignment.CenterVertically) {
@@ -348,10 +503,35 @@ private fun WordsmartApp(repository: WordRepository) {
         )
     }
 
-    if (showAddDialog) AlertDialog(onDismissRequest = { showAddDialog = false }, title = { Text(if (editType == "synonyms") "Add synonym" else "Add antonym", fontWeight = FontWeight.Bold) }, text = {
+    if (showAddDialog) AlertDialog(
+        onDismissRequest = { showAddDialog = false },
+        containerColor = Color(0xFF101114),
+        titleContentColor = Color(0xFFF5F6FA),
+        textContentColor = Color(0xFFD6DAE3),
+        shape = RoundedCornerShape(26.dp),
+        title = { Text(if (editType == "synonyms") "Add synonym" else "Add antonym", fontWeight = FontWeight.Bold, color = Color(0xFFF5F6FA)) },
+        text = {
         Column(verticalArrangement = Arrangement.spacedBy(12.dp)) {
-            OutlinedTextField(value = newEnglish, onValueChange = { newEnglish = it }, label = { Text("English word") }, singleLine = true)
-            OutlinedTextField(value = newBangla, onValueChange = { newBangla = it }, label = { Text("Bangla meaning (optional)") }, singleLine = true)
+            OutlinedTextField(
+                value = newEnglish, onValueChange = { newEnglish = it }, label = { Text("English word") }, singleLine = true,
+                colors = OutlinedTextFieldDefaults.colors(
+                    focusedTextColor = Color(0xFFF5F6FA), unfocusedTextColor = Color(0xFFF5F6FA),
+                    focusedContainerColor = Color(0xFF08090A), unfocusedContainerColor = Color(0xFF08090A),
+                    focusedBorderColor = Color(0xFF79BFFF), unfocusedBorderColor = Color(0xFF34363B),
+                    focusedLabelColor = Color(0xFF79BFFF), unfocusedLabelColor = Color(0xFFA5ACBB),
+                    cursorColor = Color(0xFF79BFFF)
+                )
+            )
+            OutlinedTextField(
+                value = newBangla, onValueChange = { newBangla = it }, label = { Text("Bangla meaning (optional)") }, singleLine = true,
+                colors = OutlinedTextFieldDefaults.colors(
+                    focusedTextColor = Color(0xFFF5F6FA), unfocusedTextColor = Color(0xFFF5F6FA),
+                    focusedContainerColor = Color(0xFF08090A), unfocusedContainerColor = Color(0xFF08090A),
+                    focusedBorderColor = Color(0xFF79BFFF), unfocusedBorderColor = Color(0xFF34363B),
+                    focusedLabelColor = Color(0xFF79BFFF), unfocusedLabelColor = Color(0xFFA5ACBB),
+                    cursorColor = Color(0xFF79BFFF)
+                )
+            )
         }
     }, confirmButton = { TextButton(onClick = {
         val english = newEnglish.trim()
@@ -364,7 +544,15 @@ private fun WordsmartApp(repository: WordRepository) {
         }
     }) { Text("Add") } }, dismissButton = { TextButton(onClick = { showAddDialog = false }) { Text("Cancel") } })
 
-    pendingDelete?.let { (type, index) -> AlertDialog(onDismissRequest = { pendingDelete = null }, title = { Text("Remove this word?") }, text = { Text("This removes only the selected ${if (type == "synonyms") "synonym" else "antonym"} from your local copy.") }, confirmButton = { TextButton(onClick = {
+    pendingDelete?.let { (type, index) -> AlertDialog(
+        onDismissRequest = { pendingDelete = null },
+        containerColor = Color(0xFF101114),
+        titleContentColor = Color(0xFFF5F6FA),
+        textContentColor = Color(0xFFD6DAE3),
+        shape = RoundedCornerShape(26.dp),
+        title = { Text("Remove this word?", color = Color(0xFFF5F6FA)) },
+        text = { Text("This removes only the selected ${if (type == "synonyms") "synonym" else "antonym"} from your local copy.", color = Color(0xFFD6DAE3)) },
+        confirmButton = { TextButton(onClick = {
         current?.let { record -> val old = record.json.optJSONArray(type) ?: JSONArray(); val replacement = JSONArray(); for (i in 0 until old.length()) if (i != index) replacement.put(old.get(i)); record.json.put(type, replacement); repository.save(record); revision++ }
         pendingDelete = null
     }) { Text("Remove", color = Color(0xFFB42318)) } }, dismissButton = { TextButton(onClick = { pendingDelete = null }) { Text("Cancel") } }) }
@@ -426,14 +614,13 @@ private fun CollectionCard(title: String, action: String, number: String, onClic
 @Composable
 private fun GroupsScreen(repository: WordRepository, collection: String, onChoose: (Int) -> Unit) {
     var query by remember(collection) { mutableStateOf("") }
-    val groups = remember(collection) {
-        (1..34).map { group ->
-            val words = repository.words(collection, group)
-            Triple(group, words.size, words)
-        }
-    }
-    val filtered = groups.filter { (group, _, words) ->
-        query.isBlank() || "Group $group".contains(query, true) || words.any { it.word.contains(query, true) }
+    val groups = remember(collection) { repository.groupSummaries(collection) }
+    val filtered = groups.filter { summary ->
+        query.isBlank() ||
+            "Group ${summary.group}".contains(query, true) ||
+            summary.firstWord.contains(query, true) ||
+            summary.lastWord.contains(query, true) ||
+            repository.words(collection, summary.group).any { it.word.contains(query, true) }
     }
     Column(Modifier.fillMaxSize()) {
         OutlinedTextField(
@@ -445,10 +632,11 @@ private fun GroupsScreen(repository: WordRepository, collection: String, onChoos
             colors = OutlinedTextFieldDefaults.colors(focusedBorderColor = Blue, unfocusedBorderColor = Color(0xFF5B5E67), focusedTextColor = Ink, unfocusedTextColor = Ink, cursorColor = Blue)
         )
         LazyColumn(contentPadding = PaddingValues(start = 18.dp, end = 18.dp, top = 2.dp, bottom = 20.dp), verticalArrangement = Arrangement.spacedBy(11.dp)) {
-            itemsIndexed(filtered, key = { _, item -> item.first }) { _, item ->
-                val (group, count, words) = item
-                val first = words.firstOrNull()?.word ?: "No words"
-                val last = words.lastOrNull()?.word ?: ""
+            itemsIndexed(filtered, key = { _, item -> item.group }) { _, item ->
+                val group = item.group
+                val count = item.count
+                val first = item.firstWord
+                val last = item.lastWord
                 Surface(onClick = { onChoose(group) }, shape = RoundedCornerShape(22.dp), color = Color(0xFF202328), border = androidx.compose.foundation.BorderStroke(1.dp, Color(0xFF414650)), shadowElevation = 3.dp) {
                     Row(Modifier.fillMaxWidth().background(Brush.verticalGradient(listOf(Color(0xFF30343A), Color(0xFF1B1E23))), RoundedCornerShape(22.dp)).padding(horizontal = 18.dp, vertical = 16.dp), verticalAlignment = Alignment.CenterVertically) {
                         Box(Modifier.width(54.dp), contentAlignment = Alignment.Center) { Text("$group", color = Color(0xFF9BBDF7), fontSize = 29.sp, fontWeight = FontWeight.SemiBold) }
@@ -583,17 +771,45 @@ private fun WordScreen(
         Column(Modifier.weight(1f).fillMaxWidth().verticalScroll(rememberScrollState()).padding(horizontal = 16.dp, vertical = 14.dp), verticalArrangement = Arrangement.spacedBy(12.dp)) {
             Surface(shape = RoundedCornerShape(28.dp), color = Color(0xFF08090A), border = androidx.compose.foundation.BorderStroke(1.dp, Color(0xFF242528))) {
                 Column(Modifier.fillMaxWidth().padding(22.dp)) {
-                    Row(verticalAlignment = Alignment.CenterVertically) {
-                        val pos = record.json.optJSONArray("pos")?.let { a -> (0 until a.length()).joinToString(", ") { a.optString(it) } }.orEmpty()
-                        Text(record.word, modifier = Modifier.weight(1f, fill = false), fontSize = 34.sp, lineHeight = 40.sp, fontWeight = FontWeight.ExtraBold, color = Color.White)
-                        if (pos.isNotBlank()) {
-                            Spacer(Modifier.width(8.dp))
-                            Text("(${pos})", color = Blue, fontSize = 17.sp, fontWeight = FontWeight.SemiBold)
+                    val pos = record.posText
+                    Row(
+                        modifier = Modifier.fillMaxWidth(),
+                        verticalAlignment = Alignment.CenterVertically,
+                        horizontalArrangement = Arrangement.spacedBy(10.dp)
+                    ) {
+                        // Keep the vocabulary headword on one line. The old row let the
+                        // POS label and bookmark squeeze the title into multiple lines.
+                        val titleSize = when {
+                            record.word.length <= 9 -> 34.sp
+                            record.word.length <= 13 -> 30.sp
+                            record.word.length <= 17 -> 26.sp
+                            else -> 22.sp
                         }
-                        Spacer(Modifier.weight(1f))
-                        Surface(onClick = onToggleBookmark, shape = CircleShape, color = Color(0xFF171719), border = androidx.compose.foundation.BorderStroke(1.dp, Color(0xFF303136))) {
-                            Box(Modifier.size(48.dp), contentAlignment = Alignment.Center) { Text(if (isBookmarked) "▮" else "♧", color = Blue, fontSize = 26.sp) }
+                        Text(
+                            text = record.word,
+                            modifier = Modifier.weight(1f),
+                            fontSize = titleSize,
+                            lineHeight = titleSize,
+                            maxLines = 1,
+                            softWrap = false,
+                            overflow = TextOverflow.Clip,
+                            fontWeight = FontWeight.ExtraBold,
+                            color = Color.White
+                        )
+                        Surface(
+                            onClick = onToggleBookmark,
+                            shape = CircleShape,
+                            color = Color(0xFF171719),
+                            border = androidx.compose.foundation.BorderStroke(1.dp, Color(0xFF303136))
+                        ) {
+                            Box(Modifier.size(48.dp), contentAlignment = Alignment.Center) {
+                                Text(if (isBookmarked) "▮" else "♧", color = Blue, fontSize = 26.sp)
+                            }
                         }
+                    }
+                    if (pos.isNotBlank()) {
+                        Spacer(Modifier.height(3.dp))
+                        Text("($pos)", color = Blue, fontSize = 17.sp, fontWeight = FontWeight.SemiBold)
                     }
                     Spacer(Modifier.height(14.dp))
                     Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(12.dp)) {
@@ -605,28 +821,26 @@ private fun WordScreen(
                         }, shape = CircleShape, color = Color(0xFF182431), border = androidx.compose.foundation.BorderStroke(1.dp, Color(0xFF38536A))) {
                             Box(Modifier.size(48.dp), contentAlignment = Alignment.Center) { Text("◖))", color = Blue, fontSize = 17.sp, fontWeight = FontWeight.Bold) }
                         }
-                        val bnPronunciation = record.json.optString("pronunciation_bn", "")
-                        Text(if (bnPronunciation.isNotBlank()) bnPronunciation else record.json.optString("pronunciation", ""), color = Color.White, fontSize = 22.sp, fontWeight = FontWeight.Medium)
+                        Text(record.pronunciationText, color = Color.White, fontSize = 22.sp, fontWeight = FontWeight.Medium)
                     }
                     Spacer(Modifier.height(24.dp))
                     HorizontalDivider(color = Color(0xFF292A2D))
                     Spacer(Modifier.height(22.dp))
                     Text("MEANING:", color = Blue, fontSize = 15.sp, fontWeight = FontWeight.ExtraBold, letterSpacing = .4.sp)
                     Spacer(Modifier.height(7.dp))
-                    Text(record.json.optString("meaning_en", "No English meaning"), color = Color(0xFFE2E3E7), fontSize = 17.sp, lineHeight = 25.sp)
-                    val meanings = record.json.optJSONArray("meaning_bn")
-                    if (meanings != null && meanings.length() > 0) {
+                    Text(record.meaningEnglish, color = Color(0xFFE2E3E7), fontSize = 17.sp, lineHeight = 25.sp)
+                    if (record.meaningsBangla.isNotBlank()) {
                         Spacer(Modifier.height(16.dp))
                         Text("বাংলা অর্থ:", color = Blue, fontSize = 15.sp, fontWeight = FontWeight.ExtraBold)
                         Spacer(Modifier.height(6.dp))
-                        Text((0 until meanings.length()).joinToString("; ") { meanings.optString(it) }, color = Green, fontSize = 19.sp, lineHeight = 28.sp, fontWeight = FontWeight.Medium)
+                        Text(record.meaningsBangla, color = Green, fontSize = 19.sp, lineHeight = 28.sp, fontWeight = FontWeight.Medium)
                     }
                 }
             }
             WordListCard("Synonyms", "synonyms", record.json.optJSONArray("synonyms"), Color(0xFFC084FC), onEdit, onDelete)
             WordListCard("Antonyms", "antonyms", record.json.optJSONArray("antonyms"), Color(0xFFC084FC), onEdit, onDelete)
 
-            val exampleItems = collectUniqueExamples(record.json)
+            val exampleItems = record.examples
             if (exampleItems.isNotEmpty()) {
                 Surface(shape = RoundedCornerShape(28.dp), color = Color(0xFF08090A), border = androidx.compose.foundation.BorderStroke(1.dp, Color(0xFF242528))) {
                     Column(Modifier.fillMaxWidth().padding(horizontal = 20.dp, vertical = 20.dp)) {
